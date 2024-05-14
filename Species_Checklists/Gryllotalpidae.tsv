@@ -1,0 +1,295 @@
+col:ID	col:parentID	col:status	col:rank	col:scientificName	col:authorship
+8NKKZ	8NKGB	accepted	family	Gryllotalpidae	Leach, 1815
+8PSKR	8NKKZ	synonym	family	Gryllotalpida	Leach, 1815
+8PSKJ	8NKKZ	synonym	family	Curtillidae	Kirby, 1906
+8PRYR	8NKKZ	accepted	subfamily	Marchandiinae	Gorochov, 2010
+8NKW6	8NKKZ	accepted	subfamily	Gryllotalpinae	Leach, 1815
+8PSKS	8NKKZ	synonym	family	Gryllotalpides	Leach, 1815
+8PSKT	8NKKZ	synonym	family	Gryllotalpina	Leach, 1815
+8PS2F	8NKKZ	accepted	subfamily	Scapteriscinae	Zeuner, 1939
+8NQ6L	8PRYR	accepted	genus	Cratotetraspinus	Martins-Neto, 1997
+8NMJQ	8PRYR	accepted	genus	Archaeogryllotalpoides	Martins-Neto, 1991
+8NWLZ	8PRYR	accepted	genus	Palaeoscapteriscops	Martins-Neto, 1991
+8NTYS	8PRYR	accepted	genus	Marchandia	Perrichot, Neraudeau, Azar, Menier & Nel, 2002
+8NYDX	8NKW6	accepted	genus	Pterotriamescaptor	Gorochov, 1992
+8PSQ2	8NKW6	synonym	subfamily	Gryllotalpiens	Leach, 1815
+8PT6K	8NKW6	synonym	tribe	Gryllotalpites	Leach, 1815
+8PTMJ	8NKW6	accepted	tribe	Triamescaptorini	Cadena-Castañeda, 2015
+8PT6J	8NKW6	accepted	tribe	Gryllotalpini	Leach, 1815
+8PTBW	8NKW6	accepted	tribe	Neocurtillini	Cadena-Castañeda, 2015
+8PT6H	8NKW6	accepted	tribe	Gryllotalpellini	Cadena-Castañeda, 2015
+8PSNT	8NKW6	synonym	subfamily	Curtillinae	Kirby, 1906
+8PT83	8PS2F	accepted	tribe	Indioscaptorini	Cadena-Castañeda, 2015
+8PTJY	8PS2F	accepted	tribe	Scapteriscini	Zeuner, 1939
+6BCJH	8NQ6L	accepted	species	Cratotetraspinus fossorius	(Martins-Neto, 1995)
+8PRFP	8NQ6L	synonym	genus	Tetraspinus	Martins-Neto, 1995
+G7QB	8NMJQ	accepted	species	Archaeogryllotalpoides ornatus	Martins-Neto, 1991
+4C2VP	8NWLZ	accepted	species	Palaeoscapteriscops cretacea	Martins-Neto, 1991
+8PV8C	8NWLZ	synonym	genus	Palaesoscapteriscops	Martins-Neto, 1991
+3Y2W4	8NTYS	accepted	species	Marchandia magnifica	Perrichot, Neraudeau, Azar, Menier & Nel, 2002
+4Q6T5	8NYDX	accepted	species	Pterotriamescaptor americanus	Gorochov, 2012
+4Q6T7	8NYDX	accepted	species	Pterotriamescaptor tridactylinus	(Secretan, 1975)
+4Q6T6	8NYDX	accepted	species	Pterotriamescaptor primus	(Cockerell, 1921)
+8P2BS	8PTMJ	accepted	genus	Triamescaptor	Tindale, 1928
+8NQ28	8PT6J	accepted	genus	Gryllotalpa	Latreille, 1802
+8NT33	8PTBW	accepted	genus	Neocurtilla	Kirby, 1906
+8NTGG	8PTBW	accepted	genus	Leptocurtilla	Cadena-Castañeda, 2015
+8NS7L	8PT6H	accepted	genus	Gryllotalpella	Rehn, 1917
+8NSWC	8PT83	accepted	genus	Indioscaptor	Nickle, 2003
+8NVWM	8PTJY	accepted	genus	Neoscapteriscus	Cadena-Castañeda, 2015
+8NYWL	8PTJY	accepted	genus	Scapteriscus	Scudder, 1868
+55SDN	6BCJH	synonym	species	Tetraspinus fossorius	Martins-Neto, 1995
+4C2ZK	4C2VP	synonym	species	Palaesoscapteriscops cretacea	Martins-Neto, 1991
+3HGFR	4Q6T7	synonym	species	Gryllotalpa tridactylina	Secretan, 1975
+8PZ8V	4Q6T7	synonym	species	Gryllotalpa tridacylina	
+8PBRD	4Q6T6	synonym	species	Gryllotalpa prima	Cockerell, 1921
+585CK	8P2BS	accepted	species	Triamescaptor aotea	Tindale, 1928
+3HGFY	8NQ28	accepted	species	Gryllotalpa wallace	Tan, 2012
+3HGFS	8NQ28	accepted	species	Gryllotalpa unispina	Saussure, 1874
+8QKLQ	8NQ28	accepted	species	Gryllotalpa punana	Meena & Swaminathan, 2021
+8PBR9	8NQ28	ambiguous synonym	species	Gryllotalpa australis	Otte & Alexander, 1983
+3HGDZ	8NQ28	accepted	species	Gryllotalpa hirsuta	Burmeister, 1838
+3HGDX	8NQ28	accepted	species	Gryllotalpa henana	Cai & Niu, 1998
+C79YP	8NQ28	accepted	species	Gryllotalpa tamessei	Kekeunou & Simeu-Noutchom, 2024
+3HGDR	8NQ28	accepted	species	Gryllotalpa fulvipes	Saussure, 1877
+8PZ8W	8NQ28	accepted	species	Gryllotalpa weisei	Simeu-Noutchom & Kekeunou, 2020
+3HGD4	8NQ28	accepted	species	Gryllotalpa chinensis	Donovan & Westwood, 1838
+6L5NT	8NQ28	accepted	species	Gryllotalpa pluvialis	(Mjöberg, 1913)
+6L5N6	8NQ28	accepted	species	Gryllotalpa madecassa	(Chopard, 1920)
+3HGF8	8NQ28	accepted	species	Gryllotalpa pilosipes	Tindale, 1928
+6L5NZ	8NQ28	accepted	species	Gryllotalpa obscura	Chopard, 1966
+3HGF7	8NQ28	accepted	species	Gryllotalpa permai	Tan & Kamaruddin, 2016
+3HGCR	8NQ28	accepted	species	Gryllotalpa australis	Erichson, 1842
+6L5N5	8NQ28	accepted	species	Gryllotalpa mabiana	Ma, Xu & Takeda, 2008
+3HGDQ	8NQ28	accepted	species	Gryllotalpa fraser	Tan & Kamaruddin, 2013
+3HGFP	8NQ28	accepted	species	Gryllotalpa tali	Broza, Blondheim & Nevo, 1998
+3HGFW	8NQ28	accepted	species	Gryllotalpa vineae	Bennet-Clark, 1970
+3HGDG	8NQ28	accepted	species	Gryllotalpa debilis	Gerstaecker, 1869
+BT2XK	8NQ28	accepted	species	Gryllotalpa africana	Palisot de Beauvois, 1820
+6L5MY	8NQ28	accepted	species	Gryllotalpa cultriger	Uhler, 1864
+3HGDD	8NQ28	accepted	species	Gryllotalpa cossyrensis	Baccetti & Capra, 1978
+6KTMT	8NQ28	accepted	species	Gryllotalpa krishnani	Arun Prasanna, Anbalagan, Pandiarajan, Dinakaran & Krishnan, 2012
+8PBRC	8NQ28	ambiguous synonym	species	Gryllotalpa pilosipes	Otte & Alexander, 1983
+6KTNZ	8NQ28	accepted	species	Gryllotalpa nymphicus	Tan, 2012
+6KTNW	8NQ28	accepted	species	Gryllotalpa minuta	Burmeister, 1838
+6KTMR	8NQ28	accepted	species	Gryllotalpa gracilis	Chopard, 1930
+6KTNX	8NQ28	accepted	species	Gryllotalpa monanka	Otte & Alexander, 1983
+8PP44	8NQ28	synonym	genus	Curtilla	Oken, 1815
+6L5NY	8NQ28	accepted	species	Gryllotalpa nitidula	Serville, 1838
+C79YJ	8NQ28	accepted	species	Gryllotalpa cameroonensis	Simeu-Noutchom & Kekeunou, 2024
+3HGFF	8NQ28	accepted	species	Gryllotalpa robusta	Townsend, 1983
+3HGF9	8NQ28	accepted	species	Gryllotalpa pluridens	Townsend, 1983
+3HGFZ	8NQ28	accepted	species	Gryllotalpa wudangensis	Li, Ma & Xu, 2007
+3HGFN	8NQ28	accepted	species	Gryllotalpa stepposa	Zhantiev, 1991
+3HGD3	8NQ28	accepted	species	Gryllotalpa chiliensis	Saussure, 1861
+3HGD7	8NQ28	accepted	species	Gryllotalpa coarctata	Walker, 1869
+3HGFK	8NQ28	accepted	species	Gryllotalpa septemdecimchromosomica	Ortiz, 1958
+6L5MQ	8NQ28	accepted	species	Gryllotalpa microptera	Chopard, 1939
+8PNBC	8NQ28	synonym	genus	Austrotalpa	Mjöberg, 1913
+3HGFD	8NQ28	accepted	species	Gryllotalpa pygmaea	Ingrisch, 1990
+6KTNV	8NQ28	accepted	species	Gryllotalpa quindecim	Baccetti & Capra, 1978
+3HGDM	8NQ28	accepted	species	Gryllotalpa formosana	Shiraki, 1930
+6KTMQ	8NQ28	accepted	species	Gryllotalpa maroccana	Baccetti, 1987
+6L5N4	8NQ28	accepted	species	Gryllotalpa krimbasi	Baccetti, 1992
+6KTNS	8NQ28	accepted	species	Gryllotalpa octodecim	Baccetti & Capra, 1978
+3HGDJ	8NQ28	accepted	species	Gryllotalpa devia	Saussure, 1877
+3HGDS	8NQ28	accepted	species	Gryllotalpa fusca	Chopard, 1930
+3HGFG	8NQ28	accepted	species	Gryllotalpa rufescens	Chopard, 1948
+6L5NS	8NQ28	accepted	species	Gryllotalpa orientalis	Burmeister, 1838
+3HGCX	8NQ28	accepted	species	Gryllotalpa breviabdominis	Ma & Zhang, 2011
+3HGDF	8NQ28	accepted	species	Gryllotalpa cycloptera	Ma & Zhang, 2011
+3HGD5	8NQ28	accepted	species	Gryllotalpa choui	Ma & Zhang, 2010
+3HGCS	8NQ28	accepted	species	Gryllotalpa aveyronensis	Handschin, 1944
+6L5NW	8NQ28	accepted	species	Gryllotalpa miocaenica	Zeuner, 1931
+3HGF4	8NQ28	accepted	species	Gryllotalpa oya	Tindale, 1928
+8PBRB	8NQ28	ambiguous synonym	species	Gryllotalpa oya	Otte & Alexander, 1983
+6KTNY	8NQ28	accepted	species	Gryllotalpa nitens	Ingrisch, 2006
+3HGCY	8NQ28	accepted	species	Gryllotalpa brevilyra	Townsend, 1983
+6KTNT	8NQ28	accepted	species	Gryllotalpa ornata	Walker, 1869
+6KTN4	8NQ28	accepted	species	Gryllotalpa isfahan	Ingrisch, Nikouei & Hatami, 2006
+6L5MP	8NQ28	accepted	species	Gryllotalpa marismortui	Broza, Blondheim & Nevo, 1998
+3HGDC	8NQ28	accepted	species	Gryllotalpa cophta	(Haan, 1844)
+6KTN3	8NQ28	accepted	species	Gryllotalpa howensis	Tindale, 1928
+3HGCW	8NQ28	accepted	species	Gryllotalpa brachyptera	Tindale, 1928
+3HGFV	8NQ28	accepted	species	Gryllotalpa vigintiunum	Baccetti, 1991
+6L5N9	8NQ28	accepted	species	Gryllotalpa babinda	Otte & Alexander, 1983
+3HGDL	8NQ28	accepted	species	Gryllotalpa elegans	Chopard, 1934
+3HGDW	8NQ28	accepted	species	Gryllotalpa gryllotalpa	(Linnaeus, 1758)
+8QK9T	8NQ28	accepted	species	Gryllotalpa babetensis	Simeu-Noutchom & Kekeunou, 2021
+6L5N3	8NQ28	accepted	species	Gryllotalpa insulana	Chopard, 1954
+8PS9Y	8NQ28	accepted	species	Gryllotalpa stricta	Heer, 1865
+3HGFM	8NQ28	accepted	species	Gryllotalpa spissidens	Townsend, 1983
+6L5MS	8NQ28	accepted	species	Gryllotalpa jinxiuensis	You & Li, 1990
+3HGF5	8NQ28	accepted	species	Gryllotalpa parva	Townsend, 1983
+8QJTV	8NQ28	accepted	species	Gryllotalpa tombelensis	Simeu-Noutchom & Kekeunou, 2021
+3HGD2	8NQ28	accepted	species	Gryllotalpa bulla	Townsend, 1983
+3HGDT	8NQ28	accepted	species	Gryllotalpa gorkhana	Ingrisch, 2006
+6L5MR	8NQ28	accepted	species	Gryllotalpa inermis	Chopard, 1925
+BSLJL	8NQ28	synonym	subgenus	Gryllotalpa (Curtilla)	Oken, 1815
+8P89G	8NQ28	ambiguous synonym	species	Gryllotalpa africana	Townsend, 1983
+6KTMN	8NQ28	accepted	species	Gryllotalpa major	Saussure, 1874
+8P6MY	8NQ28	ambiguous synonym	species	Austrotalpa pluvialis	Otte & Alexander, 1983
+3HGFJ	8NQ28	accepted	species	Gryllotalpa sedecim	Baccetti & Capra, 1978
+6L5NV	8NQ28	accepted	species	Gryllotalpa viginti	Baccetti & Capra, 1978
+3HGDH	8NQ28	accepted	species	Gryllotalpa dentista	Yang, 1995
+73VVS	8NT33	accepted	species	Neocurtilla robusta	Canhedo-Lascombe & Corseuil, 1996
+46FKC	8NT33	accepted	species	Neocurtilla scutata	(Chopard, 1930)
+46FKB	8NT33	accepted	species	Neocurtilla schmidtgeni	Zeuner, 1937
+46FJV	8NT33	accepted	species	Neocurtilla claraziana	(Saussure, 1874)
+46FJZ	8NT33	accepted	species	Neocurtilla hexadactyla	(Perty, 1832)
+73VW4	8NT33	accepted	species	Neocurtilla townsendi	Cadena-Castañeda, 2015
+46FK2	8NT33	accepted	species	Neocurtilla ingrischi	Cadena-Castañeda, 2015
+3TMVD	8NTGG	accepted	species	Leptocurtilla juanmanueli	Cadena-Castañeda, 2015
+6PGMN	8NTGG	accepted	species	Leptocurtilla maranona	(Scudder, 1875)
+3TMVC	8NTGG	accepted	species	Leptocurtilla chopardi	Cadena-Castañeda, 2015
+3HGG4	8NS7L	accepted	species	Gryllotalpella minor	(Bruner, 1916)
+3HGG6	8NS7L	accepted	species	Gryllotalpella tindalei	Cadena-Castañeda, 2015
+3HGG2	8NS7L	accepted	species	Gryllotalpella lawrencei	Cadena-Castañeda, 2015
+3HGG3	8NS7L	accepted	species	Gryllotalpella macilenta	(Saussure, 1874)
+9H22N	8NS7L	accepted	species	Gryllotalpella mendesi	Cadena-Castañeda, 2022
+3HGG5	8NS7L	accepted	species	Gryllotalpella rehni	Cadena-Castañeda, 2015
+3PMVS	8NSWC	accepted	species	Indioscaptor leptodactylus	(Chopard, 1928)
+6MW7W	8NSWC	accepted	species	Indioscaptor siangensis	(Tandon & Shishodia, 1972)
+3PMVR	8NSWC	accepted	species	Indioscaptor indicus	(Bhargava, 1996)
+3PMVT	8NSWC	accepted	species	Indioscaptor nepalicus	(Ingrisch, 2002)
+73VTR	8NVWM	accepted	species	Neoscapteriscus zeuneri	(Rodríguez & Heads, 2012)
+46SCS	8NVWM	accepted	species	Neoscapteriscus ecuadorensis	(Nickle, 2003)
+46SCR	8NVWM	accepted	species	Neoscapteriscus didactylus	(Latreille, 1804)
+46SCV	8NVWM	accepted	species	Neoscapteriscus macrocellus	(Nickle, 2003)
+46SD3	8NVWM	accepted	species	Neoscapteriscus rodriguezi	(Cadena-Castañeda, 2011)
+46SCL	8NVWM	accepted	species	Neoscapteriscus abbreviatus	(Scudder, 1869)
+46SCQ	8NVWM	accepted	species	Neoscapteriscus didactyloides	(Nickle, 2003)
+46SCP	8NVWM	accepted	species	Neoscapteriscus costaricensis	(Nickle, 2003)
+46SCX	8NVWM	accepted	species	Neoscapteriscus parvipennis	(Serville, 1838)
+46SD5	8NVWM	accepted	species	Neoscapteriscus tenuis	(Scudder, 1869)
+46SD2	8NVWM	accepted	species	Neoscapteriscus riograndensis	(Canhedo-Lascombe & Corseuil, 1996)
+46SD9	8NVWM	accepted	species	Neoscapteriscus vicinus	(Scudder, 1869)
+46SCZ	8NVWM	accepted	species	Neoscapteriscus quadripunctatus	(Nickle, 2003)
+46SD6	8NVWM	accepted	species	Neoscapteriscus tetradactylus	(Perty, 1832)
+46SCT	8NVWM	accepted	species	Neoscapteriscus grossi	(Nickle, 2003)
+6S863	8NVWM	accepted	species	Neoscapteriscus imitatus	(Nickle & Castner, 1984)
+46SCN	8NVWM	accepted	species	Neoscapteriscus cerberus	(Rodríguez & Heads, 2012)
+46SD8	8NVWM	accepted	species	Neoscapteriscus variegatus	(Burmeister, 1838)
+46SD7	8NVWM	accepted	species	Neoscapteriscus tibiodentalis	(Nickle, 2003)
+46SCM	8NVWM	accepted	species	Neoscapteriscus borellii	(Giglio-Tos, 1894)
+46SCY	8NVWM	accepted	species	Neoscapteriscus peruvianus	(Nickle, 2003)
+46SD4	8NVWM	accepted	species	Neoscapteriscus saileri	(Nickle, 2003)
+46SCW	8NVWM	accepted	species	Neoscapteriscus mexicanus	(Burmeister, 1838)
+6Y78Q	8NYWL	accepted	species	Scapteriscus oxydactylus	(Perty, 1832)
+6Y6WP	8NYWL	accepted	species	Scapteriscus headsi	Cadena-Castañeda, 2011
+6L5MN	3HGFS	synonym	species	Gryllotalpa manschurei	Shiraki, 1930
+BV6QH	3HGFS	synonym	subspecies	Gryllotalpa gryllotalpa unispina	Saussure, 1874
+6C2VM	3HGFS	synonym	species	Curtilla unispina	(Saussure, 1874)
+32KTZ	3HGDZ	synonym	species	Curtilla hirsuta	(Burmeister, 1838)
+3HGDV	3HGDZ	synonym	species	Gryllotalpa grandis	Walker, 1869
+6BR7M	3HGDZ	synonym	species	Curtilla siamensis	(Giebel, 1870)
+8PBVG	3HGDZ	ambiguous synonym	species	Gryllus longipennis	Haan, 1844
+3HGFL	3HGDZ	synonym	species	Gryllotalpa siamensis	Giebel, 1870
+6L5NX	3HGDR	synonym	species	Gryllotalpa nigripennis	Chopard, 1929
+32KTY	3HGDR	synonym	species	Curtilla fulvipes	(Saussure, 1877)
+JYCN	6L5NT	ambiguous synonym	species	Austrotalpa pluvialis	Mjöberg, 1913
+46FK5	6L5N6	synonym	species	Neocurtilla madecassa	(Chopard, 1920)
+6BQVL	6L5N6	synonym	species	Curtilla madecassa	Chopard, 1920
+32KTQ	3HGCR	synonym	species	Curtilla australis	(Erichson, 1842)
+BV6KK	3HGDG	synonym	variety	Gryllotalpa africana var. debilis	Gerstaecker, 1869
+6L5N2	3HGDG	synonym	species	Gryllotalpa minor	Brunn, 1901
+32KTW	3HGDG	synonym	species	Curtilla debilis	(Gerstaecker, 1869)
+5HK24	BT2XK	accepted	subspecies	Gryllotalpa africana microphtalma	Chopard, 1936
+BTDLP	BT2XK	accepted	subspecies	Gryllotalpa africana africana	Palisot de Beauvois, 1820
+32KTV	6L5MY	synonym	species	Curtilla cultriger	(Uhler, 1864)
+46FJX	6L5MY	synonym	species	Neocurtilla cultriger	(Uhler, 1864)
+6BR7L	6KTNW	synonym	species	Curtilla minuta	(Burmeister, 1838)
+BV6H3	6KTNW	synonym	variety	Gryllotalpa africana var. minuta	Burmeister, 1838
+6C2VL	6L5NY	synonym	species	Curtilla nitidula	(Serville, 1838)
+8PZ8X	3HGFZ	synonym	species	Gryllotalpa wudangshanensis	
+32KTR	3HGD3	synonym	species	Curtilla chiliensis	(Saussure, 1861)
+BZ6KG	3HGD3	synonym	species	Curtilla chilensis	(Saussure, 1861)
+BZGCK	3HGD3	synonym	species	Gryllotalpa chilensis	Saussure, 1861
+8Q2DK	3HGD3	synonym	species	Neocurtilla chiliensis	(Saussure, 1861)
+32KTS	3HGD7	synonym	species	Curtilla coarctata	(Walker, 1869)
+3HGCN	3HGFK	synonym	species	Gryllotalpa 17-chromosomica	Ortiz, 1958
+46FJY	3HGDJ	synonym	species	Neocurtilla devia	(Saussure, 1877)
+3HGCM	3HGDJ	synonym	species	Gryllotalpa (Curtilla) devia	Saussure, 1877
+3HGCQ	3HGDS	ambiguous synonym	species	Gryllotalpa australis	Chopard, 1931
+6BQVM	6L5NS	synonym	species	Curtilla oryctes	(Scudder, 1869)
+3HGF2	6L5NS	synonym	species	Gryllotalpa oryctes	Scudder, 1869
+6C37L	6KTNT	synonym	species	Curtilla ornata	(Walker, 1869)
+BTWGF	3HGDC	synonym	variety	Gryllotalpa vulgaris var. cophta	(Haan, 1844)
+6C37K	3HGDC	synonym	species	Curtilla cophtus	(Haan, 1844)
+9H3KF	3HGDC	synonym	species	Gryllus (Gryllotalpa) cophtus	Haan, 1844
+BTWK5	3HGDC	synonym	variety	Gryllotalpa gryllotalpa var. cophta	(Haan, 1844)
+BW226	3HGCW	synonym	variety	Gryllotalpa australis var. brachyptera	Tindale, 1928
+8PY5H	3HGDW	synonym	species	Curtilla gryllotalpa	(Linnaeus, 1758)
+3HGFX	3HGDW	synonym	species	Gryllotalpa vulgaris	Latreille, 1804
+3HH9T	3HGDW	synonym	species	Gryllus talpa	Olivier, 1791
+8PZC8	3HGDW	synonym	species	Gryllus gryllotalpa	Linnaeus, 1758
+3HGJC	3HGDW	synonym	species	Gryllus (Acheta) gryllotalpa	Linnaeus, 1758
+96YC	3HGDW	synonym	species	Acheta gryllotalpa	(Linnaeus, 1758)
+BTJZH	6L5N3	synonym	subspecies	Gryllotalpa africana insulana	Chopard, 1954
+5HK26	6L5N3	synonym	subspecies	Gryllotalpa fossor insulana	Chopard, 1954
+3HGFB	6KTMN	synonym	species	Gryllotalpa ponderosa	Bruner, 1886
+BT6TT	6KTMN	synonym	species	Neocurtilla ponderosa	
+46FK6	6KTMN	synonym	species	Neocurtilla major	(Saussure, 1874)
+3HGFH	46FKC	synonym	species	Gryllotalpa scutata	Chopard, 1930
+3HGD6	46FJV	synonym	species	Gryllotalpa claraziana	Saussure, 1874
+6KTMS	46FJZ	synonym	species	Gryllotalpa intermedia	Saussure, 1874
+8QKHL	46FJZ	synonym	species	Neocurtilla spinosa	Chopard, 1912
+3HGD9	46FJZ	synonym	species	Gryllotalpa columbia	Scudder, 1869
+BZGBP	46FJZ	synonym	species	Gryllotalpa columbiae	(Scudder, 1869)
+3HGCT	46FJZ	synonym	species	Gryllotalpa azteca	Saussure, 1859
+3HGDY	46FJZ	synonym	species	Gryllotalpa hexadactyla	Perty, 1832
+6KTN5	46FJZ	synonym	species	Gryllotalpa longipennis	Scudder, 1862
+3HGCV	46FJZ	synonym	species	Gryllotalpa borealis	Burmeister, 1838
+BTDVV	46FJZ	synonym	subspecies	Neocurtilla hexadactyla hexadactyla	(Perty, 1832)
+BZGBQ	46FJZ	synonym	species	Gryllotalpa columbiana	(Scudder, 1869)
+3HGCZ	46FJZ	synonym	species	Gryllotalpa brevipennis	Serville, 1838
+46FKD	73VW4	synonym	species	Neocurtilla townsedi	Cadena-Castañeda, 2015
+46FK7	6PGMN	synonym	species	Neocurtilla maranona	(Scudder, 1875)
+6KTMP	6PGMN	synonym	species	Gryllotalpa maranona	Scudder, 1875
+46FK8	3HGG4	synonym	species	Neocurtilla minor	Bruner, 1916
+6KTN6	3HGG3	synonym	species	Gryllotalpa macilenta	Saussure, 1874
+46FK4	3HGG3	synonym	species	Neocurtilla macilenta	(Saussure, 1874)
+6XV8Q	3PMVS	synonym	species	Scapteriscus leptodactylus	Chopard, 1928
+6Y6X7	6MW7W	synonym	species	Scapteriscus siangensis	Tandon & Shishodia, 1972
+79V8P	3PMVR	synonym	species	Scapteriscus indicus	Bhargava, 1996
+6Y6X2	3PMVT	synonym	species	Scapteriscus nepalicus	Ingrisch, 2002
+6XV98	73VTR	synonym	species	Scapteriscus zeuneri	Rodríguez & Heads, 2012
+79V94	46SCS	synonym	species	Scapteriscus ecuadorensis	Nickle, 2003
+3HGDK	46SCR	synonym	species	Gryllotalpa didactyla	Latreille, 1804
+79V8S	46SCR	synonym	species	Scapteriscus didactylus	(Latreille, 1804)
+6XV92	46SCV	synonym	species	Scapteriscus macrocellus	Nickle, 2003
+6XV97	46SD3	synonym	species	Scapteriscus rodriguezi	Cadena-Castañeda, 2011
+79V8R	46SCL	synonym	species	Scapteriscus abbreviatus	Scudder, 1869
+6Y794	46SCQ	synonym	species	Scapteriscus didactyloides	Nickle, 2003
+6Y78S	46SCP	synonym	species	Scapteriscus costaricensis	Nickle, 2003
+6Y792	46SCX	synonym	species	Scapteriscus parvipennis	(Serville, 1838)
+3HGF6	46SCX	synonym	species	Gryllotalpa parvipennis	Serville, 1838
+6Y78V	46SD5	synonym	species	Scapteriscus tenuis	Scudder, 1869
+6XV8V	46SD2	synonym	species	Scapteriscus riograndensis	Canhedo-Lascombe & Corseuil, 1996
+6XV8W	46SD9	synonym	species	Scapteriscus vicinus	Scudder, 1869
+6XV8S	46SD9	synonym	species	Scapteriscus agassizii	Scudder, 1869
+79V92	46SCZ	synonym	species	Scapteriscus quadripunctatus	Nickle, 2003
+6Y6WS	46SD6	synonym	species	Scapteriscus camerani	Giglio-Tos, 1894
+3HGFQ	46SD6	synonym	species	Gryllotalpa tetradactyla	Perty, 1832
+6Y797	46SD6	synonym	species	Scapteriscus tetradactylus	(Perty, 1832)
+6XV8P	46SCT	synonym	species	Scapteriscus grossi	Nickle, 2003
+6Y78P	6S863	synonym	species	Scapteriscus imitatus	Nickle & Castner, 1984
+6Y6X4	46SCN	synonym	species	Scapteriscus cerberus	Rodríguez & Heads, 2012
+79V97	46SD8	synonym	species	Scapteriscus variegatus	(Burmeister, 1838)
+3HGFT	46SD8	synonym	species	Gryllotalpa variegatus	Burmeister, 1838
+79V8V	46SD7	synonym	species	Scapteriscus tibiodentalis	Nickle, 2003
+BZTKY	46SCM	synonym	species	Scapteriscus borelli	(Giglio-Tos, 1894)
+6XV94	46SCM	synonym	species	Scapteriscus borellii	Giglio-Tos, 1894
+79V93	46SCM	synonym	species	Scapteriscus acletus	Rehn & Hebard, 1916
+79V8Q	46SCY	synonym	species	Scapteriscus peruvianus	Nickle, 2003
+6Y6WV	46SD4	synonym	species	Scapteriscus saileri	Nickle, 2003
+6Y6WQ	46SCW	synonym	species	Scapteriscus mexicanus	(Burmeister, 1838)
+6KTN2	46SCW	synonym	species	Gryllotalpa mexicanus	Burmeister, 1838
+3HGF3	6Y78Q	synonym	species	Gryllotalpa oxydactyla	Perty, 1832
+8P8NT	5HK24	synonym	species	Curtilla colini	(Rochebrune, 1884)
+BVWN8	5HK24	synonym	variety	Gryllotalpa africana var. microphtalma	Chopard, 1936
+3HGD8	5HK24	synonym	species	Gryllotalpa colini	Rochebrune, 1884
+32KTX	BTDLP	synonym	species	Curtilla fossor	(Scudder, 1869)
+3HGDB	BTDLP	synonym	species	Gryllotalpa confusa	Chopard, 1939
+BSYZH	BTDLP	synonym	species	Curtilla africana	(Palisot de Beauvois, 1820)
+3HGDP	BTDLP	synonym	species	Gryllotalpa fossor	Scudder, 1869

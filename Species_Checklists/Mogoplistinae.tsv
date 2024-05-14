@@ -1,0 +1,643 @@
+col:ID	col:parentID	col:status	col:rank	col:scientificName	col:authorship
+8NKXY	8NKMW	accepted	subfamily	Mogoplistinae	Costa, 1855
+8PS3D	8NKXY	accepted	tribe	Arachnocephalini	Gorochov, 1984
+8PS4J	8NKXY	accepted	tribe	Mogoplistini	Costa, 1855
+8QJ4W	8PS3D	accepted	subtribe	Bothromogoplistina	Gorochov, 2020
+8NMKV	8PS3D	accepted	genus	Archornebius	Gorochov, 2010
+8NY43	8PS3D	accepted	genus	Pseudarachnocephalus	Gorochov, 2010
+8QHP5	8PS3D	accepted	subtribe	Pseudomogoplistina	Gorochov, 2020
+8QHLD	8PS3D	accepted	subtribe	Arachnocephalina	Gorochov, 1984
+8NVMN	8PS4J	accepted	genus	Musgravia	Otte, 1994
+8NN9P	8PS4J	accepted	genus	Biama	Otte & Alexander, 1983
+8P2H2	8PS4J	accepted	genus	Tubarama	Yamasaki, 1985
+8NRKH	8PS4J	accepted	genus	Eucycloptilum	Chopard, 1935
+8NZYS	8PS4J	accepted	genus	Terraplistes	Ingrisch, 2006
+8NYDF	8PS4J	accepted	genus	Pteromogoplistes	Gorochov, 2012
+8NQ9X	8PS4J	accepted	genus	Hoplosphyrum	Rehn & Hebard, 1912
+8NTZ5	8PS4J	accepted	genus	Marinna	Otte & Alexander, 1983
+8NT42	8PS4J	accepted	genus	Kalyra	Otte & Alexander, 1983
+8NPVJ	8PS4J	accepted	genus	Collendina	Otte & Alexander, 1983
+8NZSZ	8PS4J	accepted	genus	Talia	Otte & Alexander, 1983
+8NXT9	8PS4J	accepted	genus	Pongah	Otte & Alexander, 1983
+8NVDR	8PS4J	accepted	genus	Micrornebius	Chopard, 1969
+8NTRF	8PS4J	accepted	genus	Oligacanthopus	Rehn & Hebard, 1912
+8P2YP	8PS4J	accepted	genus	Yarabina	Otte, 1994
+8NT6D	8PS4J	accepted	genus	Kiah	Otte & Alexander, 1983
+8NQQ9	8PS4J	accepted	genus	Derectaotus	Chopard, 1936
+8NWKB	8PS4J	accepted	genus	Pachyornebius	Chopard, 1969
+8NWWG	8PS4J	accepted	genus	Paramogoplistes	Gorochov, 1984
+8NVJQ	8PS4J	accepted	genus	Mogoplistes	Serville, 1838
+8NRCN	8PS4J	accepted	genus	Eomogoplistes	Gorochov, 2012
+8NVCR	8PS4J	accepted	genus	Microgryllus	Philippi, 1863
+8NS57	8PS4J	accepted	genus	Gotvendia	Bolívar, 1927
+8QKPT	8QJ4W	accepted	genus	Bothromogoplistes	Gorochov, 2020
+8NNLM	8QJ4W	accepted	genus	Cycloptiloides	Sjöstedt, 1910
+5VQ8B	8NMKV	accepted	species	Archornebius balticus	Gorochov, 2010
+4NL9M	8NY43	accepted	species	Pseudarachnocephalus dominicanus	Gorochov, 2010
+4NL9N	8NY43	accepted	species	Pseudarachnocephalus latiusuculus	Gorochov, 2010
+8NY7J	8QHP5	accepted	genus	Pseudomogoplistes	Gorochov, 1984
+8NNLN	8QHLD	accepted	genus	Cycloptilum	Scudder, 1869
+8NMHL	8QHLD	accepted	genus	Arachnocephalus	Costa, 1855
+8NWDM	8QHLD	accepted	genus	Ornebius	Guérin-Méneville, 1844
+8NPDP	8QHLD	accepted	genus	Ectatoderus	Guérin-Méneville, 1847
+8NQZ7	8QHLD	accepted	genus	Discophallus	Gorochov, 2009
+8NMH3	8QHLD	accepted	genus	Apterornebius	Ingrisch, 2006
+6RR38	8NVMN	accepted	species	Musgravia munbilla	(Otte & Alexander, 1983)
+6S32W	8NVMN	accepted	species	Musgravia nimmitabel	(Otte & Alexander, 1983)
+6S2QW	8NVMN	accepted	species	Musgravia natarina	(Otte & Alexander, 1983)
+44QDY	8NVMN	accepted	species	Musgravia cowandilla	(Otte & Alexander, 1983)
+8NQPN	8NVMN	synonym	genus	Lara	Otte & Alexander, 1983
+6RR2W	8NVMN	accepted	species	Musgravia kalimna	(Otte & Alexander, 1983)
+44QDZ	8NVMN	accepted	species	Musgravia hackeri	(Chopard, 1951)
+LQ8Z	8NN9P	accepted	species	Biama allumba	Otte & Alexander, 1983
+LQ97	8NN9P	accepted	species	Biama iloura	Otte & Alexander, 1983
+LQ92	8NN9P	accepted	species	Biama arila	Otte & Alexander, 1983
+LQ94	8NN9P	accepted	species	Biama atalumba	Otte & Alexander, 1983
+LQ98	8NN9P	accepted	species	Biama joonaloona	Otte & Alexander, 1983
+LQ9B	8NN9P	accepted	species	Biama noccundra	Otte & Alexander, 1983
+LQ95	8NN9P	accepted	species	Biama camira	Otte & Alexander, 1983
+LQ93	8NN9P	accepted	species	Biama arupingi	Otte & Alexander, 1983
+LQ99	8NN9P	accepted	species	Biama kantalpa	Otte & Alexander, 1983
+LQ96	8NN9P	accepted	species	Biama coorari	Otte & Alexander, 1983
+5WJL8	8NN9P	accepted	species	Biama larnoo	Otte & Alexander, 1983
+7CXY2	8P2H2	accepted	species	Tubarama iriomotejimana	Yamasaki, 1985
+6H6M2	8NRKH	accepted	species	Eucycloptilum parvum	Chopard, 1962
+6H6LV	8NRKH	accepted	species	Eucycloptilum veali	Chopard, 1935
+6H6LQ	8NRKH	accepted	species	Eucycloptilum longipes	Chopard, 1935
+55HX4	8NZYS	accepted	species	Terraplistes excisa	Ingrisch, 2006
+55HWZ	8NZYS	accepted	species	Terraplistes brevicauda	Ingrisch, 2006
+55HX5	8NZYS	accepted	species	Terraplistes ingrischi	Tan, Dawwrueng & Artchawakom, 2015
+55HX2	8NZYS	accepted	species	Terraplistes chantri	Ingrisch, 2006
+55HX7	8NZYS	accepted	species	Terraplistes niger	(Ingrisch, 1987)
+55HX6	8NZYS	accepted	species	Terraplistes kradung	Ingrisch, 2006
+55HX3	8NZYS	accepted	species	Terraplistes erawan	Ingrisch, 2006
+4PZJ6	8NYDF	accepted	species	Pteromogoplistes grandis	Gorochov, 2012
+4PZJ7	8NYDF	accepted	species	Pteromogoplistes smithii	(Scudder, 1890)
+8QKKD	8NQ9X	synonym	genus	Haplosphyrum	Rehn & Hebard, 1912
+3MN5F	8NQ9X	accepted	species	Hoplosphyrum rufum	(Chopard, 1932)
+6MDRT	8NQ9X	accepted	species	Hoplosphyrum aztecum	(Saussure, 1897)
+6MDS5	8NQ9X	accepted	species	Hoplosphyrum occidentale	(Scudder, 1869)
+3MN5B	8NQ9X	accepted	species	Hoplosphyrum boreale	(Scudder, 1902)
+3MN5C	8NQ9X	accepted	species	Hoplosphyrum griseum	(Philippi, 1863)
+3MN5G	8NQ9X	accepted	species	Hoplosphyrum skottsbergi	Chopard, 1923
+3Y6NZ	8NTZ5	accepted	species	Marinna mira	Otte & Alexander, 1983
+3Y6NV	8NTZ5	accepted	species	Marinna bumboa	Otte & Alexander, 1983
+3Y6P3	8NTZ5	accepted	species	Marinna pangarinda	Otte & Alexander, 1983
+3Y6P2	8NTZ5	accepted	species	Marinna pallida	(Chopard, 1925)
+3Y6P4	8NTZ5	accepted	species	Marinna ulandi	Otte & Alexander, 1983
+3Y6NY	8NTZ5	accepted	species	Marinna jerrima	Otte & Alexander, 1983
+735MW	8NTZ5	accepted	species	Marinna barinya	Otte & Alexander, 1983
+3Y6NT	8NTZ5	accepted	species	Marinna arapala	Otte & Alexander, 1983
+3Y6NW	8NTZ5	accepted	species	Marinna ingoorala	Otte & Alexander, 1983
+3Y6NX	8NTZ5	accepted	species	Marinna iranda	Otte & Alexander, 1983
+3QZPC	8NT42	accepted	species	Kalyra gililpi	Otte & Alexander, 1983
+3QZPF	8NT42	accepted	species	Kalyra mjobergi	(Chopard, 1925)
+6NJSK	8NT42	accepted	species	Kalyra karka	Otte & Alexander, 1983
+3QZPD	8NT42	accepted	species	Kalyra goparinga	Otte & Alexander, 1983
+3QZPG	8NT42	accepted	species	Kalyra pillinda	Otte & Alexander, 1983
+X36S	8NPVJ	accepted	species	Collendina fascipes	(Chopard, 1951)
+5ZM49	8NPVJ	accepted	species	Collendina kira	Otte & Alexander, 1983
+X36W	8NPVJ	accepted	species	Collendina ora	Otte & Alexander, 1983
+X36V	8NPVJ	accepted	species	Collendina mamoura	Otte & Alexander, 1983
+X36R	8NPVJ	accepted	species	Collendina elanora	Otte & Alexander, 1983
+X36T	8NPVJ	accepted	species	Collendina iterala	Otte & Alexander, 1983
+54LGD	8NZSZ	accepted	species	Talia pitonga	Otte & Alexander, 1983
+54LGC	8NZSZ	accepted	species	Talia brevithorax	(Chopard, 1951)
+54LGB	8NZSZ	accepted	species	Talia bandumu	Otte & Alexander, 1983
+4LTRH	8NXT9	accepted	species	Pongah wanboo	Otte & Alexander, 1983
+4LTRF	8NXT9	accepted	species	Pongah ilara	Otte & Alexander, 1983
+4LTRG	8NXT9	accepted	species	Pongah indooroopilly	Otte & Alexander, 1983
+8NVDS	8NVDR	synonym	genus	Micrornebius	Chopard, 1968
+73HXH	8NVDR	accepted	species	Micrornebius maninjau	Ingrisch, 2006
+435JD	8NVDR	accepted	species	Micrornebius mandai	Tan, 2014
+435JF	8NVDR	accepted	species	Micrornebius perrarus	Yang & Yen, 2001
+435J8	8NVDR	accepted	species	Micrornebius kopisua	Tan & Ingrisch, 2013
+435HY	8NVDR	accepted	species	Micrornebius cylindricus	Ingrisch, 2006
+435J4	8NVDR	accepted	species	Micrornebius hainanensis	Yin, 1998
+435HZ	8NVDR	accepted	species	Micrornebius distinctus	Tan, 2014
+435JB	8NVDR	accepted	species	Micrornebius lineatus	Ingrisch, 2006
+435J5	8NVDR	accepted	species	Micrornebius incertus	(Ingrisch, 1998)
+435J3	8NVDR	accepted	species	Micrornebius gracilicornis	Chopard, 1969
+435JG	8NVDR	accepted	species	Micrornebius spadiceus	Gorochov, 1994
+6RHXH	8NVDR	accepted	species	Micrornebius lesnei	(Chopard, 1935)
+435HX	8NVDR	accepted	species	Micrornebius aquilus	Gorochov, 1992
+435J9	8NVDR	accepted	species	Micrornebius laem	Ingrisch, 2006
+435JC	8NVDR	accepted	species	Micrornebius malaya	Tan & Kamaruddin, 2013
+435HW	8NVDR	accepted	species	Micrornebius annandalei	(Chopard, 1924)
+435J6	8NVDR	accepted	species	Micrornebius inopinatus	Ingrisch, 2006
+435J2	8NVDR	accepted	species	Micrornebius eclipsus	Tan, 2014
+435J7	8NVDR	accepted	species	Micrornebius insularis	Ingrisch, 2006
+8PQF8	8NTRF	synonym	genus	Oligocanthopus	Rehn & Hebard, 1912
+495G6	8NTRF	accepted	species	Oligacanthopus prograptus	Rehn & Hebard, 1912
+5CR7F	8P2YP	accepted	species	Yarabina alawara	(Otte & Alexander, 1983)
+8PPNK	8P2YP	synonym	genus	Maroa	Otte & Alexander, 1983
+5CR7J	8P2YP	accepted	species	Yarabina indiwara	(Otte & Alexander, 1983)
+5CR7H	8P2YP	accepted	species	Yarabina dardoana	(Otte & Alexander, 1983)
+5CR7G	8P2YP	accepted	species	Yarabina australicus	(Chopard, 1925)
+3R73T	8NT6D	accepted	species	Kiah palanu	Otte & Alexander, 1983
+3R73S	8NT6D	accepted	species	Kiah karrawilya	Otte & Alexander, 1983
+6CNCQ	8NQQ9	accepted	species	Derectaotus indicus	(Chopard, 1928)
+34W68	8NQQ9	accepted	species	Derectaotus alboniger	Bey-Bienko, 1967
+34W69	8NQQ9	accepted	species	Derectaotus annulicercis	Chopard, 1962
+6CNCP	8NQQ9	accepted	species	Derectaotus ceylonicus	(Chopard, 1928)
+34W6K	8NQQ9	accepted	species	Derectaotus mjobergi	(Chopard, 1932)
+34W6M	8NQQ9	accepted	species	Derectaotus palpatus	Chopard, 1936
+34W6G	8NQQ9	accepted	species	Derectaotus leucopygus	(Chopard, 1924)
+34W6H	8NQQ9	accepted	species	Derectaotus longipalpis	Chopard, 1960
+34W6J	8NQQ9	accepted	species	Derectaotus maindroni	(Chopard, 1928)
+34W6B	8NQQ9	accepted	species	Derectaotus daedalus	Fernando, 1958
+34W6F	8NQQ9	accepted	species	Derectaotus latifrons	Chopard, 1962
+34W6L	8NQQ9	accepted	species	Derectaotus nigrovittatus	Chopard, 1961
+34W6N	8NQQ9	accepted	species	Derectaotus prometheus	Fernando, 1957
+34W6C	8NQQ9	accepted	species	Derectaotus henryi	(Chopard, 1928)
+6THZJ	8NWKB	accepted	species	Pachyornebius crassus	Chopard, 1969
+4D3NP	8NWWG	accepted	species	Paramogoplistes novaki	(Krauss, 1888)
+4D3NN	8NWWG	accepted	species	Paramogoplistes dentatus	Gorochov & Llorente del Moral, 2001
+4D3NQ	8NWWG	accepted	species	Paramogoplistes ortini	Llucià Pomares, 2015
+6RN36	8NVJQ	accepted	species	Mogoplistes tridentatus	Saussure, 1877
+73N2W	8NVJQ	accepted	species	Mogoplistes kinzelbachi	Harz, 1976
+73MQW	8NVJQ	accepted	species	Mogoplistes brunneus	Serville, 1838
+8PV6N	8NVJQ	synonym	genus	Mogisoplistes	Saussure, 1877
+6RN38	8NVJQ	accepted	species	Mogoplistes argentatus	Bolívar, 1881
+8PQ75	8NVJQ	synonym	genus	Mogisoplistus	Saussure, 1877
+8PV6Q	8NVJQ	synonym	genus	Mogoplistus	Serville, 1838
+8PV6P	8NVJQ	synonym	genus	Mogistoplistus	Serville, 1838
+6FJFR	8NRCN	accepted	species	Eomogoplistes longipennis	Gorochov, 2012
+42X7K	8NVCR	accepted	species	Microgryllus pallipes	(Philippi, 1863)
+3H4M6	8NS57	accepted	species	Gotvendia albipennis	Chopard, 1969
+3H4M8	8NS57	accepted	species	Gotvendia erawan	Ingrisch, 2006
+BV6LL	8NS57	synonym	genus	Gotwendia	Bolívar, 1927
+3H4M7	8NS57	accepted	species	Gotvendia dispar	Bolívar, 1927
+8QKC8	8QKPT	accepted	species	Bothromogoplistes paraproctalis	Gorochov, 2020
+9GZR7	8NNLM	accepted	species	Cycloptiloides bimaculatus	Tan, Japir & Chung, 2021
+6BTWF	8NNLM	accepted	species	Cycloptiloides lobicauda	Ingrisch, 2006
+32WGN	8NNLM	accepted	species	Cycloptiloides timah	Ingrisch, 2006
+32WG8	8NNLM	accepted	species	Cycloptiloides americanus	(Saussure, 1874)
+32WGD	8NNLM	accepted	species	Cycloptiloides lamottei	Chopard, 1954
+32WGF	8NNLM	accepted	species	Cycloptiloides longipes	Ueshima & Sugimoto, 2001
+32WG9	8NNLM	accepted	species	Cycloptiloides australis	Chopard, 1962
+8PPMF	8NNLM	synonym	genus	Glaphyropus	Rehn & Hebard, 1912
+32WGG	8NNLM	accepted	species	Cycloptiloides meruensis	Sjöstedt, 1910
+32WGM	8NNLM	accepted	species	Cycloptiloides riveti	(Chopard, 1913)
+32WGC	8NNLM	accepted	species	Cycloptiloides chatanayi	Chopard, 1917
+8PTYY	8NNLM	synonym	genus	Cicloptyloides	Sjöstedt, 1910
+32WGL	8NNLM	accepted	species	Cycloptiloides pui	Ingrisch, 2006
+32WGK	8NNLM	accepted	species	Cycloptiloides pakchong	Ingrisch, 2006
+6C68D	8NNLM	accepted	species	Cycloptiloides canariensis	(Bolívar, 1914)
+32WGJ	8NNLM	accepted	species	Cycloptiloides orientalis	Chopard, 1925
+6WFH2	8NY7J	accepted	species	Pseudomogoplistes byzantius	Gorochov, 1995
+4P3JV	8NY7J	accepted	species	Pseudomogoplistes madeirae	Gorochov & Marshall, 2001
+4P3JY	8NY7J	accepted	species	Pseudomogoplistes vicentae	Gorochov, 1996
+4P3JW	8NY7J	accepted	species	Pseudomogoplistes squamiger	(Fischer, 1853)
+4P3JX	8NY7J	accepted	species	Pseudomogoplistes turcicus	Gorochov, 1995
+32WGP	8NNLN	accepted	species	Cycloptilum absconditum	Otte & Perez-Gelabert, 2009
+8PF9Y	8NNLN	ambiguous synonym	species	Mogisoplistus slossoni	Love & Walker, 1979
+6BTVV	8NNLN	accepted	species	Cycloptilum crypton	Otte & Perez-Gelabert, 2009
+32WHC	8NNLN	accepted	species	Cycloptilum comptus	Otte & Perez-Gelabert, 2009
+32WHL	8NNLN	accepted	species	Cycloptilum eumorphos	Otte & Perez-Gelabert, 2009
+6C5VV	8NNLN	accepted	species	Cycloptilum oriplanes	Otte & Perez-Gelabert, 2009
+32WHS	8NNLN	accepted	species	Cycloptilum inops	Otte & Perez-Gelabert, 2009
+8PP4D	8NNLN	synonym	genus	Cycloptilus	Scudder, 1869
+32WH4	8NNLN	accepted	species	Cycloptilum bidens	Hebard, 1931
+32WHR	8NNLN	accepted	species	Cycloptilum hypoclopon	Otte & Perez-Gelabert, 2009
+32WJQ	8NNLN	accepted	species	Cycloptilum thoracicum	Hebard, 1928
+32WGY	8NNLN	accepted	species	Cycloptilum antillarum	(Redtenbacher, 1892)
+32WGR	8NNLN	accepted	species	Cycloptilum adecton	Otte & Perez-Gelabert, 2009
+32WJR	8NNLN	accepted	species	Cycloptilum thymicon	Otte & Perez-Gelabert, 2009
+32WH9	8NNLN	accepted	species	Cycloptilum cineticon	Otte & Perez-Gelabert, 2009
+32WHK	8NNLN	accepted	species	Cycloptilum eucharistos	Otte & Perez-Gelabert, 2009
+32WJJ	8NNLN	accepted	species	Cycloptilum sanum	Otte & Perez-Gelabert, 2009
+32WHF	8NNLN	accepted	species	Cycloptilum distinctum	Hebard, 1931
+32WHD	8NNLN	accepted	species	Cycloptilum contectum	(Rehn & Hebard, 1912)
+6C5W7	8NNLN	accepted	species	Cycloptilum pusillulum	Otte & Perez-Gelabert, 2009
+32WHH	8NNLN	accepted	species	Cycloptilum epimonon	Otte & Perez-Gelabert, 2009
+32WHP	8NNLN	accepted	species	Cycloptilum halticon	Otte & Perez-Gelabert, 2009
+32WJ9	8NNLN	accepted	species	Cycloptilum opertanium	Otte & Perez-Gelabert, 2009
+32WGT	8NNLN	accepted	species	Cycloptilum albocircum	Love & Walker, 1979
+32WJS	8NNLN	accepted	species	Cycloptilum tornatilis	Otte & Perez-Gelabert, 2009
+32WHY	8NNLN	accepted	species	Cycloptilum liberum	Otte & Perez-Gelabert, 2009
+32WJP	8NNLN	accepted	species	Cycloptilum tardum	Love & Walker, 1979
+32WHN	8NNLN	accepted	species	Cycloptilum exsanguis	Love & Walker, 1979
+6BTW7	8NNLN	accepted	species	Cycloptilum kelainopum	Love & Walker, 1979
+32WHB	8NNLN	accepted	species	Cycloptilum comprehendens	Hebard, 1929
+32WJ3	8NNLN	accepted	species	Cycloptilum minimum	Caudell, 1922
+32WJT	8NNLN	accepted	species	Cycloptilum trigonipalpum	(Rehn & Hebard, 1912)
+32WGZ	8NNLN	accepted	species	Cycloptilum antimimon	Otte & Perez-Gelabert, 2009
+32WHM	8NNLN	accepted	species	Cycloptilum eustatiensis	Bland & Desutter-Grandcolas, 2003
+32WJV	8NNLN	accepted	species	Cycloptilum zebra	(Rehn & Hebard, 1905)
+32WJ7	8NNLN	accepted	species	Cycloptilum occultum	Otte & Perez-Gelabert, 2009
+32WJC	8NNLN	accepted	species	Cycloptilum pigrum	Love & Walker, 1979
+32WGS	8NNLN	accepted	species	Cycloptilum ainiktos	Love & Walker, 1979
+32WJN	8NNLN	accepted	species	Cycloptilum squamosum	Scudder, 1869
+8P8LZ	8NNLN	ambiguous synonym	species	Cryptoptilum trigonipalpum	Love & Walker, 1979
+32WHG	8NNLN	accepted	species	Cycloptilum eidalimos	Otte & Perez-Gelabert, 2009
+6C67V	8NNLN	accepted	species	Cycloptilum velox	Love & Walker, 1979
+32WGQ	8NNLN	accepted	species	Cycloptilum abstrusum	Otte & Perez-Gelabert, 2009
+32WJM	8NNLN	accepted	species	Cycloptilum spectabile	Strohecker, 1939
+32WJB	8NNLN	accepted	species	Cycloptilum panurgon	Otte & Perez-Gelabert, 2009
+6C68F	8NNLN	accepted	species	Cycloptilum clandestinum	Otte & Perez-Gelabert, 2009
+32WJF	8NNLN	accepted	species	Cycloptilum quatrainum	Love & Walker, 1979
+32WH2	8NNLN	accepted	species	Cycloptilum aphanton	Otte & Perez-Gelabert, 2009
+32WGW	8NNLN	accepted	species	Cycloptilum animosum	Otte & Perez-Gelabert, 2009
+32WJ5	8NNLN	accepted	species	Cycloptilum nesydrion	Otte & Perez-Gelabert, 2009
+32WHJ	8NNLN	accepted	species	Cycloptilum erraticum	Scudder, 1893
+32WH8	8NNLN	accepted	species	Cycloptilum celatum	Otte & Perez-Gelabert, 2009
+6C5WF	8NNLN	accepted	species	Cycloptilum ambrosion	Otte & Perez-Gelabert, 2009
+32WJL	8NNLN	accepted	species	Cycloptilum slossoni	(Scudder, 1897)
+32WHT	8NNLN	accepted	species	Cycloptilum irregularis	Love & Walker, 1979
+8P75B	8NNLN	ambiguous synonym	species	Cycloptilum squamosum	Love & Walker, 1979
+G3BD	8NMHL	accepted	species	Arachnocephalus vestitus	Costa, 1855
+G3BC	8NMHL	accepted	species	Arachnocephalus subsulcatus	Saussure, 1899
+G3B4	8NMHL	accepted	species	Arachnocephalus medvedevi	Gorochov, 1994
+67QGX	8NMHL	accepted	species	Arachnocephalus brincki	Chopard, 1955
+BV64Y	8NMHL	accepted	species	Arachnocephalus shackletoni	Chopard, 1925
+G3B2	8NMHL	accepted	species	Arachnocephalus maritimus	Saussure, 1877
+8PQYT	8NMHL	synonym	genus	Pseudometrypa	Karsch, 1896
+8PQS7	8NMHL	synonym	genus	Physoblemma	Brunner von Wattenwyl, 1873
+G3BB	8NMHL	accepted	species	Arachnocephalus steini	Saussure, 1877
+67QGY	8NMHL	accepted	species	Arachnocephalus angustifrons	Chopard, 1955
+G3B5	8NMHL	accepted	species	Arachnocephalus meruensis	Sjöstedt, 1910
+5VQGW	8NMHL	accepted	species	Arachnocephalus dewitzi	Saussure, 1877
+5W2H9	8NMHL	accepted	species	Arachnocephalus brevissimus	Shiraki, 1911
+5W2GW	8NMHL	accepted	species	Arachnocephalus kevani	Chopard, 1954
+G3B8	8NMHL	accepted	species	Arachnocephalus putridus	(Karsch, 1896)
+682GX	8NMHL	accepted	species	Arachnocephalus bugnioni	Chopard, 1969
+5W2GX	8NMHL	accepted	species	Arachnocephalus brevis	Gorochov, 2017
+BSVXT	8NMHL	accepted	species	Arachnocephalus longicercis	Chopard, 1925
+G3B3	8NMHL	accepted	species	Arachnocephalus mediocris	Chopard, 1955
+G3B9	8NMHL	accepted	species	Arachnocephalus rufoniger	(Sjöstedt, 1910)
+G3B6	8NMHL	accepted	species	Arachnocephalus minutus	Chopard, 1955
+5VQH9	8NMHL	accepted	species	Arachnocephalus breviceps	Chopard, 1929
+5VQGX	8NMHL	accepted	species	Arachnocephalus bidentatus	Chopard, 1951
+682GY	8NMHL	accepted	species	Arachnocephalus australicus	Chopard, 1925
+67QGW	8NMHL	accepted	species	Arachnocephalus maculifrons	Roy, 1969
+67QH9	8NMHL	accepted	species	Arachnocephalus brunnerianus	Saussure, 1877
+5VQH8	8NMHL	accepted	species	Arachnocephalus gracilis	Chopard, 1929
+G3B7	8NMHL	accepted	species	Arachnocephalus nigrifrons	Chopard, 1917
+8Q2MX	8NWDM	accepted	species	Ornebius parvus	Chopard, 1951
+7577N	8NWDM	accepted	species	Ornebius fastus	Yang & Yen, 2001
+6T784	8NWDM	accepted	species	Ornebius annulatus	(Hebard, 1928)
+6T78Z	8NWDM	accepted	species	Ornebius samudra	Ingrisch, 2006
+7577Q	8NWDM	accepted	species	Ornebius curtipalpis	Chopard, 1951
+BT5VD	8NWDM	accepted	species	Ornebius lupus	Tan, 2022
+756VR	8NWDM	accepted	species	Ornebius brevipalpis	Chopard, 1930
+8PRJ7	8NWDM	accepted	species	Ornebius fuscicerci	(Shiraki, 1930)
+6T77J	8NWDM	accepted	species	Ornebius kanetataki	(Matsumura, 1904)
+6SV83	8NWDM	accepted	species	Ornebius bambara	Otte & Alexander, 1983
+756WZ	8NWDM	accepted	species	Ornebius serratus	Ingrisch, 2006
+6T6VL	8NWDM	accepted	species	Ornebius guerinianus	(Saussure, 1877)
+756VQ	8NWDM	accepted	species	Ornebius coorumbena	Otte & Alexander, 1983
+6T6VM	8NWDM	accepted	species	Ornebius flori	Ingrisch, 1998
+6SV7M	8NWDM	accepted	species	Ornebius flavipalpis	(Kirby, 1900)
+8QJBN	8NWDM	accepted	species	Ornebius aurumalas	He, Zhang & Ma, 2021
+6T6W3	8NWDM	accepted	species	Ornebius baloois	Otte & Alexander, 1983
+7577B	8NWDM	accepted	species	Ornebius rufonigrus	Ingrisch, 1987
+6T77K	8NWDM	accepted	species	Ornebius infuscatus	(Shiraki, 1930)
+7577D	8NWDM	accepted	species	Ornebius obscuripennis	(Chopard, 1930)
+6SV7F	8NWDM	accepted	species	Ornebius mexicanus	(Saussure, 1897)
+6T77F	8NWDM	accepted	species	Ornebius nigrifrons	Chopard, 1969
+756WY	8NWDM	accepted	species	Ornebius tampines	Tan & Robillard, 2012
+8Q2MQ	8NWDM	accepted	species	Ornebius laevicauda	Chopard, 1951
+6T6VD	8NWDM	accepted	species	Ornebius nigromaculatus	(Chopard, 1925)
+6SV7S	8NWDM	accepted	species	Ornebius ambericus	Vickery & Poinar, 1994
+74V83	8NWDM	accepted	species	Ornebius brasilianus	(Saussure, 1877)
+6T6WY	8NWDM	accepted	species	Ornebius stenus	Gorochov, 1994
+6T783	8NWDM	accepted	species	Ornebius bimaculatus	(Shiraki, 1930)
+6SV7D	8NWDM	accepted	species	Ornebius nigrirostris	Chopard, 1969
+74V7P	8NWDM	accepted	species	Ornebius dowwiangkanae	Tan, Dawwrueng & Artchawakom, 2015
+8Q2MK	8NWDM	accepted	species	Ornebius consternus	Ingrisch, 2006
+75785	8NWDM	accepted	species	Ornebius alii	Bhowmik, 1970
+756VS	8NWDM	accepted	species	Ornebius apterus	He, 2018
+6SV99	8NWDM	accepted	species	Ornebius vadus	Ingrisch, 1998
+7577S	8NWDM	accepted	species	Ornebius aureus	Ingrisch, 2006
+756W4	8NWDM	accepted	species	Ornebius attunga	Otte & Alexander, 1983
+756VC	8NWDM	accepted	species	Ornebius peniculatus	Ingrisch, 2006
+6T78X	8NWDM	accepted	species	Ornebius varipennis	Chopard, 1936
+8Q2MW	8NWDM	accepted	species	Ornebius parvithorax	(Chopard, 1925)
+6SV7H	8NWDM	accepted	species	Ornebius karnyi	Chopard, 1929
+6T6VF	8NWDM	accepted	species	Ornebius minusculus	(Chopard, 1929)
+756VJ	8NWDM	accepted	species	Ornebius kapunda	Otte & Alexander, 1983
+74V7G	8NWDM	accepted	species	Ornebius marginatus	Ingrisch, 1998
+756VG	8NWDM	accepted	species	Ornebius medius	(Hebard, 1928)
+6T6WX	8NWDM	accepted	species	Ornebius validus	(Bolívar, 1895)
+6T77P	8NWDM	accepted	species	Ornebius dirkanala	Otte & Alexander, 1983
+8QHJW	8NWDM	accepted	species	Ornebius carnificare	He, Zhang & Ma, 2021
+756VF	8NWDM	accepted	species	Ornebius nigripennis	(Chopard, 1929)
+6T6VP	8NWDM	accepted	species	Ornebius dilatatus	(Brancsik, 1901)
+6T77H	8NWDM	accepted	species	Ornebius leai	Chopard, 1951
+74V7B	8NWDM	accepted	species	Ornebius rotundatus	Chopard, 1931
+756VL	8NWDM	accepted	species	Ornebius howensis	Chopard, 1951
+6SV7C	8NWDM	accepted	species	Ornebius occultus	(Saussure, 1877)
+756VM	8NWDM	accepted	species	Ornebius fuscipennis	(Chopard, 1929)
+6T6VQ	8NWDM	accepted	species	Ornebius cibodas	Ingrisch, 2006
+6T77M	8NWDM	accepted	species	Ornebius formosanus	(Shiraki, 1911)
+756W3	8NWDM	accepted	species	Ornebius brevipalpus	Ingrisch, 2006
+8Q2ML	8NWDM	accepted	species	Ornebius denticauda	Chopard, 1951
+7578Y	8NWDM	accepted	species	Ornebius testaceus	Chopard, 1913
+74V7S	8NWDM	accepted	species	Ornebius antakira	Otte & Alexander, 1983
+8PG6D	8NWDM	accepted	species	Ornebius succineus	Bolívar, 1912
+756VD	8NWDM	accepted	species	Ornebius novarae	(Saussure, 1877)
+6T77B	8NWDM	accepted	species	Ornebius robustus	(Hebard, 1925)
+8QKRS	8NWDM	accepted	species	Ornebius lunam	He, Zhang & Ma, 2021
+756VP	8NWDM	accepted	species	Ornebius dumoga	Ingrisch, 2006
+74V7D	8NWDM	accepted	species	Ornebius noumeensis	(Bolívar, 1882)
+74V99	8NWDM	accepted	species	Ornebius xanthopterus	Guérin-Méneville, 1844
+7577T	8NWDM	accepted	species	Ornebius albipalpus	Ingrisch, 2006
+6SV7R	8NWDM	accepted	species	Ornebius balumba	Otte & Alexander, 1983
+8Q2MY	8NWDM	accepted	species	Ornebius yunnanensis	Wang, Zhang & Liu, 2020
+8PPXF	8NWDM	synonym	genus	Liphoplus	Saussure, 1877
+74V84	8NWDM	accepted	species	Ornebius aperta	Otte & Alexander, 1983
+74V8Y	8NWDM	accepted	species	Ornebius syrticus	Bolívar, 1912
+7577L	8NWDM	accepted	species	Ornebius illaroo	Otte & Alexander, 1983
+7577K	8NWDM	accepted	species	Ornebius jatalinga	Otte & Alexander, 1983
+7577R	8NWDM	accepted	species	Ornebius brevipennis	Chopard, 1931
+6T6VB	8NWDM	accepted	species	Ornebius pullus	Ingrisch, 2006
+6SV7K	8NWDM	accepted	species	Ornebius imitatus	Ingrisch, 2006
+7577J	8NWDM	accepted	species	Ornebius karkalo	Otte & Alexander, 1983
+74V82	8NWDM	accepted	species	Ornebius coomialla	Otte & Alexander, 1983
+74V8Z	8NWDM	accepted	species	Ornebius scotops	(Hebard, 1928)
+8Q2MH	8NWDM	accepted	species	Ornebius alvarezi	Tan, Ingrisch, Baroga-Barbecho & Yap, 2019
+7577C	8NWDM	accepted	species	Ornebius peruviensis	Chopard, 1913
+7577F	8NWDM	accepted	species	Ornebius nigripes	Chopard, 1927
+6T6VS	8NWDM	accepted	species	Ornebius angustifrons	(Chopard, 1930)
+756VB	8NWDM	accepted	species	Ornebius rubidus	Ingrisch, 1998
+74V7T	8NWDM	accepted	species	Ornebius abminga	Otte & Alexander, 1983
+756VT	8NWDM	accepted	species	Ornebius alatus	(Saussure, 1877)
+74V7F	8NWDM	accepted	species	Ornebius nigripalpis	Guérin-Méneville, 1844
+6T6W2	8NWDM	accepted	species	Ornebius citrus	Ingrisch, 2006
+8Q2MV	8NWDM	accepted	species	Ornebius panda	He, 2019
+6SV7B	8NWDM	accepted	species	Ornebius polycomus	He, 2017
+6T6VK	8NWDM	accepted	species	Ornebius immarna	Otte & Alexander, 1983
+6T6VN	8NWDM	accepted	species	Ornebius elvalina	Otte & Alexander, 1983
+6SV7N	8NWDM	accepted	species	Ornebius elegantulus	Bolívar, 1912
+6T6VR	8NWDM	accepted	species	Ornebius barbicornis	(Strohecker, 1953)
+6SV7L	8NWDM	accepted	species	Ornebius guerini	(Bolívar, 1900)
+6T799	8NWDM	accepted	species	Ornebius wandella	Otte & Alexander, 1983
+6T77N	8NWDM	accepted	species	Ornebius euryxiphus	Chopard, 1958
+6T77C	8NWDM	accepted	species	Ornebius oradala	Otte & Alexander, 1983
+75782	8NWDM	accepted	species	Ornebius cydistos	Otte, 2006
+74V85	8NWDM	accepted	species	Ornebius acutus	Chopard, 1931
+6SV84	8NWDM	accepted	species	Ornebius allambi	Otte & Alexander, 1983
+6T6W4	8NWDM	accepted	species	Ornebius angustus	Ingrisch, 2006
+6SV7J	8NWDM	accepted	species	Ornebius jirira	Otte & Alexander, 1983
+6T785	8NWDM	accepted	species	Ornebius abdominalis	(Stål, 1877)
+6T6VJ	8NWDM	accepted	species	Ornebius kalara	Otte & Alexander, 1983
+7577H	8NWDM	accepted	species	Ornebius lilka	Otte & Alexander, 1983
+756X9	8NWDM	accepted	species	Ornebius yarandilla	Otte & Alexander, 1983
+74V7N	8NWDM	accepted	species	Ornebius fasciatus	(Brunner von Wattenwyl, 1893)
+6SV7G	8NWDM	accepted	species	Ornebius longicaudus	(Saussure, 1877)
+6T77L	8NWDM	accepted	species	Ornebius gumbalera	Otte & Alexander, 1983
+BV5XC	8NWDM	accepted	species	Ornebius exserolimbus	Wang & Ma, 2023
+6T6VG	8NWDM	accepted	species	Ornebius longipennis	(Shiraki, 1930)
+6T77G	8NWDM	accepted	species	Ornebius luteicercis	Chopard, 1957
+74V7C	8NWDM	accepted	species	Ornebius pendleburyi	Chopard, 1969
+756VK	8NWDM	accepted	species	Ornebius insculptus	Tan & Ingrisch, 2013
+74V8X	8NWDM	accepted	species	Ornebius woomba	Otte & Alexander, 1983
+6SV7P	8NWDM	accepted	species	Ornebius dandiri	Otte & Alexander, 1983
+6T6VH	8NWDM	accepted	species	Ornebius komodensis	Bey-Bienko, 1966
+8Q2MR	8NWDM	accepted	species	Ornebius latifrons	Chopard, 1951
+6T6X9	8NWDM	accepted	species	Ornebius tuberculatus	Ingrisch, 2006
+8Q2MJ	8NWDM	accepted	species	Ornebius bioculatus	Tan, Ingrisch, Baroga-Barbecho & Yap, 2019
+6SV8X	8NWDM	accepted	species	Ornebius unmadacitra	Fernando, 1958
+74V7R	8NWDM	accepted	species	Ornebius bogor	Ingrisch, 2006
+756WX	8NWDM	accepted	species	Ornebius xinyao	Tan, 2015
+756W5	8NWDM	accepted	species	Ornebius albalatus	Tan & Kamaruddin, 2013
+74V7J	8NWDM	accepted	species	Ornebius kanya	Otte & Alexander, 1983
+756W2	8NWDM	accepted	species	Ornebius cucullatus	(Bolívar, 1889)
+38P87	8NPDP	accepted	species	Ectatoderus tubulatus	(Rehn & Hebard, 1912)
+38P6S	8NPDP	accepted	species	Ectatoderus apterus	(Chopard, 1925)
+38P89	8NPDP	accepted	species	Ectatoderus voeltzkowi	Saussure, 1899
+38P7M	8NPDP	accepted	species	Ectatoderus marginatus	Bey-Bienko, 1966
+38P7S	8NPDP	accepted	species	Ectatoderus nigriventris	Guérin-Méneville, 1847
+38P7D	8NPDP	accepted	species	Ectatoderus insularis	Bruner, 1906
+38P7N	8NPDP	accepted	species	Ectatoderus meridionalis	(Karny, 1910)
+38P7W	8NPDP	accepted	species	Ectatoderus pallidegeniculatus	Brunner von Wattenwyl, 1893
+38P84	8NPDP	accepted	species	Ectatoderus squamiger	Bolívar, 1912
+38P7Z	8NPDP	accepted	species	Ectatoderus sandrasagarai	Fernando, 1959
+38P83	8NPDP	accepted	species	Ectatoderus sordidus	(Walker, 1869)
+38P7K	8NPDP	accepted	species	Ectatoderus loricatus	Saussure, 1877
+38P6T	8NPDP	accepted	species	Ectatoderus argentatus	Ingrisch, 2006
+38P7C	8NPDP	accepted	species	Ectatoderus hesperus	(Rehn & Hebard, 1912)
+38P85	8NPDP	accepted	species	Ectatoderus tamna	Kim, 2011
+38P6M	8NPDP	accepted	species	Ectatoderus aldabrae	Gorochov, 1994
+38P7Y	8NPDP	accepted	species	Ectatoderus samui	Ingrisch, 2006
+38P7Q	8NPDP	accepted	species	Ectatoderus nigriceps	Bolívar, 1912
+8PPDB	8NPDP	synonym	genus	Ectadoderus	Guérin-Méneville, 1847
+38P7G	8NPDP	accepted	species	Ectatoderus latus	Chopard, 1917
+38P7H	8NPDP	accepted	species	Ectatoderus leuctisonus	Yang & Yen, 2001
+38P6N	8NPDP	accepted	species	Ectatoderus angusticollis	Chopard, 1969
+38P78	8NPDP	accepted	species	Ectatoderus fernandezi	Bolívar, 1914
+38P82	8NPDP	accepted	species	Ectatoderus sikorai	Gorochov, 1988
+38P73	8NPDP	accepted	species	Ectatoderus collatatus	(Karsch, 1893)
+38P6P	8NPDP	accepted	species	Ectatoderus annulicornis	Chopard, 1917
+38P88	8NPDP	accepted	species	Ectatoderus varicolor	Saussure, 1877
+38P77	8NPDP	accepted	species	Ectatoderus feai	Chopard, 1917
+38P7V	8NPDP	accepted	species	Ectatoderus ochraceus	Sjöstedt, 1910
+9GZR8	8NPDP	accepted	species	Ectatoderus nigrofasciatus	Tan & Wahab, 2021
+38P7F	8NPDP	accepted	species	Ectatoderus kilimandjaricus	Sjöstedt, 1910
+38P6Q	8NPDP	accepted	species	Ectatoderus annulipedus	(Shiraki, 1911)
+38P7L	8NPDP	accepted	species	Ectatoderus machadoi	Chopard, 1962
+8PP3D	8NPDP	synonym	genus	Cryptoptilum	Rehn & Hebard, 1912
+38P7B	8NPDP	accepted	species	Ectatoderus guichardi	Gorochov, 1993
+38P72	8NPDP	accepted	species	Ectatoderus ceylonicus	Chopard, 1928
+38P6X	8NPDP	accepted	species	Ectatoderus brevipalpis	Chopard, 1957
+BTQQX	8NPDP	accepted	species	Ectatoderus dubius	Tan & Salvador, 2023
+38P6Z	8NPDP	accepted	species	Ectatoderus castigatus	(Karsch, 1893)
+38P6V	8NPDP	accepted	species	Ectatoderus bimaculatus	Sjöstedt, 1910
+36TXB	8NQZ7	accepted	species	Discophallus ascension	Gorochov, 2009
+36TXD	8NQZ7	accepted	species	Discophallus pallidus	Gorochov, 2009
+36TXC	8NQZ7	accepted	species	Discophallus myrtleae	Gorochov, 2009
+6CYJ3	8NQZ7	accepted	species	Discophallus amplus	Gorochov, 2009
+6CYJ4	8NQZ7	accepted	species	Discophallus philipi	Gorochov, 2009
+FYTJ	8NMH3	accepted	species	Apterornebius kinabalu	Ingrisch, 2006
+FYTH	8NMH3	accepted	species	Apterornebius chong	Ingrisch, 2006
+6NXW2	6RR38	synonym	species	Lara munbilla	Otte & Alexander, 1983
+6NY82	6S32W	synonym	species	Lara nimmitabel	Otte & Alexander, 1983
+6NY7Q	6S2QW	synonym	species	Lara natarina	Otte & Alexander, 1983
+6NY85	44QDY	synonym	species	Lara cowandilla	Otte & Alexander, 1983
+6NY7N	6RR2W	synonym	species	Lara kalimna	Otte & Alexander, 1983
+74V7L	44QDZ	synonym	species	Ornebius hackeri	Chopard, 1951
+8PZPV	44QDZ	synonym	species	Lara hackeri	(Chopard, 1951)
+32WGH	55HX7	synonym	species	Cycloptiloides niger	Ingrisch, 1987
+4MT3B	4PZJ7	synonym	species	Pronemobius smithii	Scudder, 1890
+6SV8Z	3MN5F	synonym	species	Ornebius rufus	Chopard, 1932
+75784	6MDRT	synonym	species	Ornebius aztecus	(Saussure, 1897)
+6DWCM	6MDRT	synonym	species	Ectatoderus aztecus	Saussure, 1897
+6DWCQ	6MDS5	synonym	species	Ectatoderus occidentalis	(Scudder, 1869)
+6RN2X	6MDS5	synonym	species	Mogisoplistus occidentalis	Scudder, 1869
+73MR6	6MDS5	synonym	species	Mogoplistus occidentalis	Scudder, 1869
+6DWD8	6MDS5	synonym	species	Ectadoderus occidentalis	(Scudder, 1869)
+6RN2V	6MDS5	synonym	species	Mogoplistes occidentalis	Scudder, 1869
+38P6W	3MN5B	synonym	species	Ectatoderus borealis	Scudder, 1902
+38P44	3MN5B	synonym	species	Ectadoderus borealis	Scudder, 1902
+8QJ2G	3MN5B	synonym	species	Haplosphyrum borealis	(Scudder, 1902)
+7577M	3MN5C	synonym	species	Ornebius griseus	(Philippi, 1863)
+3HGZL	3MN5C	ambiguous synonym	species	Gryllus griseus	Philippi, 1863
+6RMQX	3MN5C	synonym	species	Mogisoplistus griseus	(Philippi, 1863)
+73MR8	3MN5C	synonym	species	Mogoplistes griseus	(Philippi, 1863)
+BV6VG	3Y6P2	synonym	species	Ornebius pallidus	(Chopard, 1925)
+72J6L	3Y6P2	synonym	species	Liphoplus pallidus	Chopard, 1925
+6QJ6R	3Y6P2	synonym	species	Liphoplus griseus	Chopard, 1925
+C5HQL	3QZPF	synonym	species	Hoplosphyrum mjobergi	Chopard, 1925
+C7H2M	3QZPF	synonym	species	Hoplosphyrum mjöbergi	Chopard, 1925
+8PZN4	3QZPG	synonym	species	Kalyra pillanda	
+756VN	X36S	synonym	species	Ornebius fascipes	Chopard, 1951
+75783	54LGC	synonym	species	Ornebius brevithorax	Chopard, 1951
+34W6D	435J5	synonym	species	Derectaotus incertus	Ingrisch, 1998
+32WHX	6RHXH	synonym	species	Cycloptilum lesnei	Chopard, 1935
+6T77S	435HW	synonym	species	Ornebius annandalei	Chopard, 1924
+3Y85T	5CR7F	synonym	species	Maroa alawara	Otte & Alexander, 1983
+3Y85V	5CR7J	synonym	species	Maroa indiwara	Otte & Alexander, 1983
+6R5QP	5CR7H	synonym	species	Maroa dardoana	Otte & Alexander, 1983
+6QJ75	5CR7G	synonym	species	Liphoplus australicus	Chopard, 1925
+BV6WK	5CR7G	synonym	species	Ornebius australicus	(Chopard, 1925)
+BV6Q4	5CR7G	synonym	species	Maroa australicus	(Chopard, 1925)
+ZZCR	6CNCQ	synonym	species	Cryptoptilum indicum	Chopard, 1928
+BV6M7	34W68	synonym	species	Gotwendia alboniger	(Bey-Bienko, 1967)
+6SV7Q	6CNCP	synonym	species	Ornebius ceylonicus	Chopard, 1928
+BZBM7	34W6K	synonym	species	Ectatoderus mjöbergi	Chopard, 1932
+38P7P	34W6K	synonym	species	Ectatoderus mjobergi	Chopard, 1932
+756VH	34W6G	synonym	species	Ornebius leucopygus	Chopard, 1924
+6BLJ8	34W6J	synonym	species	Cryptoptilum maindroni	Chopard, 1928
+ZZCP	34W6C	synonym	species	Cryptoptilum henryi	Chopard, 1928
+6RMQV	4D3NP	synonym	species	Mogoplistes minutissimus	Chopard, 1927
+6RMR7	4D3NP	synonym	species	Mogoplistes novaki	Krauss, 1888
+73N2X	6RN36	synonym	species	Mogisoplistus tridentatus	Saussure, 1877
+6RMR9	73MQW	synonym	species	Mogisoplistus marginatus	Costa, 1852
+8Q28J	73MQW	synonym	species	Mogisoplistus brunneus	Serville, 1838
+8Q28K	73MQW	synonym	species	Mogoplistus brunneus	Serville, 1838
+8QHYY	73MQW	synonym	species	Mogoplistes bicolor	Costa, 1855
+73N38	73MQW	synonym	species	Mogoplistes marginatus	Costa, 1852
+73MQY	6RN38	synonym	species	Mogisoplistus argentatus	Bolívar, 1881
+3HGQS	42X7K	ambiguous synonym	species	Gryllus pallipes	Philippi, 1863
+3HH6Q	42X7K	synonym	species	Gryllus (Microgryllus) pallipes	Philippi, 1863
+73MQV	42X7K	synonym	species	Mogoplistes pallipes	(Philippi, 1863)
+9GZR6	9GZR7	synonym	species	Cycloptiloides bimaculata	Tan, Japir & Chung, 2021
+6KGZJ	32WG8	synonym	species	Glaphyropus americanum	(Saussure, 1874)
+32WJW	32WG8	synonym	species	Cycloptilus americanum	Saussure, 1874
+32WGV	32WG8	synonym	species	Cycloptilum americanum	Saussure, 1874
+32WJD	32WG8	synonym	species	Cycloptilum poeyi	Saussure, 1874
+8PXRG	32WG8	synonym	species	Cicloptyloides americanum	(Saussure, 1874)
+32WJG	32WGM	synonym	species	Cycloptilum riveti	Chopard, 1913
+38P6Y	6C68D	synonym	species	Ectatoderus canariensis	Bolívar, 1914
+32WGB	32WGJ	synonym	species	Cycloptiloides ceylonicus	Chopard, 1925
+5KQQB	4P3JY	accepted	subspecies	Pseudomogoplistes vicentae vicentae	Gorochov, 1996
+7L23Q	4P3JY	accepted	subspecies	Pseudomogoplistes vicentae septentrionalis	Morère & Livory, 1999
+8QJXH	4P3JW	synonym	species	Mogisoplistus squamiger	(Fischer, 1853)
+3HH9G	4P3JW	synonym	species	Gryllus squamiger	Fischer, 1853
+73MR9	4P3JW	synonym	species	Mogisoplistus talitrus	Costa, 1855
+6RMR6	4P3JW	synonym	species	Mogoplistes talitrus	Costa, 1855
+73N36	4P3JW	synonym	species	Mogoplistus squamiger	(Fischer, 1853)
+73N37	4P3JW	synonym	species	Mogoplistes squamiger	(Fischer, 1853)
+6T77R	32WH4	synonym	species	Ornebius bidens	(Hebard, 1931)
+72J6P	32WGY	synonym	species	Liphoplus krugii	Saussure, 1897
+38P6R	32WGY	synonym	species	Ectatoderus antillarum	Redtenbacher, 1892
+38P43	32WGY	synonym	species	Ectadoderus antillarum	Redtenbacher, 1892
+ZZCK	32WGY	synonym	species	Cryptoptilum antillarum	(Redtenbacher, 1892)
+73N2Y	32WGY	synonym	species	Mogisoplistus barbouri	Morse, 1905
+8Q2MM	32WHF	synonym	species	Ornebius distinctum	(Hebard, 1931)
+ZZCM	32WHD	synonym	species	Cryptoptilum contectum	Rehn & Hebard, 1912
+38P74	32WHD	synonym	species	Ectatoderus contectum	(Rehn & Hebard, 1912)
+5GRCS	32WHB	accepted	subspecies	Cycloptilum comprehendens fortior	Hebard, 1931
+6T782	32WHB	synonym	species	Ornebius comprehendens	(Hebard, 1929)
+5GRCT	32WHB	accepted	subspecies	Cycloptilum comprehendens interior	Hebard, 1931
+5GRCR	32WHB	accepted	subspecies	Cycloptilum comprehendens comprehendens	Hebard, 1929
+32WJ4	32WJ3	synonym	species	Cycloptilum minimus	Caudell, 1922
+ZZCV	32WJT	ambiguous synonym	species	Cryptoptilum trigonipalpum	Rehn & Hebard, 1912
+38P86	32WJT	synonym	species	Ectatoderus trigonipalpum	(Rehn & Hebard, 1912)
+72J6J	32WJV	synonym	species	Liphoplus zebra	Rehn & Hebard, 1905
+BTJR8	32WJV	synonym	subspecies	Cycloptilum squamosum zebra	(Rehn & Hebard, 1905)
+7578X	32WJV	synonym	species	Ornebius zebra	(Rehn & Hebard, 1905)
+32WJX	32WJN	synonym	species	Cycloptilus borealis	Bruner, 1891
+32WJZ	32WJN	synonym	species	Cycloptilus squamosum	Scudder, 1869
+6SV8Y	32WJN	synonym	species	Ornebius squamosum	(Scudder, 1869)
+8PY5K	32WJN	synonym	species	Cycloptilum borealis	Bruner, 1891
+74V7H	32WHJ	synonym	species	Ornebius lepismoides	(McNeill, 1901)
+32WHV	32WHJ	synonym	species	Cycloptilum lepismoide	McNeill, 1901
+ZZCN	32WHJ	synonym	species	Cryptoptilum erraticum	(Scudder, 1893)
+8Q2MN	32WHJ	synonym	species	Ornebius erraticum	(Scudder, 1893)
+73MR7	32WJL	synonym	species	Mogoplistes slossoni	Scudder, 1897
+73MQX	32WJL	ambiguous synonym	species	Mogisoplistus slossoni	Scudder, 1897
+682GW	G3BD	synonym	species	Arachnocephalus yersini	Saussure, 1877
+682H9	G3BD	synonym	species	Arachnocephalus dalmatinus	Saussure, 1877
+BZ2YV	BV64Y	synonym	species	Arachnocephalus shackeltoni	Chopard, 1925
+4P398	G3B8	synonym	species	Pseudometrypa putrida	Karsch, 1896
+38P7X	G3B9	synonym	species	Ectatoderus rufoniger	Sjöstedt, 1910
+32WGX	6T784	synonym	species	Cycloptilum annulatum	Hebard, 1928
+8PG6C	8PRJ7	synonym	species	Ornebius fuscicercis	
+8PZSD	8PRJ7	synonym	species	Liphoplus fuscicerci	Shiraki, 1930
+6DWCN	6T77J	synonym	species	Ectatoderus kanetataki	Matsumura, 1904
+6QJ6P	6T77J	synonym	species	Liphoplus kanetataki	(Matsumura, 1904)
+72J6R	6T6VL	synonym	species	Liphoplus guerinianus	Saussure, 1877
+38P79	6SV7M	synonym	species	Ectatoderus flavipalpis	Kirby, 1900
+72J73	6T77K	synonym	species	Liphoplus infuscatus	Shiraki, 1930
+6QJ6L	7577D	synonym	species	Liphoplus obscuripennis	Chopard, 1930
+72J6M	6SV7F	synonym	species	Liphoplus mexicanus	Saussure, 1897
+32WJ2	6SV7F	synonym	species	Cycloptilum mexicanus	(Saussure, 1897)
+5K2RB	6T6VD	accepted	subspecies	Ornebius nigromaculatus nigromaculatus	(Chopard, 1925)
+6QJ6K	6T6VD	synonym	species	Liphoplus nigromaculatus	Chopard, 1925
+7KHGS	6T6VD	accepted	subspecies	Ornebius nigromaculatus dunkensis	Chopard, 1951
+32WJY	74V83	synonym	species	Cycloptilus brasilianus	Saussure, 1877
+32WH7	74V83	synonym	species	Cycloptilum brasilianus	Saussure, 1877
+32WH5	6T783	synonym	species	Cycloptilum bimaculatus	(Shiraki, 1930)
+32WJ8	6T783	synonym	species	Cycloptilum ohzii	Furukawa, 1935
+8Q2MT	6T783	synonym	species	Ornebius ohrii	
+72J6T	6T783	synonym	species	Liphoplus bimaculatus	Shiraki, 1930
+8PZSF	8Q2MW	synonym	species	Liphoplus parvithorax	Chopard, 1925
+6QJ6N	6T6VF	synonym	species	Liphoplus minusculus	Chopard, 1929
+32WHZ	756VG	synonym	species	Cycloptilum medium	Hebard, 1928
+6QJ6J	6T6WX	synonym	species	Liphoplus validus	Bolívar, 1895
+72J6N	756VF	synonym	species	Liphoplus nigripennis	Chopard, 1929
+38P76	6T6VP	synonym	species	Ectatoderus dilatatus	Brancsik, 1901
+6RN39	6SV7C	synonym	species	Mogisoplistus occultus	Saussure, 1877
+6RN37	6SV7C	synonym	species	Mogoplistes occultus	Saussure, 1877
+72J72	756VM	synonym	species	Liphoplus fuscipennis	Chopard, 1929
+6QJ72	6T77M	synonym	species	Liphoplus formosanus	(Shiraki, 1911)
+6DWCL	6T77M	synonym	species	Ectatoderus formosanus	Shiraki, 1911
+38P47	6T77M	synonym	species	Ectadoderus formosanus	Shiraki, 1911
+BMX64	8PG6D	synonym	species	Subtiloria succineus	(Bolívar, 1912)
+9H3B7	8PG6D	accepted	subspecies	Ornebius succineus succineus	Bolívar, 1912
+9H3H6	8PG6D	accepted	subspecies	Ornebius succineus korup	(Gorochov, 2018)
+72J6K	756VD	synonym	species	Liphoplus novarae	Saussure, 1877
+32WJ6	756VD	synonym	species	Cycloptilum novarae	(Saussure, 1877)
+32WJH	6T77B	synonym	species	Cycloptilum robustum	Hebard, 1925
+38P7T	74V7D	synonym	species	Ectatoderus noumeensis	Bolívar, 1882
+6DWD2	74V99	synonym	species	Ectatoderus xanthopterus	(Guérin-Méneville, 1844)
+32WJK	74V8Z	synonym	species	Cycloptilum scotops	Hebard, 1928
+72J74	6T6VS	synonym	species	Liphoplus angustifrons	Chopard, 1930
+38P6L	756VT	synonym	species	Ectatoderus alatus	Saussure, 1877
+38P42	756VT	synonym	species	Ectadoderus alatus	Saussure, 1877
+38P7R	74V7F	synonym	species	Ectatoderus nigripalpis	(Guérin-Méneville, 1844)
+32WH3	6T6VR	synonym	species	Cycloptilum barbicorne	Strohecker, 1953
+6QJ73	6SV7L	synonym	species	Liphoplus guerini	Bolívar, 1900
+72J75	6SV7L	synonym	species	Liphoplus ceylonicus	Chopard, 1925
+8Q2MP	6SV7L	synonym	species	Ornebius guereni	
+38P6K	6T785	synonym	species	Ectatoderus abdominalis	Stål, 1877
+6QJ6Q	74V7N	synonym	species	Liphoplus fasciatus	Brunner von Wattenwyl, 1893
+38P7J	6SV7G	synonym	species	Ectatoderus longicaudus	Saussure, 1877
+6QJ6M	6T6VG	synonym	species	Liphoplus longipennis	Shiraki, 1930
+5K2R8	6T6VG	accepted	subspecies	Ornebius longipennis longipennis	(Shiraki, 1930)
+5K2R9	6T6VG	accepted	subspecies	Ornebius longipennis ryukyuensis	Oshiro, 1998
+BZLZX	6T77G	synonym	species	Ornebius luteicornis	Chopard, 1957
+74V7K	756VK	synonym	species	Ornebius insculpta	Tan & Ingrisch, 2013
+38P75	756W2	synonym	species	Ectatoderus cucullatus	Bolívar, 1889
+ZZCW	38P87	synonym	species	Cryptoptilum tubulatum	Rehn & Hebard, 1912
+ZZCL	38P6S	synonym	species	Cryptoptilum apterus	Chopard, 1925
+6DWCV	38P89	synonym	species	Ectadoderus voeltzkowi	Saussure, 1899
+38P49	38P7S	synonym	species	Ectadoderus nigriventris	Guérin-Méneville, 1847
+7577G	38P7N	synonym	species	Ornebius meridionalis	Karny, 1910
+38P4B	38P7W	synonym	species	Ectadoderus pallidegeniculatus	Brunner von Wattenwyl, 1893
+38P4C	38P83	synonym	species	Ectadoderus sordidus	(Walker, 1869)
+7578Z	38P83	synonym	species	Ornebius sordidus	Walker, 1869
+38P48	38P7K	synonym	species	Ectadoderus loricatus	Saussure, 1877
+32WHQ	38P7C	synonym	species	Cycloptilum hesperum	(Rehn & Hebard, 1912)
+ZZCQ	38P7C	synonym	species	Cryptoptilum hesperum	Rehn & Hebard, 1912
+6T77Q	38P73	synonym	species	Ornebius collatatus	Karsch, 1893
+38P46	38P73	synonym	species	Ectadoderus collatatus	(Karsch, 1893)
+38P4D	38P88	synonym	species	Ectadoderus varicolor	Saussure, 1877
+6T6VC	38P7V	synonym	species	Ornebius ochraceus	(Sjöstedt, 1910)
+6QJ6T	38P6Q	synonym	species	Liphoplus annulipedus	Shiraki, 1911
+38P45	38P6Z	synonym	species	Ectadoderus castigatus	(Karsch, 1893)
+6SV82	38P6Z	synonym	species	Ornebius castigatus	Karsch, 1893
+8Q6GC	9H3H6	synonym	subspecies	Subtiloria succineus korup	Gorochov, 2018
+6T6WZ	5K2R9	synonym	species	Ornebius ryukyuensis	Oshiro, 1998

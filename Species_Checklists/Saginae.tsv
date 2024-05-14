@@ -1,0 +1,130 @@
+col:ID	col:parentID	col:status	col:rank	col:scientificName	col:authorship
+8NL2P	8NKR2	accepted	subfamily	Saginae	Brunner von Wattenwyl, 1878
+8PTJV	8NL2P	synonym	tribe	Sagini	Brunner von Wattenwyl, 1878
+8NR93	8NL2P	accepted	genus	Emptera	Saussure, 1888
+8NPQV	8NL2P	accepted	genus	Clonia	Stål, 1855
+8NPQW	8NL2P	accepted	genus	Cloniella	Kaltenbach, 1971
+9H3DX	8NL2P	synonym	subfamily	Sagiens	Brunner von Wattenwyl, 1878
+8NXBH	8NL2P	accepted	genus	Peringueyella	Saussure, 1888
+8NYT4	8NL2P	accepted	genus	Saga	Charpentier, 1825
+8PSSD	8NL2P	synonym	subfamily	Sagidae	Brunner von Wattenwyl, 1878
+39LN8	8NR93	accepted	species	Emptera indica	(Herbst, 1786)
+8PVPC	8NPQV	accepted	subgenus	Clonia (Hemiclonia)	Kirby, 1906
+B7ZL3	8NPQV	accepted	subgenus	Clonia (Xanthoclonia)	Kaltenbach, 1971
+8PVPB	8NPQV	accepted	subgenus	Clonia (Clonia)	Stål, 1855
+B7ZD4	8NPQV	accepted	subgenus	Clonia (Leptoclonia)	Kaltenbach, 1971
+5ZBQS	8NPQW	accepted	species	Cloniella zambesica	Kaltenbach, 1971
+5ZC33	8NPQW	accepted	species	Cloniella praedatoria	(Distant, 1892)
+4F2LR	8NXBH	accepted	species	Peringueyella zulu	Kaltenbach, 1971
+4F2LP	8NXBH	accepted	species	Peringueyella macrocephala	(Schaum, 1853)
+4F2LQ	8NXBH	accepted	species	Peringueyella rentzi	Kaltenbach, 1981
+4F2LN	8NXBH	accepted	species	Peringueyella jocosa	Saussure, 1888
+78ZVL	8NYT4	accepted	species	Saga beieri	Kaltenbach, 1967
+6WZW3	8NYT4	accepted	species	Saga hellenica	Kaltenbach, 1967
+4TXV3	8NYT4	accepted	species	Saga ornata	Burmeister, 1838
+6WZVN	8NYT4	accepted	species	Saga cappadocica	Werner, 1903
+4TXV7	8NYT4	accepted	species	Saga quadrisignata	Philippi, 1863
+4TXV5	8NYT4	accepted	species	Saga pedo	(Pallas, 1771)
+6WZW4	8NYT4	accepted	species	Saga natoliae	Serville, 1838
+6WZVR	8NYT4	accepted	species	Saga gracilis	Kis, 1962
+4TXV8	8NYT4	accepted	species	Saga rammei	Kaltenbach, 1965
+78ZVQ	8NYT4	accepted	species	Saga longicaudata	Krauss, 1879
+8PRFW	8NYT4	synonym	genus	Tettigopsis	Fischer von Waldheim, 1830
+78ZVK	8NYT4	accepted	species	Saga campbelli	Uvarov, 1921
+6WZW2	8NYT4	accepted	species	Saga ledereri	Saussure, 1888
+4TXV9	8NYT4	accepted	species	Saga rhodiensis	Salfi, 1929
+8Q3RJ	8NYT4	accepted	species	Saga hakkarica	Sirin & Taylan, 2019
+8PJRD	8NYT4	accepted	species	Saga syriaca	Lucas, 1864
+4TXV6	8NYT4	accepted	species	Saga puella	Werner, 1901
+78ZVM	8NYT4	accepted	species	Saga ephippigera	Fischer von Waldheim, 1846
+78ZVR	39LN8	synonym	species	Saga indica	(Herbst, 1786)
+72LH4	39LN8	synonym	species	Locusta indica	Herbst, 1786
+5ZBP5	8PVPC	accepted	species	Clonia (Hemiclonia) charpentieri	Kaltenbach, 1971
+5ZBQH	8PVPC	accepted	species	Clonia (Hemiclonia) melanoptera	(Linnaeus, 1758)
+8PXRX	8PVPC	accepted	species	Clonia (Hemiclonia) lalandaei	Saussure, 1888
+5ZBP6	8PVPC	accepted	species	Clonia (Hemiclonia) ignota	Kaltenbach, 1981
+5ZBP4	8PVPC	accepted	species	Clonia (Hemiclonia) assimilis	Kaltenbach, 1971
+8P3NX	8PVPC	synonym	genus	Hemiclonia	Kirby, 1906
+5ZBQK	B7ZL3	accepted	species	Clonia (Xanthoclonia) tessellata	Saussure, 1888
+5ZBPM	8PVPB	accepted	species	Clonia (Clonia) kenyana	Uvarov, 1942
+5ZBPK	8PVPB	accepted	species	Clonia (Clonia) jagoi	Kaltenbach, 1971
+5ZC23	8PVPB	accepted	species	Clonia (Clonia) dewittei	Kaltenbach, 1971
+5ZBPL	8PVPB	accepted	species	Clonia (Clonia) kalahariensis	Kaltenbach, 1971
+5ZBP8	8PVPB	accepted	species	Clonia (Clonia) uvarovi	Kaltenbach, 1971
+5ZBP7	8PVPB	accepted	species	Clonia (Clonia) saussurei	Kaltenbach, 1971
+5ZBPN	8PVPB	accepted	species	Clonia (Clonia) multispina	Uvarov, 1942
+5ZC22	8PVPB	accepted	species	Clonia (Clonia) angolana	Kaltenbach, 1971
+B6Z57	8PVPB	accepted	species	Clonia (Clonia) zernyi	Kaltenbach, 1971
+8NPQT	8PVPB	synonym	genus	Clonia	Stål, 1855
+5ZBQ3	8PVPB	accepted	species	Clonia (Clonia) caudata	Uvarov, 1942
+5ZBPR	8PVPB	accepted	species	Clonia (Clonia) burri	Uvarov, 1942
+5ZBP9	8PVPB	accepted	species	Clonia (Clonia) wahlbergi	Stål, 1855
+5ZC2H	B7ZD4	accepted	species	Clonia (Leptoclonia) minuta	(Haan, 1843)
+5ZBQJ	B7ZD4	accepted	species	Clonia (Leptoclonia) vansoni	Kaltenbach, 1971
+5ZC2J	B7ZD4	accepted	species	Clonia (Leptoclonia) vittata	(Thunberg, 1789)
+8Q2YP	5ZC33	synonym	species	Peringueyella praeditoria	
+3KSF8	5ZC33	synonym	species	Hemisaga praedatoria	Distant, 1892
+78ZVT	4F2LP	synonym	species	Saga macrocephala	Schaum, 1853
+8PZGS	4F2LP	synonym	species	Hemiclonia macrocephala	(Schaum, 1853)
+7KKCJ	4F2LN	accepted	subspecies	Peringueyella jocosa jocosa	Saussure, 1888
+7KKCK	4F2LN	accepted	subspecies	Peringueyella jocosa multispina	Kaltenbach, 1971
+78ZVS	4TXV3	synonym	species	Saga savignyi	Saussure, 1888
+78ZVP	4TXV3	synonym	species	Saga gracilipes	Uvarov, 1923
+78ZW2	4TXV3	synonym	species	Saga lucasii	Saussure, 1888
+8PJRB	4TXV3	synonym	species	Saga lucasi	
+8QJ95	4TXV5	synonym	species	Tettigopsis serrata	(Fabricius, 1793)
+7C5PF	4TXV5	synonym	species	Tettigopsis pedo	(Pallas, 1771)
+3HGS7	4TXV5	synonym	species	Gryllus (Tettigonia) pedo	Pallas, 1771
+72LHJ	4TXV5	synonym	species	Locusta serrata	Fabricius, 1793
+8QJQW	4TXV5	synonym	species	Tettigopsis vittata	Fischer von Waldheim, 1830
+BTKP6	4TXV5	synonym	subspecies	Saga pedo pedo	(Pallas, 1771)
+8PD3F	4TXV5	synonym	species	Locusta gigantea	
+78ZW3	4TXV5	synonym	species	Saga italica	Costa & Costa, 1871
+6WZVP	4TXV5	synonym	species	Saga giganteus	(Villers, 1789)
+BV6MQ	4TXV5	synonym	species	Tettigopsis nudipes	Fischer von Waldheim, 1830
+8QJZC	4TXV5	synonym	species	Gryllus giganteus	Villers, 1789
+6WZVK	6WZW4	synonym	species	Saga brunneri	Saussure, 1888
+BT38M	6WZW4	ambiguous synonym	species	Gryllus onos	Stoll, 1813
+4TXVB	6WZW4	synonym	species	Saga synophrys	Charpentier, 1841
+5KYVN	6WZVR	synonym	subspecies	Saga italica gracilis	Kis, 1962
+BTKP5	6WZVR	synonym	subspecies	Saga campbelli gracilis	Kis, 1962
+BTKP4	78ZVK	synonym	subspecies	Saga campbelli campbelli	Uvarov, 1921
+6WZVQ	6WZW2	synonym	species	Saga kraussi	Kirby, 1906
+5KYVM	8PJRD	synonym	subspecies	Saga ephippigera syriaca	Lucas, 1864
+8PJRC	78ZVM	synonym	species	Saga monstrosa	Krauss, 1879
+8PJRF	78ZVM	synonym	species	Saga uvarovi	Ramme, 1951
+8Q3RH	78ZVM	synonym	species	Saga epippigera	
+5KYVL	78ZVM	synonym	subspecies	Saga ephippigera ephippigera	Fischer von Waldheim, 1846
+9H3FV	5ZBQH	synonym	species	Saga melanoptera	(Linnaeus, 1758)
+XQJN	5ZBQH	synonym	species	Conocephalus spinigerus	Thunberg, 1815
+8Q3RF	5ZBQH	synonym	species	Saga azurea	(Stoll, 1813)
+8PZTX	5ZBQH	synonym	species	Locusta melanoptera	(Linnaeus, 1758)
+6WZVM	5ZBQH	synonym	species	Saga elegans	Blanchard, 1840
+8PZGT	5ZBQH	synonym	species	Hemiclonia melanopterus	(Linnaeus, 1758)
+8QJLJ	5ZBQH	synonym	species	Gryllus azurea	Stoll, 1813
+3HGRW	5ZBQH	synonym	species	Gryllus (Tettigonia) melanopterus	Linnaeus, 1758
+8PXRZ	5ZBQH	synonym	species	Clonia melanoptera	(Linnaeus, 1758)
+8PZGR	8PXRX	synonym	species	Hemiclonia lalandaei	(Saussure, 1888)
+8P8BL	8PXRX	synonym	species	Clonia lalandaei	Saussure, 1888
+5ZC2Q	5ZBQK	synonym	species	Clonia tessellata	Saussure, 1888
+3KMMV	5ZBQK	synonym	species	Hemiclonia tessellata	(Saussure, 1888)
+5ZBQG	5ZBPM	synonym	species	Clonia kenyana	Uvarov, 1942
+5ZBQF	5ZC23	synonym	species	Clonia dewittei	Kaltenbach, 1971
+5ZBR2	5ZBP7	synonym	species	Clonia saussurei	Kaltenbach, 1971
+5ZC2F	5ZBP7	synonym	species	Clonia intermedia	Kaltenbach, 1971
+5ZBQQ	5ZBPN	synonym	species	Clonia multispina	Uvarov, 1942
+5ZBQD	5ZBQ3	synonym	species	Clonia caudata	Uvarov, 1942
+5ZC2K	5ZBPR	synonym	species	Clonia burri	Uvarov, 1942
+5GHSS	5ZBP9	accepted	subspecies	Clonia (Clonia) wahlbergi maculosa	(Walker, 1869)
+BMPVM	5ZBP9	synonym	species	Clonia wahlbergi	Stål, 1855
+7JMPL	5ZBP9	accepted	subspecies	Clonia (Clonia) wahlbergi wahlbergi	Stål, 1855
+5ZC2P	5ZC2H	synonym	species	Clonia minuta	(Haan, 1843)
+6LPLS	5ZC2H	synonym	species	Hemiclonia minuta	(Haan, 1843)
+72LD4	5ZC2H	synonym	species	Locusta (Saga) minuta	Haan, 1843
+5ZBQR	5ZBQJ	synonym	species	Clonia vansoni	Kaltenbach, 1971
+5ZC32	5ZC2J	synonym	species	Clonia turneri	Uvarov, 1942
+6QLJ3	5ZC2J	ambiguous synonym	species	Locusta vittata	Thunberg, 1789
+8PXS2	5ZC2J	synonym	species	Clonia vittata	(Thunberg, 1789)
+8PXRY	5GHSS	synonym	species	Clonia maculosa	(Walker, 1869)
+78ZW5	5GHSS	synonym	species	Saga maculosa	Walker, 1869
+5GHST	5GHSS	synonym	subspecies	Clonia (Clonia) wahlbergi variabilis	Kaltenbach, 1971

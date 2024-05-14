@@ -1,0 +1,204 @@
+col:ID	col:parentID	col:status	col:rank	col:scientificName	col:authorship
+8NKY9	8NKN5	accepted	subfamily	Myrmecophilinae	Saussure, 1874
+8NNVL	8NKY9	accepted	genus	Camponophilus	Ingrisch, 1995
+8NMJ9	8NKY9	accepted	genus	Araripemyrmecophilops	Martins-Neto, 1991
+8PMTP	8NKY9	accepted	tribe	Myrmecophilini	Saussure, 1874
+QDFG	8NNVL	accepted	species	Camponophilus irmi	Ingrisch, 1995
+G634	8NMJ9	accepted	species	Araripemyrmecophilops gracilis	Martins-Neto, 1991
+8NVNL	8PMTP	accepted	genus	Myrmophilellus	Uvarov, 1940
+8NSS5	8PMTP	accepted	genus	Myrmecophilus	Berthold, 1827
+744WP	8NVNL	accepted	species	Myrmophilellus pilipes	(Chopard, 1928)
+8NVNG	8NVNL	synonym	genus	Myrmegryllus	Chopard, 1928
+45CX9	8NVNL	accepted	species	Myrmophilellus meneliki	(Reichensperger, 1913)
+8PMTV	8NSS5	accepted	subgenus	Myrmecophilus (Myrmophilina)	Silvestri, 1912
+8PMTT	8NSS5	accepted	subgenus	Myrmecophilus (Myrmecophilus)	Berthold, 1827
+B7ZG9	8NSS5	accepted	subgenus	Myrmecophilus (Paramyrmecophilus)	Gorochov, 1986
+45BS3	744WP	synonym	species	Myrmegryllus pilipes	Chopard, 1928
+45B3H	45CX9	synonym	species	Myrmecophila meneliki	Reichensperger, 1913
+45B6V	45CX9	synonym	species	Myrmecophilus meneliki	Reichensperger, 1913
+8QJR7	8PMTV	accepted	species	Myrmecophilus (Myrmophilina) albicinctus	Chopard, 1924
+45B5Y	8PMTV	accepted	species	Myrmecophilus (Myrmophilina) cyprius	Stalling, 2017
+9GSR5	8PMTV	accepted	species	Myrmecophilus (Myrmophilina) mauritanicus	(Lucas, 1847)
+8P42R	8PMTV	synonym	genus	Myrmophilina	Silvestri, 1912
+45B5X	8PMTV	accepted	species	Myrmecophilus (Myrmophilina) cottami	Chopard, 1922
+8PMTS	8PMTV	synonym	subgenus	Myrmecophilus (Eumyrmecophilus)	Gorochov, 1994
+45B62	8PMTV	accepted	species	Myrmecophilus (Myrmophilina) nigricornis	Chopard, 1963
+45B65	8PMTV	accepted	species	Myrmecophilus (Myrmophilina) surcoufi	Chopard, 1919
+45B64	8PMTV	accepted	species	Myrmecophilus (Myrmophilina) parachilnus	(Otte & Alexander, 1983)
+45B5W	8PMTV	accepted	species	Myrmecophilus (Myrmophilina) brevipalpis	Chopard, 1948
+45B63	8PMTV	accepted	species	Myrmecophilus (Myrmophilina) ochraceus	Fischer, 1853
+45B5V	8PMTV	accepted	species	Myrmecophilus (Myrmophilina) americanus	Saussure, 1877
+45B4R	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) formosanus	Shiraki, 1930
+45B4T	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) gallicus	Stalling, 2017
+45B4M	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) chocolatinus	Gorochov, 1992
+45B4F	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) arboreus	Maeyama & Terayama, 1994
+45B53	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) ishikawai	Maruyama, 2004
+45B55	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) kinomurai	Maruyama, 2004
+45B5K	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) quadrispinus	Perkins, 1899
+45B52	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) iranicus	Chládek, 2013
+8PFDX	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) mayaealberti	Hugel & Matyot, 2006
+45B4H	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) balcanicus	Stalling, 2013
+6RTGD	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) wahrmani	Chopard, 1963
+45B5H	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) pallidithorax	Chopard, 1930
+45B4J	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) baronii	Baccetti, 1966
+8QHZJ	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) antilucanus	Hsu, Hugel, Wetterer, Tseng, Ooi, Lee & Yang, 2020
+45B5T	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) tindalei	Otte & Alexander, 1983
+45B5B	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) mjobergi	Chopard, 1925
+8QK5M	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) caliginosus	Hsu, Hugel, Wetterer, Tseng, Ooi, Lee & Yang, 2020
+45B5J	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) pergandei	Bruner, 1884
+45B5G	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) orientalis	Stalling, 2010
+45B4G	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) australis	Tepper, 1896
+745GF	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) nonveilleri	Ingrisch & Pavićević, 2008
+45B5M	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) sapporensis	Matsumura, 1904
+8QJYV	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) ikaros	Hsu, Hugel, Wetterer, Tseng, Ooi, Lee & Yang, 2020
+6S5GF	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) gigas	Ichikawa, 2001
+45B4Q	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) escherichi	Schimmer, 1911
+45B4P	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) dubius	Saussure, 1877
+45B4V	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) gracilipes	Chopard, 1924
+45B5P	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) sinicus	Bey-Bienko, 1956
+45B56	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) kubotai	Maruyama, 2004
+8NS3V	8PMTT	synonym	genus	Sphaerium	Charpentier, 1825
+45B4W	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) haeckeli	Fernando, 1962
+45B5C	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) myrmecophilus	(Savi, 1819)
+45B5N	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) seychellensis	Gorochov, 1994
+6RTGF	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) aequispina	Chopard, 1923
+45B5L	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) sanctaehelenae	Chopard, 1970
+8NSS6	8PMTT	synonym	genus	Myrmecophilus	Berthold, 1827
+8NVND	8PMTT	synonym	genus	Myrmecophila	
+45B5Q	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) teranishii	Matsumura, 1914
+45B58	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) longitarsis	Chopard, 1925
+45B5S	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) tetramorii	Ichikawa, 2001
+45B5D	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) nebrascensis	Lugger, 1898
+45B4L	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) bituberculatus	Ingrisch, 2001
+45B4N	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) denticaudus	Bey-Bienko, 1967
+45B54	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) keyi	Baccetti, 1975
+45B4D	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) acervorum	(Panzer, 1799)
+45B4X	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) hebardi	Mann, 1920
+45B4Y	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) hirticaudus	Fischer von Waldheim, 1846
+45B5F	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) oregonensis	Bruner, 1884
+45B59	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) manni	Schimmer, 1911
+45B5R	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) testaceus	Chopard, 1925
+45B4Z	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) horii	Maruyama, 2004
+45B4S	8PMTT	accepted	species	Myrmecophilus (Myrmecophilus) fuscus	Stalling, 2013
+8NVNF	8PMTT	synonym	genus	Myrmecophila	Berthold, 1827
+6S5GD	B7ZG9	accepted	species	Myrmecophilus (Paramyrmecophilus) polyrhachi	Ingrisch, 1987
+45B68	B7ZG9	accepted	species	Myrmecophilus (Paramyrmecophilus) inaequalis	Ingrisch, 2010
+45B66	B7ZG9	accepted	species	Myrmecophilus (Paramyrmecophilus) concolor	Chopard, 1928
+45B69	B7ZG9	accepted	species	Myrmecophilus (Paramyrmecophilus) oculatus	Miram, 1930
+45B67	B7ZG9	accepted	species	Myrmecophilus (Paramyrmecophilus) crenatus	Gorochov, 1986
+8PFDZ	8QJR7	synonym	species	Myrmecophilus albicinctus	Chopard, 1924
+8PFDV	8QJR7	synonym	species	Myrmecophila albicincta	Chopard, 1924
+9GTT7	9GSR5	synonym	species	Sphaerium mauritanicum	Lucas, 1847
+9GSR3	9GSR5	synonym	species	Myrmecophila mauritanicum	(Lucas, 1847)
+9GSR4	9GSR5	synonym	species	Myrmecophilus mauritanicus	(Lucas, 1847)
+8Q2B5	45B5X	synonym	species	Myrmecophilus cottami	Chopard, 1922
+45B2Z	45B5X	synonym	species	Myrmecophila cottami	Chopard, 1922
+45B6X	45B62	synonym	species	Myrmecophilus nigricornis	Chopard, 1963
+8Q2B3	45B65	synonym	species	Myrmecophila mauritanicus	Finot, 1897
+8Q2BJ	45B65	synonym	species	Myrmecophilus surcoufi	Chopard, 1919
+45B43	45B65	synonym	species	Myrmecophila surcoufi	Chopard, 1919
+45CXC	45B64	synonym	species	Myrmophilina parachilnus	Otte & Alexander, 1983
+45B2W	45B5W	synonym	species	Myrmecophila brevipalpis	Chopard, 1948
+45B3N	45B63	synonym	species	Myrmecophila ochracea	Fischer, 1853
+45B3X	45B63	synonym	species	Myrmecophila salomonis	Wasmann, 1890
+8QK4W	45B63	synonym	species	Myrmecophila hispanica	Chopard, 1919
+45CXB	45B63	synonym	species	Myrmophilina ochracea	(Fischer, 1853)
+45B6Z	45B63	synonym	species	Myrmecophilus ochraceus	Fischer, 1853
+45B2T	45B5V	synonym	species	Myrmecophila americanus	Saussure, 1877
+9H3BD	45B5V	synonym	species	Myrmecophila prenolepidis	Wasmann, 1905
+45B77	45B5V	synonym	species	Myrmecophilus robustus	Ebner, 1956
+73TGD	45B5V	synonym	species	Myrmecophilus americanus	Saussure, 1877
+8Q2BB	45B5V	synonym	species	Myrmecophilus microscopicus	Gorochov, 1994
+45B76	45B5V	synonym	species	Myrmecophilus prenolepidis	Wasmann, 1905
+8Q2B6	45B4R	synonym	species	Myrmecophilus formosanus	Shiraki, 1930
+45B37	45B4R	synonym	species	Myrmecophila formosana	Shiraki, 1930
+45B6M	45B4T	synonym	species	Myrmecophilus gallicus	Stalling, 2017
+45B6F	45B4F	synonym	species	Myrmecophilus arboreus	Maeyama & Terayama, 1994
+45B6R	45B53	synonym	species	Myrmecophilus ishikawai	Maruyama, 2004
+45B6T	45B55	synonym	species	Myrmecophilus kinomurai	Maruyama, 2004
+8Q2BF	45B5K	synonym	species	Myrmecophilus quadrispinus	Perkins, 1899
+45B3V	45B5K	synonym	species	Myrmecophila quadrispina	Perkins, 1899
+9GW7J	45B4H	synonym	species	Myrmecophilus balcanicus	Stalling, 2013
+6S5GC	6RTGD	synonym	species	Myrmecophilus wahrmani	Chopard, 1963
+45B3R	45B5H	synonym	species	Myrmecophila pallidithorax	Chopard, 1930
+8Q7NR	45B5H	synonym	species	Myrmecophilus pallidithorax	Chopard, 1930
+45B6G	45B4J	synonym	species	Myrmecophilus baronii	Baccetti, 1966
+45B7D	45B5T	synonym	species	Myrmecophilus tindalei	Otte & Alexander, 1983
+45B6W	45B5B	synonym	species	Myrmecophilus mjobergi	Chopard, 1925
+C7QQ9	45B5B	synonym	species	Myrmecophila mjöbergi	Chopard, 1925
+C5RR5	45B5B	synonym	species	Myrmecophila mjobergi	Chopard, 1925
+45B74	45B5J	synonym	species	Myrmecophilus pergandei	Bruner, 1884
+45B3T	45B5J	synonym	species	Myrmecophila pergandei	Bruner, 1884
+45B72	45B5G	synonym	species	Myrmecophilus orientalis	Stalling, 2010
+8Q2B4	45B4G	synonym	species	Myrmecophilus australis	Tepper, 1896
+745GH	45B4G	synonym	species	Myrmecophila australis	Tepper, 1896
+45B6Y	745GF	synonym	species	Myrmecophilus nonveilleri	Ingrisch & Pavićević, 2008
+8Q2BG	45B5M	synonym	species	Myrmecophilus sapporensis	Matsumura, 1904
+45B3Y	45B5M	synonym	species	Myrmecophila sapporensis	Matsumura, 1904
+45B6N	6S5GF	synonym	species	Myrmecophilus gigas	Ichikawa, 2001
+8QJKK	45B4Q	synonym	species	Myrmecophilus escherichi	Schimmer, 1911
+45B34	45B4Q	synonym	species	Myrmecophila escherichi	Schimmer, 1911
+45B33	45B4P	synonym	species	Myrmecophila dubius	Saussure, 1877
+8QJWQ	45B4P	synonym	species	Myrmecophilus flavocinctus	Wasmann, 1894
+45B6K	45B4P	synonym	species	Myrmecophilus dubius	Saussure, 1877
+45B39	45B4V	synonym	species	Myrmecophila gracilipes	Chopard, 1924
+8Q2B7	45B4V	synonym	species	Myrmecophilus gracilipes	Chopard, 1924
+45B79	45B5P	synonym	species	Myrmecophilus sinicus	Bey-Bienko, 1956
+745GD	45B56	synonym	species	Myrmecophilus kubotai	Maruyama, 2004
+45B6P	45B4W	synonym	species	Myrmecophilus haeckeli	Fernando, 1962
+3HH5B	45B5C	synonym	species	Gryllus myrmecophilus	Savi, 1819
+8Q2BC	45B5C	synonym	species	Myrmecophilus myrmecophilus	(Savi, 1819)
+8QKQK	45B5C	synonym	species	Myrmecophila subdula	Silvestri, 1912
+8Q2BH	45B5N	synonym	species	Myrmecophilus seychellensis	Gorochov, 1994
+8QJDR	6RTGF	synonym	species	Myrmecophila major	Hölldobler, 1947
+45B6C	6RTGF	synonym	species	Myrmecophilus aequispina	Chopard, 1923
+7KCNJ	6RTGF	synonym	subspecies	Myrmecophila acervorum aequispina	Chopard, 1923
+45B78	45B5L	synonym	species	Myrmecophilus sanctaehelenae	Chopard, 1970
+6RTGC	45B5Q	synonym	species	Myrmecophilus teranishii	Matsumura, 1914
+45B3F	45B58	synonym	species	Myrmecophila longitarsis	Chopard, 1925
+8PMV5	45B58	synonym	species	Myrmecophilus longitarsus	
+45B7C	45B5S	synonym	species	Myrmecophilus tetramorii	Ichikawa, 2001
+45B3M	45B5D	synonym	species	Myrmecophila nehawkae	Scudder, 1899
+45B3L	45B5D	synonym	species	Myrmecophila nebrascensis	Lugger, 1898
+8P9JM	45B5D	synonym	species	Myrmecophilus nebrascensis	Lugger, 1898
+45B6J	45B4N	synonym	species	Myrmecophilus denticaudus	Bey-Bienko, 1967
+45B6S	45B54	synonym	species	Myrmecophilus keyi	Baccetti, 1975
+4YPJY	45B4D	synonym	species	Sphaerium acervorum	(Panzer, 1799)
+8QKQX	45B4D	synonym	species	Myrmecophilus bifasciata	Fischer von Waldheim, 1846
+8PFDW	45B4D	synonym	species	Myrmecophila bifasciata	Fischer von Waldheim, 1846
+45B6B	45B4D	synonym	species	Myrmecophilus acervorum	(Panzer, 1799)
+45B2R	45B4D	synonym	species	Myrmecophila acervorum	(Panzer, 1799)
+9H3C7	45B4D	synonym	species	Myrmecophilus minor	Hölldobler, 1947
+M2YZ	45B4D	synonym	species	Blatta acervorum	Panzer, 1799
+45B3B	45B4X	synonym	species	Myrmecophila hebardi	Mann, 1920
+8Q7NQ	45B4X	synonym	species	Myrmecophilus hebardi	Mann, 1920
+8Q8CX	45B4X	synonym	species	Myrmecophilus leei	Kistner & Chong, 2007
+BZKNN	45B4Y	synonym	species	Myrmecophilus (Myrmecophilus) termitophilus	Maran, 1959
+BZKNJ	45B4Y	synonym	species	Myrmecophilus ponticus	Miram, 1927
+BZKNL	45B4Y	synonym	species	Myrmecophilus (Myrmecophilus) tataricus	Karawajew, 1929
+45B4B	45B4Y	synonym	species	Myrmecophila zorae	Karaman, 1963
+BZKX3	45B4Y	synonym	species	Myrmecophilus hirticaudatus	Karawajew, 1929
+45B7B	45B4Y	synonym	species	Myrmecophilus termitophilus	Maran, 1959
+45B44	45B4Y	synonym	species	Myrmecophila tatarica	Karawajew, 1929
+45B3C	45B4Y	synonym	species	Myrmecophila hirticauda	Fischer von Waldheim, 1846
+BZKNK	45B4Y	synonym	species	Myrmecophilus (Myrmecophilus) ponticus	Miram, 1927
+BZKNM	45B4Y	synonym	species	Myrmecophilus tataricus	Karawajew, 1929
+BZKNP	45B4Y	synonym	species	Myrmecophilus (Myrmecophilus) zorae	Karaman, 1963
+8Q2B8	45B4Y	synonym	species	Myrmecophilus hirticaudus	Fischer von Waldheim, 1846
+73TGG	45B4Y	synonym	species	Myrmecophila pontica	Miram, 1927
+45B36	45B5F	synonym	species	Myrmecophila formicarum	Scudder, 1899
+45B3Q	45B5F	synonym	species	Myrmecophila oregonensis	Bruner, 1884
+8P9JN	45B5F	synonym	species	Myrmecophilus oregonensis	Bruner, 1884
+45B3G	45B59	synonym	species	Myrmecophila manni	Schimmer, 1911
+8P9JL	45B59	synonym	species	Myrmecophilus manni	Schimmer, 1911
+45B46	45B5R	synonym	species	Myrmecophila testacea	Chopard, 1925
+8Q2BK	45B5R	synonym	species	Myrmecophilus testaceus	Chopard, 1925
+45B6Q	45B4Z	synonym	species	Myrmecophilus horii	Maruyama, 2004
+45B6L	45B4S	synonym	species	Myrmecophilus fuscus	Stalling, 2013
+45B75	6S5GD	synonym	species	Myrmecophilus polyrhachi	Ingrisch, 1987
+BTKBM	45B66	synonym	subspecies	Myrmecophilus (Myrmophilina) albicinctus concolor	Chopard, 1928
+45B6H	45B66	synonym	species	Myrmecophilus concolor	Chopard, 1928
+BTKBN	45B66	synonym	variety	Myrmecophilus albicinctus var. concolor	Chopard, 1928
+45B3P	45B69	synonym	species	Myrmecophila oculata	Miram, 1930
+8Q2BD	45B69	synonym	species	Myrmecophilus oculatus	Miram, 1930
+9GSR6	45B69	synonym	species	Myrmecophilus (Myrmecophilus) oculatus	Miram, 1930

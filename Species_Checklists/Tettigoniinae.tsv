@@ -1,0 +1,2871 @@
+col:ID	col:parentID	col:status	col:rank	col:scientificName	col:authorship
+8NL45	8NKR2	accepted	subfamily	Tettigoniinae	Krauss, 1902
+8PRZG	8NL45	synonym	subfamily	Phasgonurinae	Karsch, 1893
+8NVTQ	8NL45	accepted	genus	Neogampsocleis	Caudell, 1935
+BSJ92	8NL45	synonym	subfamily	Decticinae	Herman, 1874
+8PSMD	8NL45	synonym	subfamily	Apteropedetinae	Rentz, 1979
+8PTCN	8NL45	accepted	tribe	Onconotini	Tarbinsky, 1940
+8NR3L	8NL45	accepted	genus	Dreuxia	Chopard, 1966
+8PT2X	8NL45	accepted	tribe	Decticini	Herman, 1874
+8NRCC	8NL45	accepted	genus	Eodecticus	Poncrácz, 1928
+8PTFP	8NL45	accepted	tribe	Pholidopterini	Ramme, 1951
+8PS57	8NL45	accepted	tribe	Tettigoniini	Krauss, 1902
+8PT5R	8NL45	accepted	tribe	Gampsocleidini	Brunner von Wattenwyl, 1893
+8NNDY	8NL45	accepted	genus	Bolua	Ünal, 1999
+8PT3Y	8NL45	accepted	tribe	Drymadusini	Uvarov, 1924
+9GVKX	8NL45	synonym	subfamily	Locustinae	Latreille, 1802
+8PT2K	8NL45	accepted	tribe	Ctenodecticini	Caudell, 1908
+8PT67	8NL45	accepted	tribe	Glyphonotini	Tarbinsky, 1932
+8PSWW	8NL45	accepted	tribe	Arytropteridini	Caudell, 1908
+8PTBQ	8NL45	accepted	tribe	Nedubini	Gorochov, 1988
+8PTG8	8NL45	accepted	tribe	Plagiostirini	Storozhenko, 1994
+8PTGF	8NL45	accepted	tribe	Platycleidini	Brunner von Wattenwyl, 1893
+46HKQ	8NVTQ	accepted	species	Neogampsocleis mokanshanensis	(Caudell, 1921)
+8PTCM	8PTCN	synonym	tribe	Onconotinae	Tarbinsky, 1940
+8NW9P	8PTCN	accepted	genus	Onconotus	Fischer von Waldheim, 1839
+37NG3	8NR3L	accepted	species	Dreuxia incerta	Chopard, 1966
+8PSNX	8PT2X	synonym	tribe	Decticidae	Herman, 1874
+8PT2W	8PT2X	synonym	tribe	Dectici	Herman, 1874
+8NQNF	8PT2X	accepted	genus	Decticus	Serville, 1831
+6FHWY	8NRCC	accepted	species	Eodecticus maculatus	Poncrácz, 1928
+8NXJ4	8PTFP	accepted	genus	Pholidoptera	Wesmaël, 1838
+8QK54	8PTFP	accepted	genus	Aparapholidoptera	Çıplak, 2020
+8NWYR	8PTFP	accepted	genus	Parapholidoptera	Maran, 1953
+8QHTJ	8PTFP	accepted	genus	Spinopholidoptera	Çıplak, 2020
+8P2MN	8PTFP	accepted	genus	Uvarovistia	Maran, 1953
+8NRR4	8PTFP	accepted	genus	Exopholidoptera	Ünal, 1998
+8NYCH	8PTFP	accepted	genus	Psorodonotus	Brunner von Wattenwyl, 1861
+8NMD3	8PTFP	accepted	genus	Apholidoptera	Maran, 1953
+8NRMS	8PTFP	accepted	genus	Eupholidoptera	Maran, 1953
+8NNN5	8PS57	accepted	genus	Cyrtophyllicus	Hebard, 1908
+8P25Z	8PS57	accepted	genus	Thyreonotus	Serville, 1838
+8NV35	8PS57	accepted	genus	Medecticus	Uvarov, 1912
+8NQDH	8PS57	accepted	genus	Idionotus	Scudder, 1894
+8NX7G	8PS57	accepted	genus	Platyoplus	Tinkham, 1973
+8P2ZC	8PS57	accepted	genus	Zacycloptera	Caudell, 1907
+8NVQJ	8PS57	accepted	genus	Nanodectes	Rentz, 1985
+8NR79	8PS57	accepted	genus	Elasmocercus	Chopard, 1943
+8NLFD	8PS57	accepted	genus	Acrodectes	Rehn & Hebard, 1920
+8NRQG	8PS57	accepted	genus	Evergoderes	Bolívar, 1936
+8NQB7	8PS57	accepted	genus	Hubbellia	Hebard, 1927
+8NRRZ	8PS57	accepted	genus	Farsodecticus	Mirzayans, 1991
+8NSRL	8PS57	accepted	genus	Hyphinomos	Uvarov, 1921
+8NLYN	8PS57	accepted	genus	Apote	Scudder, 1897
+8NZP2	8PS57	accepted	genus	Sureyaella	Uvarov, 1934
+8NPCN	8PS57	accepted	genus	Tettigonia	Linnaeus, 1758
+8NMVR	8PS57	accepted	genus	Capnobotes	Scudder, 1897
+8NLYM	8PS57	accepted	genus	Amphiestris	Fieber, 1853
+8NM73	8PS57	accepted	genus	Ateloplus	Scudder, 1894
+8NRX7	8PT5R	accepted	genus	Gampsocleis	Fieber, 1852
+8P2MP	8PT5R	accepted	genus	Uvarovites	Tarbinsky, 1932
+8PT5Q	8PT5R	synonym	tribe	Gampsoclees	Brunner von Wattenwyl, 1893
+BSH2S	8NNDY	accepted	species	Bolua balikesirensis	Uluar & Çıplak, 2022
+5WNXX	8NNDY	accepted	species	Bolua turkiyae	Ünal, 1999
+BSH2T	8NNDY	accepted	species	Bolua bursaensis	Uluar & Çıplak, 2022
+8P326	8PT3Y	accepted	genus	Zagrosiella	Mirzayans, 1991
+8NSY3	8PT3Y	accepted	genus	Iranusa	Uvarov, 1942
+8NT4D	8PT3Y	accepted	genus	Kansua	Uvarov, 1933
+8PT3X	8PT3Y	synonym	tribe	Drymadusae	Uvarov, 1924
+8NX3Q	8PT3Y	accepted	genus	Paratlanticus	Ramme, 1939
+8NR3P	8PT3Y	accepted	genus	Drymadusa	Stein, 1860
+8NRL7	8PT3Y	accepted	genus	Eulithoxenus	Bey-Bienko, 1951
+8NVHX	8PT3Y	accepted	genus	Mixodusa	Stolyarov, 1994
+8NM2H	8PT3Y	accepted	genus	Anadolua	Ramme, 1939
+8NXDF	8PT3Y	accepted	genus	Pezodrymadusa	Karabag, 1961
+8NM7F	8PT3Y	accepted	genus	Atlanticus	Scudder, 1894
+8NM3D	8PT3Y	accepted	genus	Anatlanticus	Bey-Bienko, 1951
+8NLLV	8PT3Y	accepted	genus	Afrodrymadusa	Ramme, 1939
+8NRQV	8PT3Y	accepted	genus	Exodrymadusa	Karabag, 1961
+8NP76	8PT3Y	accepted	genus	Ceraeocercus	Uvarov, 1910
+8NXLT	8PT3Y	accepted	genus	Phytodrymadusa	Ramme, 1939
+8NNBD	8PT3Y	accepted	genus	Bienkoxenus	Cejchan, 1968
+8NN7J	8PT3Y	accepted	genus	Bergiola	Stshelkanovtzev, 1910
+8NM2J	8PT3Y	accepted	genus	Anadrymadusa	Karabag, 1961
+8NQNX	8PT3Y	accepted	genus	Delodusa	Stolyarov, 1994
+8PVDT	8PT3Y	accepted	genus	Sichuana	Yin & Shen, 2020
+8NR3R	8PT3Y	accepted	genus	Drymapedes	Bey-Bienko, 1967
+8NTGN	8PT3Y	accepted	genus	Leptodusa	Stolyarov, 1994
+9GTVC	8PT3Y	accepted	genus	Ptosoproctus	Shen, Yin & He, 2021
+8NTMJ	8PT3Y	accepted	genus	Lithoxenus	Bey-Bienko, 1951
+8NVKM	8PT3Y	accepted	genus	Mongolodectes	Bey-Bienko, 1951
+8NNTG	8PT3Y	accepted	genus	Calopterusa	Uvarov, 1942
+8NR3Q	8PT3Y	accepted	genus	Drymadusella	Ramme, 1939
+8NW3S	8PT3Y	accepted	genus	Novadrymadusa	Demirsoy, Salman & Sevgili, 2002
+8NWS4	8PT3Y	accepted	genus	Paradrymadusa	Herman, 1874
+8P2MK	8PT3Y	accepted	genus	Uvarovina	Ramme, 1939
+8NVCP	8PT3Y	accepted	genus	Microdrymadusa	Bey-Bienko, 1967
+8NZ2T	8PT3Y	accepted	genus	Scotodrymadusa	Ramme, 1939
+8NTMD	8PT3Y	accepted	genus	Lithodusa	Bey-Bienko, 1951
+8NLXT	8PT3Y	accepted	genus	Ammoxenulus	Bey-Bienko, 1951
+8NZS4	8PT3Y	accepted	genus	Tadzhikia	Mistshenko, 1954
+8NRSJ	8PT3Y	accepted	genus	Ferganusa	Uvarov, 1926
+8PSXL	8PT3Y	synonym	tribe	Bergiolini	Storozhenko, 1994
+8NQDM	8PT2K	accepted	genus	Ctenodecticus	Bolívar, 1877
+8PT2J	8PT2K	synonym	tribe	Ctenodectees	Caudell, 1908
+8NVH9	8PT2K	accepted	genus	Miramiola	Uvarov, 1939
+8NS3H	8PT67	accepted	genus	Glyphonotus	Redtenbacher, 1889
+8PT66	8PT67	synonym	tribe	Glyphonotinae	Tarbinsky, 1932
+8NY3B	8PT67	accepted	genus	Psalmatophanes	Chopard, 1938
+8NPK8	8PT67	accepted	genus	Chlorodectes	Rentz, 1985
+8NNSH	8PT67	accepted	genus	Calliphona	Krauss, 1892
+8PT68	8PT67	synonym	tribe	Glyphontini	Tarbinsky, 1932
+8NV8C	8PT67	accepted	genus	Metaballus	Herman, 1874
+8NR6G	8PT67	accepted	genus	Ectopistidectes	Rentz, 1985
+8P34G	8PSWW	accepted	genus	Zuludectes	Rentz, 1988
+8NMPH	8PSWW	accepted	genus	Arytropteris	Herman, 1874
+8PSWT	8PSWW	synonym	tribe	Arytropterees	Caudell, 1908
+8NVQ3	8PSWW	accepted	genus	Namaquadectes	Rentz, 1988
+8P2B4	8PSWW	accepted	genus	Transkeidectes	Naskrecki, 1992
+8NP84	8PSWW	accepted	genus	Ceresia	Uvarov, 1928
+8NLQ5	8PSWW	accepted	genus	Alfredectes	Rentz, 1988
+8PSWV	8PSWW	synonym	tribe	Arytropteres	Caudell, 1908
+8PVGX	8PSWW	accepted	genus	Toliaridectes	Hugel, 2019
+8NM37	8PSWW	accepted	genus	Anarytropteris	Uvarov, 1924
+8P257	8PSWW	accepted	genus	Thoracistus	Pictet, 1888
+8NPJ5	8PTBQ	accepted	genus	Chinnandectes	Rentz, 1985
+8NLN5	8PTBQ	accepted	genus	Aglaothorax	Caudell, 1907
+8NM9Q	8PTBQ	accepted	genus	Antipodectes	Rentz, 1985
+8NYMK	8PTBQ	accepted	genus	Rhachidorus	Herman, 1874
+8NN45	8PTBQ	accepted	genus	Barraza	Koçak & Kemal, 2008
+8NRRQ	8PTBQ	accepted	genus	Falcidectes	Rentz & Gurney, 1985
+8NTBN	8PTBQ	accepted	genus	Lanciana	Walker, 1869
+8PTBP	8PTBQ	synonym	tribe	Nedubinae	Gorochov, 1988
+8NXP3	8PTBQ	accepted	genus	Platydecticus	Chopard, 1951
+8NXLJ	8PTBQ	accepted	genus	Phymonotus	Lightfoot, Weissman & Ueshima, 2011
+8NSZQ	8PTBQ	accepted	genus	Ixalodectes	Rentz, 1985
+8P2TQ	8PTBQ	accepted	genus	Xederra	Ander, 1938
+8NQRL	8PTBQ	accepted	genus	Dexerra	Walker, 1869
+8NW8N	8PTBQ	accepted	genus	Oligodectoides	Rentz, 1985
+8P25S	8PTBQ	accepted	genus	Throscodectes	Rentz, 1985
+8NXPB	8PTBQ	accepted	genus	Platyproctidectes	Rentz, 1985
+8NSXP	8PTBQ	accepted	genus	Neduba	Walker, 1869
+8P2YH	8PTBQ	accepted	genus	Xyrdectes	Rentz & Gurney, 1985
+8NW8L	8PTBQ	accepted	genus	Oligodectes	Rentz, 1985
+8NMGY	8PTBQ	accepted	genus	Apteropedetes	Rentz, 1979
+8NS2M	8PTBQ	accepted	genus	Glenbalodectes	Rentz, 1985
+8NX4K	8PTG8	accepted	genus	Plagiostira	Scudder, 1876
+8NQDK	8PTGF	accepted	genus	Idiostatus	Pictet, 1888
+8NN85	8PTGF	accepted	genus	Clinopleura	Scudder, 1894
+8NYJX	8PTGF	accepted	genus	Rammeola	Uvarov, 1934
+8NPJS	8PTGF	accepted	genus	Chizuella	Furukawa, 1950
+8NLTJ	8PTGF	accepted	genus	Anabrus	Haldeman, 1852
+8NXQD	8PTGF	accepted	genus	Plicigastra	Uvarov, 1940
+8NRSN	8PTGF	accepted	genus	Festella	Giglio-Tos, 1894
+8NW97	8PTGF	accepted	genus	Peranabrus	Scudder, 1894
+8NMX3	8PTGF	accepted	genus	Austrodectes	Rentz, 1985
+8NM8X	8PTGF	accepted	genus	Antaxius	Brunner von Wattenwyl, 1882
+8NWCR	8PTGF	accepted	genus	Petropedes	Tinkham, 1972
+8NSHH	8PTGF	accepted	genus	Hermoniana	Broza, Ayal & Pener, 2004
+8NW5C	8PTGF	accepted	genus	Pediodectes	Rehn & Hebard, 1916
+8NPHS	8PTGF	accepted	genus	Eremopedes	Scudder, 1897
+8P2Z3	8PTGF	accepted	genus	Yersinella	Ramme, 1933
+8NNR7	8PTGF	accepted	genus	Decticita	Hebard, 1939
+8PTJJ	8PTGF	synonym	tribe	Rhacoclees	Brunner von Wattenwyl, 1893
+8NLLJ	8PTGF	accepted	genus	Afghanoptera	Ramme, 1952
+8NYMQ	8PTGF	accepted	genus	Rhacocleis	Fieber, 1853
+8NZGR	8PTGF	accepted	genus	Steiroxys	Herman, 1874
+8P2PX	8PTGF	accepted	genus	Vichetia	Harz, 1969
+8NYYG	8PTGF	accepted	genus	Schizonotinus	Ramme, 1948
+BVCZP	8PTGF	accepted	infratribe	Metrioptera	Zeuner, 1941
+8NSSL	8PTGF	accepted	genus	Hypsopedes	Bey-Bienko, 1951
+8NLWJ	8PTGF	accepted	genus	Amedegnatiana	Massa & Fontana, 2011
+8NNN2	8PTGF	accepted	genus	Bucephaloptera	Ebner, 1923
+8NRC7	8PTGF	accepted	genus	Eobiana	Bey-Bienko, 1949
+8PTGD	8PTGF	synonym	tribe	Platyclees	Brunner von Wattenwyl, 1893
+8NVJF	8PTGF	accepted	genus	Modestana	Beier, 1955
+BSGD9	8PTGF	accepted	infratribe	Platycleis	Brunner von Wattenwyl, 1893
+8NT7G	8PTGF	accepted	genus	Koroglus	Ünal, 2002
+8NMNZ	8PTGF	accepted	genus	Broughtonia	Harz, 1969
+8NYCM	8PTGF	accepted	genus	Pterolepis	Rambur, 1838
+8NWKZ	8PTGF	accepted	genus	Pachytrachis	Uvarov, 1940
+8NM92	8PTGF	accepted	genus	Anterastes	Brunner von Wattenwyl, 1882
+8NMM6	8PTGF	accepted	genus	Ariagona	Krauss, 1892
+8NYWB	8PTGF	accepted	genus	Sardoplatycleis	Massa & Fontana, 2011
+8NXVJ	8PTGF	accepted	genus	Pravdiniana	Sergeev & Pokivajlov, 1992
+8NQNC	8PTGF	accepted	genus	Decticoides	Ragge, 1977
+8NQFM	8PTGF	accepted	genus	Inyodectes	Rentz & Birchim, 1968
+8NM82	8PTGF	accepted	genus	Anonconotus	Camerano, 1878
+8NYJH	8PTGF	accepted	genus	Raggeana	Pener, Broza & Ayal, 1971
+8PTJK	8PTGF	synonym	tribe	Rhacocleidini	Brunner von Wattenwyl, 1893
+6DM2K	46HKQ	synonym	species	Drymadusa mokanshanensis	Caudell, 1921
+49J45	8NW9P	accepted	species	Onconotus laxmanni	(Pallas, 1771)
+49J48	8NW9P	accepted	species	Onconotus servillei	Fischer von Waldheim, 1846
+6CGV4	8NQNF	accepted	species	Decticus verrucivorus	(Linnaeus, 1758)
+6CGTR	8NQNF	accepted	species	Decticus aprutianus	Capra, 1936
+6CF9F	8NQNF	accepted	species	Decticus albifrons	(Fabricius, 1775)
+6CH69	8NQNF	accepted	species	Decticus loudoni	Ramme, 1933
+6CH5K	8NQNF	accepted	species	Decticus nigrescens	Tarbinsky, 1930
+8PY7H	8NQNF	accepted	species	Decticus extinctus	(Germar, 1837)
+8PS8S	8NQNF	accepted	species	Decticus umbraceus	Frič, 1869
+8NNR6	8NQNF	synonym	genus	Dectes	Serville, 1831
+6CF9G	8NQNF	accepted	species	Decticus annaelisae	Ramme, 1929
+8PRG5	8NXJ4	synonym	genus	Thamnotrizon	Fischer, 1853
+4GLT9	8NXJ4	accepted	species	Pholidoptera littoralis	(Fieber, 1853)
+4GLTW	8NXJ4	accepted	species	Pholidoptera tartara	(Saussure, 1874)
+4GLSQ	8NXJ4	accepted	species	Pholidoptera fallax	(Fischer, 1853)
+4GLTK	8NXJ4	accepted	species	Pholidoptera pustulipes	(Motschulsky, 1846)
+8PVR4	8NXJ4	synonym	subgenus	Decticus (Pholidoptera)	Wesmaël, 1838
+4GLSL	8NXJ4	accepted	species	Pholidoptera dalmatica	(Krauss, 1879)
+4GLT3	8NXJ4	accepted	species	Pholidoptera kalandadzei	Kartsivadze, 1949
+4GLSR	8NXJ4	accepted	species	Pholidoptera femorata	(Fieber, 1853)
+4GLST	8NXJ4	accepted	species	Pholidoptera frivaldszkyi	(Herman, 1871)
+8PQFB	8NXJ4	synonym	genus	Olynthoscelis	Fischer von Waldheim, 1839
+4GLSM	8NXJ4	accepted	species	Pholidoptera ebneri	Ramme, 1931
+4GLTY	8NXJ4	accepted	species	Pholidoptera transsylvanica	(Fischer, 1853)
+6VBNJ	8NXJ4	accepted	species	Pholidoptera lucasi	Willemse, 1976
+8PMH3	8NXJ4	synonym	genus	Micropteryx	Stephens, 1835
+4GLS9	8NXJ4	accepted	species	Pholidoptera aptera	(Fabricius, 1793)
+4GLSB	8NXJ4	accepted	species	Pholidoptera augustae	Tarbinsky, 1940
+4GLTS	8NXJ4	accepted	species	Pholidoptera stankoi	Karaman, 1960
+4GLSF	8NXJ4	accepted	species	Pholidoptera brevipes	Ramme, 1939
+C84CS	8NXJ4	accepted	species	Pholidoptera griseoaptera	(DeGeer, 1773)
+4GLTM	8NXJ4	accepted	species	Pholidoptera rhodopensis	Maran, 1953
+4GLTC	8NXJ4	accepted	species	Pholidoptera macedonica	Ramme, 1928
+8QKRV	8QK54	accepted	species	Aparapholidoptera kosswigi	(Karabag, 1950)
+8QK42	8QK54	accepted	species	Aparapholidoptera ziganensis	(Karabag, 1964)
+8QKCL	8QK54	accepted	species	Aparapholidoptera distincta	(Uvarov, 1921)
+8QJDK	8QK54	accepted	species	Aparapholidoptera karabagi	(Demirsoy, 1974)
+4D8DG	8NWYR	accepted	species	Parapholidoptera punctifrons	(Burmeister, 1838)
+4D8DJ	8NWYR	accepted	species	Parapholidoptera signata	(Brunner von Wattenwyl, 1861)
+4D8DM	8NWYR	accepted	species	Parapholidoptera willemsei	Katbeh-Bader & Massa, 2001
+4D8DF	8NWYR	accepted	species	Parapholidoptera noxia	(Ramme, 1930)
+8Q2W2	8NWYR	accepted	species	Parapholidoptera yarpuzi	Ünal, 2018
+4D8DH	8NWYR	accepted	species	Parapholidoptera salmani	Çıplak, 2000
+8PKNV	8NWYR	ambiguous synonym	species	Thamnotrizon castaneoviridis	Çıplak, 2000
+4D8DK	8NWYR	accepted	species	Parapholidoptera spinulosa	Karabag, 1956
+4D8DC	8NWYR	accepted	species	Parapholidoptera kalashiani	Massa, Buzzetti & Fontana, 2009
+4D8D4	8NWYR	accepted	species	Parapholidoptera bolkarensis	Çıplak, 2000
+4D8D9	8NWYR	accepted	species	Parapholidoptera georgiae	Massa, Buzzetti & Fontana, 2009
+4D8D8	8NWYR	accepted	species	Parapholidoptera flexuosa	Karabag, 1961
+4D8CZ	8NWYR	accepted	species	Parapholidoptera antaliae	Nadig, 1991
+6TQY3	8NWYR	accepted	species	Parapholidoptera grandis	(Karabag, 1952)
+8Q2VY	8NWYR	accepted	species	Parapholidoptera indistincta	(Bolívar, 1899)
+4D8D5	8NWYR	accepted	species	Parapholidoptera castaneoviridis	(Brunner von Wattenwyl, 1882)
+4D8DN	8NWYR	accepted	species	Parapholidoptera yoruka	Çıplak, 2000
+4D8DL	8NWYR	accepted	species	Parapholidoptera syriaca	(Ramme, 1930)
+4D8D2	8NWYR	accepted	species	Parapholidoptera belen	Ünal, 2006
+8NWYQ	8NWYR	synonym	genus	Parapholidoptera	Ramme, 1951
+8QJSS	8QHTJ	accepted	species	Spinopholidoptera guichardi	(Karabag, 1961)
+7F65G	8P2MN	accepted	species	Uvarovistia satunini	(Uvarov, 1916)
+7F5TF	8P2MN	accepted	species	Uvarovistia zebra	(Uvarov, 1916)
+7F5TH	8P2MN	accepted	species	Uvarovistia bakhtiara	(Uvarov, 1934)
+8QJC8	8P2MN	accepted	species	Uvarovistia munzurensis	Uluar & Yahyaoğlu, 2021
+BSQG5	8P2MN	synonym	subgenus	Uvarovistia (Uvarovistia)	Maran, 1953
+7F65H	8P2MN	accepted	species	Uvarovistia iraka	(Uvarov, 1934)
+9GMVM	8P2MN	synonym	genus	Uvarovistia	Ramme, 1951
+3DP22	8NRR4	accepted	species	Exopholidoptera brevifemora	Ünal, 1998
+4PLSF	8NYCH	accepted	species	Psorodonotus illyricus	Ebner, 1923
+4PLSB	8NYCH	accepted	species	Psorodonotus ebneri	Karabag, 1952
+4PLST	8NYCH	accepted	species	Psorodonotus tendurek	Kaya, Korkmaz & Çıplak, 2013
+4PLS9	8NYCH	accepted	species	Psorodonotus caucasicus	(Fischer von Waldheim, 1846)
+4PLSV	8NYCH	accepted	species	Psorodonotus venosus	(Fischer von Waldheim, 1839)
+4PLSD	8NYCH	accepted	species	Psorodonotus giresun	Kaya & Çıplak, 2014
+8PR7G	8NYCH	synonym	genus	Semenovites	Tarbinsky, 1932
+4PLSG	8NYCH	accepted	species	Psorodonotus inflatus	Uvarov, 1912
+4PLSN	8NYCH	accepted	species	Psorodonotus salmani	Ünal, 2013
+8NX87	8NYCH	synonym	genus	Peltastes	Fischer von Waldheim, 1839
+4PLSM	8NYCH	accepted	species	Psorodonotus rugulosus	Karabag, 1952
+6WJYJ	8NYCH	accepted	species	Psorodonotus davisi	Karabag, 1957
+4PLSP	8NYCH	accepted	species	Psorodonotus soganli	Ünal, 2013
+4PLS7	8NYCH	accepted	species	Psorodonotus anatolicus	Karabag, 1952
+8PVR5	8NYCH	synonym	subgenus	Decticus (Psorodonotus)	Brunner von Wattenwyl, 1861
+4PLSS	8NYCH	accepted	species	Psorodonotus suphani	Taylan & Sirin, 2014
+8PGSC	8NYCH	synonym	species	Peltastes venosus	Kaya, Korkmaz & Çıplak, 2013
+4PLSH	8NYCH	accepted	species	Psorodonotus macedonicus	Ramme, 1931
+78JYJ	8NYCH	accepted	species	Psorodonotus hakkari	Kaya, Korkmaz & Çıplak, 2013
+4PLSQ	8NYCH	accepted	species	Psorodonotus specularis	(Fischer von Waldheim, 1839)
+4PLSC	8NYCH	accepted	species	Psorodonotus fieberi	(Frivaldszky, 1853)
+FJFT	8NMD3	accepted	species	Apholidoptera pietschmanni	(Ebner, 1912)
+9GLPN	8NMD3	synonym	genus	Apholidoptera	Ramme, 1951
+FJFS	8NMD3	accepted	species	Apholidoptera kurda	(Uvarov, 1916)
+3CMKM	8NRMS	accepted	species	Eupholidoptera kykladica	Heller, Willemse & Willemse, 2009
+3CMK2	8NRMS	accepted	species	Eupholidoptera cypria	Ramme, 1951
+6GZD3	8NRMS	accepted	species	Eupholidoptera astyla	(Ramme, 1927)
+3CMKV	8NRMS	accepted	species	Eupholidoptera mariannae	Willemse & Heller, 2001
+BT2D3	8NRMS	accepted	species	Eupholidoptera francisae	Tilmans & Odé, 2023
+6GZCX	8NRMS	accepted	species	Eupholidoptera marashensis	Salman, 1983
+3CML2	8NRMS	accepted	species	Eupholidoptera pallipes	Willemse & Kruseman, 1976
+3CMKX	8NRMS	accepted	species	Eupholidoptera mersinensis	Salman, 1983
+3CMK4	8NRMS	accepted	species	Eupholidoptera demirsoyi	Salman, 1983
+3CMJY	8NRMS	accepted	species	Eupholidoptera chabrieri	(Charpentier, 1825)
+3CMLG	8NRMS	accepted	species	Eupholidoptera tyrrhenica	Allegrucci, Massa, Trasatti & Sbordoni, 2014
+8PYV8	8NRMS	accepted	species	Eupholidoptera gocmeni	Ünal, 2019
+3CMK5	8NRMS	accepted	species	Eupholidoptera epirotica	(Ramme, 1927)
+3CMJZ	8NRMS	accepted	species	Eupholidoptera cretica	Ramme, 1951
+3CML9	8NRMS	accepted	species	Eupholidoptera smyrnensis	(Brunner von Wattenwyl, 1882)
+3CMLB	8NRMS	accepted	species	Eupholidoptera tahtalica	(Uvarov, 1949)
+6GZCS	8NRMS	accepted	species	Eupholidoptera garganica	La Greca, 1959
+BT2D4	8NRMS	accepted	species	Eupholidoptera marietheresae	Willemse & Kotitsa, 2023
+C4BF4	8NRMS	accepted	species	Eupholidoptera kekrops	Alexiou, 2024
+3CMKG	8NRMS	accepted	species	Eupholidoptera jacquelinae	Tilmans, 2002
+8PQHX	8NRMS	synonym	genus	Pachytrachelurus	Giglio-Tos, 1914
+6GZD9	8NRMS	accepted	species	Eupholidoptera spinigera	(Ramme, 1930)
+3CMLC	8NRMS	accepted	species	Eupholidoptera tasheliensis	Çıplak, 1999
+3CML7	8NRMS	accepted	species	Eupholidoptera schmidti	(Fieber, 1861)
+8PYVB	8NRMS	accepted	species	Eupholidoptera singularis	Ünal, 2018
+3CMKD	8NRMS	accepted	species	Eupholidoptera helina	Çıplak, 2009
+3CML4	8NRMS	accepted	species	Eupholidoptera prasina	(Brunner von Wattenwyl, 1882)
+3CMKZ	8NRMS	accepted	species	Eupholidoptera palaestinensis	(Ramme, 1939)
+6GZCY	8NRMS	accepted	species	Eupholidoptera tucherti	Harz, 1988
+8PWDK	8NRMS	synonym	subgenus	Uvarovistia (Karabagia)	Harz, 1969
+3CMLK	8NRMS	accepted	species	Eupholidoptera werneri	Ramme, 1951
+3CMKF	8NRMS	accepted	species	Eupholidoptera icariensis	Willemse, 1980
+3CMK9	8NRMS	accepted	species	Eupholidoptera forcipata	Willemse & Kruseman, 1976
+3CMLH	8NRMS	accepted	species	Eupholidoptera unimacula	Karabag, 1956
+3CMKB	8NRMS	accepted	species	Eupholidoptera gemellata	Willemse & Kruseman, 1976
+3CML3	8NRMS	accepted	species	Eupholidoptera peneri	Kaltenbach, 1969
+3CMJX	8NRMS	accepted	species	Eupholidoptera cephalonica	Willemse & Willemse, 2004
+3CMK6	8NRMS	accepted	species	Eupholidoptera excisa	(Karabag, 1952)
+3CMJQ	8NRMS	accepted	species	Eupholidoptera akdeniz	Ünal & Naskrecki, 2002
+3CMKC	8NRMS	accepted	species	Eupholidoptera giuliae	Massa, 1999
+3CMJW	8NRMS	accepted	species	Eupholidoptera bimucronata	(Ramme, 1927)
+8NRMR	8NRMS	synonym	genus	Eupholidoptera	Ramme, 1951
+3CMLD	8NRMS	accepted	species	Eupholidoptera tauricola	(Ramme, 1930)
+3CMJR	8NRMS	accepted	species	Eupholidoptera anatolica	(Ramme, 1930)
+3CMKL	8NRMS	accepted	species	Eupholidoptera krueperi	(Ramme, 1930)
+3CMKR	8NRMS	accepted	species	Eupholidoptera lyra	(Uvarov, 1942)
+3CMKN	8NRMS	accepted	species	Eupholidoptera latens	Willemse & Kruseman, 1976
+3CMKQ	8NRMS	accepted	species	Eupholidoptera leucasi	Willemse, 1980
+3CMK3	8NRMS	accepted	species	Eupholidoptera danconai	La Greca, 1959
+6GZD4	8NRMS	accepted	species	Eupholidoptera hesperica	La Greca, 1959
+3CMJS	8NRMS	accepted	species	Eupholidoptera annamariae	Nadig, 1985
+3CMKP	8NRMS	accepted	species	Eupholidoptera ledereri	(Fieber, 1861)
+3CML8	8NRMS	accepted	species	Eupholidoptera sevketi	(Ramme, 1933)
+3CMKW	8NRMS	accepted	species	Eupholidoptera megastyla	(Ramme, 1939)
+3CMKH	8NRMS	accepted	species	Eupholidoptera karabagi	Salman, 1983
+3CMK8	8NRMS	accepted	species	Eupholidoptera feri	Koçak & Kemal, 2010
+3CMKS	8NRMS	accepted	species	Eupholidoptera magnifica	(Costa, 1863)
+3CMLJ	8NRMS	accepted	species	Eupholidoptera uvarovi	(Karabag, 1952)
+3CMJT	8NRMS	accepted	species	Eupholidoptera annulipes	(Brunner von Wattenwyl, 1882)
+33N89	8NNN5	accepted	species	Cyrtophyllicus chlorum	Hebard, 1908
+56S43	8P25Z	accepted	species	Thyreonotus bidens	(Bolívar, 1887)
+56S44	8P25Z	accepted	species	Thyreonotus corsicus	Rambur, 1838
+8PVHF	8P25Z	synonym	genus	Tyreonotus	Serville, 1838
+3YMWM	8NV35	accepted	species	Medecticus assimilis	(Fieber, 1853)
+3YMWN	8NV35	accepted	species	Medecticus goliath	Uvarov, 1923
+3PD93	8NQDH	accepted	species	Idionotus siskiyou	Hebard, 1934
+3PD8Z	8NQDH	accepted	species	Idionotus lundgreni	Rentz & Birchim, 1968
+3PD97	8NQDH	accepted	species	Idionotus tuolumne	Hebard, 1934
+3PD8X	8NQDH	accepted	species	Idionotus brunneus	Scudder, 1901
+3PD92	8NQDH	accepted	species	Idionotus similis	Caudell, 1934
+3PD96	8NQDH	accepted	species	Idionotus tehachapi	Hebard, 1934
+3PD8Y	8NQDH	accepted	species	Idionotus incurvus	Rentz & Birchim, 1968
+782PL	8NX7G	accepted	species	Platyoplus gilaensis	Tinkham, 1973
+7GBSP	8P2ZC	accepted	species	Zacycloptera atripennis	Caudell, 1907
+8PVJB	8P2ZC	synonym	genus	Zycloptera	Caudell, 1907
+45MYC	8NVQJ	accepted	species	Nanodectes bulbicercus	Rentz, 1985
+45MYD	8NVQJ	accepted	species	Nanodectes dooloides	Rentz, 1985
+73SLN	8NVQJ	accepted	species	Nanodectes dooloo	Rentz, 1985
+45MYB	8NVQJ	accepted	species	Nanodectes brachyurus	Rentz, 1985
+45MYK	8NVQJ	accepted	species	Nanodectes veprephila	Rentz, 1985
+45MYF	8NVQJ	accepted	species	Nanodectes gladiator	Rentz, 1985
+45MYH	8NVQJ	accepted	species	Nanodectes platycercus	Rentz, 1985
+45MYG	8NVQJ	accepted	species	Nanodectes harpax	Rentz, 1985
+45MYJ	8NVQJ	accepted	species	Nanodectes triodiae	Rentz, 1985
+394LN	8NR79	accepted	species	Elasmocercus minusculus	(Bolívar, 1908)
+8PPDT	8NR79	synonym	genus	Elasmocerus	Chopard, 1943
+394LM	8NR79	accepted	species	Elasmocercus bolivari	Chopard, 1943
+9M6Q	8NLFD	accepted	species	Acrodectes philopagus	Rehn & Hebard, 1920
+6HLVD	8NRQG	accepted	species	Evergoderes cabrerai	Bolívar, 1936
+3MSCP	8NQB7	accepted	species	Hubbellia marginifera	(Walker, 1869)
+3DVKN	8NRRZ	accepted	species	Farsodecticus abaicus	Mirzayans, 1991
+8PV4J	8NSRL	synonym	genus	Hypsinomus	Uvarov, 1921
+6MQ43	8NSRL	accepted	species	Hyphinomos fasciata	Uvarov, 1921
+3NS3V	8NSRL	accepted	species	Hyphinomos svenhedini	Ramme, 1950
+FVKS	8NLYN	accepted	species	Apote notabilis	Scudder, 1897
+FVKT	8NLYN	accepted	species	Apote robusta	Caudell, 1907
+7B5YS	8NZP2	accepted	species	Sureyaella bella	Uvarov, 1934
+8PQQH	8NPCN	synonym	genus	Phasgonura	Stephens, 1835
+55VG4	8NPCN	accepted	species	Tettigonia balcanica	Chobanov & Lemonnier-Darcemont, 2014
+BSG8V	8NPCN	synonym	subgenus	Locusta (Locusta)	Fabricius, 1775
+55VSP	8NPCN	accepted	species	Tettigonia hispanica	(Bolívar, 1893)
+8Q4F6	8NPCN	accepted	species	Tettigonia salmiaefolia	(Lichtenstein, 1796)
+BV6YN	8NPCN	synonym	subgenus	Gryllus (Phasgonurus)	Stephens, 1835
+8PKMM	8NPCN	accepted	species	Tettigonia quadrimaculata	(Lichtenstein, 1796)
+55VMX	8NPCN	accepted	species	Tettigonia dolichoptera	Mori, 1933
+8Q4F7	8NPCN	accepted	species	Tettigonia sima	(Lichtenstein, 1796)
+8Q4F2	8NPCN	accepted	species	Tettigonia catoptrica	(Lichtenstein, 1796)
+55WCQ	8NPCN	accepted	species	Tettigonia uvarovi	Ebner, 1946
+7BTZW	8NPCN	accepted	species	Tettigonia jungi	Storozhenko, Kim & Jeon, 2015
+9GTYY	8NPCN	accepted	species	Tettigonia savignyi	(Lucas, 1847)
+8Q4F9	8NPCN	accepted	species	Tettigonia triglina	(Lichtenstein, 1796)
+8Q4F4	8NPCN	accepted	species	Tettigonia conica	(Lichtenstein, 1796)
+55VSY	8NPCN	accepted	species	Tettigonia ibuki	Furukawa, 1938
+8NTNQ	8NPCN	synonym	genus	Locusta	Fabricius, 1775
+55WC6	8NPCN	accepted	species	Tettigonia tsushimensis	Ogawa, 2003
+8PKM7	8NPCN	accepted	species	Tettigonia atrata	(Lichtenstein, 1796)
+8Q4DY	8NPCN	accepted	species	Tettigonia asina	(Lichtenstein, 1796)
+55VH8	8NPCN	accepted	species	Tettigonia bricei	Greenwalt & Rust, 2014
+8PKMH	8NPCN	accepted	species	Tettigonia krugeri	Massa, 1998
+55VF7	8NPCN	accepted	species	Tettigonia armeniaca	Tarbinsky, 1940
+55WCP	8NPCN	accepted	species	Tettigonia ussuriana	Uvarov, 1939
+7BTLY	8NPCN	accepted	species	Tettigonia yama	Furukawa, 1938
+55VW5	8NPCN	accepted	species	Tettigonia longispina	Ingrisch, 1983
+55VHW	8NPCN	accepted	species	Tettigonia caudata	(Charpentier, 1845)
+55VHL	8NPCN	accepted	species	Tettigonia cantans	(Fuessly, 1775)
+8Q4F5	8NPCN	accepted	species	Tettigonia ocymifolia	(Lichtenstein, 1796)
+55VWV	8NPCN	accepted	species	Tettigonia macroxipha	(Bolívar, 1914)
+55WDR	8NPCN	accepted	species	Tettigonia viridissima	(Linnaeus, 1758)
+55VWT	8NPCN	accepted	species	Tettigonia macrocephalus	(Fischer von Waldheim, 1846)
+55W2C	8NPCN	accepted	species	Tettigonia orientalis	Uvarov, 1924
+55W95	8NPCN	accepted	species	Tettigonia silana	Capra, 1936
+8PVVZ	8NPCN	synonym	subgenus	Gryllus (Tettigonia)	Linnaeus, 1758
+55VJ9	8NPCN	accepted	species	Tettigonia chinensis	Willemse, 1933
+8Q4DZ	8NPCN	accepted	species	Tettigonia bracteata	(Lichtenstein, 1796)
+8PPHR	8NPCN	synonym	genus	Eumenymus	Pictet, 1888
+55VJB	8NPCN	accepted	species	Tettigonia chitralensis	Sultana, Panhwar & Wagan, 2015
+QQW3	8NMVR	accepted	species	Capnobotes attenuatus	Rentz & Birchim, 1968
+QQW4	8NMVR	accepted	species	Capnobotes bruneri	Scudder, 1897
+QQW7	8NMVR	accepted	species	Capnobotes imperfectus	Rehn, 1900
+8PN45	8NMVR	synonym	genus	Anoplodusa	Caudell, 1907
+QQW5	8NMVR	accepted	species	Capnobotes fuliginosus	(Thomas, 1872)
+QQWB	8NMVR	accepted	species	Capnobotes unodontus	Rentz & Birchim, 1968
+QQW6	8NMVR	accepted	species	Capnobotes granti	Rentz & Birchim, 1968
+8PTY6	8NMVR	synonym	genus	Capnobates	Scudder, 1897
+699JY	8NMVR	accepted	species	Capnobotes spatulatus	Rentz & Birchim, 1968
+QQW9	8NMVR	accepted	species	Capnobotes occidentalis	(Thomas, 1872)
+QQW2	8NMVR	accepted	species	Capnobotes arizonensis	(Rehn, 1904)
+66FPV	8NLYM	accepted	species	Amphiestris baetica	(Rambur, 1838)
+J8X2	8NM73	accepted	species	Ateloplus notatus	Scudder, 1901
+J8WV	8NM73	accepted	species	Ateloplus hesperus	Hebard, 1934
+687K6	8NM73	accepted	species	Ateloplus coconino	Hebard, 1935
+J8WZ	8NM73	accepted	species	Ateloplus minor	Caudell, 1907
+J8X3	8NM73	accepted	species	Ateloplus schwarzi	Caudell, 1907
+J8X4	8NM73	accepted	species	Ateloplus splendidus	Hebard, 1934
+J8WX	8NM73	accepted	species	Ateloplus luteus	Caudell, 1907
+J8WW	8NM73	accepted	species	Ateloplus joaquin	Rentz, 1972
+6JWY9	8NRX7	accepted	species	Gampsocleis infuscata	Uvarov, 1924
+6K8YJ	8NRX7	accepted	species	Gampsocleis buergeri	(Haan, 1843)
+3F8V3	8NRX7	accepted	species	Gampsocleis mongolica	Dirsh, 1927
+6K8YB	8NRX7	accepted	species	Gampsocleis gratiosa	Brunner von Wattenwyl, 1862
+6JWYJ	8NRX7	accepted	species	Gampsocleis beybienkoi	Cejchan, 1968
+3F8VD	8NRX7	accepted	species	Gampsocleis sinensis	(Walker, 1869)
+3F8V9	8NRX7	accepted	species	Gampsocleis recticauda	Werner, 1901
+3F8VB	8NRX7	accepted	species	Gampsocleis schelkovnikovae	Adelung, 1916
+6JWYD	8NRX7	accepted	species	Gampsocleis carinata	Bey-Bienko, 1951
+6K8YM	8NRX7	accepted	species	Gampsocleis acutipennis	Karabag, 1956
+6K8YC	8NRX7	accepted	species	Gampsocleis glabra	(Herbst, 1786)
+3F8VJ	8NRX7	accepted	species	Gampsocleis ussuriensis	Adelung, 1910
+6K8YK	8NRX7	accepted	species	Gampsocleis assoi	Bolívar, 1900
+BTW2W	8NRX7	accepted	species	Gampsocleis fletcheri	(Burr, 1899)
+6K99X	8NRX7	accepted	species	Gampsocleis ryukyuensis	Yamasaki, 1982
+3F8VC	8NRX7	accepted	species	Gampsocleis sedakovii	(Fischer von Waldheim, 1846)
+8PVTZ	8NRX7	synonym	subgenus	Gampsocleis (Gampsocleodes)	Tarbinsky, 1932
+6JWYL	8NRX7	accepted	species	Gampsocleis akbari	Panhwar, Sultana & Wagan, 2017
+6JWYM	8NRX7	accepted	species	Gampsocleis abbreviata	Herman, 1874
+7F65F	8P2MP	accepted	species	Uvarovites inflatus	(Uvarov, 1924)
+7GBYY	8P326	accepted	species	Zagrosiella moralesi	Mirzayans, 1991
+3PXV6	8NSY3	accepted	species	Iranusa bampura	Uvarov, 1942
+3PXV8	8NSY3	accepted	species	Iranusa khorasana	Uvarov, 1942
+3PXV9	8NSY3	accepted	species	Iranusa uvarovi	Ünal, 2006
+3PXV7	8NSY3	accepted	species	Iranusa grisea	Ingrisch, 1996
+3R2B8	8NT4D	accepted	species	Kansua hummeli	Uvarov, 1933
+3R2B7	8NT4D	accepted	species	Kansua diebua	Liu, 2015
+4DFYF	8NX3Q	accepted	species	Paratlanticus ussuriensis	(Uvarov, 1926)
+6TS38	8NX3Q	accepted	species	Paratlanticus tsushimensis	Yamasaki, 1986
+4DFYD	8NX3Q	accepted	species	Paratlanticus palgongensis	Rentz & Miller, 1971
+8PTZZ	8NR3P	synonym	genus	Drymadura	Stein, 1860
+6DLP5	8NR3P	accepted	species	Drymadusa dorsalis	(Brullé, 1832)
+3CBQZ	8NRL7	accepted	species	Eulithoxenus mongolicus	(Uvarov, 1928)
+3CBQX	8NRL7	accepted	species	Eulithoxenus emeljanovi	Mistshenko, 1968
+43RXF	8NVHX	accepted	species	Mixodusa bocquilloni	(Uvarov, 1917)
+8Q27J	8NVHX	accepted	species	Mixodusa retusa	Ünal, 2018
+43RXG	8NVHX	accepted	species	Mixodusa siazovi	(Uvarov, 1930)
+DCSM	8NM2H	accepted	species	Anadolua davisi	Karabag, 1952
+DCSL	8NM2H	accepted	species	Anadolua burri	Karabag, 1952
+DCSP	8NM2H	accepted	species	Anadolua schwarzi	Ramme, 1939
+4FJ6N	8NXDF	accepted	species	Pezodrymadusa diffusa	(Ramme, 1951)
+4FJ6M	8NXDF	accepted	species	Pezodrymadusa angorensis	(Uvarov, 1930)
+4FJ6Y	8NXDF	accepted	species	Pezodrymadusa subinermis	Karabag, 1961
+8PVDB	8NXDF	synonym	genus	Schulmeisteri	Harz, 1992
+4FJ6Q	8NXDF	accepted	species	Pezodrymadusa indivisa	Karabag, 1961
+4FJ6L	8NXDF	accepted	species	Pezodrymadusa affinis	(Bolívar, 1899)
+4FJ6T	8NXDF	accepted	species	Pezodrymadusa kurmana	(Ramme, 1939)
+4FJ6Z	8NXDF	accepted	species	Pezodrymadusa uvarovi	Karabag, 1961
+4FJ6R	8NXDF	accepted	species	Pezodrymadusa karabagi	Ünal, 2013
+4FJ6V	8NXDF	accepted	species	Pezodrymadusa magnifica	(Werner, 1901)
+4FJ6P	8NXDF	accepted	species	Pezodrymadusa grisea	(Brunner von Wattenwyl, 1882)
+76VXZ	8NXDF	accepted	species	Pezodrymadusa lata	Karabag, 1961
+4FJ6X	8NXDF	accepted	species	Pezodrymadusa striolata	(Ramme, 1951)
+4FJ6W	8NXDF	accepted	species	Pezodrymadusa sinuata	(Ramme, 1951)
+4FJ6S	8NXDF	accepted	species	Pezodrymadusa konowi	(Bolívar, 1899)
+8Q2Z9	8NXDF	accepted	species	Pezodrymadusa dentata	Ünal, 2018
+BSL3G	8NM7F	synonym	subgenus	Atlanticus (Atlanticus)	Scudder, 1894
+8PVMC	8NM7F	accepted	subgenus	Atlanticus (Atlanticus)	Scudder, 1894
+B7ZJH	8NM7F	accepted	subgenus	Atlanticus (Sinpacificus)	Bey-Bienko, 1955
+DJ8Q	8NM3D	accepted	species	Anatlanticus koreanus	Bey-Bienko, 1951
+DJ8S	8NM3D	accepted	species	Anatlanticus longispeculi	Liu, 2015
+DJ8R	8NM3D	accepted	species	Anatlanticus liaoningensis	Liu, 2015
+DJ8T	8NM3D	accepted	species	Anatlanticus uvarovi	(Miram, 1940)
+65G3M	8NLLV	accepted	species	Afrodrymadusa fallaciosa	(Finot, 1894)
+3DNBZ	8NRQV	accepted	species	Exodrymadusa inornata	(Uvarov, 1936)
+69JHS	8NP76	accepted	species	Ceraeocercus fuscipennis	Uvarov, 1910
+77HJJ	8NXLT	accepted	species	Phytodrymadusa znojkoi	(Miram, 1938)
+4HLM9	8NXLT	accepted	species	Phytodrymadusa viridipennis	(Stshelkanovtzev, 1914)
+4HLM8	8NXLT	accepted	species	Phytodrymadusa variicercis	(Veltishchev, 1937)
+4HLM4	8NXLT	accepted	species	Phytodrymadusa longipes	(Brunner von Wattenwyl, 1882)
+4HLM5	8NXLT	accepted	species	Phytodrymadusa miramae	(Uvarov, 1929)
+4HLM6	8NXLT	accepted	species	Phytodrymadusa qazvinensis	(Chopard, 1921)
+4HLM2	8NXLT	accepted	species	Phytodrymadusa hakkarica	Karabag, 1956
+4HLLZ	8NXLT	accepted	species	Phytodrymadusa gyulaipeteri	Garai, 2002
+8PTXK	8NNBD	synonym	genus	Bienkoixenus	Cejchan, 1968
+LSX2	8NNBD	accepted	species	Bienkoxenus mongolicus	Mistshenko, 1968
+8PTXJ	8NNBD	synonym	genus	Bienkoixenus	
+LSWZ	8NNBD	accepted	species	Bienkoxenus gobiensis	(Bey-Bienko, 1951)
+LSX3	8NNBD	accepted	species	Bienkoxenus transaltaicus	Podgornaya & Gorochov, 1989
+LSWY	8NNBD	accepted	species	Bienkoxenus beybienkoi	(Stebaev, 1964)
+LKWL	8NN7J	accepted	species	Bergiola persica	Uvarov, 1928
+LKWC	8NN7J	accepted	species	Bergiola balchaschica	(Stshelkanovtzev, 1907)
+LKWG	8NN7J	accepted	species	Bergiola hissarica	Bey-Bienko, 1951
+LKWM	8NN7J	accepted	species	Bergiola popovi	Bey-Bienko, 1951
+LKWK	8NN7J	accepted	species	Bergiola montana	Bey-Bienko, 1951
+8PMCQ	8NN7J	synonym	genus	Bergiella	Stshelkanovtzev, 1907
+68JS7	8NN7J	accepted	species	Bergiola gorokhovi	Garai, 2011
+DCTV	8NM2J	accepted	species	Anadrymadusa jordanica	Katbeh-Bader & Massa, 2000
+8PWS6	8NM2J	accepted	species	Anadrymadusa picta	(Uvarov, 1929)
+B7ZFV	8NM2J	accepted	subgenus	Anadrymadusa (Orodusa)	Bey-Bienko, 1964
+8PVKD	8NM2J	accepted	subgenus	Anadrymadusa (Anadrymadusa)	Karabag, 1961
+6CHV7	8NQNX	accepted	species	Delodusa humeralis	(Uvarov, 1930)
+8QK27	8PVDT	accepted	species	Sichuana feicui	He, 2020
+8Q3WW	8PVDT	accepted	species	Sichuana cryptospina	Shen & Yin, 2020
+6DLGB	8NR3R	accepted	species	Drymapedes invalida	Bey-Bienko, 1967
+3TNYM	8NTGN	accepted	species	Leptodusa demirsoyi	(Karabag, 1975)
+3TNYN	8NTGN	accepted	species	Leptodusa expugnata	(Uvarov, 1917)
+3TNYP	8NTGN	accepted	species	Leptodusa harzi	(Karabag, 1975)
+9GWV5	9GTVC	accepted	species	Ptosoproctus baishishanicus	Shen, Yin, Lee & He, 2021
+9GWV6	9GTVC	accepted	species	Ptosoproctus lanzhouensis	Shen, Yin & He, 2021
+3VLMZ	8NTMJ	accepted	species	Lithoxenus nigrofasciatus	Pravdin, 1979
+3VLMX	8NTMJ	accepted	species	Lithoxenus heptapotamicus	(Pylnov, 1911)
+3VLMW	8NTMJ	accepted	species	Lithoxenus grandis	(Tarbinsky, 1930)
+BZJBH	8NTMJ	accepted	species	Lithoxenus miramae	(Veltistshev, 1940)
+443LD	8NVKM	accepted	species	Mongolodectes huangxinleii	Liu, Xu & Zhang, 2015
+73NGX	8NVKM	accepted	species	Mongolodectes kaszabi	Bazyluk, 1972
+443LC	8NVKM	accepted	species	Mongolodectes alashanicus	Bey-Bienko, 1951
+443LF	8NVKM	accepted	species	Mongolodectes kiritshenkoi	(Miram, 1929)
+Q2KG	8NNTG	accepted	species	Calopterusa mansehraensis	Panhwar, Sultana & Wagan, 2017
+Q2KH	8NNTG	accepted	species	Calopterusa mistshenkoi	Sergeev & Pokivajlov, 1992
+Q2KJ	8NNTG	accepted	species	Calopterusa pamirica	Stolyarov, 1969
+Q2KM	8NNTG	accepted	species	Calopterusa werneri	(Adelung, 1910)
+Q2KK	8NNTG	accepted	species	Calopterusa pastuchovi	(Uvarov, 1917)
+Q2KL	8NNTG	accepted	species	Calopterusa platycerca	Bey-Bienko, 1963
+5X6YT	8NNTG	accepted	species	Calopterusa balucha	(Uvarov, 1932)
+Q2KF	8NNTG	accepted	species	Calopterusa lindbergi	Bey-Bienko, 1963
+6DLR3	8NR3Q	accepted	species	Drymadusella hissarica	(Mistshenko, 1954)
+6DM2R	8NR3Q	accepted	species	Drymadusella nativa	Stolyarov, 1970
+6DLQR	8NR3Q	accepted	species	Drymadusella afghana	Ramme, 1939
+6DM33	8NR3Q	accepted	species	Drymadusella paghmana	Bey-Bienko, 1967
+47ZWV	8NW3S	accepted	species	Novadrymadusa kurda	(Uvarov, 1930)
+6SCVJ	8NW3S	accepted	species	Novadrymadusa karabagi	Demirsoy, Salman & Sevgili, 2002
+75P8D	8NWS4	accepted	species	Paradrymadusa abchazica	Stolyarov, 1981
+8PVS4	8NWS4	synonym	subgenus	Drymadusa (Paradrymadusa)	Herman, 1874
+C83VF	8NWS4	synonym	genus	Paradrynadosa	Herman, 1874
+C56XL	8NWS4	synonym	genus	Paradrynadosa	Herman, 1874
+6TP6D	8NWS4	accepted	species	Paradrymadusa aksirayi	Karabag, 1952
+6TP6H	8NWS4	accepted	species	Paradrymadusa brevicerca	Karabag, 1956
+6TP75	8NWS4	accepted	species	Paradrymadusa sciadophila	Stolyarov, 1980
+75P6J	8NWS4	accepted	species	Paradrymadusa fridae	Werner, 1939
+75P6H	8NWS4	accepted	species	Paradrymadusa bucharica	Pravdin, 1970
+75P73	8NWS4	accepted	species	Paradrymadusa pontica	Ramme, 1939
+6TP6K	8NWS4	accepted	species	Paradrymadusa galitzini	Retowski, 1888
+6TP76	8NWS4	accepted	species	Paradrymadusa sordida	(Herman, 1874)
+7F5TK	8P2MK	accepted	species	Uvarovina daurica	(Uvarov, 1928)
+7F65L	8P2MK	accepted	species	Uvarovina chinensis	Ramme, 1939
+42WBK	8NVCP	accepted	species	Microdrymadusa bispina	Bey-Bienko, 1967
+6XYJM	8NZ2T	accepted	species	Scotodrymadusa ebneri	Ramme, 1939
+4VXTM	8NZ2T	accepted	species	Scotodrymadusa syriaca	(Pictet, 1888)
+4VXTF	8NZ2T	accepted	species	Scotodrymadusa ozkani	Erman & Salman, 1990
+4VXT7	8NZ2T	accepted	species	Scotodrymadusa annulicornis	(Uvarov, 1922)
+4VXT8	8NZ2T	accepted	species	Scotodrymadusa cincta	Bey-Bienko, 1958
+4VXTL	8NZ2T	accepted	species	Scotodrymadusa satunini	(Uvarov, 1916)
+4VXTB	8NZ2T	accepted	species	Scotodrymadusa gedrosica	Bey-Bienko, 1958
+4VXTK	8NZ2T	accepted	species	Scotodrymadusa philbyi	(Uvarov, 1927)
+4VXTJ	8NZ2T	accepted	species	Scotodrymadusa persica	(Chopard, 1921)
+4VXTG	8NZ2T	accepted	species	Scotodrymadusa persa	(Uvarov, 1917)
+4VXT9	8NZ2T	accepted	species	Scotodrymadusa crenulata	(Uvarov, 1939)
+79YJM	8NZ2T	accepted	species	Scotodrymadusa maculata	(Ebner, 1912)
+3VKM8	8NTMD	accepted	species	Lithodusa mirzayani	Ünal, 2012
+3VKM6	8NTMD	accepted	species	Lithodusa daghestanica	Bey-Bienko, 1951
+3VKM7	8NTMD	accepted	species	Lithodusa helverseni	Heller, 2009
+CVS5	8NLXT	accepted	species	Ammoxenulus pavlovskii	Bey-Bienko, 1951
+CVS4	8NLXT	accepted	species	Ammoxenulus desertus	Bey-Bienko, 1951
+54GJ4	8NZS4	accepted	species	Tadzhikia beybienkoi	Mistshenko, 1954
+54GJ6	8NZS4	accepted	species	Tadzhikia pavlovskii	Mistshenko, 1954
+54GJ5	8NZS4	accepted	species	Tadzhikia mistshenkoi	Stolyarov, 1968
+3DYKF	8NRSJ	accepted	species	Ferganusa hemiptera	Uvarov, 1926
+8PPPP	8NQDM	synonym	genus	Hemictenodecticus	Caudell, 1908
+325P6	8NQDM	accepted	species	Ctenodecticus granatensis	Pascual, 1978
+325P8	8NQDM	accepted	species	Ctenodecticus major	Pascual, 1978
+325PC	8NQDM	accepted	species	Ctenodecticus siculus	Ramme, 1927
+325P7	8NQDM	accepted	species	Ctenodecticus lusitanicus	Barranco & Pascual, 1992
+325PB	8NQDM	accepted	species	Ctenodecticus ramburi	Morales-Agacino, 1956
+6BMYZ	8NQDM	accepted	species	Ctenodecticus pupulus	Bolívar, 1877
+6BMKB	8NQDM	accepted	species	Ctenodecticus vasarensis	Finot, 1893
+325NZ	8NQDM	accepted	species	Ctenodecticus algericus	(Uvarov, 1924)
+325PD	8NQDM	accepted	species	Ctenodecticus thymi	Olmo-Vidal, 1999
+325P2	8NQDM	accepted	species	Ctenodecticus bolivari	Targioni-Tozzetti, 1881
+325P9	8NQDM	accepted	species	Ctenodecticus masferreri	Bolívar, 1894
+43LRB	8NVH9	accepted	species	Miramiola pusilla	(Miram, 1927)
+6KLY5	8NS3H	accepted	species	Glyphonotus thoracicus	(Fischer von Waldheim, 1846)
+6KM9S	8NS3H	accepted	species	Glyphonotus ingrischi	Garai, 2002
+6KLXS	8NS3H	accepted	species	Glyphonotus alaiensis	Miram, 1925
+6KLY4	8NS3H	accepted	species	Glyphonotus coniciplicus	Uvarov, 1914
+6KM9R	8NS3H	accepted	species	Glyphonotus alactaga	Miram, 1925
+6KLXT	8NS3H	accepted	species	Glyphonotus sinensis	Uvarov, 1939
+4NB2X	8NY3B	accepted	species	Psalmatophanes barretoi	Chopard, 1938
+69XTD	8NPK8	accepted	species	Chlorodectes baldersoni	Rentz, 1985
+5XXTF	8NPK8	accepted	species	Chlorodectes loquax	Rentz, 1985
+69Y5D	8NPK8	accepted	species	Chlorodectes ligaenus	Rentz, 1985
+5XY5F	8NPK8	accepted	species	Chlorodectes montanus	Rentz, 1985
+B7Z92	8NNSH	accepted	subgenus	Calliphona (Calliphonides)	Bolívar, 1940
+8PVN6	8NNSH	accepted	subgenus	Calliphona (Calliphona)	Krauss, 1892
+428H9	8NV8C	accepted	species	Metaballus sagaeformis	Herman, 1874
+428H6	8NV8C	accepted	species	Metaballus litus	Rentz, 1985
+428H8	8NV8C	accepted	species	Metaballus mucronatus	Rentz, 1985
+428H7	8NV8C	accepted	species	Metaballus mesopterus	Rentz, 1985
+428H5	8NV8C	accepted	species	Metaballus frontalis	(Walker, 1869)
+428H4	8NV8C	accepted	species	Metaballus decticoides	(Walker, 1869)
+428GZ	8NV8C	accepted	species	Metaballus anchigyus	Rentz, 1985
+428H3	8NV8C	accepted	species	Metaballus bynoei	Rentz, 1985
+428GY	8NV8C	accepted	species	Metaballus alatus	Rentz, 1985
+428H2	8NV8C	accepted	species	Metaballus brevipennis	Rentz, 1985
+38QWH	8NR6G	accepted	species	Ectopistidectes viridis	Rentz, 1985
+38QWG	8NR6G	accepted	species	Ectopistidectes daptes	Rentz, 1985
+5D93H	8P34G	accepted	species	Zuludectes modestus	(Péringuey, 1916)
+H453	8NMPH	accepted	species	Arytropteris basalis	(Walker, 1869)
+H455	8NMPH	accepted	species	Arytropteris granulithorax	Péringuey, 1916
+5W3VK	8NMPH	accepted	species	Arytropteris pondo	Rentz, 1988
+8PRLL	8NMPH	synonym	genus	Umtata	Péringuey, 1916
+45LFX	8NVQ3	accepted	species	Namaquadectes irroratus	(Péringuey, 1916)
+57XN9	8P2B4	accepted	species	Transkeidectes multidentis	Naskrecki, 1992
+SWTR	8NP84	accepted	species	Ceresia pulchripes	(Péringuey, 1916)
+BRM5	8NLQ5	accepted	species	Alfredectes semiaeneus	(Serville, 1838)
+BRM4	8NLQ5	accepted	species	Alfredectes browni	Rentz, 1988
+8Q4HV	8PVGX	accepted	species	Toliaridectes meridionalis	Hugel, 2019
+8Q4HT	8PVGX	accepted	species	Toliaridectes antsycurvis	Hugel, 2019
+8Q4HW	8PVGX	accepted	species	Toliaridectes wendenbaumi	Hugel, 2019
+DGMV	8NM37	accepted	species	Anarytropteris chirinda	Rentz, 1988
+DGMW	8NM37	accepted	species	Anarytropteris fallax	Uvarov, 1924
+56K73	8P257	accepted	species	Thoracistus peringueyi	Pictet, 1888
+56K77	8P257	accepted	species	Thoracistus viridifer	(Walker, 1869)
+56K74	8P257	accepted	species	Thoracistus semeniphagus	Rentz, 1988
+56K6Z	8P257	accepted	species	Thoracistus jambila	Rentz, 1988
+56K6W	8P257	accepted	species	Thoracistus arboreus	Rentz, 1988
+8PRGW	8P257	synonym	genus	Thorancistus	Pictet, 1888
+8PRGV	8P257	synonym	genus	Thorancistus	
+56K76	8P257	accepted	species	Thoracistus viridicrus	Rentz, 1988
+56K6X	8P257	accepted	species	Thoracistus aureoportalis	Rentz, 1988
+56K75	8P257	accepted	species	Thoracistus thyraeus	Rentz, 1988
+69S4P	8NPJ5	accepted	species	Chinnandectes neenan	Rentz, 1985
+65RJC	8NLN5	accepted	species	Aglaothorax longipennis	(Rentz & Weissman, 1981)
+8PTVX	8NLN5	synonym	genus	Agalothorax	Caudell, 1907
+663JF	8NLN5	accepted	species	Aglaothorax diminutiva	(Rentz & Birchim, 1968)
+BSJLD	8NLN5	synonym	subgenus	Neduba (Aglaothorax)	Caudell, 1907
+5TRJC	8NLN5	accepted	species	Aglaothorax gurneyi	(Rentz & Birchim, 1968)
+663JC	8NLN5	accepted	species	Aglaothorax morsei	(Caudell, 1907)
+5TRJD	8NLN5	accepted	species	Aglaothorax ovatus	(Scudder, 1899)
+F2GH	8NM9Q	accepted	species	Antipodectes brevicaudus	Rentz, 1985
+F2GG	8NM9Q	accepted	species	Antipodectes bituberculatus	Rentz, 1985
+F2GL	8NM9Q	accepted	species	Antipodectes memorialis	Rentz, 1985
+F2GN	8NM9Q	accepted	species	Antipodectes uncinatus	Rentz, 1985
+F2GM	8NM9Q	accepted	species	Antipodectes monteithi	Rentz, 1985
+F2GK	8NM9Q	accepted	species	Antipodectes graminicolus	Rentz, 1985
+F2GJ	8NM9Q	accepted	species	Antipodectes giganteus	Rentz, 1985
+4RWPK	8NYMK	accepted	species	Rhachidorus marginatus	Herman, 1874
+4RWPH	8NYMK	accepted	species	Rhachidorus blackdownensis	Rentz, 1985
+4RWPJ	8NYMK	accepted	species	Rhachidorus longipennis	Rentz, 1985
+4RWPL	8NYMK	accepted	species	Rhachidorus semoni	Krauss, 1902
+8NMSQ	8NN45	synonym	genus	Calodectes	Rentz & Gurney, 1985
+KS7Q	8NN45	accepted	species	Barraza crybeloplatus	(Rentz & Gurney, 1985)
+3DT79	8NRRQ	accepted	species	Falcidectes divisus	Rentz & Gurney, 1985
+6HNKR	8NRRQ	accepted	species	Falcidectes xyelus	Rentz & Gurney, 1985
+3S6KQ	8NTBN	accepted	species	Lanciana hesperpotana	Rentz, 1985
+3S6KP	8NTBN	accepted	species	Lanciana albidicornis	Walker, 1869
+3S6KS	8NTBN	accepted	species	Lanciana occidentalis	Rentz, 1985
+3S6KT	8NTBN	accepted	species	Lanciana semialata	Rentz, 1985
+3S6KR	8NTBN	accepted	species	Lanciana montana	Rentz, 1985
+4JQCZ	8NXP3	accepted	species	Platydecticus darwini	Rentz & Gurney, 1985
+4JQD7	8NXP3	accepted	species	Platydecticus onax	Rentz & Gurney, 1985
+4JQD4	8NXP3	accepted	species	Platydecticus hubbelli	Rentz & Gurney, 1985
+4JQDB	8NXP3	accepted	species	Platydecticus robertsi	Rentz & Gurney, 1985
+4JQD3	8NXP3	accepted	species	Platydecticus gubernaculus	Rentz & Gurney, 1985
+BV3JH	8NXP3	accepted	species	Platydecticus elguetai	Vera, 2022
+BV3JG	8NXP3	accepted	species	Platydecticus atelcura	Vera, 2022
+4JQD9	8NXP3	accepted	species	Platydecticus philopenus	Rentz & Gurney, 1985
+4JQD6	8NXP3	accepted	species	Platydecticus manacus	Rentz & Gurney, 1985
+4JQDF	8NXP3	accepted	species	Platydecticus tumidiplatus	Rentz & Gurney, 1985
+4JQD8	8NXP3	accepted	species	Platydecticus pheroxiphus	Rentz & Gurney, 1985
+78245	8NXP3	accepted	species	Platydecticus primnocaudus	Rentz & Gurney, 1985
+4JQD2	8NXP3	accepted	species	Platydecticus diaguita	Vera, 2015
+4JQD5	8NXP3	accepted	species	Platydecticus mammantus	Rentz & Gurney, 1985
+6VQ48	8NXP3	accepted	species	Platydecticus simplex	Rentz & Gurney, 1985
+4JQDC	8NXP3	accepted	species	Platydecticus rupicolus	Rentz & Gurney, 1985
+4JQCY	8NXP3	accepted	species	Platydecticus angustifrons	Chopard, 1951
+4JQDD	8NXP3	accepted	species	Platydecticus sagariferus	Rentz & Gurney, 1985
+77GR9	8NXLJ	accepted	species	Phymonotus jacintotopos	Lightfoot, Weissman & Ueshima, 2011
+6NBSN	8NSZQ	accepted	species	Ixalodectes nigrifrons	Rentz, 1985
+6NBSM	8NSZQ	accepted	species	Ixalodectes whitei	Rentz, 1985
+6NC4S	8NSZQ	accepted	species	Ixalodectes flectocercus	Rentz, 1985
+6NC4N	8NSZQ	accepted	species	Ixalodectes uptoni	Rentz, 1985
+6NC54	8NSZQ	accepted	species	Ixalodectes megacercus	Rentz, 1985
+5C8TF	8P2TQ	accepted	species	Xederra plicatus	Rentz, 1985
+5C8TB	8P2TQ	accepted	species	Xederra barbarae	Rentz, 1985
+5C8TC	8P2TQ	accepted	species	Xederra charactus	Rentz, 1985
+5C8TD	8P2TQ	accepted	species	Xederra chthonius	Rentz, 1985
+5C8TG	8P2TQ	accepted	species	Xederra squamiger	Ander, 1938
+7FWST	8P2TQ	accepted	species	Xederra gwynnei	Rentz, 1985
+3562N	8NQRL	accepted	species	Dexerra angularis	Rentz, 1985
+3562P	8NQRL	accepted	species	Dexerra robusta	Rentz, 1985
+3562S	8NQRL	accepted	species	Dexerra vigescens	Rentz, 1985
+3562Q	8NQRL	accepted	species	Dexerra serrata	Rentz, 1985
+3562M	8NQRL	accepted	species	Dexerra acanthiterga	Rentz, 1985
+3562R	8NQRL	accepted	species	Dexerra turpis	Walker, 1869
+495YT	8NW8N	accepted	species	Oligodectoides tindalei	Rentz, 1985
+56N4G	8P25S	accepted	species	Throscodectes xiphos	Rentz, 1985
+56N4F	8P25S	accepted	species	Throscodectes xederoides	Rentz, 1985
+4JW74	8NXPB	accepted	species	Platyproctidectes keyi	Rentz, 1985
+4JW75	8NXPB	accepted	species	Platyproctidectes punctatus	Rentz, 1985
+8QJ8Q	8NSXP	accepted	species	Neduba cascadia	Cole, Weissman & Lightfoot, 2021
+6RVKH	8NSXP	accepted	species	Neduba steindachneri	(Herman, 1874)
+8PRK6	8NSXP	synonym	genus	Tropizaspis	Brunner von Wattenwyl, 1893
+747KK	8NSXP	accepted	species	Neduba extincta	Rentz, 1977
+8QJRH	8NSXP	accepted	species	Neduba radicata	Cole, Weissman & Lightfoot, 2021
+747KL	8NSXP	accepted	species	Neduba carinata	Walker, 1869
+6S7KJ	8NSXP	accepted	species	Neduba macneilli	Rentz & Birchim, 1968
+8QHMG	8NSXP	accepted	species	Neduba duplocantans	Cole, Weissman & Lightfoot, 2021
+8QJ3J	8NSXP	accepted	species	Neduba radocantans	Cole, Weissman & Lightfoot, 2021
+8QJK6	8NSXP	accepted	species	Neduba lucubrata	Cole, Weissman & Lightfoot, 2021
+8QKFF	8NSXP	accepted	species	Neduba oblongata	Cole, Weissman & Lightfoot, 2021
+8QJ6K	8NSXP	accepted	species	Neduba inversa	Cole, Weissman & Lightfoot, 2021
+8QKDN	8NSXP	accepted	species	Neduba longiplutea	Cole, Weissman & Lightfoot, 2021
+8QHK6	8NSXP	accepted	species	Neduba ambagiosa	Cole, Weissman & Lightfoot, 2021
+73VKK	8NSXP	accepted	species	Neduba diabolica	(Scudder, 1899)
+6RVKK	8NSXP	accepted	species	Neduba castanea	(Scudder, 1899)
+8QJWZ	8NSXP	accepted	species	Neduba arborea	Cole, Weissman & Lightfoot, 2021
+6S7KK	8NSXP	accepted	species	Neduba convexa	Caudell, 1907
+8QJSG	8NSXP	accepted	species	Neduba sequoia	Cole, Weissman & Lightfoot, 2021
+747KJ	8NSXP	accepted	species	Neduba sierranus	(Rehn & Hebard, 1911)
+8QJT8	8NSXP	accepted	species	Neduba prorocantans	Cole, Weissman & Lightfoot, 2021
+8P9LV	8NSXP	accepted	species	Neduba propsti	Rentz & Weissman, 1981
+5CP8M	8P2YH	accepted	species	Xyrdectes fuscescens	(Blanchard, 1851)
+5CP8L	8P2YH	accepted	species	Xyrdectes chileno	Rentz & Gurney, 1985
+495YS	8NW8L	accepted	species	Oligodectes urostegus	Rentz, 1985
+495YQ	8NW8L	accepted	species	Oligodectes mallee	Rentz, 1985
+495YP	8NW8L	accepted	species	Oligodectes longicercus	Rentz, 1985
+495YR	8NW8L	accepted	species	Oligodectes pallens	Rentz, 1985
+FYS8	8NMGY	accepted	species	Apteropedetes anaesegalae	(Gurney & Liebermann, 1975)
+3G7DT	8NS2M	accepted	species	Glenbalodectes norrisi	Rentz, 1985
+3G7DS	8NS2M	accepted	species	Glenbalodectes narranga	Rentz, 1985
+3G7DR	8NS2M	accepted	species	Glenbalodectes amaroo	Rentz, 1985
+77N6F	8NX4K	accepted	species	Plagiostira albonotata	Scudder, 1876
+77MSG	8NX4K	accepted	species	Plagiostira mescaleroensis	Tinkham, 1960
+6VMSG	8NX4K	accepted	species	Plagiostira gillettei	Caudell, 1907
+3PDLB	8NQDK	accepted	species	Idiostatus inyo	Rehn & Hebard, 1920
+3PDL5	8NQDK	accepted	species	Idiostatus goedeni	Rentz, 1978
+3PDL4	8NQDK	accepted	species	Idiostatus fuscus	Caudell, 1934
+3PDKX	8NQDK	accepted	species	Idiostatus callimerus	Rehn & Hebard, 1920
+3PDLM	8NQDK	accepted	species	Idiostatus viridis	Rentz, 1973
+6MTNX	8NQDK	accepted	species	Idiostatus major	Caudell, 1934
+3PDLD	8NQDK	accepted	species	Idiostatus magnificus	Hebard, 1934
+3PDKS	8NQDK	accepted	species	Idiostatus aequalis	(Scudder, 1899)
+3PDKY	8NQDK	accepted	species	Idiostatus chewaucan	Rentz & Lightfoot, 1976
+3PDLK	8NQDK	accepted	species	Idiostatus variegatus	Caudell, 1907
+8PNK5	8NQDK	synonym	genus	Cacopteris	Scudder, 1894
+3PDKZ	8NQDK	accepted	species	Idiostatus elegans	Caudell, 1907
+3PDKT	8NQDK	accepted	species	Idiostatus apollo	Rentz, 1973
+3PDKR	8NQDK	accepted	species	Idiostatus aberrans	Rentz, 1973
+3PDLC	8NQDK	accepted	species	Idiostatus kathleenae	Rentz, 1973
+3PDL9	8NQDK	accepted	species	Idiostatus inermis	(Scudder, 1899)
+3PDLN	8NQDK	accepted	species	Idiostatus wymorei	Caudell, 1934
+3PDL8	8NQDK	accepted	species	Idiostatus hermanii	(Thomas, 1875)
+6N5NV	8NQDK	accepted	species	Idiostatus inermoides	Rentz, 1973
+3PDLH	8NQDK	accepted	species	Idiostatus rehni	Caudell, 1907
+3PDKV	8NQDK	accepted	species	Idiostatus birchimi	Rentz, 1973
+3PDLG	8NQDK	accepted	species	Idiostatus middlekauffi	Rentz, 1973
+6MTNV	8NQDK	accepted	species	Idiostatus bechteli	Rentz, 1973
+3PDLF	8NQDK	accepted	species	Idiostatus martinellii	Rentz, 1973
+3PDKW	8NQDK	accepted	species	Idiostatus californicus	Pictet, 1888
+3PDL6	8NQDK	accepted	species	Idiostatus gurneyi	Rentz, 1973
+3PDL3	8NQDK	accepted	species	Idiostatus fuscopunctatus	(Scudder, 1899)
+5YZR5	8NN85	accepted	species	Clinopleura minuta	Caudell, 1907
+W6MT	8NN85	accepted	species	Clinopleura melanopleura	(Scudder, 1876)
+W6MS	8NN85	accepted	species	Clinopleura infuscata	Caudell, 1907
+W6MR	8NN85	accepted	species	Clinopleura flavomarginata	Scudder, 1900
+4RC9Z	8NYJX	accepted	species	Rammeola anatolica	Uvarov, 1934
+5Y83Y	8NPJS	accepted	species	Chizuella bonneti	(Bolívar, 1890)
+66HX9	8NLTJ	accepted	species	Anabrus cerciata	Caudell, 1907
+66HYB	8NLTJ	accepted	species	Anabrus longipes	Caudell, 1907
+66HWX	8NLTJ	accepted	species	Anabrus caudelli	Cockerell, 1908
+66HYK	8NLTJ	accepted	species	Anabrus simplex	Haldeman, 1852
+66HYL	8NLTJ	accepted	species	Anabrus spokan	Rehn & Hebard, 1920
+8PQVM	8NXQD	synonym	genus	Plicigera	Uvarov, 1924
+6W3M3	8NXQD	accepted	species	Plicigastra himalayana	(Uvarov, 1924)
+6HRNL	8NRSN	accepted	species	Festella festae	(Giglio-Tos, 1893)
+6HRNM	8NRSN	accepted	species	Festella rammei	Çıplak, 2000
+773M3	8NW97	accepted	species	Peranabrus scabricollis	(Thomas, 1872)
+JWBV	8NMX3	accepted	species	Austrodectes monticolus	Rentz, 1985
+B7Z9G	8NM8X	accepted	subgenus	Antaxius (Chopardius)	Harz, 1969
+8PVL6	8NM8X	accepted	subgenus	Antaxius (Antaxius)	Brunner von Wattenwyl, 1882
+B7Z9X	8NM8X	accepted	subgenus	Antaxius (Cyrnantaxius)	Chopard, 1951
+6V6D7	8NWCR	accepted	species	Petropedes santarosae	Tinkham, 1972
+6LRHK	8NSHH	accepted	species	Hermoniana blondheimae	Broza, Ayal & Pener, 2004
+6M3HK	8NSHH	accepted	species	Hermoniana brozai	Ünal, 2006
+6TXTH	8NW5C	accepted	species	Pediodectes mitchelli	(Caudell, 1911)
+6TY5G	8NW5C	accepted	species	Pediodectes bruneri	(Caudell, 1907)
+75Y5G	8NW5C	accepted	species	Pediodectes grandis	(Rehn, 1904)
+75Y5H	8NW5C	accepted	species	Pediodectes stevensonii	(Thomas, 1870)
+75XTG	8NW5C	accepted	species	Pediodectes daedelus	Rehn & Hebard, 1920
+6TY5H	8NW5C	accepted	species	Pediodectes nigromarginatus	(Caudell, 1902)
+75XTH	8NW5C	accepted	species	Pediodectes pratti	(Caudell, 1911)
+769TG	8NW5C	accepted	species	Pediodectes haldemanii	(Girard, 1854)
+769TH	8NW5C	accepted	species	Pediodectes tinkhami	Hebard, 1934
+8PVTK	8NPHS	accepted	subgenus	Eremopedes (Eremopedes)	Scudder, 1897
+8PVTL	8NPHS	accepted	subgenus	Eremopedes (Oreopedes)	Rehn & Hebard, 1920
+5CRHT	8P2Z3	accepted	species	Yersinella raymondii	(Yersin, 1860)
+5CRHS	8P2Z3	accepted	species	Yersinella beybienkoi	La Greca, 1974
+6CF9R	8NNR7	accepted	species	Decticita balli	Hebard, 1939
+6CF9S	8NNR7	accepted	species	Decticita brevicauda	(Caudell, 1907)
+6CF9T	8NNR7	accepted	species	Decticita yosemite	Rentz & Birchim, 1968
+65DTM	8NLLJ	accepted	species	Afghanoptera adusta	Ramme, 1952
+4RX3G	8NYMQ	accepted	species	Rhacocleis japygia	La Greca, 1959
+4RX38	8NYMQ	accepted	species	Rhacocleis edentata	Willemse, 1982
+4RX43	8NYMQ	accepted	species	Rhacocleis silviarum	Galvagni, 1984
+4RX3T	8NYMQ	accepted	species	Rhacocleis neglecta	(Costa, 1863)
+8Q3PJ	8NYMQ	accepted	species	Rhacocleis grallata	(Pantel, 1886)
+4RX3D	8NYMQ	accepted	species	Rhacocleis graeca	Uvarov, 1942
+4RX3C	8NYMQ	accepted	species	Rhacocleis germanica	(Herrich-Schäffer, 1840)
+4RX3X	8NYMQ	accepted	species	Rhacocleis poneli	Harz & Voisin, 1987
+6X5SP	8NYMQ	accepted	species	Rhacocleis ferdinandi	Willemse & Tilmans, 1987
+4RX2J	8NYMQ	accepted	species	Rhacocleis andikithirensis	Tilmans, Odé & Willemse, 2016
+4RX34	8NYMQ	accepted	species	Rhacocleis derrai	Harz, 1983
+8PR6X	8NYMQ	synonym	genus	Scirtobaenus	Pantel, 1886
+4RX44	8NYMQ	accepted	species	Rhacocleis thyrrhenica	La Greca, 1952
+4RX3M	8NYMQ	accepted	species	Rhacocleis maculipedes	(Ingrisch, 1983)
+4RX2F	8NYMQ	accepted	species	Rhacocleis agiostratica	Werner, 1937
+4RX2P	8NYMQ	accepted	species	Rhacocleis baccettii	Galvagni, 1976
+4RX3Y	8NYMQ	accepted	species	Rhacocleis ramburi	(Serville, 1838)
+795SP	8NYMQ	accepted	species	Rhacocleis uvarovi	Ramme, 1936
+4RX32	8NYMQ	accepted	species	Rhacocleis crypta	Willemse & Willemse, 2005
+4RX2X	8NYMQ	accepted	species	Rhacocleis buchichii	Herman, 1874
+4RX36	8NYMQ	accepted	species	Rhacocleis distinguenda	Werner, 1934
+4RX2K	8NYMQ	accepted	species	Rhacocleis annulata	Fieber, 1853
+4RX2N	8NYMQ	accepted	species	Rhacocleis ayali	Karabag, 1974
+4RX45	8NYMQ	accepted	species	Rhacocleis trilobata	La Greca & Messina, 1974
+4RX2H	8NYMQ	accepted	species	Rhacocleis anatolica	Werner, 1933
+4RX42	8NYMQ	accepted	species	Rhacocleis silvestrii	Ramme, 1939
+4RX47	8NYMQ	accepted	species	Rhacocleis turcica	(Uvarov, 1930)
+4RX46	8NYMQ	accepted	species	Rhacocleis tuberculata	Karabag, 1978
+4RX3L	8NYMQ	accepted	species	Rhacocleis lithoscirtetes	Willemse & Willemse, 2005
+4RX3F	8NYMQ	accepted	species	Rhacocleis insularis	Ramme, 1928
+4RX33	8NYMQ	accepted	species	Rhacocleis dernensis	Salfi, 1926
+4RX2T	8NYMQ	accepted	species	Rhacocleis bonfilsi	Galvagni, 1976
+4RX4B	8NYMQ	accepted	species	Rhacocleis werneri	Willemse, 1982
+4RX2D	8NYMQ	accepted	species	Rhacocleis acutangula	Karabag, 1957
+4RX2Z	8NYMQ	accepted	species	Rhacocleis corsicana	Bonfils, 1960
+4ZPYN	8NZGR	accepted	species	Steiroxys trilineata	(Thomas, 1870)
+4ZPYM	8NZGR	accepted	species	Steiroxys strepens	Fulton, 1930
+4ZPYL	8NZGR	accepted	species	Steiroxys pallidipalpus	(Thomas, 1872)
+4ZPYG	8NZGR	accepted	species	Steiroxys borealis	Scudder, 1894
+5BCJ3	8P2PX	accepted	species	Vichetia knipperi	(Ramme, 1951)
+5BCJ4	8P2PX	accepted	species	Vichetia oblongicollis	(Brunner von Wattenwyl, 1882)
+8PVZ7	8P2PX	synonym	subgenus	Metrioptera (Vichetia)	Harz, 1969
+4VBLK	8NYYG	accepted	species	Schizonotinus forficalis	Bey-Bienko, 1951
+4VBLL	8NYYG	accepted	species	Schizonotinus kerketa	(Uvarov, 1917)
+4VBLJ	8NYYG	accepted	species	Schizonotinus crassicercus	(Tarbinsky, 1940)
+8NNB4	BVCZP	accepted	genus	Bicolorana	Zeuner, 1941
+8P33F	BVCZP	accepted	genus	Zeuneriana	Ramme, 1951
+8NZD2	BVCZP	accepted	genus	Sphagniana	Zeuner, 1941
+8NS6T	BVCZP	accepted	genus	Metrioptera	Wesmaël, 1838
+8NYRS	BVCZP	accepted	genus	Roeseliana	Zeuner, 1941
+3P4KD	8NSSL	accepted	species	Hypsopedes kurentzovi	Bey-Bienko, 1951
+CQ68	8NLWJ	accepted	species	Amedegnatiana vicheti	(Delmas & Rambier, 1950)
+NM6P	8NNN2	accepted	species	Bucephaloptera convergens	Karabag, 1950
+NM6N	8NNN2	accepted	species	Bucephaloptera bucephala	(Brunner von Wattenwyl, 1882)
+NM6T	8NNN2	accepted	species	Bucephaloptera robusta	Karabag, 1956
+NM6Q	8NNN2	accepted	species	Bucephaloptera cypria	Ramme, 1933
+NM6R	8NNN2	accepted	species	Bucephaloptera ebneri	Uvarov, 1927
+NM6M	8NNN2	accepted	species	Bucephaloptera bolivari	Karabag, 1950
+8PVZ6	8NRC7	synonym	subgenus	Metrioptera (Eobiana)	Bey-Bienko, 1949
+6FGYN	8NRC7	accepted	species	Eobiana japonica	(Bolívar, 1890)
+6FGZ2	8NRC7	accepted	species	Eobiana nippomontana	Ishikawa & Wada, 2001
+6FGYM	8NRC7	accepted	species	Eobiana gladiella	Ishikawa, 2001
+6FGYJ	8NRC7	accepted	species	Eobiana engelhardti	(Uvarov, 1926)
+6FGYQ	8NRC7	accepted	species	Eobiana nagashimai	Wada & Ishikawa, 2001
+43T8K	8NVJF	accepted	species	Modestana modesta	(Fieber, 1853)
+43T8H	8NVJF	accepted	species	Modestana ebneri	(Ramme, 1926)
+8PW6Q	8NVJF	synonym	subgenus	Platycleis (Modestana)	Beier, 1955
+8NZFH	BSGD9	accepted	genus	Sporadiana	Zeuner, 1941
+8NVL8	BSGD9	accepted	genus	Montana	Zeuner, 1941
+8NRLX	BSGD9	accepted	genus	Eumetrioptera	Miram, 1935
+8NZ46	BSGD9	accepted	genus	Sepiana	Zeuner, 1941
+8NLT3	BSGD9	accepted	genus	Alticolana	Zeuner, 1941
+8NZYZ	BSGD9	accepted	genus	Tessellana	Zeuner, 1941
+8NX6R	BSGD9	accepted	genus	Platycleis	Fieber, 1853
+8NZFK	BSGD9	accepted	genus	Squamiana	Zeuner, 1941
+8NX5C	BSGD9	accepted	genus	Parnassiana	Zeuner, 1941
+8NZ3R	BSGD9	accepted	genus	Semenoviana	Zeuner, 1941
+8NSW5	BSGD9	accepted	genus	Incertana	Zeuner, 1941
+8P2YM	BSGD9	accepted	genus	Yalvaciana	Çıplak, Heller & Demirsoy, 2002
+6NN4M	8NT7G	accepted	species	Koroglus disparalatus	Ünal, 2002
+8PVZ5	8NMNZ	synonym	subgenus	Metrioptera (Broughtonia)	Harz, 1969
+5WR94	8NMNZ	accepted	species	Broughtonia arnoldi	(Ramme, 1933)
+5X2X4	8NMNZ	accepted	species	Broughtonia domogledi	(Brunner von Wattenwyl, 1882)
+4PWYY	8NYCM	accepted	species	Pterolepis pedata	Costa, 1882
+4PWWZ	8NYCM	accepted	species	Pterolepis claudiae	(Galvagni, 1988)
+4PWWD	8NYCM	accepted	species	Pterolepis algerica	(Uvarov, 1935)
+4PWZ5	8NYCM	accepted	species	Pterolepis pieltaini	(Morales-Agacino, 1940)
+4PWYN	8NYCM	accepted	species	Pterolepis moralesi	(Galvagni, 1988)
+4PWX2	8NYCM	accepted	species	Pterolepis cordubensis	Bolívar, 1900
+4PWWL	8NYCM	accepted	species	Pterolepis berberica	(Galvagni, 1989)
+4PWY2	8NYCM	accepted	species	Pterolepis kabylica	(Galvagni & Fontana, 2000)
+BT823	8NYCM	provisionally accepted	species	Pterolepis gessardi	(Bolívar, 1905)
+4PWZW	8NYCM	accepted	species	Pterolepis spoliata	Rambur, 1838
+4PWY5	8NYCM	accepted	species	Pterolepis lagrecai	(Fontana & Massa, 2004)
+4PWY3	8NYCM	accepted	species	Pterolepis korsakovi	(Uvarov, 1942)
+4PWWM	8NYCM	accepted	species	Pterolepis bidens	(Uvarov, 1924)
+4PWWC	8NYCM	accepted	species	Pterolepis adolphorum	(Galvagni, 1988)
+4PWYG	8NYCM	accepted	species	Pterolepis maroccana	(Bolívar, 1905)
+4PWYD	8NYCM	accepted	species	Pterolepis lusitanica	(Bolívar, 1900)
+4PWWJ	8NYCM	accepted	species	Pterolepis augustini	(Galvagni, 2001)
+4PWZ6	8NYCM	accepted	species	Pterolepis pityusensis	Barranco, 2014
+4PWX9	8NYCM	accepted	species	Pterolepis elymica	Galvagni & Massa, 1980
+4PWYJ	8NYCM	accepted	species	Pterolepis maura	(Bonnet, 1886)
+4PWXH	8NYCM	accepted	species	Pterolepis gessardi	Bonnet, 1886
+4PWXF	8NYCM	accepted	species	Pterolepis galitana	(Uvarov, 1942)
+4PX23	8NYCM	accepted	species	Pterolepis theryana	Uvarov, 1927
+4BVSX	8NWKZ	accepted	species	Pachytrachis gracilis	(Brunner von Wattenwyl, 1861)
+4BVSY	8NWKZ	accepted	species	Pachytrachis striolatus	(Fieber, 1853)
+8NWKY	8NWKZ	synonym	genus	Pachytrachelus	Fieber, 1853
+4BVSZ	8NWKZ	accepted	species	Pachytrachis tumidus	Ingrisch & Pavićević, 2010
+4BVSV	8NWKZ	accepted	species	Pachytrachis bosniacus	Messina, 1979
+4BVSW	8NWKZ	accepted	species	Pachytrachis frater	(Brunner von Wattenwyl, 1882)
+66YWK	8NM92	accepted	species	Anterastes serbicus	Brunner von Wattenwyl, 1882
+8PRLK	8NM92	synonym	genus	Uludaghia	Ramme, 1951
+66YWL	8NM92	accepted	species	Anterastes antitauricus	Çıplak, 2004
+66YXQ	8NM92	accepted	species	Anterastes turcicus	Karabag, 1951
+66Z8M	8NM92	accepted	species	Anterastes davrazensis	Kaya, Chobanov & Çıplak, 2012
+66Z8J	8NM92	accepted	species	Anterastes niger	Ünal, 2000
+66Z9Q	8NM92	accepted	species	Anterastes uludaghensis	Karabag, 1950
+66Z8L	8NM92	accepted	species	Anterastes babadaghi	Uvarov, 1939
+66YWG	8NM92	accepted	species	Anterastes anatolicus	Uvarov, 1934
+66Z8K	8NM92	accepted	species	Anterastes tolunayi	Karabag, 1951
+66Z8G	8NM92	accepted	species	Anterastes antecessor	Kaya & Çıplak, 2011
+8P5HR	8NM92	ambiguous synonym	species	Anterastes uludaghensis	Ünal, 2012
+66YWM	8NM92	accepted	species	Anterastes burri	Karabag, 1951
+GLPT	8NMM6	accepted	species	Ariagona margaritae	Krauss, 1892
+79MKY	8NYWB	accepted	species	Sardoplatycleis galvagnii	(Fontana, Buzzetti, Kleukers & Odé, 2011)
+789CT	8NXVJ	accepted	species	Pravdiniana mira	Sergeev & Pokivajlov, 1992
+6CF9V	8NQNC	accepted	species	Decticoides brevipennis	Ragge, 1977
+3PTNF	8NQFM	accepted	species	Inyodectes schlingeri	Rentz, 1972
+3PTND	8NQFM	accepted	species	Inyodectes bandari	Rentz, 1972
+6N7H4	8NQFM	accepted	species	Inyodectes pallidus	Rentz & Birchim, 1968
+3PTNG	8NQFM	accepted	species	Inyodectes spinosa	(Hebard, 1923)
+8PN3H	8NM82	synonym	genus	Anatola	Brunner von Wattenwyl, 1882
+677S3	8NM82	accepted	species	Anonconotus mercantouri	Galvagni & Fontana, 2003
+66W3R	8NM82	accepted	species	Anonconotus ghilianii	Camerano, 1878
+6783R	8NM82	accepted	species	Anonconotus occidentalis	Carron & Wermeille, 2002
+8PN3B	8NM82	synonym	genus	Analota	Brunner von Wattenwyl, 1882
+67843	8NM82	accepted	species	Anonconotus pusillus	Carron & Sardet, 2002
+5V83R	8NM82	accepted	species	Anonconotus alpinus	(Yersin, 1858)
+677RR	8NM82	accepted	species	Anonconotus ligustinus	Galvagni, 2002
+66VS3	8NM82	accepted	species	Anonconotus baracunensis	Nadig, 1987
+5V844	8NM82	accepted	species	Anonconotus sibyllinus	Galvagni, 2002
+66W43	8NM82	accepted	species	Anonconotus italoaustriacus	Nadig, 1987
+8NQXC	8NM82	synonym	genus	Omalota	Brunner von Wattenwyl, 1882
+66VRR	8NM82	accepted	species	Anonconotus apenninigenus	(Targioni-Tozzetti, 1881)
+78RJ6	8NYJH	accepted	species	Raggeana bodenheimeri	(Uvarov, 1927)
+49J3Z	49J45	synonym	species	Onconotus boschniakii	Fischer von Waldheim, 1846
+BSWLJ	49J45	synonym	species	Bradyporus marginatus	
+8PXCL	49J45	synonym	species	Bradyporus laxmanni	(Pallas, 1771)
+49J42	49J45	synonym	species	Onconotus coriaceus	Fischer von Waldheim, 1846
+8Q2LG	49J45	synonym	species	Onconotus motschoulskii	
+8Q2LF	49J45	synonym	species	Onconotus motschoulskyi	
+49J47	49J45	synonym	species	Onconotus motschulskii	Fischer von Waldheim, 1846
+BV6V7	49J45	synonym	species	Ephippiger laxmanni	(Pallas, 1771)
+49J49	49J45	synonym	species	Onconotus tenuicaudus	Ivanov, 1888
+49J44	49J45	synonym	species	Onconotus eversmanni	Fischer von Waldheim, 1846
+72LGJ	49J45	ambiguous synonym	species	Locusta marginata	Fabricius, 1798
+3HH32	49J45	synonym	species	Gryllus laxmanni	Pallas, 1771
+8PZTV	49J45	synonym	species	Locusta laxmanni	(Pallas, 1771)
+49J43	49J48	synonym	species	Onconotus crassicaudus	Ivanov, 1888
+B88HH	6CGV4	accepted	subspecies	Decticus verrucivorus sayram	Liu, Chen & Liu, 2020
+5GTPL	6CGV4	accepted	subspecies	Decticus verrucivorus gracilis	Uvarov, 1930
+5GTPP	6CGV4	accepted	subspecies	Decticus verrucivorus mithati	Ramme, 1939
+5GTPK	6CGV4	accepted	subspecies	Decticus verrucivorus crassus	Götz, 1970
+B88HG	6CGV4	accepted	subspecies	Decticus verrucivorus latipennis	Liu, Chen & Liu, 2020
+5GTPH	6CGV4	accepted	subspecies	Decticus verrucivorus assiduus	Ingrisch, Willemse & Heller, 1992
+5GTPQ	6CGV4	accepted	subspecies	Decticus verrucivorus monspeliensis	Rambur, 1838
+5GTPS	6CGV4	accepted	subspecies	Decticus verrucivorus verrucivorus	(Linnaeus, 1758)
+BT38Y	6CGV4	synonym	species	Gryllus (Tettigonia) verrucivorus	Linnaeus, 1758
+5GTPR	6CGV4	accepted	subspecies	Decticus verrucivorus stoljarovi	Götz, 1970
+5GTPN	6CGV4	accepted	subspecies	Decticus verrucivorus longipennis	Nedelkov, 1907
+5GTPJ	6CGV4	accepted	subspecies	Decticus verrucivorus brevipennis	Götz, 1970
+BTJRC	6CGTR	synonym	subspecies	Decticus verrucivorus aprutianus	(Capra, 1936)
+XQ9W	6CF9F	synonym	species	Conocephalus albifrons	(Fabricius, 1775)
+72LDW	6CF9F	synonym	species	Locusta albifrons	Fabricius, 1775
+8QJN4	6CF9F	synonym	species	Tettigonia (Decticus) albifrons	(Fabricius, 1775)
+55VDY	6CF9F	synonym	species	Tettigonia albifrons	(Fabricius, 1775)
+6CF9C	6CF9F	synonym	species	Decticus aeolicus	Guarino, 1935
+BTJRD	6CH69	synonym	subspecies	Decticus verrucivorus loudoni	(Ramme, 1933)
+8PZTS	8PY7H	synonym	species	Locusta extincta	Germar, 1837
+BZJDB	8PY7H	synonym	species	Locusta (Decticus) exstinctus	(Germar, 1837)
+5KDMR	4GLT9	accepted	subspecies	Pholidoptera littoralis similis	(Brunner von Wattenwyl, 1861)
+4PWY8	4GLT9	synonym	species	Pterolepis littoralis	Fieber, 1853
+5KDMQ	4GLT9	accepted	subspecies	Pholidoptera littoralis littoralis	(Fieber, 1853)
+5KDMP	4GLT9	accepted	subspecies	Pholidoptera littoralis insubrica	Nadig, 1961
+499J2	4GLTW	synonym	species	Olynthoscelis tartara	(Saussure, 1874)
+563S2	4GLTW	synonym	species	Thamnotrizon tartarus	Saussure, 1874
+563QZ	4GLSQ	synonym	species	Thamnotrizon austriacus	Türk, 1860
+7C6X8	4GLSQ	synonym	species	Thamnotrizon fallax	Fischer, 1853
+8Q2K8	4GLSQ	synonym	species	Olynthoscelis fallax	(Fischer, 1853)
+4PWZC	4GLTK	synonym	species	Pterolepis pustulipes	Motschulsky, 1846
+7KLDX	4GLTK	accepted	subspecies	Pholidoptera pustulipes jailensis	(Miram, 1927)
+5KDMV	4GLTK	accepted	subspecies	Pholidoptera pustulipes pustulipes	(Motschulsky, 1846)
+5KDMJ	4GLSL	accepted	subspecies	Pholidoptera dalmatica cvrstnicensis	Maran, 1953
+8PKNW	4GLSL	synonym	species	Thamnotrizon dalmaticus	Krauss, 1879
+563RJ	4GLSR	synonym	species	Thamnotrizon noctivagus	Krauss, 1879
+4PWXB	4GLSR	synonym	species	Pterolepis femorata	Fieber, 1853
+8Q2K9	4GLSR	synonym	species	Olynthoscelis femorata	(Fieber, 1853)
+8Q4FN	4GLSR	synonym	species	Thamnotrizon femoralis	
+563RB	4GLSR	synonym	species	Thamnotrizon femorata	(Fieber, 1853)
+BVT5Q	4GLST	synonym	species	Pholidoptera friwaldszkyi	(Herman, 1871)
+563RT	4GLST	ambiguous synonym	species	Thamnotrizon serbicus	Schulthess, 1882
+BVT5P	4GLST	synonym	species	Pholidoptera friwaldskyi	Herman, 1871
+BVXT7	4GLST	synonym	species	Thamnotrizon friwaldszkyi	(Herman, 1871)
+563RC	4GLST	synonym	species	Thamnotrizon frivaldszkyi	Herman, 1871
+BVT3T	4GLST	synonym	species	Pholidoptera frivaldskyi	(Herman, 1871)
+BVXS2	4GLST	synonym	species	Thamnotrizon frivaldskyi	(Herman, 1871)
+BVS56	4GLST	synonym	species	Olynthoscelis frivaldskyi	(Herman, 1871)
+BVT5N	4GLST	synonym	species	Pholidoptera frivaldsky	Herman, 1871
+563S3	4GLTY	synonym	species	Thamnotrizon transsylvanicus	Fischer, 1853
+7KLDT	4GLS9	accepted	subspecies	Pholidoptera aptera bohemica	Maran, 1953
+5KDMC	4GLS9	accepted	subspecies	Pholidoptera aptera gjorgjevici	Karaman, 1960
+8PD35	4GLS9	ambiguous synonym	species	Locusta aptera	Fabricius, 1793
+5KDMF	4GLS9	accepted	subspecies	Pholidoptera aptera slovaca	Maran, 1953
+5KDMB	4GLS9	accepted	subspecies	Pholidoptera aptera bulgarica	Maran, 1953
+5KDMD	4GLS9	accepted	subspecies	Pholidoptera aptera goidanichi	Baccetti, 1963
+7KLDZ	4GLS9	accepted	subspecies	Pholidoptera aptera karnyi	Ebner, 1908
+5KDM9	4GLS9	accepted	subspecies	Pholidoptera aptera aptera	(Fabricius, 1793)
+9H3ML	C84CS	synonym	species	Locusta clypeata	Panzer, 1796
+C7L8H	C84CS	synonym	species	Locusta griseoaptera	DeGeer, 1773
+8Q33Y	C84CS	synonym	species	Pholidoptera cinerea	
+9H3C2	C84CS	synonym	species	Xiphidion clypeata	(Panzer, 1796)
+6QLDT	C84CS	ambiguous synonym	species	Locusta aptera	Charpentier, 1825
+8Q4FM	C84CS	synonym	species	Thamnotrizon cinereus	
+3HGW2	C84CS	ambiguous synonym	species	Gryllus cinereus	Gmelin, 1790
+8Q2KC	C84CS	synonym	species	Olynthoscelis griseoaptera	(De Geer, 1773)
+8P8T7	C84CS	synonym	species	Decticus (Pholidoptera) apterus	
+8PZTM	C84CS	synonym	species	Locusta cinerea	
+4PWWG	C84CS	synonym	species	Pterolepis aptera	(Charpentier, 1825)
+4GLSG	4GLTM	synonym	species	Pholidoptera buresi	Maran, 1957
+C84CR	4GLTM	synonym	species	Pholidoptera bureschi	Maran, 1957
+5KDMS	4GLTC	accepted	subspecies	Pholidoptera macedonica cavallae	Kaltenbach, 1965
+5KDMT	4GLTC	accepted	subspecies	Pholidoptera macedonica macedonica	Ramme, 1928
+8PHFV	8QKRV	synonym	species	Pholidoptera kosswigi	Karabag, 1950
+8PGN6	8QKRV	synonym	species	Parapholidoptera kosswigi	(Karabag, 1950)
+8PGN7	8QK42	synonym	species	Parapholidoptera ziganensis	Karabag, 1964
+8PGN2	8QK42	synonym	species	Parapholidoptera delineata	Stolyarov, 1983
+8PGN3	8QKCL	synonym	species	Parapholidoptera distincta	(Uvarov, 1921)
+BTKHM	8QKCL	synonym	subspecies	Parapholidoptera bodenheimeri distincta	(Uvarov, 1921)
+8PG4B	8QKCL	synonym	species	Olynthoscelis distincta	Uvarov, 1921
+8PGMZ	8QKCL	synonym	species	Parapholidoptera bodenheimeri	Karabag, 1961
+8PGN5	8QJDK	synonym	species	Parapholidoptera karabagi	Demirsoy, 1974
+563RN	4D8DG	synonym	species	Thamnotrizon punctifrons	(Burmeister, 1838)
+4PWX8	4D8DG	synonym	species	Pterolepis ehrenbergii	Fieber, 1853
+8Q348	4D8DG	synonym	species	Pholidoptera punctifrons	(Burmeister, 1838)
+6CH5P	4D8DG	synonym	species	Decticus punctifrons	Burmeister, 1838
+8Q2KG	4D8DG	synonym	species	Olynthoscelis punctifrons	(Burmeister, 1838)
+563RV	4D8DJ	synonym	species	Thamnotrizon signatus	Brunner von Wattenwyl, 1861
+8Q34B	4D8DJ	synonym	species	Pholidoptera signata	(Brunner von Wattenwyl, 1861)
+8Q2KH	4D8DJ	synonym	species	Olynthoscelis signata	(Brunner von Wattenwyl, 1861)
+77BNJ	4D8DF	synonym	species	Pholidoptera noxia	Ramme, 1930
+5K73D	4D8D8	synonym	subspecies	Parapholidoptera castaneoviridis flexuosa	Karabag, 1961
+4GLSV	6TQY3	synonym	species	Pholidoptera grandis	Karabag, 1952
+8Q345	8Q2VY	synonym	species	Pholidoptera indistincta	(Bolívar, 1899)
+8PG4C	8Q2VY	synonym	species	Olynthoscelis indistinctus	Bolívar, 1899
+8PGN4	8Q2VY	synonym	species	Parapholidoptera intermixta	Karabag, 1961
+8Q2VZ	8Q2VY	synonym	species	Parapholidoptera intermixa	
+8Q2VX	4D8D5	synonym	species	Parapholidoptera casteanoviridis	
+499HW	4D8D5	synonym	species	Olynthoscelis ornata	Nedelkov, 1907
+8Q33X	4D8D5	synonym	species	Pholidoptera castaneoviridis	(Brunner von Wattenwyl, 1882)
+563R5	4D8D5	ambiguous synonym	species	Thamnotrizon castaneoviridis	Brunner von Wattenwyl, 1882
+8Q2K7	4D8D5	synonym	species	Olynthoscelis castaneoviridis	(Brunner von Wattenwyl, 1882)
+4GLTT	4D8DL	synonym	species	Pholidoptera syriaca	Ramme, 1930
+8PHFT	8QJSS	synonym	species	Pholidoptera guichardi	Karabag, 1961
+8PG4D	7F65G	synonym	species	Olynthoscelis satunini	Uvarov, 1916
+4GLTP	7F65G	synonym	species	Pholidoptera satunini	(Uvarov, 1916)
+499J3	7F5TF	synonym	species	Olynthoscelis zebra	Uvarov, 1916
+4GLTZ	7F5TF	synonym	species	Pholidoptera zebra	(Uvarov, 1916)
+8Q4QY	7F5TF	synonym	species	Uvarovistia (Uvarovistia) zebra	(Uvarov, 1916)
+4GLSC	7F5TH	synonym	species	Pholidoptera bakhtiara	Uvarov, 1934
+8Q4QX	7F5TH	synonym	species	Uvarovistia (Uvarovistia) bakhtiara	(Uvarov, 1934)
+4GLT2	7F65H	synonym	species	Pholidoptera iraka	Uvarov, 1934
+BTKMG	4PLSF	synonym	subspecies	Psorodonotus illyricus illyricus	Ebner, 1923
+7L25R	4PLSF	synonym	subspecies	Psorodonotus fieberi illyricus	Ebner, 1923
+8Q2S6	4PLS9	synonym	species	Paradrynadosa caucasica	(Fischer von Waldheim, 1846)
+4PWWV	4PLS9	synonym	species	Pterolepis caucasica	Fischer von Waldheim, 1846
+8Q2S5	4PLS9	synonym	species	Paradrymadusa caucasica	(Fischer von Waldheim, 1846)
+BTKMF	4PLS9	synonym	subspecies	Psorodonotus caucasicus caucasicus	(Fischer von Waldheim, 1846)
+6WJYM	4PLS9	synonym	species	Psorodonotus uvarovi	Ebner, 1923
+8Q4FL	4PLS9	synonym	species	Thamnotrizon caucasica	(Fischer von Waldheim, 1846)
+BTBYM	4PLSV	ambiguous synonym	species	Pterolepis venosus	
+5KRFF	4PLSV	accepted	subspecies	Psorodonotus venosus brunneri	Stshelkanovtzev, 1914
+5KRFH	4PLSV	accepted	subspecies	Psorodonotus venosus venosus	(Fischer von Waldheim, 1839)
+C87FG	4PLSV	ambiguous synonym	species	Pterolepis venosus	Fischer von Waldheim, 1839
+5KRFJ	4PLSV	accepted	subspecies	Psorodonotus venosus zangezuri	Stolyarov, 1983
+5KRFG	4PLSV	accepted	subspecies	Psorodonotus venosus cryptus	Stolyarov, 1983
+4WFZ2	4PLSG	synonym	species	Semenovites inflatus	(Uvarov, 1912)
+8Q3LK	4PLSG	synonym	species	Psorodonotus (Semenovites) inflatus	Uvarov, 1912
+8PJ84	6WJYJ	synonym	species	Psorodonotus rize	Kaya & Çıplak, 2014
+BTKMD	4PLS7	synonym	subspecies	Psorodonotus caucasicus anatolicus	Karabag, 1952
+BTKMH	4PLSH	synonym	subspecies	Psorodonotus illyricus macedonicus	Ramme, 1931
+5KRFB	4PLSH	synonym	subspecies	Psorodonotus fieberi macedonicus	Ramme, 1931
+7L263	4PLSQ	accepted	subspecies	Psorodonotus specularis specularis	(Fischer von Waldheim, 1839)
+5KRFD	4PLSQ	accepted	subspecies	Psorodonotus specularis inermis	Ramme, 1951
+76DGF	4PLSQ	synonym	species	Peltastes specularis	Fischer von Waldheim, 1839
+4PWXC	4PLSC	synonym	species	Pterolepis fieberi	Frivaldszky, 1853
+BTF8R	4PLSC	synonym	subspecies	Psorodonotus fieberi fieberi	(Frivaldszky, 1853)
+8PY7L	4PLSC	synonym	species	Decticus pancici	Brunner von Wattenwyl, 1861
+8QKNQ	FJFT	synonym	species	Aparapholidoptera pietschmanni	(Ebner, 1912)
+8PHFX	FJFT	synonym	species	Pholidoptera pietschmanni	Ebner, 1912
+4GLT8	FJFS	synonym	species	Pholidoptera kurda	(Uvarov, 1916)
+499HV	FJFS	synonym	species	Olynthoscelis kurda	Uvarov, 1916
+3CMKY	FJFS	synonym	species	Eupholidoptera mirzayani	Mofidi-Neyestanak & Quicke, 2007
+5H8ZY	3CMK2	accepted	subspecies	Eupholidoptera cypria turcica	Salman, 1983
+5H8ZX	3CMK2	accepted	subspecies	Eupholidoptera cypria cypria	Ramme, 1951
+77BNH	6GZD3	synonym	species	Pholidoptera astyla	Ramme, 1927
+3CML5	6GZCX	synonym	species	Eupholidoptera raggei	Salman, 1983
+5H8ZW	3CMJY	accepted	subspecies	Eupholidoptera chabrieri usi	Adamovic, 1972
+72LFM	3CMJY	synonym	species	Locusta chabrieri	Charpentier, 1825
+5H8ZS	3CMJY	accepted	subspecies	Eupholidoptera chabrieri chabrieri	(Charpentier, 1825)
+5H8ZR	3CMJY	accepted	subspecies	Eupholidoptera chabrieri brunneri	(Targioni-Tozzetti, 1881)
+5H8ZT	3CMJY	accepted	subspecies	Eupholidoptera chabrieri galvagnii	Adamovic, 1972
+BV6L3	3CMK5	synonym	subspecies	Pholidoptera schmidti epirotica	Ramme, 1927
+BTJW7	3CMK5	synonym	subspecies	Eupholidoptera chabrieri epirotica	(Ramme, 1927)
+4GLSN	3CMK5	synonym	species	Pholidoptera epirotica	Ramme, 1927
+BTWFQ	3CML9	synonym	species	Pachytrachelurus festae	Giglio-Tos, 1914
+563RX	3CML9	synonym	species	Thamnotrizon smyrnensis	Brunner von Wattenwyl, 1882
+4GLSS	3CML9	synonym	species	Pholidoptera festae	Giglio-Tos, 1914
+8Q2QK	3CML9	synonym	species	Pachytrachelurus testae	
+BTVYJ	3CML9	synonym	species	Pholidoptera smyrnensis	(Brunner von Wattenwyl, 1882)
+499HZ	3CML9	synonym	species	Olynthoscelis smyrnensis	(Brunner von Wattenwyl, 1882)
+6VBPN	3CMLB	synonym	species	Pholidoptera tahtalica	Uvarov, 1949
+7K465	6GZCS	synonym	subspecies	Eupholidoptera chabrieri garganica	La Greca, 1959
+4GLTR	6GZD9	synonym	species	Pholidoptera spinigera	Ramme, 1930
+8Q349	3CML7	synonym	species	Pholidoptera schmidti	(Fieber, 1861)
+563RS	3CML7	synonym	species	Thamnotrizon schmidti	Fieber, 1861
+BTJW9	3CML7	synonym	subspecies	Eupholidoptera chabrieri schmidti	(Fieber, 1861)
+563RM	3CML4	synonym	species	Thamnotrizon prasinus	Brunner von Wattenwyl, 1882
+8Q2KF	3CML4	synonym	species	Olynthoscelis prasina	(Brunner von Wattenwyl, 1882)
+8Q347	3CML4	synonym	species	Pholidoptera prasina	(Brunner von Wattenwyl, 1882)
+5KDMN	3CMKZ	synonym	subspecies	Pholidoptera ledereri hebraea	Uvarov, 1939
+4GLTF	3CMKZ	synonym	species	Pholidoptera palaestinensis	Ramme, 1939
+3CMK7	3CMLH	synonym	species	Eupholidoptera femorata	Çıplak, 1999
+8PYVD	3CMLH	synonym	species	Eupholidoptera unimaculata	
+7F5TG	3CML3	synonym	species	Uvarovistia rammei	Katbeh-Bader & Massa, 2001
+4GLSP	3CMK6	synonym	species	Pholidoptera excisa	Karabag, 1952
+5KDMW	3CMJW	synonym	subspecies	Pholidoptera schmidti bimucronata	Ramme, 1927
+BTJWB	3CMJW	synonym	subspecies	Eupholidoptera magnifica bimucronata	(Ramme, 1927)
+BTJW6	3CMJW	synonym	subspecies	Eupholidoptera chabrieri bimucronata	(Ramme, 1927)
+4GLTX	3CMLD	synonym	species	Pholidoptera tauricola	Ramme, 1930
+4GLS7	3CMJR	synonym	species	Pholidoptera anatolica	Ramme, 1930
+C4LNG	3CMKL	synonym	species	Pholidoptera krüperi	Ramme, 1930
+4GLT7	3CMKL	synonym	species	Pholidoptera krueperi	Ramme, 1930
+4GLTB	3CMKR	synonym	species	Pholidoptera lyra	Uvarov, 1942
+7C78W	3CMKP	synonym	species	Thamnotrizon ledereri	Fieber, 1861
+8Q346	3CMKP	synonym	species	Pholidoptera ledereri	(Fieber, 1861)
+4GLTQ	3CML8	synonym	species	Pholidoptera sevketi	Ramme, 1933
+4GLTD	3CMKW	ambiguous synonym	species	Pholidoptera megastyla	Ramme, 1939
+3CMKJ	3CMKW	synonym	species	Eupholidoptera karatolosi	Mofidi-Neyestanak & Quicke, 2007
+8QHL8	3CMKW	synonym	species	Eupholidoptera willemsei	Nadig, 1985
+BTJWD	3CMKW	synonym	subspecies	Eupholidoptera megastyla megastyla	(Ramme, 1939)
+3CMKK	3CMKW	synonym	species	Eupholidoptera kinzelbachi	Harz, 1981
+3CML6	3CMK8	synonym	species	Eupholidoptera rammei	Willemse & Heller, 2001
+BTJWC	3CMKS	synonym	subspecies	Eupholidoptera magnifica magnifica	(Costa, 1863)
+BTJW8	3CMKS	synonym	subspecies	Eupholidoptera chabrieri magnifica	(Costa, 1863)
+563RG	3CMKS	synonym	species	Thamnotrizon magnificum	Costa, 1863
+4GLS5	3CMLJ	synonym	species	Pholidoptera (Eupholidoptera) uvarovi	Karabag, 1952
+3CMJP	3CMLJ	synonym	species	Eupholidoptera (Karabagia) uvarovi	(Karabag, 1952)
+7F65J	3CMLJ	synonym	species	Uvarovistia (Karabagia) uvarovi	(Karabag, 1952)
+499HN	3CMJT	synonym	species	Olynthoscelis annulipes	(Brunner von Wattenwyl, 1882)
+563QW	3CMJT	synonym	species	Thamnotrizon annulipes	Brunner von Wattenwyl, 1882
+4GLS8	3CMJT	synonym	species	Pholidoptera annulipes	(Brunner von Wattenwyl, 1882)
+4RX2R	56S43	ambiguous synonym	species	Rhacocleis bidens	Bolívar, 1887
+5LJMZ	56S44	accepted	subspecies	Thyreonotus corsicus corsicus	Rambur, 1838
+5LJN2	56S44	accepted	subspecies	Thyreonotus corsicus montanus	Bolívar, 1900
+BTK6V	3YMWM	synonym	subspecies	Medecticus assimilis assimilis	(Fieber, 1853)
+55VFB	3YMWM	synonym	species	Tettigonia assimilis	(Fieber, 1853)
+8QJ44	3YMWM	synonym	species	Medecticus minutus	Kaltenbach, 1974
+6CH5R	3YMWM	synonym	species	Decticus assimilis	Fieber, 1853
+6CGTG	3YMWM	synonym	species	Decticus syriacus	Fieber, 1853
+73VKL	3PD8X	synonym	species	Neduba brunneus	(Scudder, 1901)
+8Q57R	7GBSP	synonym	species	Zycloptera atripennis	Caudell, 1907
+8QJBX	394LN	synonym	species	Elasmocerus minusculus	(Bolívar, 1908)
+4PWYL	394LN	synonym	species	Pterolepis minusculus	Bolívar, 1908
+8PJ9F	394LM	ambiguous synonym	species	Pterolepis theryana	Bolívar, 1935
+4FWCL	3MSCP	synonym	species	Phasgonura marginifera	(Walker, 1869)
+7BTMD	3MSCP	synonym	species	Tettigonia marginifera	(Walker, 1869)
+3MSCQ	3MSCP	synonym	species	Hubbellia praestans	Hebard, 1927
+BV6KB	3MSCP	synonym	species	Locusta marginifera	Walker, 1869
+8PZL7	6MQ43	synonym	species	Hypsinomus fasciata	Uvarov, 1921
+BTJHZ	FVKS	synonym	subspecies	Apote notabilis notabilis	Scudder, 1897
+BTJJ2	FVKT	synonym	subspecies	Apote notabilis robusta	Caudell, 1907
+6QLH4	55VSP	synonym	species	Locusta hispanica	Bolívar, 1893
+8Q32D	55VSP	synonym	species	Phasgonura hispanica	(Bolívar, 1893)
+8PZV5	8Q4F6	synonym	species	Locusta salmiaefolia	Lichtenstein, 1796
+8PZV3	8PKMM	synonym	species	Locusta quadrimaculata	Lichtenstein, 1796
+BTKV2	55VMX	synonym	subspecies	Tettigonia dolichoptera dolichoptera	Mori, 1933
+8PZV6	8Q4F7	synonym	species	Locusta sima	Lichtenstein, 1796
+8PZTL	8Q4F2	synonym	species	Locusta catoptrica	Lichtenstein, 1796
+8QHWF	55WCQ	synonym	species	Tettigonia maritima	Storozhenko, 1994
+9GSCG	9GTYY	synonym	species	Locusta savignyi	Lucas, 1847
+9GTD3	9GTYY	synonym	species	Phasgonura savignyi	(Lucas, 1847)
+8PKMX	9GTYY	synonym	species	Tettigonia vaucheriana	
+6QLDX	9GTYY	synonym	species	Locusta algerica	Bolívar, 1893
+4FWCG	9GTYY	synonym	species	Phasgonura algerica	(Bolívar, 1893)
+8PZV8	8Q4F9	synonym	species	Locusta triglina	Lichtenstein, 1796
+8PZTP	8Q4F4	synonym	species	Locusta conica	Lichtenstein, 1796
+8PZTH	8PKM7	synonym	species	Locusta atrata	Lichtenstein, 1796
+8PZTG	8Q4DY	synonym	species	Locusta asina	Lichtenstein, 1796
+5LGS3	55VF7	synonym	subspecies	Tettigonia caudata armeniaca	Tarbinsky, 1940
+55WC9	55VF7	synonym	species	Tettigonia turcica	Ramme, 1951
+55VDD	55VF7	synonym	species	Tettigonia acutipennis	Ebner, 1946
+5LGSD	7BTLY	synonym	subspecies	Tettigonia orientalis yama	Furukawa, 1938
+5LGS6	55VHW	accepted	subspecies	Tettigonia caudata mistshenkoi	Ozerskij, 1989
+5LGS4	55VHW	accepted	subspecies	Tettigonia caudata caudata	(Charpentier, 1845)
+6QLFP	55VHW	synonym	species	Locusta caudata	Charpentier, 1845
+72LG2	55VHL	synonym	species	Locusta cantans	(Fuessly, 1775)
+4FWCH	55VHL	synonym	species	Phasgonura cantans	(Fuessly, 1775)
+6L5QM	55VHL	synonym	species	Gryllus cantans	Fuessly, 1775
+55VRC	55VHL	synonym	species	Tettigonia gaverniensis	Serville, 1838
+8PZTZ	8Q4F5	synonym	species	Locusta ocymifolia	Lichtenstein, 1796
+4FWCK	55VWV	synonym	species	Phasgonura macroxipha	Bolívar, 1914
+C7L88	55WDR	synonym	species	Locusta cantatrix	DeGeer, 1773
+8Q32H	55WDR	synonym	species	Phasgonura viridissimus	(Linnaeus, 1758)
+BV6GM	55WDR	synonym	species	Phasgonura intermedia	Jannone, 1937
+8PZT4	55WDR	synonym	species	Locusta (Locusta) viridissima	(Linnaeus, 1758)
+8PD3Q	55WDR	synonym	species	Locusta vaucheriana	
+8PH5B	55WDR	synonym	species	Phasgonura vaucheriana	
+3CDS9	55WDR	synonym	species	Eumenymus vaucherianus	Pictet, 1888
+55WBM	55WDR	synonym	species	Tettigonia trinacriae	Jannone, 1937
+8QKFC	55WDR	synonym	species	Tettigonia meridionalis	Shugurov, 1912
+55VVZ	55WDR	synonym	species	Tettigonia longealata	Chopard, 1937
+4FWCJ	55WDR	synonym	species	Phasgonura lozanoi	Bolívar, 1914
+C4ZDQ	55WDR	synonym	species	Gryllus (Tettigonia) viridissimus	Linnaeus, 1758
+XQL3	55WDR	synonym	species	Conocephalus viridissimus	(Linnaeus, 1758)
+C79ZD	55WDR	synonym	species	Gryllus viridissimus	Linnaeus, 1758
+9GN75	55WDR	synonym	species	Agraecia incognita	Piza, 1970
+8QJ9L	55WDR	synonym	species	Locusta flava	Nedelkov, 1907
+6QLJ6	55WDR	synonym	species	Locusta viridissima	(Linnaeus, 1758)
+55W2P	55WDR	synonym	species	Tettigonia paolii	Capra, 1936
+6QLGH	55WDR	synonym	species	Locusta maroccana	Bolívar, 1893
+6CGTY	55VWT	synonym	species	Decticus macrocephalus	Fischer von Waldheim, 1846
+BTKV4	55W2C	synonym	subspecies	Tettigonia orientalis orientalis	Uvarov, 1924
+BTKV3	55W95	synonym	subspecies	Tettigonia hispanica silana	Capra, 1936
+BV6GF	55W95	synonym	species	Phasgonura silana	(Capra, 1936)
+8PZTK	8Q4DZ	synonym	species	Locusta bracteata	Lichtenstein, 1796
+8PXGX	QQW5	synonym	species	Capnobates fuliginosa	(Thomas, 1872)
+72LF6	QQW5	synonym	species	Locusta fuliginosa	Thomas, 1872
+8QHMJ	QQW9	synonym	species	Capnobotes uniformis	Caudell, 1907
+BTJM2	QQW9	synonym	subspecies	Capnobotes occidentalis occidentalis	(Thomas, 1872)
+6QLG8	QQW9	synonym	species	Locusta occidentalis	Thomas, 1872
+8QKBK	QQW9	synonym	species	Capnobotes viridis	Cockerell, 1904
+6DLPF	QQW2	synonym	species	Drymadusa arizonensis	Rehn, 1904
+8PWZX	QQW2	synonym	species	Anoplodusa arizonensis	(Rehn, 1904)
+KMHM	66FPV	synonym	species	Barbitistes baetica	Rambur, 1838
+7K53P	6JWY9	synonym	subspecies	Gampsocleis gratiosa infuscata	Uvarov, 1924
+8PYYH	6K8YJ	synonym	species	Gampsocleis burgeri	
+6K8Y9	6K8YJ	synonym	species	Gampsocleis mikado	Burr, 1899
+3F8V4	6K8YJ	synonym	species	Gampsocleis mutsohito	Burr, 1899
+6CH5S	6K8YJ	synonym	species	Decticus buergeri	Haan, 1843
+7K4RP	6K8YB	accepted	subspecies	Gampsocleis gratiosa gratiosa	Brunner von Wattenwyl, 1862
+7JT3P	6K8YB	accepted	subspecies	Gampsocleis gratiosa burakowskii	Bazyluk, 1993
+3F8V8	6JWYJ	ambiguous synonym	species	Gampsocleis recticauda	Cejchan & Maran, 1966
+6CH5B	3F8VD	synonym	species	Decticus sinensis	Walker, 1869
+8PYYL	3F8VB	synonym	species	Gampsocleis shelkovnikovae	
+8PYYK	3F8VB	synonym	species	Gampsocleis shelkovnicovae	
+6CH5Y	6K8YC	synonym	species	Decticus maculatus	(Charpentier, 1825)
+3F8V7	6K8YC	synonym	species	Gampsocleis podolica	Shugurov, 1908
+72LH5	6K8YC	synonym	species	Locusta glabra	Herbst, 1786
+6QLHT	6K8YC	synonym	species	Locusta prima	Schaff, 1776
+6QLGJ	6K8YC	synonym	species	Locusta maculata	Charpentier, 1825
+6CGTW	6K8YC	synonym	species	Decticus gratiosus	Millet, 1870
+8PY7J	6K8YC	synonym	species	Decticus glabra	(Herbst, 1786)
+6JWYK	6K8YC	synonym	species	Gampsocleis annae	Shugurov, 1908
+6CF9D	6K8YC	synonym	species	Decticus alberti	Seidl, 1937
+6K8YL	3F8VJ	synonym	species	Gampsocleis amuriensis	Pylnov, 1918
+3F8V6	3F8VJ	synonym	species	Gampsocleis orientalis	Pylnov, 1918
+8Q6JD	6K8YK	synonym	variety	Gampsocleis glabra var. assoi	Bolívar, 1900
+6DLP7	BTW2W	synonym	species	Drymadusa fletcheri	Burr, 1899
+7K4RC	3F8VC	accepted	subspecies	Gampsocleis sedakovii obscura	(Walker, 1869)
+7K53C	3F8VC	accepted	subspecies	Gampsocleis sedakovii sedakovii	(Fischer von Waldheim, 1846)
+6CGTQ	3F8VC	synonym	species	Decticus sedakovii	Fischer von Waldheim, 1846
+7K542	6JWYM	accepted	subspecies	Gampsocleis abbreviata ebneri	Uvarov, 1921
+7K53Q	6JWYM	accepted	subspecies	Gampsocleis abbreviata abbreviata	Herman, 1874
+7JSRP	6JWYM	accepted	subspecies	Gampsocleis abbreviata renei	Miksic, 1973
+6JWXX	7F65F	synonym	species	Gampsocleis inflata	Uvarov, 1924
+42JG6	7F65F	synonym	species	Metrioptera koreana	Mori, 1933
+JGYX	4DFYF	synonym	species	Atlanticus ussuriensis	Uvarov, 1926
+75P75	4DFYF	synonym	species	Paradrymadusa siberica	Caudell, 1928
+6TP6V	4DFYF	synonym	species	Paradrymadusa ussuriensis	(Uvarov, 1926)
+C3WXY	4DFYD	synonym	species	Paratlanticus palgonensis	Rentz & Miller, 1971
+7JR5G	6DLP5	accepted	subspecies	Drymadusa dorsalis dorsalis	(Brullé, 1832)
+6FQ7G	6DLP5	synonym	species	Ephippiger dorsalis	Brullé, 1832
+C8K4K	6DLP5	ambiguous synonym	species	Thyreonotus dorsalis	(Brullé, 1832)
+5GZB2	6DLP5	accepted	subspecies	Drymadusa dorsalis grandis	Karabag, 1961
+5GZB3	6DLP5	accepted	subspecies	Drymadusa dorsalis limbata	Brunner von Wattenwyl, 1882
+LKWJ	3CBQZ	synonym	species	Bergiola mongolica	Uvarov, 1928
+75P6G	43RXF	synonym	species	Paradrymadusa bocquilloni	Uvarov, 1917
+4HLLW	43RXF	synonym	species	Phytodrymadusa bocquilloni	(Uvarov, 1917)
+75P6T	43RXG	synonym	species	Paradrymadusa siazovi	Uvarov, 1930
+4HLM7	43RXG	synonym	species	Phytodrymadusa siazovi	(Uvarov, 1930)
+8P55Y	DCSL	synonym	species	Anadolua rammei	Karabag, 1952
+6DLP2	4FJ6N	synonym	species	Drymadusa diffusa	Ramme, 1951
+6DLPG	4FJ6M	synonym	species	Drymadusa angorensis	Uvarov, 1930
+5KBJF	4FJ6L	synonym	subspecies	Pezodrymadusa striolata ziyaretensis	Koçak & Kemal, 2010
+6DLPB	4FJ6L	synonym	species	Drymadusa affinis	Bolívar, 1899
+6DLQL	4FJ6T	synonym	species	Drymadusa kurmana	Ramme, 1939
+6DLQK	4FJ6V	synonym	species	Drymadusa magnifica	Werner, 1901
+6DLP6	4FJ6P	synonym	species	Drymadusa grisea	Brunner von Wattenwyl, 1882
+6DM2P	4FJ6X	synonym	species	Drymadusa striolata	Ramme, 1951
+BTJSZ	4FJ6X	synonym	subspecies	Drymadusa striolata striolata	Ramme, 1951
+6DLQM	4FJ6W	synonym	species	Drymadusa sinuata	Ramme, 1951
+6DLP8	4FJ6S	synonym	species	Drymadusa konowi	Bolívar, 1899
+8Q3TW	8Q2Z9	synonym	species	Schulmeisteri schulmeisteri	Harz, 1992
+JGWD	8PVMC	accepted	species	Atlanticus (Atlanticus) akangxiani	Liu, 2013
+688KV	8PVMC	accepted	species	Atlanticus (Atlanticus) qinshuii	Liu, 2013
+8PPFJ	8PVMC	synonym	genus	Engoniaspis	Brunner von Wattenwyl, 1893
+JGWL	8PVMC	accepted	species	Atlanticus (Atlanticus) donglingi	Liu, 2013
+JGX4	8PVMC	accepted	species	Atlanticus (Atlanticus) minor	Liu, 2013
+JGXK	8PVMC	accepted	species	Atlanticus (Atlanticus) zhouzhii	Liu, 2013
+JGWT	8PVMC	accepted	species	Atlanticus (Atlanticus) hunanensis	Du & Shi, 2005
+JGX8	8PVMC	accepted	species	Atlanticus (Atlanticus) parakangxiani	Liu, 2013
+JGX2	8PVMC	accepted	species	Atlanticus (Atlanticus) medius	Liu, 2013
+JGXH	8PVMC	accepted	species	Atlanticus (Atlanticus) yashani	Liu, 2013
+JGWF	8PVMC	accepted	species	Atlanticus (Atlanticus) americanus	(Saussure, 1859)
+8NWCG	8PVMC	synonym	genus	Orchamus	Bolívar, 1906
+JGWM	8PVMC	accepted	species	Atlanticus (Atlanticus) dorsalis	(Burmeister, 1838)
+JGWR	8PVMC	accepted	species	Atlanticus (Atlanticus) hefengensis	Liu, 2013
+JGX3	8PVMC	accepted	species	Atlanticus (Atlanticus) minimus	Liu, 2013
+JGWJ	8PVMC	accepted	species	Atlanticus (Atlanticus) calcaratus	Rehn & Hebard, 1916
+688L7	8PVMC	accepted	species	Atlanticus (Atlanticus) sinensis	Uvarov, 1924
+JGWC	8PVMC	accepted	species	Atlanticus (Atlanticus) abeitaii	Liu, 2013
+JGWG	8PVMC	accepted	species	Atlanticus (Atlanticus) beitaii	Liu, 2013
+JGWP	8PVMC	accepted	species	Atlanticus (Atlanticus) glaber	Rehn & Hebard, 1912
+8PRC2	8PVMC	synonym	genus	Stipator	Rehn, 1900
+JGXC	8PVMC	accepted	species	Atlanticus (Atlanticus) ruichengi	Liu, 2013
+JGX7	8PVMC	accepted	species	Atlanticus (Atlanticus) parabeitaii	Liu, 2013
+JGXD	8PVMC	accepted	species	Atlanticus (Atlanticus) scudderi	(Bruner, 1886)
+67WKV	8PVMC	accepted	species	Atlanticus (Atlanticus) akulingensis	Liu, 2013
+JGX5	8PVMC	accepted	species	Atlanticus (Atlanticus) monticola	Davis, 1915
+JGWZ	8PVMC	accepted	species	Atlanticus (Atlanticus) macropterus	Liu, 2013
+JGWW	8PVMC	accepted	species	Atlanticus (Atlanticus) jixiani	Liu, 2013
+8NM7D	8PVMC	synonym	genus	Atlanticus	Scudder, 1894
+JGWQ	8PVMC	accepted	species	Atlanticus (Atlanticus) grahami	Tinkham, 1941
+8PN2Y	8PVMC	synonym	genus	Amuria	Brunner von Wattenwyl, 1893
+8NV24	8PVMC	synonym	genus	Orchesticus	Saussure, 1859
+67WL7	8PVMC	accepted	species	Atlanticus (Atlanticus) jeholensis	Mori, 1935
+JGWX	8PVMC	accepted	species	Atlanticus (Atlanticus) kangxiani	Liu, 2013
+JGXG	8PVMC	accepted	species	Atlanticus (Atlanticus) wudangensis	Liu, 2013
+JGWS	8PVMC	accepted	species	Atlanticus (Atlanticus) huangshanensis	Shi & Zheng, 1994
+JGXJ	8PVMC	accepted	species	Atlanticus (Atlanticus) zhongyangi	Liu, 2013
+JGX6	8PVMC	accepted	species	Atlanticus (Atlanticus) pachymerus	(Burmeister, 1838)
+JGWV	8PVMC	accepted	species	Atlanticus (Atlanticus) jiuchongensis	Liu, 2013
+JGWN	8PVMC	accepted	species	Atlanticus (Atlanticus) gibbosus	Scudder, 1894
+JGXB	8PVMC	accepted	species	Atlanticus (Atlanticus) robustus	Bey-Bienko, 1951
+JGX9	8PVMC	accepted	species	Atlanticus (Atlanticus) plateau	Liu, 2013
+JGWY	8PVMC	accepted	species	Atlanticus (Atlanticus) kulingensis	Tinkham, 1941
+JGWH	8PVMC	accepted	species	Atlanticus (Atlanticus) brunneri	(Pylnov, 1914)
+JGWK	8PVMC	accepted	species	Atlanticus (Atlanticus) davisi	Rehn & Hebard, 1916
+JGXF	8PVMC	accepted	species	Atlanticus (Atlanticus) testaceus	(Scudder, 1901)
+8P6L3	8PVMC	ambiguous synonym	species	Atlanticus sinensis	Tinkham, 1941
+JGXS	B7ZJH	accepted	species	Atlanticus (Sinpacificus) fengyangensis	Liu, 2013
+JGXR	B7ZJH	accepted	species	Atlanticus (Sinpacificus) fallax	He, 2018
+JGY4	B7ZJH	accepted	species	Atlanticus (Sinpacificus) magnificus	Tinkham, 1941
+JGY3	B7ZJH	accepted	species	Atlanticus (Sinpacificus) kwangtungensis	Tinkham, 1941
+JGXZ	B7ZJH	accepted	species	Atlanticus (Sinpacificus) karnyi	Ebner, 1939
+JGXV	B7ZJH	accepted	species	Atlanticus (Sinpacificus) huangfu	Liu, 2013
+JGXL	B7ZJH	accepted	species	Atlanticus (Sinpacificus) ahunanensis	Liu, 2013
+JGY2	B7ZJH	accepted	species	Atlanticus (Sinpacificus) kiangsu	Ramme, 1939
+JGY6	B7ZJH	accepted	species	Atlanticus (Sinpacificus) pieli	Tinkham, 1941
+JGY5	B7ZJH	accepted	species	Atlanticus (Sinpacificus) palpalis	Rehn & Hebard, 1920
+5VWL6	B7ZJH	accepted	species	Atlanticus (Sinpacificus) hoffmanni	Tinkham, 1941
+JGXM	B7ZJH	accepted	species	Atlanticus (Sinpacificus) bikouensis	Zheng & Shi, 1999
+JGXW	B7ZJH	accepted	species	Atlanticus (Sinpacificus) interval	He, 2018
+JGXP	B7ZJH	accepted	species	Atlanticus (Sinpacificus) changi	Tinkham, 1941
+JGXY	B7ZJH	accepted	species	Atlanticus (Sinpacificus) kangi	Liu, 2013
+8P6L2	B7ZJH	ambiguous synonym	species	Atlanticus palpalis	Tinkham, 1941
+JGXQ	B7ZJH	accepted	species	Atlanticus (Sinpacificus) fairyi	Liu, 2013
+JGXN	B7ZJH	accepted	species	Atlanticus (Sinpacificus) brevicaudus	Bey-Bienko, 1955
+4DFYG	DJ8T	synonym	species	Paratlanticus uvarovi	(Miram, 1940)
+6TP77	DJ8T	synonym	species	Paradrymadusa uvarovi	Miram, 1940
+6DLP4	65G3M	synonym	species	Drymadusa fallaciosa	Finot, 1894
+6DLP9	3DNBZ	synonym	species	Drymadusa inornata	Uvarov, 1936
+5GB82	69JHS	accepted	subspecies	Ceraeocercus fuscipennis fuscipennis	Uvarov, 1910
+5GB83	69JHS	accepted	subspecies	Ceraeocercus fuscipennis hindukushanus	Ramme, 1939
+6TP78	77HJJ	synonym	species	Paradrymadusa znojkoi	Miram, 1938
+75P77	4HLM9	synonym	species	Paradrymadusa viridipennis	Stshelkanovtzev, 1914
+75P6V	4HLM8	synonym	species	Paradrymadusa variicercis	Veltishchev, 1937
+75P6N	4HLM4	synonym	species	Paradrymadusa longipes	Brunner von Wattenwyl, 1882
+75P6P	4HLM5	synonym	species	Paradrymadusa miramae	Uvarov, 1929
+4HLLV	4HLM5	synonym	species	Phytodrymadusa armeniaca	Ramme, 1939
+8Q36Y	4HLM6	synonym	species	Phytodrymadusa quazvinensis	
+6TP6S	4HLM6	synonym	species	Paradrymadusa qazvinensis	Chopard, 1921
+3CBQY	LSWZ	synonym	species	Eulithoxenus gobiensis	Bey-Bienko, 1951
+8PX9D	LSWY	synonym	species	Bienkoixenus beybienkoi	(Stebaev, 1964)
+3CBQW	LSWY	synonym	species	Eulithoxenus beybienkoi	Stebaev, 1964
+4VXTH	LKWL	ambiguous synonym	species	Scotodrymadusa persica	(Uvarov, 1928)
+LKW5	LKWC	synonym	species	Bergiella balchaschica	Stshelkanovtzev, 1907
+75P6R	8PWS6	synonym	species	Paradrymadusa picta	Uvarov, 1929
+DCTQ	B7ZFV	accepted	species	Anadrymadusa (Orodusa) beckeri	(Adelung, 1907)
+DCTR	B7ZFV	accepted	species	Anadrymadusa (Orodusa) robusta	(Miram, 1926)
+DCTP	8PVKD	accepted	species	Anadrymadusa (Anadrymadusa) spinicercis	(Karabag, 1956)
+DCTH	8PVKD	accepted	species	Anadrymadusa (Anadrymadusa) danensis	Karabag, 1972
+DCTN	8PVKD	accepted	species	Anadrymadusa (Anadrymadusa) retowskii	(Adelung, 1907)
+DCTK	8PVKD	accepted	species	Anadrymadusa (Anadrymadusa) modestalis	Koçak & Kemal, 2010
+66KFP	8PVKD	accepted	species	Anadrymadusa (Anadrymadusa) albomaculata	(Karabag, 1956)
+DCTM	8PVKD	accepted	species	Anadrymadusa (Anadrymadusa) recticauda	(Werner, 1903)
+DCTD	8PVKD	accepted	species	Anadrymadusa (Anadrymadusa) adzharica	(Uvarov, 1934)
+DCTF	8PVKD	accepted	species	Anadrymadusa (Anadrymadusa) brevipennis	(Brunner von Wattenwyl, 1882)
+DCTG	8PVKD	accepted	species	Anadrymadusa (Anadrymadusa) curvicercis	(Uvarov, 1916)
+8NM2K	8PVKD	synonym	genus	Anadrymadusa	Karabag, 1961
+DCTJ	8PVKD	accepted	species	Anadrymadusa (Anadrymadusa) kosswigi	Karabag, 1975
+DCTL	8PVKD	accepted	species	Anadrymadusa (Anadrymadusa) ornatipennis	(Ramme, 1926)
+6TP6L	6CHV7	synonym	species	Paradrymadusa humeralis	Uvarov, 1930
+C3C2R	6CHV7	synonym	species	Phytodrymadusa humeralis	(Uvarov, 1930)
+4HLLX	3TNYM	synonym	species	Phytodrymadusa demirsoyi	Karabag, 1975
+4HLLY	3TNYN	synonym	species	Phytodrymadusa expugnata	(Uvarov, 1917)
+6TP6J	3TNYN	synonym	species	Paradrymadusa expugnata	Uvarov, 1917
+4HLM3	3TNYP	synonym	species	Phytodrymadusa harzi	Karabag, 1975
+C2XBG	3VLMX	accepted	subspecies	Lithoxenus heptapotamicus minutus	Korsunovskaya, 2024
+9H3FH	3VLMX	synonym	species	Paradrymadusa heptapotamica	(Pylnov, 1911)
+499HS	3VLMX	synonym	species	Olynthoscelis heptapotamica	Pylnov, 1911
+C3C3H	3VLMX	accepted	subspecies	Lithoxenus heptapotamicus heptapotamicus	(Pylnov, 1911)
+LKWF	3VLMW	synonym	species	Bergiola grandis	Tarbinsky, 1930
+BZ3HM	BZJBH	synonym	species	Bergiola miramae	Veltistshev, 1940
+6TP6M	443LF	synonym	species	Paradrymadusa kiritshenkoi	Miram, 1929
+5JQZ2	443LF	accepted	subspecies	Mongolodectes kiritshenkoi orientalis	Chogsomzhav, 1975
+5JQYZ	443LF	accepted	subspecies	Mongolodectes kiritshenkoi kiritshenkoi	(Miram, 1929)
+5G58F	Q2KJ	accepted	subspecies	Calopterusa pamirica pamirica	Stolyarov, 1969
+7JG8T	Q2KJ	accepted	subspecies	Calopterusa pamirica immatura	Sergeev & Pokivajlov, 1992
+6TP6W	Q2KM	synonym	species	Paradrymadusa werneri	Adelung, 1910
+75P6Q	Q2KK	synonym	species	Paradrymadusa pastuchovi	Uvarov, 1917
+75P6F	5X6YT	synonym	species	Paradrymadusa balucha	Uvarov, 1932
+75P6K	6DLR3	synonym	species	Paradrymadusa hissarica	Mistshenko, 1954
+4WFYH	6DLQR	synonym	species	Semenoviana afghana	(Ramme, 1939)
+6TP6N	47ZWV	synonym	species	Paradrymadusa kurda	Uvarov, 1930
+4VXTD	47ZWV	synonym	species	Scotodrymadusa kurda	(Uvarov, 1930)
+8Q2S7	6TP6K	synonym	species	Paradrynadosa galitzini	Retowski, 1888
+8QJSN	6TP76	synonym	species	Paradrymadusa gracilis	Uvarov, 1929
+8Q2S8	6TP76	synonym	species	Paradrynadosa sordida	(Herman, 1874)
+6DLPP	6TP76	synonym	species	Drymadusa (Paradrymadusa) sordida	Herman, 1874
+75P6L	6TP76	synonym	species	Paradrymadusa jakobsoni	Pylnov, 1918
+LKWD	7F5TK	synonym	species	Bergiola daurica	Uvarov, 1928
+4VXTC	4VXTM	synonym	species	Scotodrymadusa kozana	Ramme, 1951
+4VXT5	4VXTM	synonym	species	Scotodrymadusa amani	Ramme, 1951
+75P6D	4VXTM	synonym	species	Paradrymadusa anatolica	Werner, 1901
+C3BZJ	4VXTM	synonym	species	Scotodrymadusa rammei	(Uvarov, 1930)
+75P76	4VXTM	synonym	species	Paradrymadusa syriaca	Pictet, 1888
+BZTQC	4VXTM	synonym	species	Scotodrymadusa syrica	Pictet, 1888
+4VXTN	4VXTM	synonym	species	Scotodrymadusa turcica	Ramme, 1939
+4VXT6	4VXTM	synonym	species	Scotodrymadusa anatolica	(Werner, 1901)
+6TP74	4VXTM	synonym	species	Paradrymadusa rammei	Uvarov, 1930
+6TP6F	4VXT7	synonym	species	Paradrymadusa annulicornis	Uvarov, 1922
+6TP6T	4VXTL	synonym	species	Paradrymadusa satunini	Uvarov, 1916
+8PX8Q	4VXTL	synonym	species	Bergiola satunini	(Uvarov, 1916)
+6TP73	4VXTK	synonym	species	Paradrymadusa philbyi	Uvarov, 1927
+6TP72	4VXTK	synonym	species	Paradrymadusa palaestina	Uvarov, 1939
+4GLTG	4VXTJ	synonym	species	Pholidoptera persica	Chopard, 1921
+6TP6R	4VXTJ	synonym	species	Paradrymadusa persica	(Chopard, 1921)
+75P72	4VXTG	synonym	species	Paradrymadusa persa	Uvarov, 1917
+5K6NY	4VXT9	synonym	subspecies	Paradrymadusa annulicornis crenulata	Uvarov, 1939
+6TP6P	79YJM	synonym	species	Paradrymadusa maculata	Ebner, 1912
+5LDZJ	54GJ4	accepted	subspecies	Tadzhikia beybienkoi beybienkoi	Mistshenko, 1954
+5LDZK	54GJ4	accepted	subspecies	Tadzhikia beybienkoi langarica	Pokivailov, 2017
+5LDZM	54GJ6	accepted	subspecies	Tadzhikia pavlovskii pavlovskii	Mistshenko, 1954
+5LDZL	54GJ6	accepted	subspecies	Tadzhikia pavlovskii ornata	Mistshenko, 1954
+BTDCJ	325PC	synonym	subspecies	Ctenodecticus bolivari siculus	Ramme, 1927
+3KMTN	325NZ	synonym	species	Hemictenodecticus algericus	Uvarov, 1924
+3KMTQ	325NZ	synonym	species	Hemictenodecticus lozanoi	Morales-Agacino, 1950
+5GQFN	325P2	accepted	subspecies	Ctenodecticus bolivari africanus	Galvagni, 1990
+5GQFP	325P2	accepted	subspecies	Ctenodecticus bolivari bolivari	Targioni-Tozzetti, 1881
+42JGP	43LRB	synonym	species	Metrioptera pusilla	Miram, 1927
+7JTTX	6KLY5	accepted	subspecies	Glyphonotus thoracicus semenovi	Miram, 1935
+5HHHV	6KLY5	accepted	subspecies	Glyphonotus thoracicus thoracicus	(Fischer von Waldheim, 1846)
+8PD3P	6KLY5	synonym	species	Locusta thoracica	Fischer von Waldheim, 1846
+8PBD5	6KLXS	synonym	species	Glyphonotus alajensis	
+6KM9T	6KLY4	synonym	species	Glyphonotus uvarovi	Miram, 1925
+5WVWY	4NB2X	synonym	species	Calliphona barretoi	(Chopard, 1938)
+PSCS	B7Z92	accepted	species	Calliphona (Calliphonides) palmensis	Bolívar, 1940
+PSCR	B7Z92	accepted	species	Calliphona (Calliphonides) gomerensis	Pfau & Pfau, 2007
+PSCQ	B7Z92	accepted	species	Calliphona (Calliphonides) alluaudi	Bolívar, 1893
+8NNSG	8PVN6	synonym	genus	Calliphona	Krauss, 1892
+PSCP	8PVN6	accepted	species	Calliphona (Calliphona) koenigi	Krauss, 1892
+6CGTV	428H5	synonym	species	Decticus frontalis	Walker, 1869
+5XWH5	428H5	synonym	species	Chlorobalius frontalis	(Walker, 1869)
+5XWGT	428H4	synonym	species	Chlorobalius decticoides	(Walker, 1869)
+6QLFC	428H4	synonym	species	Locusta decticoides	Walker, 1869
+56K72	5D93H	synonym	species	Thoracistus modestus	(Péringuey, 1916)
+H458	5D93H	synonym	species	Arytropteris modesta	Péringuey, 1916
+56S42	H453	synonym	species	Thyreonotus basalis	Walker, 1869
+4LQWJ	H453	synonym	species	Pomatonota bipunctata	Kirby, 1902
+H452	H453	synonym	species	Arytropteris angulosa	Herman, 1874
+8P6DV	H453	synonym	species	Arytropteris semiaenea	
+7DHZK	H455	synonym	species	Umtata musicus	Péringuey, 1916
+H454	H455	synonym	species	Arytropteris excisa	Péringuey, 1916
+9H3DN	45LFX	synonym	species	Anarytropteris irrorata	(Péringuey, 1916)
+H457	45LFX	synonym	species	Arytropteris irrorata	Péringuey, 1916
+H45B	SWTR	synonym	species	Arytropteris pulchripes	Péringuey, 1916
+56S4B	BRM5	synonym	species	Thyreonotus semi-aeneus	Serville, 1838
+H45C	BRM5	synonym	species	Arytropteris semiaeneus	(Serville, 1838)
+56KK5	BRM5	synonym	species	Thorancistus semiaeneus	(Serville, 1838)
+C3YBS	BRM5	synonym	species	Thyreonotus semiaeneus	Serville, 1838
+56KK4	56K73	synonym	species	Thorancistus peringueyi	Pictet, 1888
+56S4C	56K77	synonym	species	Thyreonotus viridifer	Walker, 1869
+H456	56K77	synonym	species	Arytropteris intricata	Péringuey, 1916
+H459	56K77	synonym	species	Arytropteris plebeia	Péringuey, 1916
+56KK6	56K77	synonym	species	Thorancistus viridifer	(Walker, 1869)
+BZKVJ	65RJC	synonym	species	Neduba longipennis	Rentz & Weissman, 1981
+BWVDR	65RJC	synonym	species	Neduba (Aglaothorax) longipennis	Rentz & Weissman, 1981
+5FG68	663JF	accepted	subspecies	Aglaothorax diminutiva malibu	(Rentz & Weissman, 1981)
+5FG67	663JF	accepted	subspecies	Aglaothorax diminutiva diminutiva	(Rentz & Birchim, 1968)
+5FG66	663JF	accepted	subspecies	Aglaothorax diminutiva dactyla	(Rentz & Weissman, 1981)
+5FG65	663JF	accepted	subspecies	Aglaothorax diminutiva constrictans	(Rentz & Weissman, 1981)
+73VKM	663JF	synonym	species	Neduba (Aglaothorax) diminutiva	Rentz & Birchim, 1968
+747KM	5TRJC	synonym	species	Neduba (Aglaothorax) gurneyi	Rentz & Birchim, 1968
+7J9JW	663JC	accepted	subspecies	Aglaothorax morsei tectinota	(Rentz & Weissman, 1981)
+5FG69	663JC	accepted	subspecies	Aglaothorax morsei costalis	(Rentz & Weissman, 1981)
+5FG6D	663JC	accepted	subspecies	Aglaothorax morsei santacruzae	(Rentz & Weissman, 1981)
+5FG6C	663JC	accepted	subspecies	Aglaothorax morsei morsei	(Caudell, 1907)
+5FG6B	663JC	accepted	subspecies	Aglaothorax morsei islandica	(Rentz & Weissman, 1981)
+7J9K5	663JC	accepted	subspecies	Aglaothorax morsei curtatus	(Rentz & Weissman, 1981)
+73VKJ	663JC	synonym	species	Neduba morsei	Caudell, 1907
+8Q65C	5TRJD	accepted	subspecies	Aglaothorax ovatus ovatus	(Scudder, 1899)
+8Q58Y	5TRJD	accepted	subspecies	Aglaothorax ovatus armiger	Rehn & Hebard, 1920
+59D3Y	5TRJD	synonym	species	Tropizaspis ovata	Scudder, 1899
+8Q65F	5TRJD	accepted	subspecies	Aglaothorax ovatus tinkhamorum	Rentz & Birchim, 1968
+8PLT4	5TRJD	accepted	subspecies	Aglaothorax ovatus gigantea	(Rentz & Birchim, 1968)
+8Q65D	5TRJD	accepted	subspecies	Aglaothorax ovatus segnis	Rehn & Hebard, 1920
+8Q65B	5TRJD	accepted	subspecies	Aglaothorax ovatus longicaudus	Rentz & Birchim, 1968
+PXVD	KS7Q	synonym	species	Calodectes crybeloplatus	Rentz & Gurney, 1985
+8PZPS	3S6KP	synonym	species	Lanciana albicornis	
+H45D	6RVKH	synonym	species	Arytropteris steindachneri	Herman, 1874
+8PL3Y	6RVKH	synonym	species	Tropizaspis picturata	Scudder, 1899
+BTKBZ	6RVKH	synonym	subspecies	Neduba carinata steindachneri	(Herman, 1874)
+59D42	6RVKH	synonym	species	Tropizaspis steindachneri	(Herman, 1874)
+BTKBY	747KL	synonym	subspecies	Neduba carinata carinata	Walker, 1869
+59D3X	73VKK	synonym	species	Tropizaspis diabolica	Scudder, 1899
+8Q2CB	73VKK	synonym	species	Neduba (Neduba) diabolica	(Scudder, 1899)
+65RJF	73VKK	synonym	species	Aglaothorax diabolica	(Scudder, 1899)
+5TRJF	6RVKK	synonym	species	Aglaothorax castanea	(Scudder, 1899)
+8QKNM	6RVKK	synonym	species	Neduba (Neduba) castanea	(Scudder, 1899)
+59D3W	6RVKK	synonym	species	Tropizaspis castanea	Scudder, 1899
+BW27L	6S7KK	synonym	variety	Neduba carinata var. convexa	Caudell, 1907
+7KFBQ	6S7KK	synonym	subspecies	Neduba carinata convexa	Caudell, 1907
+BVQ7P	6S7KK	synonym	species	Neduba (Neduba) convexa	Caudell, 1907
+663JD	747KJ	synonym	species	Aglaothorax sierranus	Rehn & Hebard, 1911
+8Q2CC	747KJ	synonym	species	Neduba (Neduba) sierranus	(Rehn & Hebard, 1911)
+8QHZK	8P9LV	synonym	species	Neduba (Neduba) propsti	Rentz & Weissman, 1981
+55VR5	5CP8M	synonym	species	Tettigonia fuscescens	(Blanchard, 1851)
+6CH5V	5CP8M	synonym	species	Decticus fuscescens	Blanchard, 1851
+4JQCX	FYS8	synonym	species	Platydecticus anaesegalae	Gurney & Liebermann, 1975
+8QKS5	77N6F	synonym	species	Plagiostira brevipes	Caudell, 1907
+5KH5F	6VMSG	accepted	subspecies	Plagiostira gillettei utahensis	Tinkham, 1962
+7KM7F	6VMSG	accepted	subspecies	Plagiostira gillettei gillettei	Caudell, 1907
+7K9DL	6MTNX	synonym	subspecies	Idiostatus inermis major	Caudell, 1934
+P6KC	3PDKS	synonym	species	Cacopteris aequalis	Scudder, 1899
+P6KH	3PDKS	synonym	species	Cacopteris nevadensis	Scudder, 1899
+695MG	3PDKS	synonym	species	Cacopteris femorata	Scudder, 1899
+3PDLL	3PDLK	synonym	species	Idiostatus variegata	Caudell, 1907
+P6KG	3PDL9	synonym	species	Cacopteris inermis	Scudder, 1899
+3PDL7	3PDL8	synonym	species	Idiostatus hendersoni	Hebard, 1939
+4ZPYJ	3PDL8	synonym	species	Steiroxys hermanii	Thomas, 1875
+BZGVX	3PDL8	synonym	species	Idiostatus hermani	Thomas, 1875
+BZV6P	3PDL8	synonym	species	Steiroxys hermannii	Thomas, 1875
+BZ3ZJ	3PDL3	synonym	species	Cacopteris punctata	(Scudder, 1899)
+P6KF	3PDL3	synonym	species	Cacopteris fuscopunctata	Scudder, 1899
+4ZPYK	W6MT	synonym	species	Steiroxys melanopleura	Scudder, 1876
+8Q24V	5Y83Y	synonym	species	Metrioptera bonneti	(Bolívar, 1890)
+8PXMX	5Y83Y	synonym	species	Chizuella bonniti	
+8PXLY	5Y83Y	synonym	species	Chelidoptera bonneti	(Bolívar, 1890)
+4JPRD	5Y83Y	synonym	species	Platycleis bonneti	Bolívar, 1890
+8QKKS	66HYK	synonym	species	Anabrus maculatus	Caudell, 1907
+BTJGH	66HYK	synonym	subspecies	Anabrus simplex maculatus	Caudell, 1907
+66HYC	66HYK	synonym	species	Anabrus coloradus	Thomas, 1872
+8QJKV	66HYK	synonym	species	Anabrus nigra	Caudell, 1907
+66HYH	66HYK	synonym	species	Anabrus purpurascens	Uhler, 1864
+66HYF	66HYK	synonym	species	Anabrus similis	Scudder, 1872
+4KFZB	6W3M3	synonym	species	Plicigera himalayana	Uvarov, 1924
+325P4	6HRNL	synonym	species	Ctenodecticus festae	Giglio-Tos, 1893
+8PKBJ	773M3	ambiguous synonym	species	Stipator nigromarginata	
+8XFK	773M3	synonym	species	Acanthodis scabricollis	(Thomas, 1872)
+563RR	773M3	synonym	species	Thamnotrizon scabricollis	Thomas, 1872
+8QJKP	B7Z9G	accepted	species	Antaxius (Chopardius) kraussii	(Bolívar, 1878)
+66XS9	B7Z9G	accepted	species	Antaxius (Chopardius) pedestris	(Fabricius, 1787)
+66XRX	B7Z9G	accepted	species	Antaxius (Chopardius) hispanicus	Bolívar, 1884
+5V9S9	B7Z9G	accepted	species	Antaxius (Chopardius) florezi	Bolívar, 1900
+66Y49	B7Z9G	accepted	species	Antaxius (Chopardius) spinibrachius	(Fischer, 1853)
+679S4	B7Z9G	accepted	species	Antaxius (Chopardius) beieri	Harz, 1966
+BSVHV	B7Z9G	accepted	species	Antaxius (Chopardius) capellei	Cazurro y Ruiz, 1888
+66Y3X	B7Z9G	accepted	species	Antaxius (Chopardius) sorrezensis	(Marquet, 1877)
+5V9RX	B7Z9G	accepted	species	Antaxius (Chopardius) chopardi	Morales-Agacino, 1936
+679S9	8PVL6	accepted	species	Antaxius (Antaxius) difformis	(Brunner von Wattenwyl, 1861)
+679RS	8PVL6	accepted	species	Antaxius (Antaxius) tavaresi	Aires & Menano, 1916
+8NM8W	8PVL6	synonym	genus	Antaxius	Brunner von Wattenwyl, 1882
+66Y44	8PVL6	accepted	species	Antaxius (Antaxius) pauliani	Chopard, 1939
+B7ZCK	8PVL6	synonym	subgenus	Antaxius (Hoelzeliana)	Harz, 1962
+66XS4	8PVL6	accepted	species	Antaxius (Antaxius) armillata	(Serville, 1838)
+679RX	B7Z9X	accepted	species	Antaxius (Cyrnantaxius) bouvieri	Chopard, 1924
+52RMP	6TXTH	synonym	species	Stipator mitchelli	Caudell, 1911
+52RMJ	6TY5G	synonym	species	Stipator bruneri	Caudell, 1907
+5K9D8	75Y5G	accepted	subspecies	Pediodectes grandis insignis	(Caudell, 1907)
+52RML	75Y5G	synonym	species	Stipator grandis	Rehn, 1904
+5K9D7	75Y5G	accepted	subspecies	Pediodectes grandis grandis	(Rehn, 1904)
+66HYG	75Y5H	synonym	species	Anabrus minutus	Thomas, 1870
+52RMT	75Y5H	synonym	species	Stipator stevensonii	(Thomas, 1870)
+8PKBH	75Y5H	synonym	species	Stipator minutus	
+66HYJ	75Y5H	synonym	species	Anabrus stevensonii	Thomas, 1870
+75587	6TY5H	synonym	species	Orchesticus nigromarginatus	Caudell, 1902
+5K9D9	6TY5H	accepted	subspecies	Pediodectes nigromarginatus griseis	(Caudell, 1907)
+7KJGT	6TY5H	accepted	subspecies	Pediodectes nigromarginatus nigromarginatus	(Caudell, 1902)
+52RMR	75XTH	synonym	species	Stipator pratti	Caudell, 1911
+8Q46C	769TG	synonym	species	Stipator cragini	(Bruner, 1886)
+56S45	769TG	synonym	species	Thyreonotus cragini	Bruner, 1886
+52RMM	769TG	synonym	species	Stipator haldemanii	(Girard, 1854)
+66HYD	769TG	synonym	species	Anabrus haldemanii	Girard, 1854
+6GG8J	8PVTK	accepted	species	Eremopedes (Eremopedes) bilineatus	(Thomas, 1875)
+6GG8K	8PVTK	accepted	species	Eremopedes (Eremopedes) covilleae	Hebard, 1934
+6GG8M	8PVTK	accepted	species	Eremopedes (Eremopedes) ateloploides	(Caudell, 1907)
+6GFWP	8PVTK	accepted	species	Eremopedes (Eremopedes) ephippiatus	(Scudder, 1899)
+6GG8P	8PVTK	accepted	species	Eremopedes (Eremopedes) kelsoensis	Tinkham, 1972
+6GFWQ	8PVTK	accepted	species	Eremopedes (Eremopedes) scudderi	Cockerell, 1898
+6GG92	8PVTK	accepted	species	Eremopedes (Eremopedes) subcarinatus	(Caudell, 1907)
+6GFWK	8PVTK	accepted	species	Eremopedes (Eremopedes) colonialis	Rentz, 1972
+6GFWJ	8PVTK	accepted	species	Eremopedes (Eremopedes) balli	Caudell, 1902
+6GG8Q	8PVTK	accepted	species	Eremopedes (Eremopedes) sonorensis	Tinkham, 1944
+8NPHT	8PVTK	synonym	genus	Eremopedes	Scudder, 1897
+6GFWN	8PVTK	accepted	species	Eremopedes (Eremopedes) tectinota	Rentz, 1972
+6GFX2	8PVTK	accepted	species	Eremopedes (Eremopedes) shrevei	Tinkham, 1944
+6GFWD	8PVTL	accepted	species	Eremopedes (Oreopedes) cryptoptera	(Rehn & Hebard, 1920)
+6GG8D	8PVTL	accepted	species	Eremopedes (Oreopedes) cylindricerca	Rentz, 1972
+6GFWB	8PVTL	accepted	species	Eremopedes (Oreopedes) pintiati	Rentz, 1972
+6GG8N	8PVTL	accepted	species	Eremopedes (Oreopedes) californica	Rentz, 1972
+8P45S	8PVTL	synonym	genus	Oreopedes	Rehn & Hebard, 1920
+563R9	5CRHT	synonym	species	Thamnotrizon dorsatus	Brunner von Wattenwyl, 1861
+8Q3PL	5CRHT	synonym	species	Rhacocleis raymondii	(Yersin, 1860)
+8PJFN	5CRHT	synonym	species	Rhacocleis dorsata	
+8TNDF	5CRHT	synonym	species	Anterastes raymondii	(Yersin, 1860)
+8PX2B	5CRHT	synonym	species	Anterastes raymondi	
+4PWZG	5CRHT	synonym	species	Pterolepis raymondii	Yersin, 1860
+6GFWC	6CF9S	synonym	species	Eremopedes brevicauda	Caudell, 1907
+4PWXZ	4RX3G	synonym	species	Pterolepis japygia	(La Greca, 1959)
+4PWZQ	4RX43	synonym	species	Pterolepis silviarum	(Galvagni, 1984)
+4PWWP	4RX3T	synonym	species	Pterolepis bormansi	(Brunner von Wattenwyl, 1882)
+6WTSP	4RX3T	synonym	species	Rhacocleis bormansi	Brunner von Wattenwyl, 1882
+4PWYR	4RX3T	synonym	species	Pterolepis neglecta	Costa, 1863
+4RX2W	4RX3T	synonym	species	Rhacocleis brutia	Salfi, 1924
+BTKNQ	4RX3T	synonym	subspecies	Rhacocleis neglecta neglecta	(Costa, 1863)
+BTKMK	8Q3PJ	synonym	subspecies	Pterolepis spoliata grallata	(Pantel, 1886)
+4VMYR	8Q3PJ	synonym	species	Scirtobaenus grallatus	Pantel, 1886
+4PWXN	8Q3PJ	synonym	species	Pterolepis grallata	(Pantel, 1886)
+8Q3M2	4RX3C	synonym	species	Pterolepis discrepans	(Fieber, 1853)
+8QJB4	4RX3C	synonym	species	Rhacocleis hauckei	Ramme, 1913
+6CH67	4RX3C	synonym	species	Decticus germanica	Herrich-Schäffer, 1840
+563RK	4RX3C	synonym	species	Thamnotrizon pallidus	Brunner von Wattenwyl, 1861
+4PWYM	4RX3C	synonym	species	Pterolepis modesta	Fischer, 1853
+8P8TG	4RX3C	ambiguous synonym	species	Decticus vittatus	Fischer, 1853
+4PWXG	4RX3C	synonym	species	Pterolepis germanica	(Herrich-Schäffer, 1840)
+4RX35	4RX3C	synonym	species	Rhacocleis discrepans	Fieber, 1853
+66Y47	4RX3M	synonym	species	Antaxius maculipedes	Ingrisch, 1983
+6X64P	4RX3M	synonym	species	Rhacocleis grisea	Baccetti, 1991
+8Q3LZ	4RX2F	synonym	species	Pterolepis agiostratica	(Werner, 1937)
+563RQ	4RX3Y	synonym	species	Thamnotrizon ramburi	(Serville, 1838)
+4PWZF	4RX3Y	synonym	species	Pterolepis ramburi	Serville, 1838
+4RX3Z	795SP	synonym	species	Rhacocleis silvestriana	Uvarov, 1942
+8PJFP	795SP	ambiguous synonym	species	Rhacocleis maura	Uvarov, 1935
+C86FD	4RX2X	synonym	species	Rhacocleis bucchici	Herman, 1874
+C86FB	4RX2X	synonym	species	Rhacocleis bucchichi	(Herman, 1874)
+C86FC	4RX2X	synonym	species	Rhacocleis bucchichii	Herman, 1874
+C69RN	4RX2X	synonym	species	Anterastes bucchichi	(Herman, 1874)
+C86FF	4RX2X	synonym	species	Rhacocleis bucchicii	Herman, 1874
+4RX2L	4RX2K	synonym	species	Rhacocleis annulatus	Fieber, 1853
+4PWWQ	4RX2K	synonym	species	Pterolepis brisoutii	Yersin, 1860
+4PX26	4RX45	synonym	species	Pterolepis trilobata	(La Greca & Messina, 1974)
+4VMYT	4RX47	synonym	species	Scirtobaenus turcicus	Uvarov, 1930
+4PWXY	4RX3F	synonym	species	Pterolepis insularis	(Ramme, 1928)
+4RX39	4RX3F	synonym	species	Rhacocleis emmae	Werner, 1933
+4PWX4	4RX33	synonym	species	Pterolepis dernensis	(Salfi, 1926)
+5KVPS	4RX2Z	synonym	subspecies	Rhacocleis neglecta corsicana	Bonfils, 1960
+4RX3Q	4RX2Z	synonym	species	Rhacocleis minerva	Baccetti, 1991
+6CGSZ	4ZPYN	synonym	species	Decticus trilineatus	(Thomas, 1870)
+563S4	4ZPYN	synonym	species	Thamnotrizon trilineatus	Thomas, 1870
+8QJZK	4ZPYN	synonym	species	Dectes trilineatus	(Thomas, 1870)
+6CGTM	4ZPYL	synonym	species	Decticus pallidipalpus	Thomas, 1872
+4ZPYH	4ZPYL	synonym	species	Steiroxys hendersoni	Caudell, 1923
+5WJQ6	5BCJ3	synonym	species	Bicolorana knipperi	Ramme, 1951
+C5J55	5BCJ3	synonym	species	Metrioptera (Bicolorana) knipperi	(Ramme, 1951)
+C7MVD	5BCJ3	synonym	species	Metrioptera (Vichetia) knipperi	(Ramme, 1951)
+C7MVF	5BCJ4	synonym	species	Metrioptera (Vichetia) oblongicollis	(Brunner von Wattenwyl, 1882)
+C5J57	5BCJ4	synonym	species	Metrioptera (Bicolorana) oblongicollis	(Brunner von Wattenwyl, 1882)
+4GLS6	5BCJ4	synonym	species	Pholidoptera albanica	Csiki, 1922
+8PXMB	5BCJ4	synonym	species	Chelidoptera oblongicollis	(Brunner von Wattenwyl, 1882)
+4JPT7	5BCJ4	synonym	species	Platycleis oblongicollis	Brunner von Wattenwyl, 1882
+8PX9B	5BCJ4	synonym	species	Bicolorana oblongicollis	(Brunner von Wattenwyl, 1882)
+8Q258	5BCJ4	synonym	species	Metrioptera oblongicollis	(Brunner von Wattenwyl, 1882)
+C7MVG	5BCJ4	synonym	species	Metrioptera (Metrioptera) oblongicollis	(Brunner von Wattenwyl, 1882)
+4VBLH	4VBLL	synonym	species	Schizonotinus caucasicus	Ramme, 1948
+BTKQ5	4VBLL	synonym	subspecies	Schizonotinus kerketa kerketa	(Uvarov, 1917)
+4GLT5	4VBLL	synonym	species	Pholidoptera kerketa	(Uvarov, 1917)
+6SKL7	4VBLL	synonym	species	Olynthoscelis kerketa	Uvarov, 1917
+9H3MD	4VBLJ	synonym	species	Pholidoptera crassicerca	Tarbinsky, 1940
+BTKQ4	4VBLJ	synonym	subspecies	Schizonotinus kerketa crassicercus	(Tarbinsky, 1940)
+LRT9	8NNB4	accepted	species	Bicolorana burri	(Uvarov, 1921)
+C4N55	8NNB4	synonym	subgenus	Bicolorana (Bicolorana)	Zeuner, 1941
+LRT8	8NNB4	accepted	species	Bicolorana bicolor	(Philippi, 1830)
+C6C2M	8NNB4	synonym	subgenus	Metrioptera (Bicolorana)	Zeuner, 1941
+LRTB	8NNB4	accepted	species	Bicolorana kraussi	(Padewieth, 1900)
+5D455	8P33F	accepted	species	Zeuneriana amplipennis	(Brunner von Wattenwyl, 1882)
+5D457	8P33F	accepted	species	Zeuneriana marmorata	(Fieber, 1853)
+BSQK2	8P33F	synonym	subgenus	Metrioptera (Zeuneriana)	Ramme, 1951
+5D454	8P33F	accepted	species	Zeuneriana abbreviata	(Serville, 1838)
+5D456	8P33F	accepted	species	Zeuneriana burriana	(Uvarov, 1935)
+4YT4V	8NZD2	accepted	species	Sphagniana sphagnorum	(Walker, 1869)
+BSQ2C	8NZD2	synonym	subgenus	Metrioptera (Sphagniana)	Zeuner, 1941
+6YY65	8NZD2	accepted	species	Sphagniana monticola	(Kim & Kim, 2001)
+4YT4W	8NZD2	accepted	species	Sphagniana ussuriana	(Uvarov, 1926)
+42JGN	8NS6T	accepted	species	Metrioptera prenjica	(Burr, 1899)
+BSMLS	8NS6T	synonym	subgenus	Metrioptera (Metrioptera)	Wesmaël, 1838
+42JH2	8NS6T	accepted	species	Metrioptera tsirojanni	Harz & Pfau, 1983
+42JFK	8NS6T	accepted	species	Metrioptera caprai	Baccetti, 1956
+42JGB	8NS6T	accepted	species	Metrioptera maritima	Olmo-Vidal, 1992
+42JFJ	8NS6T	accepted	species	Metrioptera buyssoni	(Saulcy, 1887)
+9GMFJ	8NS6T	synonym	subgenus	Decticus (Metrioptera)	Wesmaël, 1838
+42JGS	8NS6T	accepted	species	Metrioptera saussuriana	(Frey-Gessner, 1872)
+42JF4	8NS6T	accepted	species	Metrioptera ambigua	Pfau, 1986
+42JG5	8NS6T	accepted	species	Metrioptera karnyana	Uvarov, 1924
+42JFZ	8NS6T	accepted	species	Metrioptera hoermanni	(Werner, 1906)
+6RF7Y	8NS6T	accepted	species	Metrioptera brachyptera	(Linnaeus, 1761)
+4T9L7	8NYRS	accepted	species	Roeseliana roeselii	(Hagenbach, 1822)
+4T9L5	8NYRS	accepted	species	Roeseliana oporina	(Bolívar, 1887)
+BTSLC	8NYRS	accepted	species	Roeseliana epirotica	Lemonnier-Darcemont & Darcemont, 2023
+BSPTK	8NYRS	synonym	subgenus	Metrioptera (Roeseliana)	Zeuner, 1941
+4T9L3	8NYRS	accepted	species	Roeseliana brunneri	Ramme, 1951
+4T9L2	8NYRS	accepted	species	Roeseliana bispina	(Bolívar, 1899)
+4T9KY	8NYRS	accepted	species	Roeseliana ambitiosa	(Uvarov, 1924)
+4T9KZ	8NYRS	accepted	species	Roeseliana azami	(Finot, 1892)
+4T9L6	8NYRS	accepted	species	Roeseliana pylnovi	(Uvarov, 1924)
+BSPTL	8NYRS	synonym	subgenus	Bicolorana (Roeseliana)	Zeuner, 1941
+4T9L4	8NYRS	accepted	species	Roeseliana fedtschenkoi	(Saussure, 1874)
+8Q38L	CQ68	synonym	species	Platycleis (Parnassiana) vicheti	(Delmas & Rambier, 1950)
+4DQ9R	CQ68	synonym	species	Parnassiana vicheti	Delmas & Rambier, 1950
+8Q3BV	CQ68	synonym	species	Platycleis vicheti	(Delmas & Rambier, 1950)
+563R4	NM6N	synonym	species	Thamnotrizon bucephalus	Brunner von Wattenwyl, 1882
+4PLSK	NM6N	synonym	species	Psorodonotus riveti	Berland & Chopard, 1922
+NM6S	NM6N	synonym	species	Bucephaloptera jannonei	Ramme, 1939
+BV739	NM6N	synonym	species	Olynthoscelis bucephala	(Brunner von Wattenwyl, 1882)
+8Q33V	NM6N	synonym	species	Pholidoptera bucephala	(Brunner von Wattenwyl, 1882)
+BZK6H	6FGYN	synonym	species	Metrioptera japonica	(Bolívar, 1890)
+8QK26	6FGYN	synonym	species	Tettigonia japonica	(Bolívar, 1890)
+BWTRJ	6FGYN	synonym	species	Metrioptera (Eobiana) japonica	(Bolívar, 1890)
+6CGTX	6FGYN	synonym	species	Decticus japonicus	Bolívar, 1890
+5H4M8	6FGYJ	accepted	subspecies	Eobiana engelhardti engelhardti	(Uvarov, 1926)
+42JFT	6FGYJ	synonym	species	Metrioptera engelhardti	Uvarov, 1926
+5H4M9	6FGYJ	accepted	subspecies	Eobiana engelhardti subtropica	(Bey-Bienko, 1949)
+5H4MB	6FGYQ	accepted	subspecies	Eobiana nagashimai nagashimai	Wada & Ishikawa, 2001
+7K2JX	6FGYQ	accepted	subspecies	Eobiana nagashimai iidensis	Kusakari, 2006
+5H4MC	6FGYQ	accepted	subspecies	Eobiana nagashimai tanigawaensis	Kusakari, 2006
+8Q256	43T8K	synonym	species	Metrioptera modesta	(Fieber, 1853)
+C5SJF	43T8K	synonym	species	Platycleis (Modestana) modesta	Fieber, 1853
+C82SR	43T8K	synonym	species	Platycleis modestus	Fieber, 1853
+8Q3WP	43T8K	synonym	species	Sepiana modestus	(Fieber, 1853)
+8PXM8	43T8K	synonym	species	Chelidoptera modestus	(Fieber, 1853)
+8PHQ6	43T8K	synonym	species	Platycleis modesta	Fieber, 1853
+5JQKS	43T8H	accepted	subspecies	Modestana ebneri ebneri	(Ramme, 1926)
+5JQKR	43T8H	accepted	subspecies	Modestana ebneri acuminata	(Willemse, 1975)
+5JQKT	43T8H	accepted	subspecies	Modestana ebneri excurvata	(Willemse, 1975)
+42JFR	43T8H	synonym	species	Metrioptera ebneri	Ramme, 1926
+BSQ3D	8NZFH	synonym	subgenus	Platycleis (Sporadiana)	Zeuner, 1941
+4ZBDR	8NZFH	accepted	species	Sporadiana sporadarum	(Werner, 1933)
+6RPTF	8NVL8	accepted	species	Montana macedonica	(Berland & Chopard, 1922)
+73Q5H	8NVL8	accepted	species	Montana daghestanica	(Uvarov, 1917)
+6RPTH	8NVL8	accepted	species	Montana armeniaca	(Ramme, 1930)
+6RQ5D	8NVL8	accepted	species	Montana stricta	(Zeller, 1849)
+7425D	8NVL8	accepted	species	Montana uvarovi	Karabag, 1950
+73PTD	8NVL8	accepted	species	Montana tianshanica	(Uvarov, 1933)
+73PTG	8NVL8	accepted	species	Montana heinrichi	(Ramme, 1929)
+BSMN7	8NVL8	synonym	subgenus	Platycleis (Montana)	Zeuner, 1941
+6RPTD	8NVL8	accepted	species	Montana striata	(Thunberg, 1815)
+7425H	8NVL8	accepted	species	Montana decticiformis	(Stshelkanovtzev, 1914)
+6S25G	8NVL8	accepted	species	Montana gaskoi	Garai, 2011
+73Q5G	8NVL8	accepted	species	Montana helleri	(Çıplak & Taylan, 2006)
+6RQ5G	8NVL8	accepted	species	Montana eversmanni	(Kittary, 1849)
+73Q5D	8NVL8	accepted	species	Montana tomini	(Pylnov, 1916)
+6RQ5H	8NVL8	accepted	species	Montana barretii	(Burr, 1912)
+6S25F	8NVL8	accepted	species	Montana montana	(Kollar, 1833)
+6S25D	8NVL8	accepted	species	Montana taurica	(Bolívar, 1899)
+7425F	8NVL8	accepted	species	Montana schereri	(Werner, 1901)
+6RQ5F	8NVL8	accepted	species	Montana medvedevi	(Miram, 1927)
+7425G	8NVL8	accepted	species	Montana kure	(Ünal, 2006)
+73PTH	8NVL8	accepted	species	Montana carpetana	(Bolívar, 1887)
+73Q5F	8NVL8	accepted	species	Montana richteri	(Bey-Bienko, 1958)
+6RPTC	8NVL8	accepted	species	Montana zanjanica	Garai, 2011
+6RPTG	8NVL8	accepted	species	Montana elegans	(Uvarov, 1934)
+6H8S2	8NRLX	accepted	species	Eumetrioptera monochroma	Bey-Bienko, 1947
+6H8RQ	8NRLX	accepted	species	Eumetrioptera mistshenkoi	Bekuzin, 1961
+6H93Q	8NRLX	accepted	species	Eumetrioptera obuchovae	Mistshenko, 1949
+6H942	8NRLX	accepted	species	Eumetrioptera pavlovskyi	Miram, 1935
+BSLSS	8NRLX	synonym	subgenus	Platycleis (Eumetrioptera)	Miram, 1935
+6GX3Q	8NRLX	accepted	species	Eumetrioptera beybienkoi	Bekuzin, 1978
+6GX42	8NRLX	accepted	species	Eumetrioptera crassa	Mistshenko, 1949
+BSPX9	8NZ46	synonym	subgenus	Platycleis (Sepiana)	Zeuner, 1941
+4WQMZ	8NZ46	accepted	species	Sepiana sepium	(Yersin, 1854)
+5TY4W	8NLT3	accepted	species	Alticolana crassipes	(Bey-Bienko, 1951)
+BSKVD	8NLT3	synonym	subgenus	Metrioptera (Alticolana)	Zeuner, 1941
+5TXT8	8NLT3	accepted	species	Alticolana atroflava	(Bey-Bienko, 1951)
+BSKVF	8NLT3	synonym	subgenus	Platycleis (Alticolana)	Zeuner, 1941
+5TXSW	8NLT3	accepted	species	Alticolana alticola	(Tarbinsky, 1930)
+55JDF	8NZYZ	accepted	species	Tessellana nigrosignata	(Costa, 1863)
+BSQ7R	8NZYZ	synonym	subgenus	Platycleis (Tessellana)	Zeuner, 1941
+55JDK	8NZYZ	accepted	species	Tessellana veyseli	(Koçak, 1984)
+55JDD	8NZYZ	accepted	species	Tessellana carinata	(Berland & Chopard, 1922)
+7BRB7	8NZYZ	accepted	species	Tessellana lagrecai	Messina, 1979
+55JDG	8NZYZ	accepted	species	Tessellana orina	(Burr, 1899)
+BSQ7Q	8NZYZ	synonym	subgenus	Platycleis (Tesselana)	Zeuner, 1941
+8PVGB	8NZYZ	synonym	genus	Tesselana	Zeuner, 1941
+55JDJ	8NZYZ	accepted	species	Tessellana tessellata	(Charpentier, 1825)
+4JPTM	8NX6R	accepted	species	Platycleis romana	Ramme, 1927
+4JPTY	8NX6R	accepted	species	Platycleis speciosa	(Heer, 1865)
+4JPS4	8NX6R	accepted	species	Platycleis falx	(Fabricius, 1775)
+4JPTP	8NX6R	accepted	species	Platycleis sabulosa	Azam, 1901
+4JPSK	8NX6R	accepted	species	Platycleis irinae	Sergeev & Pokivajlov, 1992
+4JPSY	8NX6R	accepted	species	Platycleis meridiana	Stolyarov, 1969
+4JPTN	8NX6R	accepted	species	Platycleis sabinegaali	Garai, 2011
+BSGD8	8NX6R	synonym	subgenus	Platycleis (Platycleis)	Fieber, 1853
+4JPR3	8NX6R	accepted	species	Platycleis alexandra	(Uvarov, 1926)
+8Q3BN	8NX6R	accepted	species	Platycleis longis	Otte, 1997
+4JPQZ	8NX6R	accepted	species	Platycleis affinis	Fieber, 1853
+77PRF	8NX6R	accepted	species	Platycleis waltheri	Harz, 1966
+8Q3BD	8NX6R	accepted	species	Platycleis elytris	Otte, 1997
+4JPTB	8NX6R	accepted	species	Platycleis pathana	Zeuner, 1941
+4JPR2	8NX6R	accepted	species	Platycleis albopunctata	(Goeze, 1778)
+4JPSD	8NX6R	accepted	species	Platycleis iberica	Zeuner, 1941
+4JPTH	8NX6R	accepted	species	Platycleis ragusai	Ramme, 1927
+4JPS6	8NX6R	accepted	species	Platycleis fatima	Uvarov, 1912
+4JPSM	8NX6R	accepted	species	Platycleis kabulica	Bey-Bienko, 1967
+6W23G	8NX6R	accepted	species	Platycleis trivittata	Bey-Bienko, 1951
+4JPS2	8NX6R	accepted	species	Platycleis escalerai	Bolívar, 1899
+9GZW3	8NX6R	accepted	species	Platycleis rahmoiensis	Jaiswara & Shah, 2022
+4JPSG	8NX6R	accepted	species	Platycleis intermedia	(Serville, 1838)
+4JPSQ	8NX6R	accepted	species	Platycleis kibris	Ünal, 2012
+8PVR2	8NX6R	synonym	subgenus	Decticus (Chelidoptera)	Wesmaël, 1838
+4JPRN	8NX6R	accepted	species	Platycleis concii	Galvagni, 1959
+6VQ3D	8NX6R	accepted	species	Platycleis pamirica	(Zeuner, 1930)
+4JPST	8NX6R	accepted	species	Platycleis latitabunda	Stolyarov, 1968
+4JPSP	8NX6R	accepted	species	Platycleis kashmira	(Uvarov, 1930)
+7823B	8NX6R	accepted	species	Platycleis iljinskii	Uvarov, 1917
+4JPRH	8NX6R	accepted	species	Platycleis buzzettii	Massa & Fontana, 2011
+8NN3V	8NX6R	synonym	genus	Chelidoptera	
+4JPRQ	8NX6R	accepted	species	Platycleis curvicauda	Podgornaya, 1988
+4JPTX	8NX6R	accepted	species	Platycleis sogdiana	Mistshenko, 1954
+77Q3B	8NX6R	accepted	species	Platycleis grisea	(Fabricius, 1781)
+6VPRD	8NX6R	accepted	species	Platycleis longicauda	Tarbinsky, 1930
+6W23D	8NX6R	accepted	species	Platycleis pongraczi	Zeuner, 1929
+77Q3G	8NX6R	accepted	species	Platycleis turanica	Zeuner, 1930
+6ZFTZ	8NZFK	accepted	species	Squamiana bressani	Fontana & Massa, 2011
+6ZG6J	8NZFK	accepted	species	Squamiana sinuata	(Ramme, 1951)
+6ZG6H	8NZFK	accepted	species	Squamiana weidneri	(Demirsoy, 1974)
+6ZG68	8NZFK	accepted	species	Squamiana ankarensis	(Karabag, 1950)
+6ZG6C	8NZFK	accepted	species	Squamiana melendisensis	(Çıplak, 2002)
+6ZG6B	8NZFK	accepted	species	Squamiana irritans	(Ramme, 1951)
+8Q3ZS	8NZFK	accepted	species	Squamiana goeksunica	(Ünal, 2018)
+BSQ3F	8NZFK	synonym	subgenus	Platycleis (Squamiana)	Zeuner, 1941
+8Q3ZT	8NZFK	accepted	species	Squamiana supericola	(Ünal, 2018)
+6ZG6G	8NZFK	accepted	species	Squamiana squamiptera	(Uvarov, 1912)
+6ZG6F	8NZFK	accepted	species	Squamiana kurmana	Ramme, 1951
+6ZG6D	8NZFK	accepted	species	Squamiana salmani	(Çıplak, 2002)
+4DQ9H	8NX5C	accepted	species	Parnassiana menalon	Willemse, 1975
+4DQ9D	8NX5C	accepted	species	Parnassiana coracis	(Ramme, 1921)
+4DQ9N	8NX5C	accepted	species	Parnassiana tenuis	(Heller & Willemse, 1989)
+4DQ9G	8NX5C	accepted	species	Parnassiana gionica	La Greca & Messina, 1976
+4DQ9Q	8NX5C	accepted	species	Parnassiana tymphrestos	Zeuner, 1941
+4DQ9L	8NX5C	accepted	species	Parnassiana parnassica	(Ramme, 1926)
+4DQ9C	8NX5C	accepted	species	Parnassiana chelmos	(Zeuner, 1941)
+BSN5N	8NX5C	synonym	subgenus	Platycleis (Parnassiana)	Zeuner, 1941
+4DQ9P	8NX5C	accepted	species	Parnassiana tymphiensis	(Willemse, 1973)
+4DQ9K	8NX5C	accepted	species	Parnassiana panaetolikon	Willemse, 1980
+4DQ9J	8NX5C	accepted	species	Parnassiana nigromarginata	(Willemse & Willemse, 1987)
+4DQ9M	8NX5C	accepted	species	Parnassiana parnon	Willemse, 1980
+4DQ9F	8NX5C	accepted	species	Parnassiana fusca	(Brunner von Wattenwyl, 1882)
+6TRCH	8NX5C	accepted	species	Parnassiana dirphys	(Willemse, 1980)
+4WFYN	8NZ3R	accepted	species	Semenoviana tricarinata	(Tarbinsky, 1930)
+4WFYJ	8NZ3R	accepted	species	Semenoviana plotnikovi	(Uvarov, 1914)
+4WFYM	8NZ3R	accepted	species	Semenoviana tamerlana	(Saussure, 1874)
+4WFYL	8NZ3R	accepted	species	Semenoviana tadzhika	(Bey-Bienko, 1933)
+BSPX3	8NZ3R	synonym	subgenus	Platycleis (Semenoviana)	Zeuner, 1941
+4WFYK	8NZ3R	accepted	species	Semenoviana similis	(Tarbinsky, 1930)
+3PL8N	8NSW5	accepted	species	Incertana concinna	(Walker, 1869)
+3PL8S	8NSW5	accepted	species	Incertana incerta	(Brunner von Wattenwyl, 1882)
+3PL8P	8NSW5	accepted	species	Incertana decorata	(Fieber, 1853)
+3PL8V	8NSW5	accepted	species	Incertana seniae	(Finot, 1893)
+6N84Z	8NSW5	accepted	species	Incertana persica	(Uvarov, 1917)
+3PL8L	8NSW5	accepted	species	Incertana capitata	(Uvarov, 1917)
+3PL8Q	8NSW5	accepted	species	Incertana drepanensis	(Massa, Fontana & Buzzetti, 2006)
+8PP67	8NSW5	synonym	genus	Decorana	Zeuner, 1941
+BSM6W	8NSW5	synonym	subgenus	Platycleis (Incertana)	Zeuner, 1941
+3PL8W	8NSW5	accepted	species	Incertana tripolitana	(Fontana & Massa, 2009)
+3PL8K	8NSW5	accepted	species	Incertana buxtoni	(Uvarov, 1923)
+BSLKR	8NSW5	synonym	subgenus	Platycleis (Decorana)	Zeuner, 1941
+BSLKS	8NSW5	synonym	subgenus	Metrioptera (Decorana)	Zeuner, 1941
+3PL8J	8NSW5	accepted	species	Incertana arabica	(Popov, 1981)
+3PL8R	8NSW5	accepted	species	Incertana himalayana	(Ramme, 1933)
+3PL8T	8NSW5	accepted	species	Incertana kabyla	(Finot, 1893)
+8QJLL	8P2YM	accepted	species	Yalvaciana allowpora	Shah & Usmani, 2021
+8PW6R	8P2YM	synonym	subgenus	Platycleis (Yalvaciana)	Çıplak, Heller & Demirsoy, 2002
+9H3HG	8P2YM	accepted	species	Yalvaciana taylaniensis	Shah & Usmani, 2022
+9GZNL	8P2YM	accepted	species	Yalvaciana unal	Shah & Usmani, 2022
+7FZDR	8P2YM	accepted	species	Yalvaciana yalvaci	(Demirsoy, 1974)
+66YWJ	6NN4M	synonym	species	Anterastes disparalatus	(Ünal, 2002)
+8Q24R	5WR94	synonym	species	Metrioptera arnold	
+42JF8	5WR94	synonym	species	Metrioptera arnoldi	Ramme, 1933
+C7MV7	5WR94	synonym	species	Metrioptera (Broughtonia) arnoldi	Ramme, 1933
+C5J4Y	5WR94	synonym	species	Metrioptera (Bicolorana) arnoldi	Ramme, 1933
+LRT7	5WR94	synonym	species	Bicolorana arnoldi	(Ramme, 1933)
+BTK92	5WR94	synonym	subspecies	Metrioptera (Metrioptera) domogledi arnoldi	Ramme, 1933
+4JPRX	5X2X4	synonym	species	Platycleis domogledi	Brunner von Wattenwyl, 1882
+8Q23T	5X2X4	synonym	species	Metrioptera (Broughtonia) domogleti	
+C7MV9	5X2X4	synonym	species	Metrioptera (Metrioptera) domogledi	(Brunner von Wattenwyl, 1882)
+C5J53	5X2X4	synonym	species	Metrioptera (Bicolorana) domogledi	(Brunner von Wattenwyl, 1882)
+5Y38P	5X2X4	synonym	species	Chelidoptera domogledi	(Brunner von Wattenwyl, 1882)
+8PX99	5X2X4	synonym	species	Bicolorana domogledi	(Brunner von Wattenwyl, 1882)
+42JFQ	5X2X4	synonym	species	Metrioptera domogledi	(Brunner von Wattenwyl, 1882)
+4JPRY	5X2X4	synonym	species	Platycleis domogleti	Schulthess, 1882
+C7MVB	5X2X4	synonym	species	Metrioptera (Broughtonia) domogledi	(Brunner von Wattenwyl, 1882)
+BV6CQ	4PWYY	synonym	species	Rhacocleis dubronyi	Baccetti, Massa & Canestrelli, 1995
+78TSP	4PWYY	synonym	species	Rhacocleis parvula	Costa, 1885
+679S7	4PWYY	synonym	species	Antaxius pedata	(Costa, 1882)
+BV6P9	4PWYY	synonym	subspecies	Pterolepis pedata pedata	Costa, 1882
+4RX2Y	4PWWZ	synonym	species	Rhacocleis claudiae	Galvagni, 1988
+4RX2G	4PWWD	synonym	species	Rhacocleis algerica	Uvarov, 1935
+4RX3W	4PWZ5	synonym	species	Rhacocleis pieltaini	Morales-Agacino, 1940
+4RX3S	4PWYN	synonym	species	Rhacocleis moralesi	Galvagni, 1988
+5KRSF	4PWWL	synonym	subspecies	Pterolepis berberica berberica	(Galvagni, 1989)
+5KVPQ	4PWWL	synonym	subspecies	Rhacocleis berberica berberica	Galvagni, 1989
+4RX3H	4PWY2	synonym	species	Rhacocleis kabylica	Galvagni & Fontana, 2000
+BTCV9	BT823	synonym	species	Rhacocleis gessardi	(Bolívar, 1905)
+5KRSQ	4PWZW	accepted	subspecies	Pterolepis spoliata nadigi	Galvagni, 1981
+7KPTK	4PWZW	accepted	subspecies	Pterolepis spoliata spoliata	Rambur, 1838
+5KRST	4PWZW	accepted	subspecies	Pterolepis spoliata raggei	Galvagni, 1981
+5KRSS	4PWZW	accepted	subspecies	Pterolepis spoliata pascuali	Galvagni, 1981
+5KRSM	4PWZW	accepted	subspecies	Pterolepis spoliata kaltenbachi	Galvagni, 1981
+5KRSR	4PWZW	accepted	subspecies	Pterolepis spoliata nevadensis	Galvagni, 1981
+5KRSP	4PWZW	accepted	subspecies	Pterolepis spoliata minor	Bolívar, 1900
+5KRSN	4PWZW	accepted	subspecies	Pterolepis spoliata llorenteae	Galvagni, 1981
+4RX3K	4PWY5	synonym	species	Rhacocleis lagrecai	Fontana & Massa, 2004
+4RX3J	4PWY3	synonym	species	Rhacocleis korsakovi	Uvarov, 1942
+4RX2S	4PWWM	ambiguous synonym	species	Rhacocleis bidens	Uvarov, 1924
+79652	4PWWC	synonym	species	Rhacocleis adolphorum	Galvagni, 1988
+4RX3N	4PWYG	synonym	species	Rhacocleis maroccana	Bolívar, 1905
+8Q3PK	4PWYD	synonym	species	Rhacocleis lusitanica	(Bolívar, 1900)
+4VMYS	4PWYD	synonym	species	Scirtobaenus lusitanicus	Bolívar, 1900
+4RX2M	4PWWJ	synonym	species	Rhacocleis augustini	Galvagni, 2001
+8PJ9C	4PWX9	synonym	species	Pterolepis siciliensis	La Greca, 1980
+5KRSL	4PWX9	synonym	subspecies	Pterolepis pedata elymica	Galvagni & Massa, 1980
+4RX3P	4PWYJ	ambiguous synonym	species	Rhacocleis maura	Bonnet, 1886
+4PWXX	4PWXH	synonym	species	Pterolepis indigena	Finot, 1893
+4RX3B	4PWXF	synonym	species	Rhacocleis galitana	Uvarov, 1942
+8Q2QL	4BVSX	synonym	species	Pachytrachelus gracilis	(Brunner von Wattenwyl, 1861)
+563RD	4BVSX	synonym	species	Thamnotrizon gracilis	Brunner von Wattenwyl, 1861
+6TJ9D	4BVSY	synonym	species	Pachytrachelus striolatus	Fieber, 1853
+563QX	4BVSY	synonym	species	Thamnotrizon appendiculatus	Brunner von Wattenwyl, 1861
+563RZ	4BVSY	synonym	species	Thamnotrizon striolatus	(Fieber, 1853)
+8Q3PG	4BVSW	synonym	species	Rhacocleis frater	(Brunner von Wattenwyl, 1882)
+4BVSK	4BVSW	synonym	species	Pachytrachelus frater	Brunner von Wattenwyl, 1882
+8QKBP	66YWK	synonym	species	Anterastes petkovskii	Karaman, 1961
+7C798	66YWK	ambiguous synonym	species	Thamnotrizon serbicus	(Brunner von Wattenwyl, 1882)
+7DGMN	66Z9Q	synonym	species	Uludaghia gerdae	Ramme, 1951
+8P5HQ	66Z8L	synonym	species	Anterastes ucari	Çıplak, 2004
+66Z8F	66Z8L	synonym	species	Anterastes akdaghensis	Ramme, 1951
+4JPQP	79MKY	synonym	species	Platycleis (Platycleis) galvagnii	Fontana, Buzzetti, Kleukers & Odé, 2011
+8Q2Z8	3PTNG	synonym	species	Petropedes spinosa	(Hebard, 1923)
+6GG8F	3PTNG	synonym	species	Eremopedes spinosa	Hebard, 1923
+BTJHJ	66W3R	synonym	subspecies	Anonconotus alpinus ghilianii	Camerano, 1878
+7J9VQ	6783R	synonym	subspecies	Anonconotus baracunensis occidentalis	Carron & Wermeille, 2002
+4PWWF	5V83R	synonym	species	Pterolepis alpinus	Yersin, 1858
+66K7F	5V83R	synonym	species	Analota alpinus	(Yersin, 1858)
+BTJHH	5V83R	synonym	subspecies	Anonconotus alpinus alpinus	(Yersin, 1858)
+BTD2Y	66VS3	synonym	subspecies	Anonconotus baracunensis baracunensis	Nadig, 1987
+7J9VZ	66W43	synonym	subspecies	Anonconotus alpinus italoaustriacus	Nadig, 1987
+6SK4X	66VRR	synonym	species	Omalota apenninigena	Targioni-Tozzetti, 1881
+66JVG	66VRR	synonym	species	Analota apenninigena	Targioni-Tozzetti, 1881
+42JFD	78RJ6	synonym	species	Metrioptera bodenheimeri	Uvarov, 1927
+4WQMX	78RJ6	synonym	species	Sepiana bodenheimeri	(Uvarov, 1927)
+6CGTJ	5GTPP	synonym	species	Decticus mithati	Ramme, 1939
+BTDDL	5GTPQ	synonym	subspecies	Decticus verrucivorus monspeliensis	(Rambur, 1838)
+6CH5J	5GTPQ	synonym	species	Decticus monspeliensis	Rambur, 1838
+6QLJ7	5GTPS	synonym	species	Locusta verrucivora	(Linnaeus, 1758)
+5GTPM	5GTPS	synonym	subspecies	Decticus verrucivorus insularis	Baccetti, 1963
+8PY79	5GTPS	synonym	species	Decticus (Chelidoptera) verrucivorus	(Linnaeus, 1758)
+76DDV	5GTPS	synonym	species	Peltastes hastatus	Fischer von Waldheim, 1839
+4PWZD	5GTPS	synonym	species	Pterolepis radiata	Fischer von Waldheim, 1846
+8PWJY	5GTPS	synonym	species	Acrida bingleii	Curtis, 1825
+3HGSB	5GTPS	synonym	species	Gryllus (Tettigonia) rubicundus	Goeze, 1778
+8Q4FB	5GTPS	synonym	species	Tettigonia verrucivora	(Linnaeus, 1758)
+4PWXQ	5GTPS	synonym	species	Pterolepis hastata	(Fischer von Waldheim, 1839)
+BW4CK	5GTPS	synonym	variety	Decticus verrucivorus var. deliae	Fritze, 1918
+BW978	5GTPS	synonym	variety	Tettigonia verrucivora var. ocreothoracica	Görtler, 1951
+BVVL4	5GTPS	synonym	species	Psorodonotus hastatus	(Fischer von Waldheim, 1839)
+3HGSK	5GTPS	synonym	species	Gryllus verrucivorus	Linnaeus, 1758
+8Q67Y	5GTPN	synonym	subspecies	Decticus verrucivorus iongipennis	
+563RW	5KDMR	synonym	species	Thamnotrizon similis	Brunner von Wattenwyl, 1861
+BTKJK	5KDMR	synonym	subspecies	Pholidoptera similis similis	(Brunner von Wattenwyl, 1861)
+8Q2KD	5KDMQ	synonym	species	Olynthoscelis littoralis	(Fieber, 1853)
+563RF	5KDMQ	synonym	species	Thamnotrizon littoralis	(Fieber, 1853)
+C4628	7KLDX	synonym	subspecies	Pholidoptera jailensis ailensis	Miram, 1927
+8QKMB	7KLDX	synonym	variety	Olynthoscelis pontica var. jailensis	Miram, 1927
+4GLTL	5KDMV	synonym	species	Pholidoptera pustulosa	Fischer von Waldheim, 1846
+BPR4Z	5KDMV	synonym	species	Thamnotrizon pustulipes	(Motschulsky, 1846)
+4GLTJ	5KDMV	synonym	species	Pholidoptera pontica	(Retowski, 1888)
+499HX	5KDMV	synonym	species	Olynthoscelis pontica	(Retowski, 1888)
+563RL	5KDMV	synonym	species	Thamnotrizon ponticus	Retowski, 1888
+4GLSK	5KDMJ	synonym	species	Pholidoptera cvrstnicensis	Maran, 1953
+77BNK	5KDMB	synonym	species	Pholidoptera ganevi	Harz, 1986
+4GLT4	7KLDZ	synonym	species	Pholidoptera karnyi	Ebner, 1908
+563RH	5KDM9	synonym	species	Thamnotrizon mikoi	Herman, 1871
+563QY	5KDM9	synonym	species	Thamnotrizon aptera	(Fabricius, 1793)
+4354F	5KDM9	synonym	species	Micropteryx aptera	(Fabricius, 1793)
+8Q2K5	5KDM9	synonym	species	Olynthoscelis aptera	(Fabricius, 1793)
+4PWYC	5KDM9	synonym	species	Pterolepis lugubris	Fieber, 1853
+4GLSH	5KDMS	synonym	species	Pholidoptera cavallae	Kaltenbach, 1965
+4PLS8	5KRFF	synonym	species	Psorodonotus brunneri	Stshelkanovtzev, 1914
+C87FH	5KRFH	ambiguous synonym	species	Pterolepis venosus	(Fischer von Waldheim, 1839)
+C4YZL	5KRFH	ambiguous synonym	species	Pterolepis venosus	(Fischer von Waldheim, 1839)
+8Q4QW	5KRFH	synonym	species	Uvarovina venosus	(Fischer von Waldheim, 1839)
+8Q4FR	5KRFH	synonym	species	Thamnotrizon venosus	(Fischer von Waldheim, 1839)
+8Q3WJ	7L263	synonym	species	Semenovites specularis	(Fischer von Waldheim, 1839)
+8PJ9D	7L263	synonym	species	Pterolepis specularis	(Fischer von Waldheim, 1839)
+3CMLF	5H8ZY	synonym	species	Eupholidoptera turcica	Salman, 1983
+3CMJV	5H8ZS	synonym	species	Eupholidoptera beybienkoi	Peshev, 1962
+499HP	5H8ZS	synonym	species	Olynthoscelis chabrieri	(Charpentier, 1825)
+563R6	5H8ZS	synonym	species	Thamnotrizon chabrieri	(Charpentier, 1825)
+4PWWY	5H8ZS	synonym	species	Pterolepis chabrieri	(Charpentier, 1825)
+4GLSJ	5H8ZS	synonym	species	Pholidoptera chabrieri	(Charpentier, 1825)
+BWQ3P	5H8ZS	synonym	species	Eupholidoptera makani	Peshev, 1960
+5H8ZV	5H8ZS	synonym	subspecies	Eupholidoptera chabrieri kaltenbachi	Adamovic, 1972
+BWQ3N	5H8ZS	synonym	species	Eupholidoptera bey-bienkoi	Peshev, 1962
+3CMKT	5H8ZS	synonym	species	Eupholidoptera marani	Peshev, 1960
+5KDMG	5H8ZS	synonym	subspecies	Pholidoptera chabrieri malachiticus	Fruhstorfer, 1921
+8Q2K6	5H8ZR	synonym	species	Olynthoscelis brunneri	(Targioni-Tozzetti, 1881)
+563R3	5H8ZR	synonym	species	Thamnotrizon brunneri	Targioni-Tozzetti, 1881
+8PYV7	5H8ZR	synonym	species	Eupholidoptera brunneri	(Targioni-Tozzetti, 1881)
+8Q33T	5H8ZR	synonym	species	Pholidoptera brunneri	(Targioni-Tozzetti, 1881)
+8Q4NQ	5LJMZ	synonym	species	Tyreonotus corsicus	Rambur, 1838
+4PWX3	5LJMZ	synonym	species	Pterolepis corsica	(Rambur, 1838)
+BX69L	5LJN2	synonym	variety	Thyreonotus corsicus var. montanus	Bolívar, 1900
+BX69M	5LJN2	synonym	variety	Thyreonotus corsicus var. montana	Bolívar, 1900
+8Q32C	5LGS4	synonym	species	Phasgonura caudata	(Charpentier, 1845)
+72LHS	5LGS4	synonym	species	Locusta prasina	Fieber, 1852
+55VW2	5LGS4	synonym	species	Tettigonia longicauda	Eversmann, 1848
+BTK5S	5LGS4	synonym	subspecies	Locusta caudata kolenatii	(Fischer von Waldheim, 1846)
+5ZT2T	5LGS4	synonym	species	Conocephalus kolenatii	Fischer von Waldheim, 1846
+C8K9J	5LGS4	synonym	species	Tettigonia caudate	Charpentier, 1845
+3F8V2	7K4RP	synonym	species	Gampsocleis miramae	Dirsh, 1927
+BTJWX	7K4RC	synonym	subspecies	Gampsocleis sedakowi obscura	(Walker, 1869)
+6JWYC	7K4RC	synonym	species	Gampsocleis christinici	Adelung, 1909
+7JT3C	7K4RC	synonym	subspecies	Gampsocleis obscura hokusensis	Mori, 1933
+6CGTL	7K4RC	synonym	species	Decticus obscurus	Walker, 1869
+3F8V5	7K4RC	synonym	species	Gampsocleis obscura	(Walker, 1869)
+6JWXW	7K53C	synonym	species	Gampsocleis sowinskyi	Adelung, 1909
+8Q4F8	7K53C	synonym	species	Tettigonia stchukini	(Fischer von Waldheim, 1846)
+7JSRC	7K53C	synonym	subspecies	Gampsocleis kraussi baicalensis	Adelung, 1909
+6K8YD	7K53C	synonym	species	Gampsocleis caudata	Adelung, 1909
+BVLN4	7K53C	synonym	species	Decticus stschukini	(Fischer von Waldheim, 1846)
+6CH5D	7K53C	synonym	species	Decticus stchukini	Fischer von Waldheim, 1846
+6K8XX	7K53C	synonym	species	Gampsocleis kraussi	Adelung, 1909
+BVN33	7K53C	synonym	species	Gampsocleis sedakowi	Fischer von Waldheim, 1846
+3F8VG	7K53C	synonym	species	Gampsocleis spinulosa	Krauss, 1901
+3F8VH	7K53C	synonym	species	Gampsocleis tamerlana	Burr, 1899
+6JX9X	7K53C	synonym	species	Gampsocleis kaszabi	Bazyluk, 1972
+6DM2M	7JR5G	synonym	species	Drymadusa spectabilis	Stein, 1860
+3F8VF	7JR5G	synonym	species	Gampsocleis spectabilis	(Stein, 1860)
+C5BT3	7JR5G	ambiguous synonym	species	Thyreonotus dorsalis	(Brullé, 1832)
+5GZB4	5GZB2	synonym	subspecies	Drymadusa limbata grandis	Karabag, 1961
+6DM2L	5GZB3	synonym	species	Drymadusa limbata	Brunner von Wattenwyl, 1882
+BTDFN	5GZB3	synonym	subspecies	Drymadusa limbata limbata	Brunner von Wattenwyl, 1882
+6DLQ2	5GZB3	synonym	species	Drymadura limbata	Brunner von Wattenwyl, 1882
+JGYJ	JGWT	synonym	species	Atlanticus hunanensis	Du & Shi, 2005
+5FV2Z	JGWF	accepted	subspecies	Atlanticus (Atlanticus) americanus hesperus	Hebard, 1934
+754W7	JGWF	synonym	species	Orchesticus americanus	Saussure, 1859
+5FV2Y	JGWF	accepted	subspecies	Atlanticus (Atlanticus) americanus americanus	(Saussure, 1859)
+56S47	JGWM	ambiguous synonym	species	Thyreonotus dorsalis	(Burmeister, 1838)
+6CH65	JGWM	synonym	species	Decticus dorsalis	Burmeister, 1838
+8P5BL	JGWM	synonym	species	Atlanticus dorsalis	(Burmeister, 1838)
+8PX6V	JGWM	synonym	species	Atlanticus dorsatus	
+5W8L6	JGWJ	synonym	species	Atlanticus calcaratus	Rehn & Hebard, 1916
+8PX6T	688L7	synonym	species	Atlanticus chinensis	
+JGYW	688L7	ambiguous synonym	species	Atlanticus sinensis	Uvarov, 1924
+67WL6	JGWP	synonym	species	Atlanticus glaber	Rehn & Hebard, 1912
+52RMS	JGXD	synonym	species	Stipator scudderi	(Bruner, 1886)
+7BXJ7	JGXD	synonym	species	Thyreonotus scudderi	Bruner, 1886
+JGYR	JGX5	synonym	species	Atlanticus monticola	Davis, 1915
+JGYF	JGWQ	synonym	species	Atlanticus grahami	Tinkham, 1941
+JGYK	67WL7	synonym	species	Atlanticus jeholensis	Mori, 1935
+8PX6R	67WL7	synonym	species	Atlanticus (Sinpacificus) sinesis	
+BSW6C	67WL7	ambiguous synonym	species	Atlanticus (Atlanticus) sinensis	
+JGYH	JGWS	synonym	species	Atlanticus huangshanensis	Shi & Zheng, 1994
+56S49	JGX6	synonym	species	Thyreonotus pachymerus	(Burmeister, 1838)
+6CH5L	JGX6	synonym	species	Decticus pachymerus	Burmeister, 1838
+JGYS	JGX6	synonym	species	Atlanticus pachymerus	(Burmeister, 1838)
+JGYD	JGWN	synonym	species	Atlanticus gibbosus	Scudder, 1894
+JGYV	JGXB	synonym	species	Atlanticus robustus	Bey-Bienko, 1951
+JGYN	JGWY	synonym	species	Atlanticus kulingensis	Tinkham, 1941
+JGY9	JGWH	synonym	species	Atlanticus brunneri	(Pylnov, 1914)
+D8G6	JGWH	synonym	species	Amuria brunneri	Pylnov, 1914
+JGYC	JGWK	synonym	species	Atlanticus davisi	Rehn & Hebard, 1916
+8PX6X	JGXF	synonym	species	Atlanticus testaceous	
+8P5BM	JGXF	synonym	species	Atlanticus testaceus	(Scudder, 1901)
+39THP	JGXF	synonym	species	Engoniaspis testacea	Scudder, 1901
+BSW8S	JGXS	synonym	species	Atlanticus fengyangensis	Liu, 2013
+BSW8R	JGXR	synonym	species	Atlanticus fallax	He, 2018
+JGYQ	JGY4	synonym	species	Atlanticus magnificus	Tinkham, 1941
+8PX6Q	JGY3	synonym	species	Atlanticus (Sinpacificus) kwantungensis	
+JGYP	JGY3	synonym	species	Atlanticus kwangtungensis	Tinkham, 1941
+C6F5S	JGXZ	ambiguous synonym	species	Atlanticus kiangsu	
+JGYL	JGXZ	synonym	species	Atlanticus karnyi	Ebner, 1939
+8PX6P	JGXZ	synonym	species	Atlanticus (Atlanticus) barnyi	
+JGXT	JGY2	synonym	species	Atlanticus helleri	Liu, Wang & Cheng, 2016
+8PX6W	JGY2	synonym	species	Atlanticus kingsu	
+JGYM	JGY2	ambiguous synonym	species	Atlanticus kiangsu	Ramme, 1939
+C6F5T	JGY6	ambiguous synonym	species	Atlanticus kiangsu	
+688L6	JGY6	synonym	species	Atlanticus pieli	Tinkham, 1941
+JGXX	JGY6	synonym	species	Atlanticus jiangyei	Liu, Wang & Cheng, 2016
+JGYT	JGY5	ambiguous synonym	species	Atlanticus palpalis	Rehn & Hebard, 1920
+JGYG	5VWL6	synonym	species	Atlanticus hoffmanni	Tinkham, 1941
+JGY8	JGXM	synonym	species	Atlanticus bikouensis	Zheng & Shi, 1999
+BSW8T	JGXW	synonym	species	Atlanticus interval	He, 2018
+C5Q6R	JGXP	ambiguous synonym	species	Atlanticus kiangsu	
+JGYB	JGXP	synonym	species	Atlanticus changi	Tinkham, 1941
+8PX6S	JGXN	synonym	species	Atlanticus brevicaudus	Bey-Bienko, 1955
+8PWS3	DCTQ	synonym	species	Anadrymadusa beckeri	(Adelung, 1907)
+6TP6G	DCTQ	synonym	species	Paradrymadusa beckeri	Adelung, 1907
+8PWS8	DCTR	synonym	species	Anadrymadusa robusta	(Miram, 1926)
+75P74	DCTR	synonym	species	Paradrymadusa robusta	Miram, 1926
+DCTY	DCTP	synonym	species	Anadrymadusa spinicercis	(Karabag, 1956)
+6DLQP	DCTP	synonym	species	Drymadusa spinicercis	Karabag, 1956
+66KG6	DCTH	synonym	species	Anadrymadusa danensis	Karabag, 1972
+75P6S	DCTN	synonym	species	Paradrymadusa retowskii	Adelung, 1907
+BV735	DCTN	synonym	species	Drymadusa retowskii	(Adelung, 1907)
+8PWS7	DCTN	synonym	species	Anadrymadusa retowskii	(Adelung, 1907)
+DCTS	66KFP	synonym	species	Anadrymadusa albomaculata	(Karabag, 1956)
+6DLPD	66KFP	synonym	species	Drymadusa albomaculata	Karabag, 1956
+DCTX	DCTM	synonym	species	Anadrymadusa recticauda	(Werner, 1903)
+6DM2N	DCTM	synonym	species	Drymadusa recticauda	Werner, 1903
+6DLPC	DCTD	synonym	species	Drymadusa adzharica	Uvarov, 1934
+8PWS2	DCTD	synonym	species	Anadrymadusa adzharica	(Uvarov, 1934)
+DCTT	DCTF	synonym	species	Anadrymadusa brevipennis	(Brunner von Wattenwyl, 1882)
+6DLPH	DCTF	synonym	species	Drymadusa brevipennis	Brunner von Wattenwyl, 1882
+8PWS4	DCTG	synonym	species	Anadrymadusa curvicercis	(Uvarov, 1916)
+6DLP3	DCTG	synonym	species	Drymadusa curvicercis	Uvarov, 1916
+DCTW	DCTJ	synonym	species	Anadrymadusa kosswigi	Karabag, 1975
+6TP6Q	DCTL	synonym	species	Paradrymadusa ornatipennis	Ramme, 1926
+8PWS5	DCTL	synonym	species	Anadrymadusa ornatipennis	(Ramme, 1926)
+6DLQN	DCTL	synonym	species	Drymadusa ornatipennis	(Ramme, 1926)
+BZKN4	5JQYZ	synonym	species	Mongolodectes kiritschenkoi	Miram, 1929
+325P3	5GQFP	synonym	species	Ctenodecticus costulatus	Costa, 1883
+3KMTP	5GQFP	synonym	species	Hemictenodecticus costulatus	(Costa, 1883)
+563R2	5GQFP	synonym	species	Thamnotrizon brevicollis	Costa, 1882
+325P5	5GQFP	synonym	species	Ctenodecticus fraterculus	Targioni-Tozzetti
+8PZGV	5GQFP	synonym	species	Hemictenodecticus bolivari	(Targioni-Tozzetti, 1881)
+6VBNK	5GQFP	synonym	species	Pholidoptera brevicollis	(Costa, 1882)
+BWNFV	5GQFP	synonym	species	Ctenodecticus brevicollis	(Costa, 1882)
+8PXFS	PSCS	synonym	species	Calliphona palmensis	Bolívar, 1940
+PSCT	PSCQ	synonym	species	Calliphona alluaudi	Bolívar, 1893
+C3LYM	PSCP	synonym	species	Calliphona königi	Krauss, 1892
+8PXFR	PSCP	synonym	species	Calliphona konigi	
+PSCV	PSCP	synonym	species	Calliphona koenigi	Krauss, 1892
+7KFC9	5FG68	synonym	subspecies	Neduba (Aglaothorax) diminutiva malibu	Rentz & Weissman, 1981
+7KFBZ	5FG66	synonym	subspecies	Neduba (Aglaothorax) diminutiva dactyla	Rentz & Weissman, 1981
+7KDHM	5FG65	synonym	subspecies	Neduba (Aglaothorax) diminutiva constrictans	Rentz & Weissman, 1981
+7KFC4	7J9JW	synonym	subspecies	Neduba (Aglaothorax) morsei tectinota	Rentz & Weissman, 1981
+7KFBY	5FG69	synonym	subspecies	Neduba (Aglaothorax) morsei costalis	Rentz & Weissman, 1981
+7KFBS	5FG6D	synonym	subspecies	Neduba (Aglaothorax) morsei santacruzae	Rentz & Weissman, 1981
+8Q2C9	5FG6C	synonym	species	Neduba (Aglaothorax) morsei	Caudell, 1907
+7KFC3	5FG6B	synonym	subspecies	Neduba (Aglaothorax) morsei islandica	Rentz & Weissman, 1981
+7KFBR	7J9K5	synonym	subspecies	Neduba (Aglaothorax) morsei curtatus	Rentz & Weissman, 1981
+BTKBW	8Q58Y	synonym	subspecies	Neduba (Aglaothorax) ovatus armiger	(Rehn & Hebard, 1920)
+8P4V5	8Q58Y	synonym	species	Aglaothorax armiger	Rehn & Hebard, 1920
+8Q6BR	8PLT4	synonym	subspecies	Neduba (Aglaothorax) ovatus gigantea	Rentz & Birchim, 1968
+BTKBX	8Q65D	synonym	subspecies	Neduba (Aglaothorax) ovatus segnis	(Rehn & Hebard, 1920)
+8PWQ6	8Q65D	synonym	species	Aglaothorax segnis	Rehn & Hebard, 1920
+8Q37C	5KH5F	synonym	species	Plagiostira utahensis	Tinkham, 1962
+8PGKN	8QJKP	synonym	species	Paradrymadusa kraussii	Bolívar, 1878
+8P5HN	8QJKP	synonym	species	Antaxius kraussii	(Bolívar, 1878)
+72LG6	66XS9	synonym	species	Locusta pedestris	Fabricius, 1787
+5FN4R	66XS9	accepted	subspecies	Antaxius (Chopardius) pedestris apuanus	Nadig, 1959
+5FN4S	66XS9	accepted	subspecies	Antaxius (Chopardius) pedestris pedestris	(Fabricius, 1787)
+66XRV	66XRX	synonym	species	Antaxius hispanicus	Bolívar, 1884
+5V9S7	5V9S9	synonym	species	Antaxius florezi	Bolívar, 1900
+BWJPD	5V9S9	synonym	species	Antaxius florenzi	Bolívar, 1900
+BWJNY	66Y49	synonym	species	Antaxius spinibracchius	Fischer, 1853
+4PWZV	66Y49	synonym	species	Pterolepis spinibrachius	Fischer, 1853
+8PX27	66Y49	synonym	species	Antaxius spinibrachius	(Fischer, 1853)
+66XRY	679S4	synonym	species	Antaxius beieri	Harz, 1966
+679RY	BSVHV	synonym	species	Antaxius capellei	Cazurro y Ruiz, 1888
+563RY	66Y3X	synonym	species	Thamnotrizon sorrezensis	Marquet, 1877
+8PX25	66Y3X	synonym	species	Antaxius sorrezensis	(Marquet, 1877)
+5V9RV	5V9RX	synonym	species	Antaxius chopardi	Morales-Agacino, 1936
+8PX22	679S9	synonym	species	Antaxius (Hoelzeliana) difformis	(Brunner von Wattenwyl, 1861)
+4PWWR	679S9	synonym	species	Pterolepis brunneri	Krauss, 1873
+8PX23	679S9	synonym	species	Antaxius difformis	(Brunner von Wattenwyl, 1861)
+563R8	679S9	synonym	species	Thamnotrizon difformis	Brunner von Wattenwyl, 1861
+4PWX5	679S9	synonym	species	Pterolepis difformis	(Brunner von Wattenwyl, 1861)
+5V9S8	679RS	synonym	species	Antaxius tavaresi	Aires & Menano, 1916
+679RV	66Y44	synonym	species	Antaxius pauliani	Chopard, 1939
+5V9RY	66XS4	synonym	species	Antaxius armillata	(Serville, 1838)
+4PWWH	66XS4	synonym	species	Pterolepis armillata	Serville, 1838
+66Y3Y	679RX	synonym	species	Antaxius bouvieri	Chopard, 1924
+5LBDF	5K9D8	synonym	subspecies	Stipator grandis insignis	Caudell, 1907
+8Q6GB	5K9D9	synonym	subspecies	Stipator nigromarginata griseis	Caudell, 1907
+6VN6F	6GG8J	synonym	species	Plagiostira albofasciata	Scudder & Cockerell, 1902
+8PHPG	6GG8J	synonym	species	Plagiostira gracilis	
+8P7MH	6GG8J	synonym	species	Eremopedes bilineatus	(Thomas, 1875)
+3PDLJ	6GG8J	synonym	species	Idiostatus sinuata	(Scudder, 1899)
+8PYR3	6GG8J	synonym	species	Eremopedes gracilis	
+4ZPYF	6GG8J	synonym	species	Steiroxys bilineata	Thomas, 1875
+8P8M2	6GG8J	synonym	species	Idiostatus bilineatus	(Thomas, 1875)
+8Q37B	6GG8J	synonym	species	Plagiostira gracila	Rehn, 1905
+P6KJ	6GG8J	synonym	species	Cacopteris sinuata	Scudder, 1899
+6GG8C	6GG8K	synonym	species	Eremopedes covilleae	Hebard, 1934
+6TXTG	6GG8M	synonym	species	Pediodectes ateloploides	(Caudell, 1907)
+52RMH	6GG8M	synonym	species	Stipator ateloploides	Caudell, 1907
+8P9MR	6GFWP	synonym	species	Eremopedes unicolor	Scudder, 1901
+8P786	6GFWP	synonym	species	Cacopteris ephippiata	Scudder, 1899
+8P7MJ	6GFWP	synonym	species	Eremopedes ephippiatus	(Scudder, 1899)
+BTJTX	6GFWP	synonym	subspecies	Eremopedes ephippiatus ephippiatus	(Scudder, 1899)
+6GFWH	6GFWQ	synonym	species	Eremopedes popeana	Scudder, 1902
+J8WY	6GFWQ	synonym	species	Ateloplus macroscelus	Rehn & Hebard, 1909
+6GG8H	6GFWQ	synonym	species	Eremopedes scudderi	Cockerell, 1898
+8P9MQ	6GFWQ	synonym	species	Eremopedes (Eremopedes) scuderi	
+3PD95	6GG92	synonym	species	Idionotus subcarinatus	Caudell, 1907
+BMR73	6GFWJ	synonym	species	Eremopedes balli	Caudell, 1902
+5H5TK	6GFWJ	accepted	subspecies	Eremopedes (Eremopedes) balli balli	Caudell, 1902
+5H5TL	6GFWJ	accepted	subspecies	Eremopedes (Eremopedes) balli pallidus	Tinkham, 1944
+5H5TN	6GG8Q	synonym	subspecies	Eremopedes ephippiatus sonorensis	Tinkham, 1944
+6GFWF	6GFX2	synonym	species	Eremopedes shrevei	Tinkham, 1944
+75695	6GFWD	synonym	species	Oreopedes cryptoptera	Rehn & Hebard, 1920
+4JPRF	LRT9	synonym	species	Platycleis burri	Uvarov, 1921
+9GZYL	LRT9	synonym	species	Metrioptera burri	(Uvarov, 1921)
+BTCVY	LRT9	synonym	species	Metrioptera (Bicolorana) burri	(Uvarov, 1921)
+7JFHN	LRT8	accepted	subspecies	Bicolorana bicolor bicolor	(Philippi, 1830)
+8PD36	LRT8	ambiguous synonym	species	Locusta bicolor	Philippi, 1830
+5FXYT	LRT8	accepted	subspecies	Bicolorana bicolor angarica	(Liana, 1987)
+4JPSR	LRTB	synonym	species	Platycleis kraussi	Padewieth, 1900
+4WQMY	LRTB	synonym	species	Sepiana kraussi	(Padewieth, 1900)
+42JG8	LRTB	synonym	species	Metrioptera kuntzeni	Ramme, 1931
+42JG7	LRTB	synonym	species	Metrioptera kraussi	(Padewieth, 1900)
+4JPQ8	LRTB	synonym	species	Platycleis (Modestana) kraussi	Padewieth, 1900
+5Y2WJ	LRTB	synonym	species	Chelidoptera kraussi	(Padewieth, 1900)
+43T8J	LRTB	synonym	species	Modestana kraussi	(Padewieth, 1900)
+8Q24Q	5D455	synonym	species	Metrioptera amplipennis	(Brunner von Wattenwyl, 1882)
+8PXLX	5D455	synonym	species	Chelidoptera amplipennis	(Brunner von Wattenwyl, 1882)
+8Q3Y5	5D455	synonym	species	Sphagniana amplipennis	(Brunner von Wattenwyl, 1882)
+8Q24M	5D455	synonym	species	Metrioptera (Zeuneriana) amplipennis	(Brunner von Wattenwyl, 1882)
+4JPR4	5D455	synonym	species	Platycleis amplipennis	Brunner von Wattenwyl, 1882
+42JGC	5D457	synonym	species	Metrioptera marmorata	(Fieber, 1853)
+8Q3Y6	5D457	synonym	species	Sphagniana marmorata	(Fieber, 1853)
+69QWJ	5D457	synonym	species	Chelidoptera marmorata	(Fieber, 1853)
+4JPSW	5D457	synonym	species	Platycleis marmorata	Fieber, 1853
+69QWN	5D454	synonym	species	Chelidoptera abbreviatus	(Serville, 1838)
+8PXM7	5D454	synonym	species	Chelidoptera marqueti	(Saulcy, 1887)
+8Q255	5D454	synonym	species	Metrioptera marqueti	(Saulcy, 1887)
+6RF8B	5D454	synonym	species	Metrioptera abbreviata	(Serville, 1838)
+6RF8C	5D454	synonym	species	Metrioptera (Zeuneriana) abbreviata	(Serville, 1838)
+4JPSX	5D454	synonym	species	Platycleis marqueti	Saulcy, 1887
+6CF9B	5D454	synonym	species	Decticus abbreviatus	Serville, 1838
+4JPTQ	5D454	synonym	species	Platycleis saussurea	Tümpel, 1901
+8Q24N	5D456	synonym	species	Metrioptera (Zeuneriana) burriana	Uvarov, 1935
+42JFG	5D456	synonym	species	Metrioptera burriana	Uvarov, 1935
+42JFW	4YT4V	synonym	species	Metrioptera fletcheri	(Caudell, 1907)
+3PD94	4YT4V	synonym	species	Idionotus sphagnorum	(Walker, 1869)
+C5J5G	4YT4V	synonym	species	Metrioptera (Metrioptera) sphagnorum	(Walker, 1869)
+BZK6R	4YT4V	synonym	species	Metrioptera sphagnorum	(Walker, 1869)
+C7MVN	4YT4V	synonym	species	Metrioptera (Sphagniana) sphagnorum	(Walker, 1869)
+4JPS7	4YT4V	synonym	species	Platycleis fletcheri	Caudell, 1907
+3PD8W	4YT4V	synonym	species	Idionotus brevipes	Caudell, 1907
+6CGTD	4YT4V	synonym	species	Decticus sphagnorum	Walker, 1869
+6STCM	4YT4V	synonym	species	Orchelimum sphagnorum	(Walker, 1869)
+73F8C	6YY65	synonym	species	Metrioptera (Zeuneriana) monticola	Kim & Kim, 2001
+42JH3	4YT4W	synonym	species	Metrioptera ussuriana	Uvarov, 1926
+6RF8D	4YT4W	synonym	species	Metrioptera (Sphagniana) ussuriana	Uvarov, 1926
+8Q246	42JGN	synonym	species	Metrioptera (Metrioptera) prenjica	(Burr, 1899)
+8PXMD	42JGN	synonym	species	Chelidoptera prenjica	(Burr, 1899)
+4JPTF	42JGN	synonym	species	Platycleis prenjica	Burr, 1899
+8Q24B	42JH2	synonym	species	Metrioptera (Metrioptera) tsirojanni	Harz & Pfau, 1983
+5JNSQ	42JFK	accepted	subspecies	Metrioptera caprai galvagnii	Baccetti, 1963
+5JNSR	42JFK	accepted	subspecies	Metrioptera caprai lagrecai	Baccetti, 1959
+5JNSP	42JFK	accepted	subspecies	Metrioptera caprai caprai	Baccetti, 1956
+5JNSN	42JFK	accepted	subspecies	Metrioptera caprai baccettii	Galvagni, 1959
+73F8H	42JGB	synonym	species	Metrioptera (Metrioptera) maritima	Olmo-Vidal, 1992
+8Q23Z	42JFJ	synonym	species	Metrioptera (Metrioptera) buyssoni	(Saulcy, 1887)
+4JPRG	42JFJ	synonym	species	Platycleis buyssoni	Saulcy, 1887
+8PXM2	42JFJ	synonym	species	Chelidoptera buyssoni	(Saulcy, 1887)
+4JPTR	42JGS	synonym	species	Platycleis saussuriana	Frey-Gessner, 1872
+C82TZ	42JGS	synonym	species	Platycleis saussureana	(Frey-Gessner, 1872)
+4JPT6	42JGS	synonym	species	Platycleis noui	Saulcy, 1887
+BTK9K	42JGS	synonym	subspecies	Metrioptera saussuriana saussuriana	(Frey-Gessner, 1872)
+8Q248	42JGS	synonym	species	Metrioptera (Metrioptera) saussuriana	(Frey-Gessner, 1872)
+C82V3	42JGS	synonym	variety	Platycleis saussureana var. rugosa	Fruhstorfer, 1921
+8QJV8	42JGS	synonym	species	Metrioptera saussureana	
+73F8J	42JF4	synonym	species	Metrioptera (Metrioptera) ambigua	Pfau, 1986
+8Q244	42JG5	synonym	species	Metrioptera (Metrioptera) karnyana	Uvarov, 1924
+8Q29B	42JFZ	synonym	species	Montana montenegrina	(Ramme, 1933)
+4JPSC	42JFZ	synonym	species	Platycleis hörmanni	Werner, 1906
+8Q3BK	42JFZ	synonym	species	Platycleis hoermanni	Werner, 1906
+42JGG	42JFZ	synonym	species	Metrioptera montenegrina	Ramme, 1933
+8Q74Y	42JFZ	synonym	species	Metrioptera (Metrioptera) hoermanni	(Werner, 1906)
+8Q243	42JFZ	synonym	species	Metrioptera (Metrioptera) hormanni	
+8Q23Y	6RF7Y	synonym	species	Metrioptera (Metrioptera) brachyptera	(Linnaeus, 1761)
+8PY7F	6RF7Y	synonym	species	Decticus brachypterus	(Linnaeus, 1761)
+5XR8K	6RF7Y	synonym	species	Chelidoptera raia	(Burr, 1899)
+4JPTJ	6RF7Y	synonym	species	Platycleis raia	Burr, 1899
+8Q26B	6RF7Y	synonym	species	Micropteryx brachypterus	(Linnaeus, 1761)
+8PXLZ	6RF7Y	synonym	species	Chelidoptera brachypterus	(Linnaeus, 1761)
+8QJBZ	6RF7Y	synonym	species	Platycleis rhaetorum	Fruhstorfer, 1921
+8PY7B	6RF7Y	synonym	species	Decticus (Metrioptera) brachypterus	(Linnaeus, 1761)
+6CH4Y	6RF7Y	synonym	species	Decticus tibialis	Fischer von Waldheim, 1846
+BT55H	6RF7Y	ambiguous synonym	species	Locusta marginata	Thunberg, 1815
+8QJNS	6RF7Y	synonym	species	Platycleis restricta	Fruhstorfer, 1921
+6KTQL	6RF7Y	ambiguous synonym	species	Gryllus brachypterus	Linnaeus, 1761
+BTK9B	6RF7Y	synonym	subspecies	Metrioptera brachyptera brachyptera	(Linnaeus, 1761)
+8QHW5	6RF7Y	synonym	species	Platycleis alpinus	Fieber, 1853
+8Q3B9	6RF7Y	synonym	species	Platycleis deminuta	Fruhstorfer, 1921
+42JG2	6RF7Y	synonym	species	Metrioptera insignita	Bey-Bienko, 1926
+8Q3B7	6RF7Y	synonym	species	Platycleis brachyptera	(Linnaeus, 1761)
+8PXMP	6RF7Y	synonym	species	Chelidoptera tibialis	(Fischer von Waldheim, 1846)
+8PZTJ	6RF7Y	synonym	species	Locusta brachyptera	(Linnaeus, 1761)
+72LFD	4T9L7	synonym	species	Locusta diluta	Charpentier, 1825
+73HTK	4T9L7	synonym	species	Micropteryx roeselii	(Hagenbach, 1822)
+6QLHN	4T9L7	synonym	species	Locusta roeselii	Hagenbach, 1822
+BVSMB	4T9L7	synonym	species	Roeseliana roeseli	(Hagenbach, 1822)
+C7MVL	4T9L7	synonym	species	Metrioptera roeseli	(Hagenbach, 1822)
+69QWK	4T9L7	synonym	species	Chelidoptera sinuatus	Fischer von Waldheim, 1846
+8Q3B8	4T9L7	synonym	species	Platycleis brevipennis	(Charpentier, 1825)
+C5J5F	4T9L7	synonym	species	Metrioptera (Metrioptera) roeselii	(Hagenbach, 1822)
+BVTGV	4T9L7	synonym	species	Platycleis roeseli	(Hagenbach, 1822)
+C7MVK	4T9L7	synonym	species	Metrioptera (Roeseliana) roeseli	(Hagenbach, 1822)
+42JGL	4T9L7	synonym	species	Metrioptera pellucida	Herrich-Schäffer, 1840
+BTJKY	4T9L7	synonym	subspecies	Bicolorana (Roeseliana) roeselii roeselii	(Hagenbach, 1822)
+C7MVM	4T9L7	synonym	species	Metrioptera (Roeseliana) roeselii	(Hagenbach, 1822)
+4JPTL	4T9L7	synonym	species	Platycleis roeselii	(Hagenbach, 1822)
+8PX98	4T9L7	synonym	species	Bicolorana (Roeseliana) roeselii	(Hagenbach, 1822)
+5KXTZ	4T9L7	synonym	subspecies	Roeseliana roeselii roeselii	(Hagenbach, 1822)
+8PY7G	4T9L7	synonym	species	Decticus diluta	(Charpentier, 1825)
+8P9DT	4T9L7	synonym	species	Metrioptera roeselii	(Hagenbach, 1822)
+8PXMG	4T9L7	synonym	species	Chelidoptera roeselii	(Hagenbach, 1822)
+6QLFQ	4T9L7	synonym	species	Locusta brevipennis	Charpentier, 1825
+5XQWK	4T9L5	synonym	species	Chelidoptera oporina	(Bolívar, 1887)
+BZK6M	4T9L5	synonym	species	Metrioptera oporina	(Bolívar, 1887)
+4JPT8	4T9L5	synonym	species	Platycleis oporina	Bolívar, 1887
+BWTRN	4T9L5	synonym	species	Metrioptera (Roeseliana) oporina	(Bolívar, 1887)
+8Q24H	4T9L3	synonym	species	Metrioptera (Roeseliana) brunneri	(Ramme, 1951)
+BTK9F	4T9L3	synonym	subspecies	Metrioptera fedtschenkoi brunneri	(Ramme, 1951)
+8QJ2F	4T9L2	synonym	variety	Platycleis roeseli var. bispina	Bolívar, 1899
+8PHQ7	4T9L2	synonym	species	Platycleis pulchra	Werner, 1901
+8PXMF	4T9L2	synonym	species	Chelidoptera pulchra	(Werner, 1901)
+8Q25C	4T9L2	synonym	species	Metrioptera pulchra	(Werner, 1901)
+BWTRF	4T9L2	synonym	species	Metrioptera (Roeseliana) bispina	(Bolívar, 1899)
+BZK6D	4T9L2	synonym	species	Metrioptera bispina	(Bolívar, 1899)
+BTKBC	4T9KY	synonym	subspecies	Metrioptera fedtschenkoi ambitiosa	Uvarov, 1924
+BTKBH	4T9KY	synonym	subspecies	Metrioptera (Metrioptera) roeselii ambitiosa	Uvarov, 1924
+42JF5	4T9KY	synonym	species	Metrioptera ambitiosa	Uvarov, 1924
+C5J58	4T9KY	synonym	subspecies	Metrioptera (Metrioptera) fedtschenkoi ambitiosa	Uvarov, 1924
+8Q24D	4T9KY	synonym	species	Metrioptera (Roeseliana) ambitiosa	Uvarov, 1924
+C7MVH	4T9KY	synonym	subspecies	Metrioptera (Roeseliana) fedtschenkoi ambitiosa	Uvarov, 1924
+4JPR9	4T9KZ	synonym	species	Platycleis azami	Finot, 1892
+5KXTY	4T9KZ	accepted	subspecies	Roeseliana azami minor	Nadig, 1961
+5KXTX	4T9KZ	accepted	subspecies	Roeseliana azami azami	(Finot, 1892)
+BT5YP	4T9KZ	synonym	species	Metrioptera azami	(Finot, 1892)
+BSXD5	4T9KZ	synonym	species	Chelidoptera azami	(Finot, 1892)
+BTK9H	4T9L6	synonym	subspecies	Metrioptera fedtschenkoi pylnovi	Uvarov, 1924
+42JGQ	4T9L6	synonym	species	Metrioptera pylnovi	Uvarov, 1924
+BT684	4T9L4	synonym	species	Metrioptera fedtschenkoi	(Saussure, 1874)
+BSXD6	4T9L4	synonym	species	Chelidoptera fedtschenkoi	(Saussure, 1874)
+BTYND	4T9L4	accepted	subspecies	Roeseliana fedtschenkoi fedtschenkoi	(Saussure, 1874)
+9GPNQ	4T9L4	synonym	species	Decticus (Platycleis) fedtschenkoi	Saussure, 1874
+BTYN4	4T9L4	accepted	subspecies	Roeseliana fedtschenkoi vasilii	(Götz, 1969)
+BT9LJ	4T9L4	synonym	species	Platycleis fedtschenkoi	(Saussure, 1874)
+8Q23V	5H4M8	synonym	species	Metrioptera (Eobiana) engelhardti	Uvarov, 1926
+42JFY	5H4M9	synonym	species	Metrioptera hime	(Furukawa, 1950)
+8QKGK	5H4M9	synonym	species	Metrioptera (Eobiana) subtropica	Bey-Bienko, 1949
+6FGYL	5H4M9	synonym	species	Eobiana hime	Furukawa, 1950
+8Q3WN	5JQKS	synonym	species	Sepiana ebneri	(Ramme, 1926)
+8Q37T	5JQKS	synonym	species	Platycleis (Modestana) ebneri	(Ramme, 1926)
+BTYT6	5JQKS	synonym	species	Metrioptera dofleini	Ramme, 1926
+8Q3BB	5JQKS	synonym	species	Platycleis ebneri	(Ramme, 1926)
+BTKJY	5JQKS	synonym	subspecies	Platycleis (Modestana) ebneri ebneri	(Ramme, 1926)
+5KHGJ	5JQKR	synonym	subspecies	Platycleis (Modestana) ebneri acuminata	Willemse, 1975
+5KHGK	5JQKT	synonym	subspecies	Platycleis (Modestana) ebneri excurvata	Willemse, 1975
+C82SZ	4ZBDR	synonym	species	Platycleis (Sporadiana) sporadarum	Werner, 1933
+C82T2	4ZBDR	synonym	species	Platycleis (Tessellana) sporadarum	Werner, 1933
+C5SJP	4ZBDR	synonym	species	Platycleis (Parnassiana) sporadarum	Werner, 1933
+BV72Y	4ZBDR	synonym	species	Parnassiana sporadarum	(Werner, 1933)
+4JPTZ	4ZBDR	synonym	species	Platycleis sporadarum	Werner, 1933
+42JFF	4ZBDR	synonym	species	Metrioptera brevipes	Uvarov, 1934
+4JPSV	6RPTF	synonym	species	Platycleis macedonica	Berland & Chopard, 1922
+BV6CV	6RPTF	synonym	species	Metrioptera macedonica	(Berland & Chopard, 1922)
+8Q384	6RPTF	synonym	species	Platycleis (Montana) macedonica	Berland & Chopard, 1922
+77Q3C	73Q5H	synonym	species	Platycleis (Montana) daghestanica	Uvarov, 1917
+4JPRR	73Q5H	synonym	species	Platycleis daghestanica	Uvarov, 1917
+42JF7	6RPTH	synonym	species	Metrioptera armeniaca	Ramme, 1930
+8Q37W	6RPTH	synonym	species	Platycleis (Montana) armeniaca	(Ramme, 1930)
+8Q3BR	6RQ5D	synonym	species	Platycleis stricta	(Zeller, 1849)
+C6VGW	6RQ5D	synonym	species	Decticus strictus	Zeller, 1849
+8PXMK	6RQ5D	synonym	species	Chelidoptera strictus	(Zeller, 1849)
+4JPR8	6RQ5D	synonym	species	Platycleis assimilis	Fieber, 1853
+8Q38B	6RQ5D	synonym	species	Platycleis (Montana) stricta	(Zeller, 1849)
+8Q25H	6RQ5D	synonym	species	Metrioptera stricta	(Zeller, 1849)
+C4XQQ	6RQ5D	synonym	species	Decticus (Platycleis) strictus	(Zeller, 1849)
+8Q38F	7425D	synonym	species	Platycleis (Montana) uvarovi	(Karabag, 1950)
+8Q3BT	7425D	synonym	species	Platycleis uvarovi	(Karabag, 1950)
+42JGX	73PTD	synonym	species	Metrioptera tianshanica	Uvarov, 1933
+8QKHT	73PTD	synonym	species	Platycleis (Montana) tianshanica	(Uvarov, 1933)
+8Q383	73PTG	synonym	species	Platycleis (Montana) heinrichi	Ramme, 1929
+4JPSB	73PTG	synonym	species	Platycleis heinrichi	Ramme, 1929
+6RF89	6RPTD	synonym	species	Metrioptera moldavica	Uvarov, 1924
+BZ7WQ	6RPTD	synonym	species	Decticus striata	(Thunberg, 1815)
+8PXMJ	6RPTD	synonym	species	Chelidoptera striata	(Thunberg, 1815)
+BWNRS	6RPTD	synonym	species	Decticus (Platycleis) striata	(Thunberg, 1815)
+6QLGZ	6RPTD	synonym	species	Locusta striata	Thunberg, 1815
+8Q25G	6RPTD	synonym	species	Metrioptera striata	(Thunberg, 1815)
+8Q389	6RPTD	synonym	species	Platycleis (Montana) striata	(Thunberg, 1815)
+4JPRT	7425H	synonym	species	Platycleis decticiformis	Stshelkanovtzev, 1914
+4JPQB	7425H	synonym	species	Platycleis (Montana) decticiformis	Stshelkanovtzev, 1914
+4JPQC	73Q5G	synonym	species	Platycleis (Montana) helleri	Çıplak & Taylan, 2006
+6CH66	6RQ5G	synonym	species	Decticus eversmanni	Kittary, 1849
+5JR9X	6RQ5G	accepted	subspecies	Montana eversmanni zaisanica	(Bey-Bienko, 1926)
+5JR9W	6RQ5G	accepted	subspecies	Montana eversmanni eversmanni	(Kittary, 1849)
+42JGY	73Q5D	synonym	species	Metrioptera tomini	(Pylnov, 1916)
+8Q38D	73Q5D	synonym	species	Platycleis (Montana) tomini	Pylnov, 1916
+6VQ3G	73Q5D	synonym	species	Platycleis tomini	Pylnov, 1916
+BV6QX	6RQ5H	synonym	species	Metrioptera barretoi	
+8Q37X	6RQ5H	synonym	species	Platycleis (Montana) barretii	Burr, 1912
+6VQ3B	6RQ5H	synonym	species	Platycleis barretii	Burr, 1912
+8Q24S	6RQ5H	synonym	species	Metrioptera barretii	(Burr, 1912)
+6CGTN	6S25F	synonym	species	Decticus philippicus	Zeller, 1849
+8Q386	6S25F	synonym	species	Platycleis (Montana) montana	(Kollar, 1833)
+69R8J	6S25F	synonym	species	Chelidoptera montana	(Kollar, 1833)
+8QKDX	6S25F	synonym	species	Platycleis milae	Adamovic, 1967
+6CGTK	6S25F	synonym	species	Decticus montana	(Kollar, 1833)
+6QLGB	6S25F	synonym	species	Locusta montana	Kollar, 1833
+BTKK9	6S25F	synonym	subspecies	Platycleis montana montana	(Kollar, 1833)
+BTKBG	6S25F	synonym	subspecies	Montana montana montana	(Kollar, 1833)
+4JPT4	6S25F	synonym	species	Platycleis montana	(Kollar, 1833)
+42JGF	6S25F	synonym	species	Metrioptera montana	(Kollar, 1833)
+6CH4Z	6S25F	synonym	species	Decticus trockii	Kittary, 1849
+8Q25K	6S25D	synonym	species	Metrioptera taurica	(Bolívar, 1899)
+C82SW	6S25D	synonym	species	Platycleis taurica	Bolívar, 1899
+8PXMM	6S25D	synonym	species	Chelidoptera taurica	(Bolívar, 1899)
+C5SJK	6S25D	synonym	species	Platycleis (Montana) taurica	Bolívar, 1899
+6S25H	7425F	synonym	species	Montana bifoveolata	Karabag, 1950
+5Y2WK	7425F	synonym	species	Chelidoptera schereri	(Werner, 1901)
+C82SV	7425F	synonym	species	Platycleis schereri	Werner, 1901
+C5SJJ	7425F	synonym	species	Platycleis (Montana) schereri	Werner, 1901
+8Q25D	7425F	synonym	species	Metrioptera schereri	(Werner, 1901)
+42JGD	6RQ5F	synonym	species	Metrioptera medvedevi	Miram, 1927
+8Q385	6RQ5F	synonym	species	Platycleis (Montana) medvedevi	(Miram, 1927)
+8Q7YG	6RQ5F	synonym	species	Platycleis medvedevi	(Miram, 1927)
+4JPQD	7425G	synonym	species	Platycleis (Montana) kure	Ünal, 2006
+C82ST	73PTH	synonym	species	Platycleis carpetana	Bolívar, 1887
+8PXM3	73PTH	synonym	species	Chelidoptera carpetana	(Bolívar, 1887)
+8Q24W	73PTH	synonym	species	Metrioptera carpetana	(Bolívar, 1887)
+C5SJH	73PTH	synonym	species	Platycleis (Montana) carpetana	Bolívar, 1887
+8Q387	73Q5F	synonym	species	Platycleis (Montana) richteri	Bey-Bienko, 1958
+4JPTK	73Q5F	synonym	species	Platycleis richteri	Bey-Bienko, 1958
+8Q37Z	6RPTG	synonym	species	Platycleis (Montana) elegans	(Uvarov, 1934)
+8Q3BC	6RPTG	synonym	species	Platycleis elegans	(Uvarov, 1934)
+42JFS	6RPTG	synonym	species	Metrioptera elegans	Uvarov, 1934
+8QJHQ	6H8S2	synonym	species	Platycleis (Eumetrioptera) monochroma	(Bey-Bienko, 1947)
+8QHS5	6H8RQ	synonym	species	Platycleis (Eumetrioptera) mistshenkoi	(Bekuzin, 1961)
+4JPQ7	6H93Q	synonym	species	Platycleis (Eumetrioptera) obuchovae	(Mistshenko, 1949)
+8QK7G	6H942	synonym	species	Platycleis (Eumetrioptera) pavlovskyi	(Miram, 1935)
+BZCZR	6H942	synonym	species	Eumetrioptera pavlovskii	Miram, 1935
+8QJ23	6GX3Q	synonym	species	Platycleis (Eumetrioptera) beybienkoi	(Bekuzin, 1978)
+8Q25F	4WQMZ	synonym	species	Metrioptera sepium	(Yersin, 1854)
+4JPTV	4WQMZ	synonym	species	Platycleis sepium	(Yersin, 1854)
+6CH62	4WQMZ	synonym	species	Decticus sepium	Yersin, 1854
+8PXMH	4WQMZ	synonym	species	Chelidoptera sepium	(Yersin, 1854)
+8Q39M	4WQMZ	synonym	species	Platycleis (Sepiana) sepium	(Yersin, 1854)
+42JFP	5TY4W	synonym	species	Metrioptera crassipes	Bey-Bienko, 1951
+4JPQ2	5TXT8	synonym	species	Platycleis (Alticolana) atroflava	(Bey-Bienko, 1951)
+42JF9	5TXT8	synonym	species	Metrioptera atroflava	Bey-Bienko, 1951
+8QJ68	5TXSW	synonym	species	Platycleis (Alticolana) alticola	(Tarbinsky, 1930)
+42JF3	5TXSW	synonym	species	Metrioptera alticola	Tarbinsky, 1930
+8Q257	55JDF	synonym	species	Metrioptera nigrosignata	(Costa, 1863)
+C82T9	55JDF	synonym	species	Platycleis nigrosignata	Costa, 1863
+8PXM9	55JDF	synonym	species	Chelidoptera nigrosignata	(Costa, 1863)
+C5SJV	55JDF	synonym	species	Platycleis (Tessellana) nigrosignata	Costa, 1863
+C5SJX	55JDK	synonym	species	Platycleis (Tessellana) veyseli	Koçak, 1984
+8Q25M	55JDK	synonym	species	Metrioptera vittata	(Charpentier, 1825)
+6CH74	55JDK	synonym	species	Decticus vittatus	(Charpentier, 1825)
+C82TF	55JDK	synonym	species	Platycleis veyseli	Koçak, 1984
+9GSNR	55JDK	synonym	species	Metrioptera vittata	
+72LJ6	55JDK	ambiguous synonym	species	Locusta vittata	Charpentier, 1825
+8PXMQ	55JDK	synonym	species	Chelidoptera vittata	(Charpentier, 1825)
+42JFL	55JDD	synonym	species	Metrioptera carinata	Berland & Chopard, 1922
+4JPQY	7BRB7	synonym	species	Platycleis (Tessellana) lagrecai	(Messina, 1979)
+C5SJT	55JDG	synonym	species	Platycleis (Tesselana) orina	Burr, 1899
+C82TY	55JDG	synonym	species	Platycleis oriana	(Burr, 1899)
+4JPT9	55JDG	synonym	species	Platycleis orina	Burr, 1899
+8PXMC	55JDG	synonym	species	Chelidoptera orina	(Burr, 1899)
+8Q259	55JDG	synonym	species	Metrioptera orina	(Burr, 1899)
+C82T7	55JDG	synonym	species	Platycleis (Tessellana) orina	Burr, 1899
+5LG9W	55JDJ	accepted	subspecies	Tessellana tessellata holoptera	Ramme, 1951
+72LGX	55JDJ	synonym	species	Locusta tessellata	Charpentier, 1825
+5LG9X	55JDJ	accepted	subspecies	Tessellana tessellata tessellata	(Charpentier, 1825)
+8Q39B	4JPTM	synonym	species	Platycleis (Platycleis) romana	Ramme, 1927
+8PS8W	4JPTY	synonym	species	Drymadusa speciosus	(Heer, 1865)
+6CH5C	4JPTY	synonym	species	Decticus speciosus	Heer, 1865
+6DM22	4JPTY	synonym	species	Drymadusa (Decticus) speciosus	(Heer, 1865)
+72LF8	4JPS4	synonym	species	Locusta falx	Fabricius, 1775
+5KHH4	4JPS4	accepted	subspecies	Platycleis falx falx	(Fabricius, 1775)
+5KHH5	4JPS4	accepted	subspecies	Platycleis falx laticauda	Brunner von Wattenwyl, 1882
+BTKKB	4JPTP	synonym	subspecies	Platycleis sabulosa sabulosa	Azam, 1901
+8Q39C	4JPTP	synonym	species	Platycleis (Platycleis) sabulosa	Azam, 1901
+8QJ9G	4JPTP	synonym	species	Platycleis brevicauda	Kaltenbach, 1974
+42JGR	4JPTP	synonym	species	Metrioptera sabulosa	(Azam, 1901)
+8QJQM	4JPTP	synonym	species	Metrioptera indecisa	Bolívar, 1914
+4JPQQ	4JPSK	synonym	species	Platycleis (Platycleis) irinae	Sergeev & Pokivajlov, 1992
+8Q397	4JPSY	synonym	species	Platycleis (Platycleis) meridiana	Stolyarov, 1969
+8Q38P	4JPR3	synonym	species	Platycleis (Platycleis) alexandra	(Uvarov, 1926)
+8Q299	4JPR3	synonym	species	Montana alexandra	(Uvarov, 1926)
+6RF7Z	4JPR3	synonym	species	Metrioptera alexandra	Uvarov, 1926
+5KHGN	4JPQZ	accepted	subspecies	Platycleis affinis fabriciana	Ander, 1948
+5KHGM	4JPQZ	accepted	subspecies	Platycleis affinis affinis	Fieber, 1853
+8Q39G	77PRF	synonym	species	Platycleis (Platycleis) waltheri	Harz, 1966
+8Q398	4JPTB	synonym	species	Platycleis (Platycleis) pathana	Zeuner, 1941
+5KHGT	4JPR2	accepted	subspecies	Platycleis albopunctata maura	Zeuner, 1941
+5KHGP	4JPR2	accepted	subspecies	Platycleis albopunctata albopunctata	(Goeze, 1778)
+7BTZL	4JPR2	synonym	species	Tettigonia albopunctatus	Goeze, 1778
+5KHGX	4JPR2	accepted	subspecies	Platycleis albopunctata yerseyana	Zeuner, 1940
+5KHGQ	4JPR2	accepted	subspecies	Platycleis albopunctata collina	Navás, 1924
+7KLXL	4JPR2	accepted	subspecies	Platycleis albopunctata monticola	(Chopard, 1924)
+5KHGW	4JPR2	accepted	subspecies	Platycleis albopunctata transiens	Zeuner, 1941
+5KHGS	4JPR2	accepted	subspecies	Platycleis albopunctata hispanica	Zeuner, 1941
+5KHGR	4JPR2	accepted	subspecies	Platycleis albopunctata cretica	Willemse & Kruseman, 1976
+5KHGV	4JPR2	accepted	subspecies	Platycleis albopunctata sculpta	Zeuner, 1941
+8Q38X	4JPSD	synonym	species	Platycleis (Platycleis) iberica	Zeuner, 1941
+8Q399	4JPTH	synonym	species	Platycleis (Platycleis) ragusai	Ramme, 1927
+5KHH6	4JPS6	accepted	subspecies	Platycleis fatima angustipennis	(Tarbinsky, 1932)
+5KHH7	4JPS6	accepted	subspecies	Platycleis fatima fatima	Uvarov, 1912
+8Q392	4JPSM	synonym	species	Platycleis (Platycleis) kabulica	Bey-Bienko, 1967
+8QKNW	6W23G	synonym	species	Platycleis (Platycleis) trivittata	Bey-Bienko, 1951
+5KHH3	4JPS2	accepted	subspecies	Platycleis escalerai iranica	Ramme, 1929
+5KHGZ	4JPS2	accepted	subspecies	Platycleis escalerai escalerai	Bolívar, 1899
+C6VGV	4JPSG	synonym	species	Decticus intermedius	Serville, 1838
+7KLXM	4JPSG	accepted	subspecies	Platycleis intermedia sylvestris	Azam, 1901
+5KHHD	4JPSG	accepted	subspecies	Platycleis intermedia mesopotamica	Ramme, 1927
+5KHHC	4JPSG	accepted	subspecies	Platycleis intermedia intermedia	(Serville, 1838)
+4JPQR	4JPSQ	synonym	species	Platycleis (Platycleis) kibris	Ünal, 2012
+8Q38R	4JPRN	synonym	species	Platycleis (Platycleis) concii	Galvagni, 1959
+8QKKB	6VQ3D	synonym	species	Platycleis (Platycleis) pamirica	(Zeuner, 1930)
+42JGJ	6VQ3D	synonym	species	Metrioptera pamirica	Zeuner, 1930
+8Q395	4JPST	synonym	species	Platycleis (Platycleis) latitabunda	Stolyarov, 1968
+8Q393	4JPSP	synonym	species	Platycleis (Platycleis) kashmira	(Uvarov, 1930)
+8Q394	4JPSP	synonym	species	Platycleis (Platycleis) kashmirica	
+73F8G	4JPSP	synonym	species	Metrioptera (Platycleis) kashmira	Uvarov, 1930
+8Q3BL	4JPSP	synonym	species	Platycleis kashmirica	
+8QJBM	7823B	synonym	species	Platycleis (Platycleis) iljinskii	Uvarov, 1917
+8Q38Q	4JPRH	synonym	species	Platycleis (Platycleis) buzzettii	Massa & Fontana, 2011
+8QKVT	4JPRQ	synonym	species	Platycleis (Platycleis) curvicauda	Podgornaya, 1988
+8Q39F	4JPTX	synonym	species	Platycleis (Platycleis) sogdiana	Mistshenko, 1954
+8Q3BJ	77Q3B	synonym	species	Platycleis grisca	
+BV6H9	77Q3B	synonym	species	Metrioptera grisea	(Fabricius, 1781)
+BZ7WN	77Q3B	synonym	species	Decticus grisea	(Fabricius, 1781)
+6QLH3	77Q3B	synonym	species	Locusta grisea	Fabricius, 1781
+BWNRQ	77Q3B	synonym	species	Decticus (Chelidoptera) grisea	(Fabricius, 1781)
+BTKK7	77Q3B	synonym	subspecies	Platycleis grisea grisea	(Fabricius, 1781)
+4JPRC	77Q3B	synonym	species	Platycleis biedermanni	Wolff, 1911
+8Q38W	77Q3B	synonym	species	Platycleis (Platycleis) grisea	(Fabricius, 1781)
+BTKK3	77Q3B	synonym	subspecies	Platycleis (Platycleis) albopunctata grisea	(Fabricius, 1781)
+BTKK2	77Q3B	ambiguous synonym	subspecies	Platycleis albopunctata grisea	(Fabricius, 1781)
+BV72C	77Q3B	synonym	species	Chelidoptera grisea	(Fabricius, 1781)
+BTKK6	77Q3B	synonym	subspecies	Platycleis (Platycleis) grisea grisea	(Fabricius, 1781)
+8Q396	6VPRD	synonym	species	Platycleis (Platycleis) longicauda	Tarbinsky, 1930
+5KHHF	77Q3G	synonym	subspecies	Platycleis intermedia turanica	Zeuner, 1930
+C5SJS	6ZG6J	synonym	species	Platycleis (Platycleis) sinuata	Ramme, 1951
+C82T6	6ZG6J	synonym	species	Platycleis (Squamiana) sinuata	Ramme, 1951
+4JPTW	6ZG6J	synonym	species	Platycleis sinuata	Ramme, 1951
+6ZG5Z	6ZG6H	synonym	species	Squamiana erzuruma	Demirsoy, 1975
+77Q3F	6ZG6H	synonym	species	Platycleis weidneri	Demirsoy, 1974
+8Q39V	6ZG6H	synonym	species	Platycleis (Squamiana) weidneri	Demirsoy, 1974
+8Q3B6	6ZG68	synonym	species	Platycleis ankarensis	(Karabag, 1950)
+C82SS	6ZG68	synonym	species	Platycleis (Squamiana) ankarensis	(Karabag, 1950)
+7425J	6ZG68	synonym	species	Montana ankarensis	Karabag, 1950
+C5SJG	6ZG68	synonym	species	Platycleis (Montana) ankarensis	(Karabag, 1950)
+4JPQV	6ZG6C	synonym	species	Platycleis (Squamiana) melendisensis	Çıplak, 2002
+C5SJR	6ZG6B	synonym	species	Platycleis (Platycleis) irritans	Ramme, 1951
+C82T4	6ZG6B	synonym	species	Platycleis (Squamiana) irritans	Ramme, 1951
+4JPSL	6ZG6B	synonym	species	Platycleis irritans	Ramme, 1951
+8Q39Q	8Q3ZS	synonym	species	Platycleis (Squamiana) goeksunica	Ünal, 2018
+8Q39T	8Q3ZT	synonym	species	Platycleis (Squamiana) supericola	Ünal, 2018
+77Q3D	6ZG6G	synonym	species	Platycleis squamiptera	Uvarov, 1912
+9GTHQ	6ZG6G	synonym	species	Platycleis (Squamiana) squamiptera	Uvarov, 1912
+8Q39R	6ZG6F	synonym	species	Platycleis (Squamiana) kurmana	(Ramme, 1951)
+8Q3BM	6ZG6F	synonym	species	Platycleis kurmana	(Ramme, 1951)
+4JPQW	6ZG6D	synonym	species	Platycleis (Squamiana) salmani	Çıplak, 2002
+4JPQG	4DQ9H	synonym	species	Platycleis (Parnassiana) menalon	(Willemse, 1975)
+8Q38G	4DQ9D	synonym	species	Platycleis (Parnassiana) coracis	(Ramme, 1921)
+42JFN	4DQ9D	synonym	species	Metrioptera coracis	Ramme, 1921
+4JPQL	4DQ9N	synonym	species	Platycleis (Parnassiana) tenuis	Heller & Willemse, 1989
+4JPQF	4DQ9G	synonym	species	Platycleis (Parnassiana) gionica	(La Greca & Messina, 1976)
+4JPQM	4DQ9Q	synonym	species	Platycleis (Parnassiana) tymphrestos	(Zeuner, 1941)
+C7ZN6	4DQ9Q	synonym	species	Parnassiana tymphestros	Zeuner, 1941
+8Q38J	4DQ9L	synonym	species	Platycleis (Parnassiana) parnassica	(Ramme, 1926)
+42JGK	4DQ9L	synonym	species	Metrioptera parnassica	Ramme, 1926
+5K7PK	4DQ9C	accepted	subspecies	Parnassiana chelmos deplanata	(Willemse, 1973)
+C82SX	4DQ9C	synonym	species	Platycleis chelmos	Zeuner, 1941
+5K7PL	4DQ9C	accepted	subspecies	Parnassiana chelmos unicolor	(Willemse, 1973)
+5K7PJ	4DQ9C	accepted	subspecies	Parnassiana chelmos chelmos	(Zeuner, 1941)
+C5SJQ	4DQ9P	synonym	species	Platycleis (Parnassiana) tymphiensis	Willemse, 1973
+C82T3	4DQ9P	synonym	species	Platycleis tymphiensis	Willemse, 1973
+4JPQJ	4DQ9K	synonym	species	Platycleis (Parnassiana) panaetolikon	(Willemse, 1980)
+4JPQH	4DQ9J	synonym	species	Platycleis (Parnassiana) nigromarginata	Willemse & Willemse, 1987
+4JPQK	4DQ9M	synonym	species	Platycleis (Parnassiana) parnon	(Willemse, 1980)
+69R8P	4DQ9F	synonym	species	Chelidoptera fusca	(Brunner von Wattenwyl, 1882)
+4JPS8	4DQ9F	synonym	species	Platycleis fusca	Brunner von Wattenwyl, 1882
+7823C	4DQ9F	synonym	species	Platycleis (Parnassiana) fusca	Brunner von Wattenwyl, 1882
+BV727	4DQ9F	synonym	species	Metrioptera fusca	(Brunner von Wattenwyl, 1882)
+C5SJM	6TRCH	synonym	species	Platycleis (Parnassiana) dirphys	Willemse, 1980
+C82SY	6TRCH	synonym	species	Platycleis dirphys	Willemse, 1980
+8Q39L	4WFYN	synonym	species	Platycleis (Semenoviana) tricarinata	(Tarbinsky, 1930)
+42JGZ	4WFYN	synonym	species	Metrioptera tricarinata	Tarbinsky, 1930
+4JPTD	4WFYJ	synonym	species	Platycleis plotnikovi	Uvarov, 1914
+8Q39H	4WFYJ	synonym	species	Platycleis (Semenoviana) plotnikovi	Uvarov, 1914
+42JGM	4WFYJ	synonym	species	Metrioptera plotnikovi	(Uvarov, 1914)
+8Q39K	4WFYM	synonym	species	Platycleis (Semenoviana) tamerlana	(Saussure, 1874)
+8Q3BS	4WFYM	synonym	species	Platycleis tamerlana	(Saussure, 1874)
+4JPTT	4WFYM	synonym	species	Platycleis semenovi	Uvarov, 1912
+8Q25J	4WFYM	synonym	species	Metrioptera tamerlana	(Saussure, 1874)
+8PXML	4WFYM	synonym	species	Chelidoptera tamerlanus	(Saussure, 1874)
+6CH5G	4WFYM	synonym	species	Decticus (Platycleis) tamerlanus	Saussure, 1874
+8Q24C	4WFYM	synonym	species	Metrioptera (Platycleis) tamerlanus	
+4JPQS	4WFYL	synonym	species	Platycleis (Semenoviana) tadzhika	(Bey-Bienko, 1933)
+42JGW	4WFYL	synonym	species	Metrioptera tadzhika	Bey-Bienko, 1933
+8Q39J	4WFYK	synonym	species	Platycleis (Semenoviana) similis	(Tarbinsky, 1930)
+73F7X	4WFYK	synonym	species	Metrioptera similis	Tarbinsky, 1930
+8Q24X	3PL8N	synonym	species	Metrioptera concinna	(Walker, 1869)
+5Y2WP	3PL8N	synonym	species	Chelidoptera concinnus	(Walker, 1869)
+6CGTT	3PL8N	synonym	species	Decticus concinnus	Walker, 1869
+8PY73	3PL8N	synonym	species	Decorana concinnus	(Walker, 1869)
+8Q37L	3PL8N	synonym	species	Platycleis (Decorana) concinna	(Walker, 1869)
+C5SJD	3PL8S	synonym	species	Platycleis (Incertana) incerta	Brunner von Wattenwyl, 1882
+8PY75	3PL8S	synonym	species	Decorana incerta	(Brunner von Wattenwyl, 1882)
+8Q253	3PL8S	synonym	species	Metrioptera incerta	(Brunner von Wattenwyl, 1882)
+4JPSF	3PL8S	synonym	species	Platycleis incerta	Brunner von Wattenwyl, 1882
+77PRG	3PL8S	synonym	species	Platycleis truncata	Werner, 1901
+4JPT2	3PL8S	synonym	species	Platycleis minuta	Berland & Chopard, 1922
+8QK7N	3PL8S	synonym	species	Metrioptera truncata	
+5XQWL	3PL8S	synonym	species	Chelidoptera truncata	(Werner, 1901)
+42JFM	3PL8S	synonym	species	Metrioptera chopardi	Jannone, 1936
+8PY72	3PL8S	synonym	species	Decorana chopardi	(Jannone, 1936)
+C82SQ	3PL8S	synonym	species	Platycleis (Tessellana) incerta	Brunner von Wattenwyl, 1882
+8Q4CN	3PL8S	synonym	species	Tessellana incerta	(Brunner von Wattenwyl, 1882)
+8PXM6	3PL8S	synonym	species	Chelidoptera incerta	(Brunner von Wattenwyl, 1882)
+4PWYQ	3PL8P	synonym	species	Pterolepis nadigiorum	Werner, 1932
+8PY74	3PL8P	synonym	species	Decorana decorata	(Fieber, 1853)
+8Q24Y	3PL8P	synonym	species	Metrioptera decorata	(Fieber, 1853)
+BT685	3PL8P	synonym	species	Metrioptera (Decorana) decorata	(Fieber, 1853)
+8PXM4	3PL8P	synonym	species	Chelidoptera decorata	(Fieber, 1853)
+4JPRS	3PL8P	synonym	species	Platycleis decorata	Fieber, 1853
+8Q37M	3PL8P	synonym	species	Platycleis (Decorana) decorata	Fieber, 1853
+4JPR5	3PL8P	synonym	species	Platycleis andalusicus	Bolívar, 1877
+77PRD	3PL8V	synonym	species	Platycleis seniae	Finot, 1893
+42JGT	3PL8V	synonym	species	Metrioptera seniae	(Finot, 1893)
+55JDH	3PL8V	synonym	species	Tessellana seniae	(Finot, 1893)
+8PY78	3PL8V	synonym	species	Decorana seniae	(Finot, 1893)
+8Q37P	3PL8V	synonym	species	Platycleis (Decorana) seniae	Finot, 1893
+5Y38K	3PL8V	synonym	species	Chelidoptera seniae	(Finot, 1893)
+8Q25B	6N84Z	synonym	species	Metrioptera persica	(Uvarov, 1917)
+8Q37S	6N84Z	synonym	species	Platycleis (Incertana) persica	Uvarov, 1917
+8PY77	6N84Z	synonym	species	Decorana persica	(Uvarov, 1917)
+4JPTC	6N84Z	synonym	species	Platycleis persica	Uvarov, 1917
+4JPRJ	3PL8L	synonym	species	Platycleis capitata	Uvarov, 1917
+8Q37K	3PL8L	synonym	species	Platycleis (Decorana) capitata	Uvarov, 1917
+8PY6Z	3PL8L	synonym	species	Decorana capitata	(Uvarov, 1917)
+6CG28	3PL8Q	synonym	species	Decorana drepanensis	(Massa, Fontana & Buzzetti, 2006)
+4JPQ4	3PL8Q	synonym	species	Platycleis (Decorana) drepanensis	Massa, Fontana & Buzzetti, 2006
+4JPQ6	3PL8W	synonym	species	Platycleis (Decorana) tripolitana	Fontana & Massa, 2009
+6CFQ9	3PL8W	synonym	species	Decorana tripolitana	(Fontana & Massa, 2009)
+42JFH	3PL8K	synonym	species	Metrioptera buxtoni	Uvarov, 1923
+8PY6Y	3PL8K	synonym	species	Decorana buxtoni	(Uvarov, 1923)
+73F7Y	3PL8K	synonym	species	Metrioptera erecta	Uvarov, 1939
+C5SJ9	3PL8K	synonym	species	Platycleis (Decorana) erecta	(Uvarov, 1939)
+8Q37J	3PL8K	synonym	species	Platycleis (Decorana) buxtoni	(Uvarov, 1923)
+C82SM	3PL8K	synonym	species	Platycleis (Incertana) erecta	(Uvarov, 1939)
+BW973	3PL8K	synonym	species	Incertana erecta	(Uvarov, 1939)
+6CFQ8	3PL8J	synonym	species	Decorana arabica	(Popov, 1981)
+BZNSK	3PL8J	synonym	species	Platycleis arabica	Popov, 1981
+BWXW5	3PL8J	synonym	species	Platycleis (Decorana) arabica	Popov, 1981
+6CFPX	3PL8R	synonym	species	Decorana himalayana	(Ramme, 1933)
+4JPQ5	3PL8R	synonym	species	Platycleis (Decorana) himalayana	(Ramme, 1933)
+42JFX	3PL8R	synonym	species	Metrioptera himalayana	Ramme, 1933
+4JPSN	3PL8T	synonym	species	Platycleis kabyla	Finot, 1893
+8Q37N	3PL8T	synonym	species	Platycleis (Decorana) kabila	
+42JG4	3PL8T	synonym	species	Metrioptera kabyla	(Finot, 1893)
+5XR8J	3PL8T	synonym	species	Chelidoptera kabyla	(Finot, 1893)
+8PY76	3PL8T	synonym	species	Decorana kabila	
+C82SN	7FZDR	synonym	species	Platycleis (Yalvaciana) yalvaci	(Demirsoy, 1974)
+C5SJB	7FZDR	synonym	species	Platycleis (Decorana) yalvaci	(Demirsoy, 1974)
+6CG29	7FZDR	synonym	species	Decorana yalvaci	Demirsoy, 1974
+4PWYP	5KRSQ	synonym	species	Pterolepis nadigi	Galvagni, 1981
+78KMV	5KRST	synonym	species	Pterolepis raggei	Galvagni, 1981
+5KRSK	5KRSS	synonym	subspecies	Pterolepis pascuali pascuali	Galvagni, 1981
+5KRSJ	5KRSM	synonym	subspecies	Pterolepis pascuali kaltenbachi	Galvagni, 1981
+4PWYS	5KRSR	synonym	species	Pterolepis nevadensis	Galvagni, 1981
+BVWYT	5KRSP	synonym	variety	Pterolepis spoliata var. minor	Bolívar, 1900
+4PWYK	5KRSP	synonym	species	Pterolepis minor	Bolívar, 1900
+8Q6DR	5KRSN	synonym	subspecies	Pterolepis spoliata llorentae	
+78KMS	5KRSN	synonym	species	Pterolepis llorenteae	Galvagni, 1981
+5FV32	5FV2Z	synonym	subspecies	Atlanticus americanus hesperus	Hebard, 1934
+JGY7	5FV2Y	synonym	species	Atlanticus americanus	(Saussure, 1859)
+8Q2YB	5FV2Y	synonym	species	Pediodectes americanus	(Saussure, 1859)
+6CH5T	5FV2Y	synonym	species	Decticus derogatus	Walker, 1869
+52RMG	5FV2Y	synonym	species	Stipator americanus	(Saussure, 1859)
+BTJK5	5FV2Y	synonym	subspecies	Atlanticus americanus americanus	(Saussure, 1859)
+5FN4T	5FN4R	synonym	subspecies	Antaxius pedestris apuanus	Nadig, 1959
+BTJMR	5FN4R	synonym	subspecies	Chopardius pedestris apuana	(Nadig, 1959)
+BTD32	5FN4R	synonym	subspecies	Antaxius pedestris apuana	Nadig, 1959
+4BVSS	5FN4S	synonym	species	Pachytrachelus pedestris	(Fabricius, 1787)
+BTJMS	5FN4S	synonym	subspecies	Chopardius pedestris pedestris	(Fabricius, 1787)
+5V9RW	5FN4S	synonym	species	Antaxius pedestris	(Fabricius, 1787)
+4RX3V	5FN4S	synonym	species	Rhacocleis pedestris	(Fabricius, 1787)
+BXLBC	5FN4S	synonym	variety	Antaxius pedestris var. richteri	Harz, 1962
+BXLBB	5FN4S	synonym	variety	Antaxius (Chopardius) pedestris var. richteri	Harz, 1962
+BXPVY	5FN4S	synonym	form	Antaxius (Chopardius) pedestris f. carouxensis	Harz, 1969
+4PWYZ	5FN4S	synonym	species	Pterolepis pedestris	(Fabricius, 1787)
+5H5TM	5H5TL	synonym	subspecies	Eremopedes balli pallidus	Tinkham, 1944
+6CGTB	7JFHN	synonym	species	Decticus sieboldii	Fischer, 1849
+6QLJ8	7JFHN	synonym	species	Locusta viennensis	Marschall, 1836
+BTD53	7JFHN	synonym	subspecies	Bicolorana (Bicolorana) bicolor bicolor	(Philippi, 1830)
+C7MVJ	7JFHN	synonym	species	Metrioptera (Vichetia) helleri	Schmidt, 1998
+6CH63	7JFHN	synonym	species	Decticus bicolor	(Philippi, 1830)
+C7MV8	7JFHN	synonym	species	Metrioptera (Metrioptera) bicolor	(Philippi, 1830)
+4JPRB	7JFHN	synonym	species	Platycleis bicolor	(Philippi, 1830)
+BV726	7JFHN	synonym	subspecies	Metrioptera (Bicolorana) bicolor bicolor	(Philippi, 1830)
+C5J4Z	7JFHN	synonym	species	Metrioptera (Bicolorana) bicolor	(Philippi, 1830)
+5XR8P	7JFHN	synonym	species	Chelidoptera bicolor	(Philippi, 1830)
+6RF8H	7JFHN	synonym	species	Metrioptera (Metrioptera) helleri	Schmidt, 1998
+5BCJ2	7JFHN	synonym	species	Vichetia helleri	(Schmidt, 1998)
+BTK99	7JFHN	synonym	subspecies	Metrioptera bicolor sieboldii	(Fischer, 1849)
+42JFC	7JFHN	synonym	species	Metrioptera bicolor	(Philippi, 1830)
+8Q6BM	5FXYT	synonym	subspecies	Metrioptera (Bicolorana) bicolor angarica	Liana, 1987
+BTDSV	5JNSQ	synonym	subspecies	Metrioptera (Metrioptera) caprai galvagnii	Baccetti, 1963
+42JG9	5JNSR	synonym	species	Metrioptera lagrecai	Baccetti, 1959
+BTDSW	5JNSR	synonym	subspecies	Metrioptera (Metrioptera) caprai lagrecai	Baccetti, 1959
+BTDST	5JNSP	synonym	subspecies	Metrioptera (Metrioptera) caprai caprai	Baccetti, 1956
+BTDSS	5JNSN	synonym	subspecies	Metrioptera (Metrioptera) caprai baccettii	Galvagni, 1959
+42JFB	5JNSN	synonym	species	Metrioptera baccettii	Galvagni, 1959
+BTK95	5KXTY	synonym	subspecies	Metrioptera (Roeseliana) azami minor	(Nadig, 1961)
+BTKNY	5KXTY	synonym	subspecies	Roeseliana fedtschenkoi minor	Nadig, 1961
+5JNSL	5KXTY	synonym	subspecies	Metrioptera fedtschenkoi minor	(Nadig, 1961)
+BTK93	5KXTY	synonym	subspecies	Metrioptera (Metrioptera) fedtschenkoi minor	(Nadig, 1961)
+BVQW2	5KXTX	synonym	species	Metrioptera (Roeseliana) azami	(Finot, 1892)
+BTK94	5KXTX	synonym	subspecies	Metrioptera (Roeseliana) azami azami	(Finot, 1892)
+BTK96	5KXTX	synonym	subspecies	Metrioptera (Roeseliana) fedtschenkoi azami	(Finot, 1892)
+BTK97	5KXTX	synonym	subspecies	Metrioptera fedtschenkoi azami	(Finot, 1892)
+8PX97	BTYND	synonym	species	Bicolorana (Roeseliana) fedtschenkoi	(Saussure, 1874)
+BTK9J	BTYND	synonym	subspecies	Metrioptera roeselii fedtschenkoi	(Saussure, 1874)
+BZNVZ	BTYND	synonym	species	Platycleis fedtshenkoi	(Saussure, 1874)
+BTK9G	BTYND	synonym	subspecies	Metrioptera fedtschenkoi fedtschenkoi	(Saussure, 1874)
+C5J54	BTYND	synonym	species	Metrioptera (Bicolorana) fedtschenkoi	(Saussure, 1874)
+C7MVC	BTYND	synonym	species	Metrioptera (Roeseliana) fedtschenkoi	(Saussure, 1874)
+BTK98	BTYN4	synonym	subspecies	Metrioptera (Roeseliana) roeselii vasilii	Götz, 1969
+8QJSZ	BTYN4	synonym	subspecies	Metrioptera fedtschenkoi vasilii	Götz, 1969
+6VPRH	5JR9X	synonym	species	Platycleis zaisanica	Bey-Bienko, 1926
+C82SP	5JR9W	synonym	species	Platycleis (Montana) eversmanni	(Kittary, 1849)
+4JPRZ	5JR9W	synonym	species	Platycleis dubia	Uvarov, 1910
+4JPS5	5JR9W	synonym	species	Platycleis falzfeini	Ramme, 1921
+C5SJC	5JR9W	synonym	species	Platycleis (Decticus) eversmanni	(Kittary, 1849)
+8Q382	5JR9W	synonym	species	Platycleis eversmanni	(Kittary, 1849)
+8Q3BF	5JR9W	synonym	species	Platycleis eversmannii	
+BTKK4	5LG9W	synonym	subspecies	Platycleis (Tessellana) tessellata holoptera	(Ramme, 1951)
+BTKK5	5LG9W	synonym	subspecies	Platycleis tessellata holoptera	(Ramme, 1951)
+C5SJW	5LG9X	synonym	species	Platycleis (Tessellana) tessellata	(Charpentier, 1825)
+5KHHB	5LG9X	synonym	subspecies	Platycleis holoptera emrahi	Koçak, 1984
+8PXMN	5LG9X	synonym	species	Chelidoptera tessellata	(Charpentier, 1825)
+8Q25L	5LG9X	synonym	species	Metrioptera tessellata	(Charpentier, 1825)
+C82TD	5LG9X	synonym	species	Platycleis tesselata	(Charpentier, 1825)
+BZ7WR	5LG9X	synonym	species	Decticus tessellata	(Charpentier, 1825)
+6VPRG	5LG9X	synonym	species	Platycleis tessellata	(Charpentier, 1825)
+BWNRT	5LG9X	synonym	species	Decticus (Platycleis) tessellata	(Charpentier, 1825)
+6RF8G	5KHH4	synonym	species	Metrioptera (Platycleis) falx	(Fabricius, 1775)
+BTF6B	5KHH4	synonym	subspecies	Platycleis (Platycleis) falx falx	(Fabricius, 1775)
+8Q38T	5KHH4	synonym	species	Platycleis (Platycleis) falx	(Fabricius, 1775)
+XQD5	5KHH4	synonym	species	Conocephalus falx	(Fabricius, 1775)
+5Y38J	5KHH5	synonym	species	Chelidoptera laticauda	(Brunner von Wattenwyl, 1882)
+BTF6C	5KHH5	synonym	subspecies	Platycleis (Platycleis) falx laticauda	Brunner von Wattenwyl, 1882
+6RF7X	5KHH5	synonym	species	Metrioptera laticauda	(Brunner von Wattenwyl, 1882)
+4JPSS	5KHH5	synonym	species	Platycleis laticauda	Brunner von Wattenwyl, 1882
+4JPS3	5KHGN	synonym	species	Platycleis fabriciana	Ander, 1948
+BTF5Y	5KHGN	synonym	subspecies	Platycleis (Platycleis) affinis fabriciana	Ander, 1948
+8PXLW	5KHGM	synonym	species	Chelidoptera affinis	(Fieber, 1853)
+6W23B	5KHGM	synonym	species	Platycleis boscae	Bolívar, 1873
+BTF5X	5KHGM	synonym	subspecies	Platycleis (Platycleis) affinis affinis	Fieber, 1853
+8Q23W	5KHGM	synonym	species	Metrioptera (Metrioptera) affinis	(Fieber, 1853)
+8Q38M	5KHGM	synonym	species	Platycleis (Platycleis) affinis	Fieber, 1853
+8Q24P	5KHGM	synonym	species	Metrioptera affinis	(Fieber, 1853)
+BTF65	5KHGT	synonym	subspecies	Platycleis (Platycleis) albopunctata maura	Zeuner, 1941
+5KHHJ	5KHGT	synonym	subspecies	Platycleis occidentalis maura	Zeuner, 1941
+5KHHH	5KHGP	synonym	subspecies	Platycleis occidentalis jerseyana	Zeuner, 1940
+73F8B	5KHGP	synonym	species	Metrioptera albopunctata	(Goeze, 1778)
+5KHH9	5KHGP	synonym	subspecies	Platycleis grisea occidentalis	Zeuner, 1931
+8Q38N	5KHGP	synonym	species	Platycleis (Platycleis) albopunctata	(Goeze, 1778)
+BTF5Z	5KHGP	synonym	subspecies	Platycleis (Platycleis) albopunctata albopunctata	(Goeze, 1778)
+8PKM5	5KHGP	synonym	species	Tettigonia albo-punctatus	Goeze, 1778
+69R8N	5KHGP	synonym	species	Chelidoptera albopunctatus	(Goeze, 1778)
+72LF7	5KHGP	synonym	species	Locusta falcata	Zetterstedt, 1821
+72LFC	5KHGP	synonym	species	Locusta denticulata	Panzer, 1796
+7823F	5KHGX	synonym	species	Platycleis yerseyana	Zeuner, 1940
+BTF67	5KHGX	synonym	subspecies	Platycleis (Platycleis) albopunctata yerseyana	Zeuner, 1940
+BTF62	5KHGQ	synonym	subspecies	Platycleis (Platycleis) albopunctata collina	Navás, 1924
+4JPRM	5KHGQ	synonym	species	Platycleis collina	Navás, 1924
+8Q5VM	7KLXL	ambiguous synonym	subspecies	Platycleis albopunctata grisea	
+BTKK8	7KLXL	synonym	subspecies	Platycleis grisea monticola	(Chopard, 1924)
+5JNSM	7KLXL	synonym	subspecies	Metrioptera albopunctata monticola	Chopard, 1924
+7KM9L	5KHGW	synonym	subspecies	Platycleis grisea transiens	Zeuner, 1941
+5KHHG	5KHGS	synonym	subspecies	Platycleis occidentalis hispanica	Zeuner, 1941
+BTF64	5KHGS	synonym	subspecies	Platycleis (Platycleis) albopunctata hispanica	Zeuner, 1941
+4JPRP	5KHGR	synonym	species	Platycleis cretica	Willemse & Kruseman, 1976
+BTF63	5KHGR	synonym	subspecies	Platycleis (Platycleis) albopunctata cretica	Willemse & Kruseman, 1976
+5KHHK	5KHGV	synonym	subspecies	Platycleis occidentalis sculpta	Zeuner, 1941
+BTF66	5KHGV	synonym	subspecies	Platycleis (Platycleis) albopunctata sculpta	Zeuner, 1941
+BTK9D	5KHH6	synonym	subspecies	Metrioptera fatima angustipennis	Tarbinsky, 1932
+8Q38V	5KHH7	synonym	species	Platycleis (Platycleis) fatima	Uvarov, 1912
+8Q24Z	5KHH7	synonym	species	Metrioptera fatima	(Uvarov, 1912)
+BTF69	5KHH3	synonym	subspecies	Platycleis (Platycleis) escalerai iranica	Ramme, 1929
+BTK9C	5KHGZ	synonym	subspecies	Metrioptera escalerai escalerai	(Bolívar, 1899)
+5KHH2	5KHGZ	synonym	subspecies	Platycleis escalerai graeca	Harz, 1966
+4JPSJ	5KHGZ	synonym	species	Platycleis iphigeniae	Adelung, 1907
+BTF68	5KHGZ	synonym	subspecies	Platycleis (Platycleis) escalerai escalerai	Bolívar, 1899
+69QWP	5KHGZ	synonym	species	Chelidoptera escalerai	(Bolívar, 1899)
+8Q38S	5KHGZ	synonym	species	Platycleis (Platycleis) escalerai	Bolívar, 1899
+42JFV	5KHGZ	synonym	species	Metrioptera escalerai	(Bolívar, 1899)
+5SV89	5KHGZ	synonym	form	Platycleis escalerai f. graeca	Harz, 1966
+BTF6G	7KLXM	synonym	subspecies	Platycleis (Platycleis) intermedia sylvestris	Azam, 1901
+BTF6F	5KHHD	synonym	subspecies	Platycleis (Platycleis) intermedia mesopotamica	Ramme, 1927
+4JPSZ	5KHHD	synonym	species	Platycleis mesopotamica	Ramme, 1927
+42JG3	5KHHC	synonym	species	Metrioptera intermedia	(Serville, 1838)
+8P8T9	5KHHC	synonym	species	Decticus krinickii	Fischer von Waldheim, 1846
+8QJPR	5KHHC	synonym	species	Chelidoptera umbilicata	(Costa, 1885)
+BTWGG	5KHHC	synonym	variety	Platycleis grisea var. intermedia	(Serville, 1838)
+BTMSP	5KHHC	synonym	variety	Platycleis intermedia var. transiens	Ramme, 1951
+8Q38Y	5KHHC	synonym	species	Platycleis (Platycleis) intermedia	(Serville, 1838)
+8QJBC	5KHHC	synonym	species	Metrioptera umbilicata	(Costa, 1885)
+6VPRF	5KHHC	synonym	species	Platycleis umbilicata	Costa, 1885
+5XQWJ	5KHHC	synonym	species	Chelidoptera intermedia	(Serville, 1838)
+BTF6D	5KHHC	synonym	subspecies	Platycleis (Platycleis) intermedia intermedia	(Serville, 1838)
+BTMSR	5KHHC	synonym	subspecies	Platycleis intermedia umbilicata	Costa, 1885
+C4XQP	5KHHC	synonym	species	Decticus (Platycleis) intermedia	(Serville, 1838)
+BTMSQ	5KHHC	synonym	subspecies	Platycleis (Platycleis) intermedia umbilicata	Costa, 1885
+77PRB	5K7PK	synonym	species	Platycleis deplanata	Willemse, 1973
+5KHGY	5K7PL	synonym	subspecies	Platycleis chelmos unicolor	Willemse, 1973
+BTKJZ	5K7PJ	synonym	subspecies	Platycleis (Parnassiana) chelmos chelmos	Zeuner, 1941
+C5SJL	5K7PJ	synonym	species	Platycleis (Parnassiana) chelmos	Zeuner, 1941

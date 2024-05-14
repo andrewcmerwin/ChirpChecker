@@ -1,0 +1,2167 @@
+col:ID	col:parentID	col:status	col:rank	col:scientificName	col:authorship
+8NKXL	8NKR2	accepted	subfamily	Meconematinae	Burmeister, 1838
+8PS4D	8NKXL	accepted	tribe	Meconematini	Burmeister, 1838
+8PTFG	8NKXL	accepted	tribe	Phisidini	Jin, 1987
+8PS4S	8NKXL	accepted	tribe	Phlugidini	Eichler, 1938
+8NNLF	8NKXL	accepted	genus	Brinckiella	Chopard, 1955
+8NY9T	8PS4D	accepted	genus	Pseudothaumaspis	Gorochov, 1998
+C43M6	8PS4D	accepted	genus	Chandozhinskia	Gorochov, 1993
+8NWR6	8PS4D	accepted	genus	Paracosmetura	Liu, 2000
+8NMT6	8PS4D	accepted	genus	Athaumaspis	Wang & Liu, 2014
+8NZ8J	8PS4D	accepted	genus	Sinodecma	Shi, Bian & Chang, 2011
+8QHSF	8PS4D	accepted	genus	Sinocosmetura	Guo, Shi & Chang, 2021
+8NZ5Y	8PS4D	accepted	genus	Shoveliteratura	Shi, Bian & Chang, 2011
+8NVT5	8PS4D	accepted	genus	Neocononicephora	Gorochov, 1998
+8NRFD	8PS4D	accepted	genus	Epiproctopsis	Gorochov, 2016
+8PTPB	8PS4D	accepted	subtribe	Acilacridina	Gorochov, 2017
+8P4D2	8PS4D	accepted	genus	Zaxiphidiopsis	Gorochov, 1993
+8NRR7	8PS4D	accepted	genus	Exoteratura	Gorochov, 2002
+8NRZR	8PS4D	accepted	genus	Gibbomeconema	Ishikawa, 1999
+8NZNP	8PS4D	accepted	genus	Sumatropsis	Gorochov, 2011
+8NLZZ	8PS4D	accepted	genus	Amyttopsis	Beier, 1965
+8NLZW	8PS4D	accepted	genus	Amytta	Karsch, 1888
+8NRJ4	8PS4D	accepted	genus	Euanisous	Hebard, 1922
+8P228	8PS4D	accepted	genus	Tettigoniopsis	Yamasaki, 1982
+8NL5R	8PS4D	accepted	genus	Abaxinicephora	Gorochov & Kang, 2005
+8PVHT	8PS4D	accepted	genus	Xiangothaumaspis	Xin, Wang & Shi, 2020
+8NY6S	8PS4D	accepted	genus	Pseudokuzicus	Gorochov, 1993
+8NLQZ	8PS4D	accepted	genus	Allocyrtopsis	Wang & Liu, 2012
+8NMSL	8PS4D	accepted	genus	Asymmetricercus	Mitoki, 1999
+8QJYL	8PS4D	accepted	genus	Acosmetides	Chang, Wang & Shi, 2021
+8P236	8PS4D	accepted	genus	Thaumaspis	Bolívar, 1900
+8NWYP	8PS4D	accepted	genus	Paraphlugiolopsis	Bian & Shi, 2014
+8PTW5	8PS4D	accepted	genus	Allogrigoriora	Wang & Liu, 2018
+BTPF2	8PS4D	accepted	genus	Guangxia	An, Chen & Shi, 2023
+8NLRK	8PS4D	accepted	genus	Alloteratura	Hebard, 1922
+8PVDW	8PS4D	accepted	genus	Similameconema	Dou & Shi, 2018
+8NZ98	8PS4D	accepted	genus	Sinoxizicus	Gorochov & Kang, 2005
+8NZT9	8PS4D	accepted	genus	Tamdaora	Gorochov, 1998
+8NY5Q	8PS4D	accepted	genus	Pseudocosmetura	Liu, Zhou & Bi, 2010
+8NZ96	8PS4D	accepted	genus	Sinothaumaspis	Wang, Liu & Li, 2015
+8NSWH	8PS4D	accepted	genus	Indokuzicus	Gorochov, 1998
+8NVWZ	8PS4D	accepted	genus	Neoxizicus	Gorochov, 1998
+8NQJN	8PS4D	accepted	genus	Cyrtaspis	Fischer, 1853
+8NLLR	8PS4D	accepted	genus	Afroconema	Gorochov, 1993
+8NLZY	8PS4D	accepted	genus	Amyttella	Beier, 1965
+8NZSV	8PS4D	accepted	genus	Taiyalia	Yamasaki, 1992
+8NVZS	8PS4D	accepted	genus	Nipponomeconema	Yamasaki, 1983
+8NLGN	8PS4D	accepted	genus	Acosmetura	Liu, 2000
+8NS44	8PS4D	accepted	genus	Gonamytta	Beier, 1965
+8PVC9	8PS4D	accepted	genus	Pseudophlugiolopsis	Wang, Zhou & Chang, 2020
+8NPYL	8PS4D	accepted	genus	Cononicephora	Gorochov, 1993
+8PV8Q	8PS4D	accepted	genus	Paradoxitettigia	Wang, Huang & Shi, 2020
+C4B3B	8PS4D	accepted	genus	Platycercotura	Gorochov & Tan, 2024
+8NT8L	8PS4D	accepted	genus	Kuzicus	Gorochov, 1993
+8PV77	8PS4D	accepted	genus	Neocosmetura	Xin, Wang & Shi, 2020
+8PTYL	8PS4D	accepted	genus	Cercoteratura	Gorochov, 2019
+8NLM4	8PS4D	accepted	genus	Afromeconema	Massa, 1997
+8NS6H	8PS4D	accepted	genus	Grigoriora	Gorochov, 1993
+8PV3L	8PS4D	accepted	genus	Gorongosa	Naskrecki & Guta, 2019
+8NNG2	8PS4D	accepted	genus	Borneopsis	Gorochov, 2016
+8QKQG	8PS4D	accepted	genus	Chuanicosmetura	Guo, Wang & Shi, 2021
+8NVCL	8PS4D	accepted	genus	Microconocephalopsis	Tominaga & Kano, 1999
+8NLQN	8PS4D	accepted	genus	Allicyrtaspis	Shi, Bian & Chang, 2013
+8P2XL	8PS4D	accepted	genus	Xiphidonema	Ingrisch, 1987
+8NP5D	8PS4D	accepted	genus	Cecidophagula	Uvarov, 1939
+8NY9Q	8PS4D	accepted	genus	Pseudoteratura	Gorochov, 1998
+9H2H9	8PS4D	accepted	genus	Neoteratura	Shi & Zhang, 2021
+8NMKT	8PS4D	accepted	genus	Archixizicus	Gorochov, 2010
+8NLZX	8PS4D	accepted	genus	Amyttacta	Beier, 1965
+8QKNC	8PS4D	accepted	genus	Dolicholobosa	Bian, Zhu & Shi, 2017
+8NVYN	8PS4D	accepted	genus	Nicephora	Bolívar, 1900
+8NYFG	8PS4D	accepted	genus	Pulchroteratura	Tan, Gorochov & Wahab, 2017
+BW96S	8PS4D	accepted	infratribe	Anepitactae	Brunner von Wattenwyl, 1891
+8NQ3W	8PS4D	accepted	genus	Cosmetura	Yamasaki, 1983
+8NQJZ	8PS4D	accepted	genus	Cyrtopsis	Bey-Bienko, 1962
+B7XGS	8PS4D	accepted	subtribe	Meconematina	Burmeister, 2017
+8P3XW	8PS4D	accepted	genus	Macroteratura	Gorochov, 1993
+8NRCG	8PS4D	accepted	genus	Eogrigoriora	Gorochov, 2010
+8PTNX	8PS4D	synonym	tribe	Xiphidiopsini	Otte, 1997
+8NVS4	8PS4D	accepted	genus	Nefateratura	Ingrisch & Shishodia, 2000
+8NVTD	8PS4D	accepted	genus	Neocyrtopsis	Liu & Zhang, 2007
+8NMD2	8PS4D	accepted	genus	Aphlugiolopsis	Wang, Liu & Li, 2015
+8NSWX	8PS4D	accepted	genus	Indoteratura	Ingrisch & Shishodia, 2000
+8NVYX	8PS4D	accepted	genus	Nigrimacula	Shi, Bian & Zhou, 2016
+8NT6N	8PS4D	accepted	genus	Kinkiconocephalopsis	Kano, 1999
+8NWV6	8PS4D	accepted	genus	Parakuzicus	Ingrisch & Shishodia, 2000
+8NWDP	8PS4D	accepted	genus	Orophilopsis	Chopard, 1945
+8P3YN	8PS4D	accepted	genus	Megaconema	Gorochov, 1993
+8QK63	8PS4D	accepted	genus	Macrocosmetura	Chang, Wang & Shi, 2021
+8NWX9	8PS4D	accepted	genus	Paranicephora	Gorochov, 2001
+8NZ8G	8PS4D	accepted	genus	Sinocyrtaspis	Liu, 2000
+8NZ5M	8PS4D	accepted	genus	Shikokuconocephalopsis	Kano, 1999
+8QKS6	8PS4D	accepted	genus	Neocyrtopsides	Chang, Wang & Shi, 2021
+8PT9M	8PS4D	synonym	tribe	Meconemini	Burmeister, 1838
+8PV6D	8PS4D	accepted	genus	Microconema	Liu, 2005
+8NQN7	8PS4D	accepted	genus	Decma	Gorochov, 1993
+8NZY9	8PS4D	accepted	genus	Teratura	Redtenbacher, 1891
+C45XD	8PS4D	accepted	genus	Phlugiolopsis	Zeuner, 1940
+8NQXV	8PS4D	accepted	genus	Dinoteratura	Gorochov, 1998
+8NNWD	8PS4D	accepted	genus	Canariola	Uvarov, 1940
+8PTPN	8PTFG	accepted	subtribe	Beiericolyina	Jin, 1992
+8PTPK	8PTFG	accepted	subtribe	Arachnoscelidina	Gorochov, 2013
+8PTFH	8PTFG	synonym	tribe	Phisiini	Jin, 1987
+8PTS2	8PTFG	accepted	subtribe	Phisidina	Jin, 1987
+8NVW5	8PS4S	accepted	genus	Neophlugis	Gorochov, 2012
+8NVGY	8PS4S	accepted	genus	Miophlugis	Gorochov, 2010
+8NW78	8PS4S	accepted	genus	Odontophlugis	Gorochov, 1998
+8NMXL	8PS4S	accepted	genus	Austrophlugis	Rentz, 2001
+8NTR9	8PS4S	accepted	genus	Lucienola	Gurney, 1975
+8PTFN	8PS4S	synonym	tribe	Phlugini	Eichler, 1938
+8PVHD	8PS4S	accepted	genus	Tyrannoraptor	Mendes, Oliveira, Chamorro-Rengifo & Rafael, 2018
+8NZJ5	8PS4S	accepted	genus	Stenophlugis	Gorochov, 2012
+8PVF8	8PS4S	accepted	genus	Speculophlugis	Woodrow, Pulver, Veitch & Montealegre-Z., 2021
+8NWPB	8PS4S	accepted	genus	Papuaphlugis	Gorochov, 2012
+8NSW8	8PS4S	accepted	genus	Indiamba	Rentz, 2001
+8NMQ8	8PS4S	accepted	genus	Asiophlugis	Gorochov, 1998
+8NWYN	8PS4S	accepted	genus	Paraphlugiola	Cadena-Castañeda & Gorochov, 2014
+8NM6T	8PS4S	accepted	genus	Anisophlugis	Chamorro-Rengifo & Olivier, 2017
+8NXHP	8PS4S	accepted	genus	Phlugidia	Kevan, 1993
+8NXHT	8PS4S	accepted	genus	Phlugis	Stål, 1861
+8NXHQ	8PS4S	accepted	genus	Phlugiola	Karny, 1907
+8NP6Q	8PS4S	accepted	genus	Cephalophlugis	Gorochov, 1998
+8PTWY	8PS4S	accepted	genus	Arboraptor	Mendes, Oliveira, Chamorro-Rengifo & Rafael, 2018
+NBBL	8NNLF	accepted	species	Brinckiella aptera	Naskrecki & Bazelet, 2009
+NBBR	8NNLF	accepted	species	Brinckiella serricauda	Naskrecki & Bazelet, 2009
+NBBN	8NNLF	accepted	species	Brinckiella elegans	Naskrecki & Bazelet, 2009
+NBBP	8NNLF	accepted	species	Brinckiella karooensis	Naskrecki & Bazelet, 2009
+NBBQ	8NNLF	accepted	species	Brinckiella mauerbergerorum	Naskrecki & Bazelet, 2009
+NBBT	8NNLF	accepted	species	Brinckiella wilsoni	Naskrecki & Bazelet, 2009
+NBBS	8NNLF	accepted	species	Brinckiella viridis	Chopard, 1955
+NBBM	8NNLF	accepted	species	Brinckiella arboricola	Naskrecki & Bazelet, 2009
+4PD77	8NY9T	accepted	species	Pseudothaumaspis gialaiensis	(Gorochov, 1998)
+4PD76	8NY9T	accepted	species	Pseudothaumaspis furcocercus	Wang & Liu, 2014
+8PWBY	8NY9T	synonym	subgenus	Thaumaspis (Pseudothaumaspis)	Gorochov, 1998
+4PD75	8NY9T	accepted	species	Pseudothaumaspis bispinosus	Wang & Liu, 2014
+TLY2	C43M6	accepted	species	Chandozhinskia bivittata	(Bey-Bienko, 1957)
+TLY3	C43M6	accepted	species	Chandozhinskia hastaticercus	(Tinkham, 1936)
+9H3KQ	8NWR6	accepted	species	Paracosmetura brachycerca	(Chang, Bian & Shi, 2012)
+9H3FP	8NWR6	accepted	species	Paracosmetura angustisulca	(Chang, Bian & Shi, 2012)
+4CRDK	8NWR6	accepted	species	Paracosmetura cryptocerca	Liu, 2000
+8Q2RY	8NWR6	accepted	species	Paracosmetura bambusa	Liu, Zhou & Bi, 2010
+67VBB	8NMT6	accepted	species	Athaumaspis minutus	Wang & Liu, 2014
+5W7BB	8NMT6	accepted	species	Athaumaspis bifurcatus	(Liu, Zhou & Bi, 2010)
+687BB	8NMT6	accepted	species	Athaumaspis tibetanus	Wang & Liu, 2014
+4XKYT	8NZ8J	accepted	species	Sinodecma acuta	Shi, Bian & Chang, 2011
+8QK53	8QHSF	accepted	species	Sinocosmetura sanjiangkouensis	Guo, Shi & Chang, 2021
+9GZP6	8NZ5Y	accepted	species	Shoveliteratura pentaloba	Lu, Peng & Shi, 2021
+BTQD8	8NZ5Y	accepted	species	Shoveliteratura quadrata	An, Jiang & Huang, 2023
+4X55R	8NZ5Y	accepted	species	Shoveliteratura triangula	Shi, Bian & Chang, 2011
+8Q2DG	8NVT5	accepted	species	Neocononicephora sinuosa	Wang, 2020
+73VV2	8NVT5	accepted	species	Neocononicephora storozhenkoi	(Gorochov, 1994)
+8Q2DF	8NVT5	accepted	species	Neocononicephora fyanensis	Wang, 2020
+6FWLS	8NRFD	accepted	species	Epiproctopsis silvamontana	Gorochov, 2016
+8PV82	8PTPB	accepted	genus	Ovonotus	Naskrecki & Guta, 2019
+8NLLM	8PTPB	accepted	genus	Africariola	Naskrecki, 1996
+8NWQM	8PTPB	accepted	genus	Paracilacris	Chopard, 1955
+8NLG5	8PTPB	accepted	genus	Acilacris	Bolívar, 1890
+8QJ84	8P4D2	accepted	species	Zaxiphidiopsis bazyluki	(Bey-Bienko, 1971)
+B7ZL9	8P4D2	synonym	subgenus	Xiphidiopsis (Zaxiphidiopsis)	Gorochov, 1993
+6HMF9	8NRR7	accepted	species	Exoteratura kerinci	(Gorochov, 2002)
+8PVXV	8NRR7	synonym	subgenus	Leptoteratura (Exoteratura)	Gorochov, 2002
+6KFJX	8NRZR	accepted	species	Gibbomeconema odoriko	Ishikawa, 1999
+53FW4	8NZNP	accepted	species	Sumatropsis longipennis	Gorochov, 2011
+53FW5	8NZNP	accepted	species	Sumatropsis spitsini	Gorochov, 2011
+66GL2	8NLZZ	accepted	species	Amyttopsis forcipata	Beier, 1965
+D9RX	8NLZZ	accepted	species	Amyttopsis vinculata	Beier, 1965
+D9RV	8NLZZ	accepted	species	Amyttopsis palmulicerca	Naskrecki, 2008
+D9RT	8NLZZ	accepted	species	Amyttopsis bakowskii	Naskrecki, 2008
+D9RW	8NLZZ	accepted	species	Amyttopsis podicealata	Beier, 1965
+D9QM	8NLZW	accepted	species	Amytta kilomeni	Hemp, 2017
+D9RB	8NLZW	accepted	species	Amytta ukamica	Beier, 1965
+D9QY	8NLZW	accepted	species	Amytta pellucida	Karsch, 1888
+D9QG	8NLZW	accepted	species	Amytta hanangensis	Hemp, 2017
+D9QD	8NLZW	accepted	species	Amytta digitata	Hemp, 2017
+D9R9	8NLZW	accepted	species	Amytta taitensis	Hemp, 2017
+D9QJ	8NLZW	accepted	species	Amytta judithae	Hemp, 2017
+D9QX	8NLZW	accepted	species	Amytta olindo	Hemp, 2001
+D9QR	8NLZW	accepted	species	Amytta mramba	Hemp, 2017
+D9QQ	8NLZW	accepted	species	Amytta merumontana	Hemp, 2017
+D9QP	8NLZW	accepted	species	Amytta meruensis	Hemp, 2017
+D9Q7	8NLZW	accepted	species	Amytta abbreviata	Beier, 1967
+D9QL	8NLZW	accepted	species	Amytta kilimandjarica	Hemp, 2001
+D9R2	8NLZW	accepted	species	Amytta savannae	Hemp, 2017
+3BMVV	8NRJ4	accepted	species	Euanisous mirabilis	(Karny, 1923)
+3BMVX	8NRJ4	accepted	species	Euanisous perforatus	Sänger & Helfert, 2000
+3BMVW	8NRJ4	accepted	species	Euanisous notabilis	Gorochov, 2001
+6GSW8	8NRJ4	accepted	species	Euanisous distinctus	(Redtenbacher, 1891)
+3BMVZ	8NRJ4	accepted	species	Euanisous teuthroides	(Bolívar, 1905)
+3BMW2	8NRJ4	accepted	species	Euanisous trusmadi	Gorochov, 2011
+3BMVY	8NRJ4	accepted	species	Euanisous tawau	Gorochov, 2014
+55WMT	8P228	accepted	species	Tettigoniopsis hiurai	Kano & Kawakita, 1984
+55WMY	8P228	accepted	species	Tettigoniopsis kongozanensis	Kano & Kawakita, 1984
+55WNB	8P228	accepted	species	Tettigoniopsis tosaensis	Befu, 1999
+55WNC	8P228	accepted	species	Tettigoniopsis tsurugisanensis	Tominaga, 1999
+55WMZ	8P228	accepted	species	Tettigoniopsis kotsusana	Tominaga, 1999
+55WN4	8P228	accepted	species	Tettigoniopsis kurodakensis	Abe, 1988
+55WN9	8P228	accepted	species	Tettigoniopsis ryomai	Kano & Tominaga, 1999
+55WMQ	8P228	accepted	species	Tettigoniopsis forcipicercus	Yamasaki, 1982
+55WMW	8P228	accepted	species	Tettigoniopsis iyoensis	Kano & Kawakita, 1987
+55WN3	8P228	accepted	species	Tettigoniopsis kunisakiensis	Tabata, 1999
+55WND	8P228	accepted	species	Tettigoniopsis uwaensis	Kano & Tominaga, 1999
+55WML	8P228	accepted	species	Tettigoniopsis ashizuriensis	Befu & Murai, 1999
+55WMP	8P228	accepted	species	Tettigoniopsis ehimensis	Kano, 1999
+55WMN	8P228	accepted	species	Tettigoniopsis ehikonoyama	Tabata & Kawakita, 1999
+55WMM	8P228	accepted	species	Tettigoniopsis daisenensis	Yamasaki, 1985
+7BTPF	8P228	accepted	species	Tettigoniopsis sanukiensis	Kano & Tominaga, 1988
+55WN6	8P228	accepted	species	Tettigoniopsis miyamotoi	Yamasaki, 1983
+55WMR	8P228	accepted	species	Tettigoniopsis hikosana	(Yamasaki, 1983)
+55WN5	8P228	accepted	species	Tettigoniopsis kurosawai	Yamasaki, 1986
+7C5P8	8P228	accepted	species	Tettigoniopsis ikezakii	Yamasaki, 1983
+55WN8	8P228	accepted	species	Tettigoniopsis nyotaiensis	Tominaga & Toshima, 1999
+8PMZS	8P228	synonym	genus	Allotettigoniopsis	Yamasaki, 1983
+63Z54	8NL5R	accepted	species	Abaxinicephora excellens	Gorochov & Kang, 2005
+8Q4V7	8PVHT	accepted	species	Xiangothaumaspis falcatus	Xin, Wang & Shi, 2020
+8PW7K	8NY6S	accepted	subgenus	Pseudokuzicus (Similkuzicus)	Shi, Mao & Chang, 2007
+9XDR2	8NY6S	accepted	subgenus	Pseudokuzicus (Pseudokuzicus)	Gorochov, 1993
+C7F22	8NY6S	synonym	subgenus	Kuzicus (Pseudokuzicus)	Gorochov, 1993
+BW23	8NLQZ	accepted	species	Allocyrtopsis tibetana	Wang & Liu, 2012
+BW22	8NLQZ	accepted	species	Allocyrtopsis platycerca	Wang & Liu, 2012
+BVZY	8NLQZ	accepted	species	Allocyrtopsis ornata	Wang & Liu, 2012
+BVZZ	8NLQZ	accepted	species	Allocyrtopsis parva	Wang & Liu, 2012
+J6P6	8NMSL	accepted	species	Asymmetricercus suohensis	Mitoki, 1999
+8QHKH	8QJYL	accepted	species	Acosmetides platycerca	Chang, Wang & Shi, 2021
+8QJQR	8QJYL	accepted	species	Acosmetides trigentis	(Wang, Bian & Shi, 2016)
+8QHQY	8QJYL	accepted	species	Acosmetides dilobosa	Chang, Wang & Shi, 2021
+8QK7K	8QJYL	accepted	species	Acosmetides peltates	Chang, Wang & Shi, 2021
+B7ZCV	8P236	accepted	subgenus	Thaumaspis (Isothaumaspis)	Gorochov, 1993
+8PWC2	8P236	accepted	subgenus	Thaumaspis (Thaumaspis)	Bolívar, 1900
+7639Q	8NWYP	accepted	species	Paraphlugiolopsis jiangi	Bian & Shi, 2014
+4D8CB	8NWYP	accepted	species	Paraphlugiolopsis lobocera	Bian & Shi, 2014
+8PWQR	8PTW5	accepted	species	Allogrigoriora carinata	Wang & Liu, 2018
+BTR2B	BTPF2	accepted	species	Guangxia longlina	An, Chen & Shi, 2023
+BSKTS	8NLRK	synonym	subgenus	Alloteratura (Alloteratura)	Hebard, 1922
+8PVK7	8NLRK	accepted	subgenus	Alloteratura (Meconemopsis)	Karny, 1922
+BZMY	8NLRK	accepted	species	Alloteratura thanjavuensis	Kevan & Jin, 1993
+8PVK4	8NLRK	accepted	subgenus	Alloteratura (Alloteratura)	Hebard, 1922
+BZMG	8NLRK	accepted	species	Alloteratura nepalica	Kevan & Jin, 1993
+BZLZ	8NLRK	accepted	species	Alloteratura delicatula	(Chopard, 1924)
+BZLX	8NLRK	accepted	species	Alloteratura cyclolabia	(Karny, 1923)
+BZMJ	8NLRK	accepted	species	Alloteratura nigrivertex	(Karny, 1924)
+8Q3X3	8PVDW	accepted	species	Similameconema sinica	(Liu & Wang, 1998)
+4XM3G	8NZ98	accepted	species	Sinoxizicus breviatus	Gorochov & Kang, 2005
+8Q3XT	8NZ98	accepted	species	Sinoxizicus carinatus	Wang & Liu, 2018
+9H38V	8NZT9	accepted	species	Tamdaora longipennis	(Liu & Zhang, 2000)
+8Q495	8NZT9	accepted	species	Tamdaora curvicerca	Wang & Liu, 2018
+54MR6	8NZT9	accepted	species	Tamdaora magnifica	Gorochov, 1998
+6WF4V	8NY5Q	accepted	species	Pseudocosmetura multicolora	(Shi & Du, 2006)
+9H39X	8NY5Q	accepted	species	Pseudocosmetura henanensis	(Liu & Wang, 1998)
+4NV2B	8NY5Q	accepted	species	Pseudocosmetura anjiensis	(Shi & Zheng, 1998)
+4NV2C	8NY5Q	accepted	species	Pseudocosmetura curva	Shi & Bian, 2012
+8Q3JH	8NY5Q	accepted	species	Pseudocosmetura wanglangensis	Shi & Zhao, 2018
+4NV2D	8NY5Q	accepted	species	Pseudocosmetura fengyangshanensis	Liu, Zhou & Bi, 2010
+8Q3JJ	8NY5Q	accepted	species	Pseudocosmetura yaoluopingensis	Wang & Shi, 2020
+4NV2F	8NY5Q	accepted	species	Pseudocosmetura nanlingensis	Shi & Bian, 2012
+4XM2D	8NZ96	accepted	species	Sinothaumaspis damingshanicus	Wang, Liu & Li, 2015
+3PN8P	8NSWH	accepted	species	Indokuzicus militaris	(Bolívar, 1900)
+46WLF	8NVWZ	accepted	species	Neoxizicus crassus	Gorochov, 1998
+33L62	8NQJN	accepted	species	Cyrtaspis tuberculata	Barranco, 2005
+33L5Z	8NQJN	accepted	species	Cyrtaspis scutata	(Charpentier, 1825)
+65FMR	8NLLR	accepted	species	Afroconema pravdini	Gorochov, 1993
+D9RL	8NLZY	accepted	species	Amyttella pusillula	Beier, 1965
+D9RJ	8NLZY	accepted	species	Amyttella manuata	Beier, 1965
+D9RK	8NLZY	accepted	species	Amyttella pusilla	Beier, 1965
+7BHHJ	8NZSV	accepted	species	Taiyalia sedequiana	Yamasaki, 1992
+54KGF	8NZSV	accepted	species	Taiyalia squolyequiana	Yamasaki, 1992
+47H84	8NVZS	accepted	species	Nipponomeconema surugaense	Yamasaki, 1983
+47H7Y	8NVZS	accepted	species	Nipponomeconema hidaense	Yamasaki, 1983
+47H82	8NVZS	accepted	species	Nipponomeconema mutsuense	Yamasaki, 1983
+47H7Z	8NVZS	accepted	species	Nipponomeconema musashiense	Yamasaki, 1983
+9H3KJ	8NLGN	accepted	species	Acosmetura longicercus	(Shi & Bian, 2013)
+9HRW	8NLGN	accepted	species	Acosmetura jinyunensis	(Shi & Zheng, 1994)
+9HRS	8NLGN	accepted	species	Acosmetura carinata	Liu, Zhou & Bi, 2008
+9HS3	8NLGN	accepted	species	Acosmetura nigrogeniculata	(Liu & Wang, 1998)
+BW5FF	8NLGN	accepted	species	Acosmetura compressa	Chen, Xu & Shi, 2023
+9HRX	8NLGN	accepted	species	Acosmetura listrica	Bian & Shi, 2015
+8PWJT	8NLGN	accepted	species	Acosmetura longitubera	Wang, Shi & Wang, 2018
+64MG6	8NLGN	accepted	species	Acosmetura emeica	Liu & Zhou, 2007
+9HRV	8NLGN	accepted	species	Acosmetura forcipata	Liu, Zhou & Bi, 2008
+8NZ8F	8NLGN	synonym	genus	Sinocyrtaspiodea	Shi & Bian, 2013
+8PWJS	8NLGN	accepted	species	Acosmetura longielata	Wang & Shi, 2020
+9HRZ	8NLGN	accepted	species	Acosmetura mabianensis	Bian & Shi, 2014
+9HRR	8NLGN	accepted	species	Acosmetura brevicerca	Liu, 2000
+9HRY	8NLGN	accepted	species	Acosmetura longicercata	Liu, Zhou & Bi, 2008
+6KQ5T	8NS44	accepted	species	Gonamytta occidentalis	(Karsch, 1890)
+9H2X7	8NS44	accepted	species	Gonamytta scrofina	(Beier, 1965)
+9H2GX	8NS44	accepted	species	Gonamytta deboisselae	Guta, Macamo & Naskrecki, 2021
+6KPTT	8NS44	accepted	species	Gonamytta hintheliana	(Griffini, 1908)
+8Q3K8	8PVC9	accepted	species	Pseudophlugiolopsis bitubera	Wang, Zhou & Chang, 2020
+8PVQJ	8NPYL	accepted	subgenus	Cononicephora (Cononicephora)	Gorochov, 1993
+B7Z7T	8NPYL	accepted	subgenus	Cononicephora (Acononicephora)	Gorochov, 1994
+8PVQH	8NPYL	synonym	subgenus	Cononicephora (Cononicephora)	Gorochov, 1993
+8Q2S4	8PV8Q	accepted	species	Paradoxitettigia longicaudica	Wang, Huang & Shi, 2020
+C4B3C	C4B3B	accepted	species	Platycercotura caricauda	Tan, Muhammad & Gorochov, 2024
+8PVXC	8NT8L	accepted	subgenus	Kuzicus (Kuzicus)	Gorochov, 1993
+B7ZF9	8NT8L	accepted	subgenus	Kuzicus (Neokuzicus)	Gorochov, 1993
+8PVXD	8NT8L	synonym	subgenus	Kuzicus (Kuzicus)	Gorochov, 1993
+8Q2DH	8PV77	accepted	species	Neocosmetura torcha	Xin, Wang & Shi, 2020
+8PXLG	8PTYL	accepted	species	Cercoteratura variegata	Gorochov, 2019
+8PXLD	8PTYL	accepted	species	Cercoteratura nebulosa	(Karny, 1924)
+BSX9Z	8PTYL	accepted	species	Cercoteratura repens	Tan, Jin, Wang, Japir & Chung, 2022
+8PXL9	8PTYL	accepted	species	Cercoteratura abbreviata	(Karny, 1924)
+8PXLB	8PTYL	accepted	species	Cercoteratura mirabilis	(Tan & Wahab, 2018)
+C3Z68	8PTYL	accepted	species	Cercoteratura reflexa	Tan & Gorochov, 2024
+8PXLF	8PTYL	accepted	species	Cercoteratura spinicauda	(Sänger & Helfert, 1998)
+8PXLC	8PTYL	accepted	species	Cercoteratura modesta	Gorochov, 2019
+65GZK	8NLM4	accepted	species	Afromeconema felicis	Massa, 1997
+8PZ3M	8NS6H	accepted	species	Grigoriora cheni	(Bey-Bienko, 1955)
+3HDWC	8NS6H	accepted	species	Grigoriora beybienkoi	Gorochov, 1998
+3HDWD	8NS6H	accepted	species	Grigoriora breviuscula	Gorochov, 1998
+3HDWH	8NS6H	accepted	species	Grigoriora tassirii	(Sänger & Helfert, 1996)
+8PR67	8NS6H	synonym	genus	Satunia	Sänger & Helfert, 1996
+3HDWF	8NS6H	accepted	species	Grigoriora segregata	Gorochov, 1998
+3HDWB	8NS6H	accepted	species	Grigoriora alia	Gorochov, 1998
+8PZ3N	8NS6H	accepted	species	Grigoriora cryptocerca	Liu, 2020
+8PZ3P	8NS6H	accepted	species	Grigoriora kweichowensis	(Tinkham, 1944)
+6L4PQ	8NS6H	accepted	species	Grigoriora dicata	Gorochov, 1993
+3HDWG	8NS6H	accepted	species	Grigoriora spinosa	Gorochov, 1998
+8PZ3B	8PV3L	accepted	species	Gorongosa carri	Naskrecki & Guta, 2019
+5WP65	8NNG2	accepted	species	Borneopsis divulsa	Gorochov, 2016
+8PXBM	8NNG2	accepted	species	Borneopsis cryptosticta	(Hebard, 1922)
+MKK9	8NNG2	accepted	species	Borneopsis contigua	Gorochov, 2016
+8QHMX	8QKQG	accepted	species	Chuanicosmetura emarginata	(Liu, 2000)
+42TSW	8NVCL	accepted	species	Microconocephalopsis yuwanensis	Tominaga & Kano, 1999
+BTQN	8NLQN	accepted	species	Allicyrtaspis globosis	Shi, Bian & Chang, 2013
+8PWQQ	8NLQN	accepted	species	Allicyrtaspis phryganis	Wang, Zhou & Chang, 2020
+9H22M	8NLQN	accepted	species	Allicyrtaspis sulcata	Chen, Wang & Shi, 2022
+BTQM	8NLQN	accepted	species	Allicyrtaspis conicicersa	Shi, Bian & Chang, 2013
+5CFCX	8P2XL	accepted	species	Xiphidonema arcuata	Ingrisch, 1987
+RZJR	8NP5D	accepted	species	Cecidophagula digitata	Liu, 2000
+RZJS	8NP5D	accepted	species	Cecidophagula leeuwenii	(Karny, 1921)
+8PNPW	8NP5D	synonym	genus	Cecidophaga	Karny, 1921
+B7ZK3	8NY9Q	accepted	subgenus	Pseudoteratura (Subtilotura)	Gorochov, 2008
+8PW7Q	8NY9Q	accepted	subgenus	Pseudoteratura (Pseudoteratura)	Gorochov, 1998
+9H2HV	9H2H9	accepted	species	Neoteratura longigenitala	Shi & Zhang, 2021
+9H2QB	9H2H9	accepted	species	Neoteratura arrowa	Shi & Zhang, 2021
+9H2QK	9H2H9	accepted	species	Neoteratura conica	Shi & Zhang, 2021
+9H2PD	9H2H9	accepted	species	Neoteratura ovata	Shi & Zhang, 2021
+9H2MK	9H2H9	accepted	species	Neoteratura quadrata	Shi & Zhang, 2021
+9H2JV	9H2H9	accepted	species	Neoteratura gracila	Shi & Zhang, 2021
+67Q89	8NMKT	accepted	species	Archixizicus occidentalis	Gorochov, 2010
+66GKQ	8NLZX	accepted	species	Amyttacta angolensis	Beier, 1965
+D9RH	8NLZX	accepted	species	Amyttacta rhodesica	Beier, 1965
+8QKKJ	8QKNC	accepted	species	Dolicholobosa rotundata	Bian, Zhu & Shi, 2017
+8QK8H	8QKNC	accepted	species	Dolicholobosa complanatis	Bian, Zhu & Shi, 2017
+8QJG9	8QKNC	accepted	species	Dolicholobosa acuta	Wang & Shi, 2019
+8QKP9	8QKNC	accepted	species	Dolicholobosa bisofurcula	Li, Mao & Shi, 2021
+8QJ4B	8QKNC	accepted	species	Dolicholobosa nigrovittata	(Liu & Bi, 1994)
+8NR24	8QKNC	synonym	genus	Doicholobosa	Bian, Zhu & Shi, 2017
+B7ZBT	8NVYN	accepted	subgenus	Nicephora (Eunicephora)	Gorochov, 1998
+8PW2W	8NVYN	accepted	subgenus	Nicephora (Nicephora)	Bolívar, 1900
+BTRTZ	8NVYN	accepted	species	Nicephora angustifolia	Su, Wang & Chang, 2023
+B7ZB5	8NVYN	accepted	subgenus	Nicephora (Dianicephora)	Gorochov, 1993
+4QG9Z	8NYFG	accepted	species	Pulchroteratura huiqing	Tan, Gorochov & Wahab, 2017
+8NM58	BW96S	accepted	genus	Anepitacta	Brunner von Wattenwyl, 1891
+YTMS	8NQ3W	accepted	species	Cosmetura mikuraensis	Kano & Tominaga, 1988
+YTMM	8NQ3W	accepted	species	Cosmetura amamiensis	Kano & Tominaga, 1988
+YTMQ	8NQ3W	accepted	species	Cosmetura ficifolia	Yamasaki, 1983
+YTMR	8NQ3W	accepted	species	Cosmetura jejuensis	Storozhenko, 2009
+YTMP	8NQ3W	accepted	species	Cosmetura fenestrata	Yamasaki, 1983
+33NKR	8NQJZ	accepted	species	Cyrtopsis t-sigillata	Liu, Zhou & Bi, 2010
+33NKQ	8NQJZ	accepted	species	Cyrtopsis scutigera	Bey-Bienko, 1962
+33NKL	8NQJZ	accepted	species	Cyrtopsis bivittata	(Mu, He & Wang, 2000)
+33NKN	8NQJZ	accepted	species	Cyrtopsis furcicerca	Wang, Qin, Liu & Li, 2015
+33NKP	8NQJZ	accepted	species	Cyrtopsis robusta	Liu & Zhang, 2007
+8NT43	B7XGS	accepted	genus	Kamerula	Gorochov, 2017
+9GVZF	B7XGS	accepted	genus	Rhinoteratura	Gorochov, 1993
+8P2XH	B7XGS	accepted	genus	Xiphidiopsis	Redtenbacher, 1891
+9H2W6	B7XGS	accepted	genus	Caprixizicus	Gorochov, 2022
+8PMVZ	B7XGS	synonym	subfamily	Meconematidae	Burmeister, 1838
+8NLRY	B7XGS	accepted	genus	Alloxiphidiopsis	Liu & Zhang, 2007
+9H2XK	B7XGS	accepted	genus	Subtilodecma	Gorochov, 2022
+8NW7C	B7XGS	accepted	genus	Odonturisca	Gorochov, 2008
+8NXWG	B7XGS	accepted	genus	Proamytta	Beier, 1965
+8NTHL	B7XGS	accepted	genus	Leptoteratura	Yamasaki, 1982
+8P2XZ	B7XGS	accepted	genus	Xizicus	Gorochov, 1993
+8NRQT	B7XGS	accepted	genus	Meconema	Serville, 1831
+8PSQS	B7XGS	synonym	subfamily	Meconemidae	Burmeister, 1838
+8NM22	B7XGS	accepted	genus	Amyttosa	Beier, 1965
+8P2XF	B7XGS	accepted	genus	Xiphidiola	Bolívar, 1906
+8NNKW	B7XGS	accepted	genus	Breviratura	Gorochov, 2008
+8PMH6	B7XGS	synonym	subfamily	Meconeminae	Burmeister, 1838
+8NNGP	B7XGS	accepted	genus	Brachyamytta	Naskrecki, 2008
+8NNG3	B7XGS	accepted	genus	Borneratura	Gorochov, 2008
+8NWTX	B7XGS	accepted	genus	Parakamerula	Gorochov, 2017
+8NVR7	B7XGS	accepted	genus	Naskreckia	Gorochov, 2017
+8PVXF	8P3XW	synonym	subgenus	Kuzicus (Macroteraturus)	
+C55LQ	8P3XW	synonym	subgenus	Teratura (Macroteratura)	Gorochov, 1993
+B7ZJT	8P3XW	accepted	subgenus	Macroteratura (Stenoteratura)	Gorochov, 1993
+8PVYL	8P3XW	accepted	subgenus	Macroteratura (Macroteratura)	Gorochov, 1993
+6FJTY	8NRCG	accepted	species	Eogrigoriora gracilis	Gorochov, 2010
+464N2	8NVS4	accepted	species	Nefateratura terminata	(Ingrisch & Shishodia, 2000)
+8Q2CD	8NVS4	accepted	species	Nefateratura bifurcata	(Liu & Bi, 1994)
+464MZ	8NVS4	accepted	species	Nefateratura mesembrina	(Kevan & Jin, 1993)
+8PVK8	8NVS4	synonym	subgenus	Alloteratura (Nefateratura)	Ingrisch & Shishodia, 2000
+C6XCH	8NVTD	synonym	subgenus	Cyrtopsis (Neocyrtopsis)	Liu & Zhang, 2007
+BWD4W	8NVTD	accepted	subgenus	Neocyrtopsis (Neocyrtopsis)	Liu & Zhang, 2007
+B7ZGB	8NVTD	accepted	subgenus	Neocyrtopsis (Paraneocyrtopsis)	Wang, Liu & Li, 2013
+BW95J	8NMD2	accepted	species	Aphlugiolopsis truncata	Pan & Bian, 2023
+BW98L	8NMD2	accepted	species	Aphlugiolopsis lobata	Pan & Bian, 2023
+FFQ3	8NMD2	accepted	species	Aphlugiolopsis punctipennis	Wang, Liu & Li, 2015
+8PVK6	8NSWX	synonym	subgenus	Alloteratura (Indoteratura)	Ingrisch & Shishodia, 2000
+3PNQJ	8NSWX	accepted	species	Indoteratura erecta	(Ingrisch & Shishodia, 2000)
+9H2K6	8NVYX	accepted	species	Nigrimacula laminata	Cui, Liu & Shi, 2021
+9H2NF	8NVYX	accepted	species	Nigrimacula inlobata	Cui, Liu & Shi, 2021
+BV6K5	8NVYX	accepted	species	Nigrimacula biprotubera	Duan, Su, Shi & Chang, 2023
+BV6HC	8NVYX	accepted	species	Nigrimacula wuliangshanensis	Duan, Su, Shi & Chang, 2023
+6RY8M	8NVYX	accepted	species	Nigrimacula binotata	Shi, Bian & Zhou, 2016
+9H27T	8NVYX	accepted	species	Nigrimacula compressata	Duan, Guo & Shi, 2022
+73XWM	8NVYX	accepted	species	Nigrimacula quadrinotata	(Bey-Bienko, 1971)
+8Q2FL	8NVYX	accepted	species	Nigrimacula beybienkoi	Wang & Liu, 2018
+6S9WM	8NVYX	accepted	species	Nigrimacula paraquadrinotata	(Wang, Liu & Li, 2015)
+BV72F	8NVYX	accepted	species	Nigrimacula trigona	Duan, Su, Shi & Chang, 2023
+9H27S	8NVYX	accepted	species	Nigrimacula platycerca	Duan, Guo & Shi, 2022
+73Y8M	8NVYX	accepted	species	Nigrimacula sichuanensis	Wang & Shi, 2016
+749WM	8NVYX	accepted	species	Nigrimacula xizangensis	(Jiao & Shi, 2013)
+3R82S	8NT6N	accepted	species	Kinkiconocephalopsis matsuurai	Kawakita, 1999
+3R82R	8NT6N	accepted	species	Kinkiconocephalopsis koyasanensis	(Kano, 1987)
+8PVXJ	8NWV6	synonym	subgenus	Kuzicus (Parakuzicus)	Ingrisch & Shishodia, 2000
+7628M	8NWV6	accepted	species	Parakuzicus cervicus	(Ingrisch & Shishodia, 2000)
+4CXNB	8NWV6	accepted	species	Parakuzicus excavatus	(Ingrisch & Shishodia, 2000)
+4CXNC	8NWV6	accepted	species	Parakuzicus forficatus	(Bolívar, 1900)
+8PV7X	8NWDP	synonym	genus	Orphilopsis	Chopard, 1945
+6T7YM	8NWDP	accepted	species	Orophilopsis subaptera	Chopard, 1945
+8PWF3	8P3YN	synonym	subgenus	Xiphidiola (Megaconema)	Gorochov, 1993
+8PZZB	8P3YN	accepted	species	Megaconema geniculata	(Bey-Bienko, 1962)
+BSMJW	8P3YN	synonym	subgenus	Teratura (Megaconema)	Gorochov, 1993
+8QHYT	8QK63	accepted	species	Macrocosmetura truncata	Chang, Wang & Shi, 2021
+4D64L	8NWX9	accepted	species	Paranicephora sola	Gorochov, 2001
+4XKY9	8NZ8G	accepted	species	Sinocyrtaspis huangshanensis	Liu, 2000
+6YR96	8NZ8G	accepted	species	Sinocyrtaspis lushanensis	Liu, 2000
+8Q3X7	8NZ8G	accepted	species	Sinocyrtaspis cardia	Wang, Shi & Chang, 2019
+8Q3X8	8NZ8G	accepted	species	Sinocyrtaspis hengshanensis	Wang, Shi & Chang, 2019
+4XKYB	8NZ8G	accepted	species	Sinocyrtaspis spina	Shi & Du, 2006
+8Q3X9	8NZ8G	accepted	species	Sinocyrtaspis megalobia	Wang, Xin & Shi, 2020
+4XKYC	8NZ8G	accepted	species	Sinocyrtaspis truncata	Liu, 2000
+4X4NH	8NZ5M	accepted	species	Shikokuconocephalopsis shimantoensis	Befu & Murai, 1999
+4X4NG	8NZ5M	accepted	species	Shikokuconocephalopsis onigajyoensis	Kano & Tominaga, 1999
+4X4NF	8NZ5M	accepted	species	Shikokuconocephalopsis ishizuchiensis	(Kano & Kawakita, 1987)
+8QKJS	8QKS6	accepted	species	Neocyrtopsides platycata	(Shi & Zheng, 1994)
+8QHNW	8QKS6	accepted	species	Neocyrtopsides bispina	Chang, Wang & Shi, 2021
+8PWF4	8PV6D	synonym	subgenus	Xiphidiola (Microconema)	Liu, 2005
+8Q266	8PV6D	accepted	species	Microconema clavata	(Uvarov, 1933)
+9H285	8PV6D	accepted	species	Microconema arctilamina	Duan, Liu & Chang, 2022
+8PVQS	8NQN7	accepted	subgenus	Decma (Decma)	Gorochov, 1993
+B7ZCM	8NQN7	accepted	subgenus	Decma (Idiodecma)	Gorochov, 1993
+B7ZG6	8NQN7	accepted	subgenus	Decma (Paradecma)	Liu & Zhou, 2007
+8PVQR	8NQN7	synonym	subgenus	Decma (Decma)	Gorochov, 1993
+6CG2R	8NQN7	accepted	species	Decma abruptum	Gorochov, 2012
+B7ZF7	8NQN7	accepted	subgenus	Decma (Neodecma)	Gorochov, 2004
+8PKJ9	8NZY9	accepted	species	Teratura maculata	Ingrisch, 1990
+8Q4CC	8NZY9	accepted	species	Teratura hastata	Shi, Mao & Ou, 2007
+8PKJB	8NZY9	accepted	species	Teratura monstrosa	Redtenbacher, 1891
+8Q4C7	8NZY9	accepted	species	Teratura albidisca	Sänger & Helfert, 1998
+8Q4CD	8NZY9	accepted	species	Teratura lyra	Gorochov, 2001
+BSGGB	8NZY9	synonym	subgenus	Teratura (Teratura)	Redtenbacher, 1891
+8Q4CG	8NZY9	accepted	species	Teratura pulchella	Gorochov & Kang, 2005
+8PKJ8	8NZY9	accepted	species	Teratura cincta	(Bey-Bienko, 1962)
+8Q4C8	8NZY9	accepted	species	Teratura angusi	Gorochov, 1998
+8Q4C9	8NZY9	accepted	species	Teratura darevskyi	Gorochov, 1993
+8Q4CF	8NZY9	accepted	species	Teratura paracincta	Gorochov & Kang, 2005
+8PW62	C45XD	accepted	subgenus	Phlugiolopsis (Phlugiolopsis)	Zeuner, 1940
+C846Q	C45XD	accepted	species	Phlugiolopsis brevibranchia	Pan & Bian, 2024
+8PW63	C45XD	accepted	subgenus	Phlugiolopsis (Tribranchis)	Bian & Shi, 2018
+BTS6T	C45XD	accepted	species	Phlugiolopsis expansis	Zheng, Duan, Liu & Chang, 2023
+C846R	C45XD	accepted	species	Phlugiolopsis ceratocladina	Pan & Bian, 2024
+BW97D	C45XD	accepted	species	Phlugiolopsis flabellis	Pan & Bian, 2023
+BTS6Q	C45XD	accepted	species	Phlugiolopsis bidentis	Zheng, Duan, Liu & Chang, 2023
+BTS6R	C45XD	accepted	species	Phlugiolopsis breviproceris	Zheng, Shi & Chang, 2023
+8PW5Z	C45XD	accepted	subgenus	Phlugiolopsis (Longiloba)	Bian, Shi & Chang, 2018
+C846P	C45XD	accepted	species	Phlugiolopsis biprocera	Pan & Bian, 2024
+BTS6V	C45XD	accepted	species	Phlugiolopsis furcicaudis	Zheng, Shi & Chang, 2023
+C846S	C45XD	accepted	species	Phlugiolopsis crassicauda	Pan & Bian, 2024
+BTS6S	C45XD	accepted	species	Phlugiolopsis curvis	Zheng, Duan, Liu & Chang, 2023
+8QKWQ	C45XD	accepted	subgenus	Phlugiolopsis (Omkoiana)	Sänger & Helfert, 2002
+8PW64	C45XD	accepted	subgenus	Phlugiolopsis (Uncinata)	Bian & Shi, 2018
+C846T	C45XD	accepted	species	Phlugiolopsis tridigitis	Pan & Bian, 2024
+369CZ	8NQXV	accepted	species	Dinoteratura beieri	(Bey-Bienko, 1971)
+369D2	8NQXV	accepted	species	Dinoteratura punctata	(Karny, 1924)
+5WY2W	8NNWD	accepted	species	Canariola quinonesi	Llucià Pomares & Iñiguez Yarza, 2010
+5WXQW	8NNWD	accepted	species	Canariola emarginata	Newman, 1964
+5X9QW	8NNWD	accepted	species	Canariola willemsei	Morales-Agacino, 1959
+5WXR8	8NNWD	accepted	species	Canariola nubigena	(Krauss, 1892)
+8PQGN	8NNWD	synonym	genus	Orophila	Krauss, 1892
+8NWYJ	8PTPN	accepted	genus	Paraphisis	Karny, 1912
+8NV4R	8PTPN	accepted	genus	Meiophisis	Jin, 1992
+8NVW2	8PTPN	accepted	genus	Neophisis	Jin, 1990
+8NW5Q	8PTPN	accepted	genus	Oceaniphisis	Jin, 1992
+8NN65	8PTPN	accepted	genus	Beiericolya	Kaltenbach, 1968
+8NRHW	8PTPN	accepted	genus	Estrinia	Karny, 1926
+8NNKV	8PTPK	accepted	genus	Breviphisis	Gorochov, 2017
+8NZNZ	8PTPK	accepted	genus	Supersonus	Sarria-S., Morris, Windmill, Jackson & Montealegre-Z., 2014
+8NXRH	8PTPK	accepted	genus	Poecilomerus	Karny, 1907
+8NTPQ	8PTPK	accepted	genus	Longiphisis	Gorochov, 2017
+8NMHS	8PTPK	accepted	genus	Arachnoscelis	Karny, 1911
+8NNBP	8PTS2	accepted	genus	Biproctis	Jin, 1992
+8NQN8	8PTS2	accepted	genus	Decolya	Bolívar, 1900
+8NTXL	8PTS2	accepted	genus	Malagasyphisis	Hugel, 2012
+8NPXD	8PTS2	accepted	genus	Comorophisis	Hugel, 2012
+8NP2C	8PTS2	accepted	genus	Carliphisis	Jin, 1992
+8NWRM	8PTS2	accepted	genus	Paradecolya	Jin, 1992
+8NZ4M	8PTS2	accepted	genus	Seselphisis	Hugel, 2012
+8NPXC	8PTS2	accepted	genus	Comorocolya	Hugel, 2012
+8NW7M	8PTS2	accepted	genus	Oediphisis	Jin, 1992
+8NXH9	8PTS2	accepted	genus	Phisis	Stål, 1861
+8NLM9	8PTS2	accepted	genus	Afrophisis	Jin & Kevan, 1991
+8NYRM	8PTS2	accepted	genus	Rodriguesiophisis	Hugel, 2010
+8NNHK	8PTS2	accepted	genus	Brachyphisis	Chopard, 1957
+8NT5Y	8PTS2	accepted	genus	Kevanophisis	Jin, 1992
+46Q8C	8NVW5	accepted	species	Neophlugis calabaza	Gorochov, 2012
+43L7T	8NVGY	accepted	species	Miophlugis rostratus	Gorochov, 2010
+48QZX	8NW78	accepted	species	Odontophlugis maculata	(Nickle, 2003)
+48QZY	8NW78	accepted	species	Odontophlugis pehlkei	(Kästner, 1932)
+48R22	8NW78	accepted	species	Odontophlugis ucayali	Gorochov, 2012
+48QZW	8NW78	accepted	species	Odontophlugis bimaculoides	(Nickle, 2003)
+48QZV	8NW78	accepted	species	Odontophlugis bimaculata	(Nickle, 2003)
+8PW65	8NW78	synonym	subgenus	Phlugis (Odontophlugis)	Gorochov, 1998
+48QZZ	8NW78	accepted	species	Odontophlugis ramirezi	(Barranco, 2013)
+JXRD	8NMXL	accepted	species	Austrophlugis debaari	Rentz, 2001
+JXRH	8NMXL	accepted	species	Austrophlugis manya	Rentz, 2001
+JXRF	8NMXL	accepted	species	Austrophlugis kununurra	Rentz, 2001
+689GR	8NMXL	accepted	species	Austrophlugis kumbumbana	Rentz, 2001
+JXRG	8NMXL	accepted	species	Austrophlugis malidupa	Rentz, 2001
+JXRJ	8NMXL	accepted	species	Austrophlugis orumbera	Rentz, 2001
+JXRK	8NMXL	accepted	species	Austrophlugis quaringa	Rentz, 2001
+3WBNN	8NTR9	accepted	species	Lucienola gressitti	(Chopard, 1969)
+3WBNS	8NTR9	accepted	species	Lucienola tiwiwarrina	(Rentz, 2001)
+3WBNR	8NTR9	accepted	species	Lucienola pitti	(Rentz, 2001)
+3WBNP	8NTR9	accepted	species	Lucienola maai	(Jin, 1993)
+3WBNM	8NTR9	accepted	species	Lucienola brittoni	(Jin, 1993)
+8PRF8	8NTR9	synonym	genus	Tenuiphlugis	Kevan, 1993
+BTTLD	8PVHD	accepted	species	Tyrannoraptor venator	Mendes, Sobral & Silva-Neto, 2023
+8Q4NP	8PVHD	accepted	species	Tyrannoraptor arboreus	(Nickle, 2003)
+523DC	8NZJ5	accepted	species	Stenophlugis subtilis	Gorochov, 2012
+6ZNCK	8NZJ5	accepted	species	Stenophlugis burgersi	(Jin, 1993)
+523DB	8NZJ5	accepted	species	Stenophlugis novaeguineaensis	(Jin, 1993)
+8Q3Y4	8PVF8	accepted	species	Speculophlugis hishquten	Woodrow, Pulver, Veitch & Montealegre-Z., 2021
+4CLK4	8NWPB	accepted	species	Papuaphlugis papua	Gorochov, 2012
+4CLK5	8NWPB	accepted	species	Papuaphlugis rapax	(Jin, 1993)
+3PLNQ	8NSW8	accepted	species	Indiamba quamara	Rentz, 2001
+3PLNR	8NSW8	accepted	species	Indiamba wirrawilla	Rentz, 2001
+3PLNP	8NSW8	accepted	species	Indiamba malkini	(Jin, 1993)
+5VTW9	8NMQ8	accepted	species	Asiophlugis philippina	(Jin, 1993)
+5W67X	8NMQ8	accepted	species	Asiophlugis sulawesi	(Jin, 1993)
+67TW9	8NMQ8	accepted	species	Asiophlugis thaumasia	(Hebard, 1922)
+5W67Y	8NMQ8	accepted	species	Asiophlugis borneoensis	(Jin, 1993)
+685VX	8NMQ8	accepted	species	Asiophlugis trusmadi	Gorochov, 2011
+5W5VX	8NMQ8	accepted	species	Asiophlugis rete	Gorochov, 1998
+8PX6B	8NMQ8	accepted	species	Asiophlugis paracercalis	Gorochov, 2019
+685VY	8NMQ8	accepted	species	Asiophlugis dubia	(Karny, 1907)
+5W689	8NMQ8	accepted	species	Asiophlugis temasek	Gorochov & Tan, 2011
+67TVY	8NMQ8	accepted	species	Asiophlugis cercalis	Gorochov, 2012
+6867Y	8NMQ8	accepted	species	Asiophlugis kubah	Gorochov, 2012
+5W5W9	8NMQ8	accepted	species	Asiophlugis longiuncus	Gorochov, 2013
+8PX67	8NMQ8	accepted	species	Asiophlugis bintulu	Gorochov, 2019
+BTQ3M	8NMQ8	accepted	species	Asiophlugis spatulata	Tan, Salvador & Nuñeza, 2023
+8PX69	8NMQ8	accepted	species	Asiophlugis lobata	Gorochov, 2019
+5VTVX	8NMQ8	accepted	species	Asiophlugis malacca	Gorochov, 1998
+8PX68	8NMQ8	accepted	species	Asiophlugis legitima	Gorochov, 2019
+4D8C9	8NWYN	accepted	species	Paraphlugiola helenae	Cadena-Castañeda & García García, 2014
+66RFD	8NM6T	accepted	species	Anisophlugis appendicula	(Gorochov, 2015)
+4GJC4	8NXHP	accepted	species	Phlugidia africana	Kevan, 1993
+4GJC8	8NXHP	accepted	species	Phlugidia planicercus	Hemp, 2013
+4GJC5	8NXHP	accepted	species	Phlugidia ampendiculata	Hemp, 2017
+4GJC9	8NXHP	accepted	species	Phlugidia usambarica	Hemp, 2002
+4GJC7	8NXHP	accepted	species	Phlugidia obtusicercus	Hemp, 2013
+4GJC6	8NXHP	accepted	species	Phlugidia kisarawe	Hemp, 2017
+4GJF9	8NXHT	accepted	species	Phlugis glabra	Nickle, 2003
+6VBZ3	8NXHT	accepted	species	Phlugis abnormis	(Redtenbacher, 1891)
+4GJG3	8NXHT	accepted	species	Phlugis rhodophthalmus	Mello-Leitão, 1940
+4GJG4	8NXHT	accepted	species	Phlugis robertsi	Nickle, 2005
+4GJFB	8NXHT	accepted	species	Phlugis herculi	Nickle, 2003
+6VBYS	8NXHT	accepted	species	Phlugis celerinicta	Nickle, 2003
+4GJF4	8NXHT	accepted	species	Phlugis crassifemorata	Kästner, 1932
+4GJF8	8NXHT	accepted	species	Phlugis gigantea	Nickle, 2003
+77BZ7	8NXHT	accepted	species	Phlugis lewisi	Nickle, 2003
+77BZ4	8NXHT	accepted	species	Phlugis chrysopa	Bolívar, 1888
+4GJG7	8NXHT	accepted	species	Phlugis simplex	Hebard, 1927
+9GTFF	8NXHT	accepted	species	Phlugis ocraceovittata	Piza, 1960
+77BZ2	8NXHT	accepted	species	Phlugis bullatinotum	Nickle, 2003
+4GJFS	8NXHT	accepted	species	Phlugis orioni	Nickle, 2003
+4GJFL	8NXHT	accepted	species	Phlugis marginata	(Redtenbacher, 1891)
+4GJF7	8NXHT	accepted	species	Phlugis gerana	Gorochov, 2015
+4GJG8	8NXHT	accepted	species	Phlugis spinipes	(Fabricius, 1775)
+4GJFY	8NXHT	accepted	species	Phlugis proxima	Bruner, 1915
+77BYV	8NXHT	accepted	species	Phlugis gracila	Nickle, 2003
+6VBZ5	8NXHT	accepted	species	Phlugis buruensis	Karny, 1924
+C846W	8NXHT	accepted	species	Phlugis teres	(DeGeer, 1773)
+6VBYV	8NXHT	accepted	species	Phlugis chrysopoides	Nickle, 2003
+77BZ3	8NXHT	accepted	species	Phlugis arborealoides	Nickle, 2005
+4GJG6	8NXHT	accepted	species	Phlugis similis	Bruner, 1915
+8PQSP	8NXHT	synonym	genus	Pilugis	Stål, 1861
+4GJFP	8NXHT	accepted	species	Phlugis nemoptera	Bolívar, 1888
+4GJFW	8NXHT	accepted	species	Phlugis poecila	Hebard, 1927
+4GJFF	8NXHT	accepted	species	Phlugis macilenta	(Redtenbacher, 1891)
+6VBZ6	8NXHT	accepted	species	Phlugis permutata	Kästner, 1932
+4GJF6	8NXHT	accepted	species	Phlugis ecuador	Gorochov, 2012
+4GJG5	8NXHT	accepted	species	Phlugis scalpra	Nickle, 2003
+4GJF2	8NXHT	accepted	species	Phlugis coriacea	(Redtenbacher, 1891)
+8PN22	8NXHT	synonym	genus	Alogopteron	Rehn, 1903
+8PMZZ	8NXHT	synonym	genus	Alogoptera	Rehn, 1903
+8PVBG	8NXHT	synonym	genus	Phylugis	Stål, 1861
+4GJFN	8NXHT	accepted	species	Phlugis morona	Gorochov, 2012
+4GJGF	8NXHT	accepted	species	Phlugis virens	(Thunberg, 1815)
+4GJFX	8NXHT	accepted	species	Phlugis proseni	Mello-Leitão, 1947
+77BYT	8NXHT	accepted	species	Phlugis caudata	(Redtenbacher, 1891)
+8PRH2	8NXHT	synonym	genus	Thysdrus	Stål, 1874
+4GJFD	8NXHT	accepted	species	Phlugis irregularis	Bruner, 1915
+6VBZ7	8NXHT	accepted	species	Phlugis convexitermina	Nickle, 2003
+4GJGG	8NXHT	accepted	species	Phlugis wittmani	Nickle, 2003
+77BYS	8NXHT	accepted	species	Phlugis chelifera	Rehn, 1918
+4GJCF	8NXHQ	accepted	species	Phlugiola igarape	Mendes, Oliveira, Alves-Oliveira & Rafael, 2017
+4GJCH	8NXHQ	accepted	species	Phlugiola longipedes	Mendes, Oliveira, Alves-Oliveira & Rafael, 2017
+8Q332	8NXHQ	accepted	species	Phlugiola paratushali	Gorochov, 2018
+4GJCJ	8NXHQ	accepted	species	Phlugiola redtenbacheri	Karny, 1907
+4GJCG	8NXHQ	accepted	species	Phlugiola laurae	Cadena-Castañeda & García García, 2014
+6VBYC	8NXHQ	accepted	species	Phlugiola amazonia	Gorochov, 2012
+4GJCC	8NXHQ	accepted	species	Phlugiola arborea	Nickle, 2002
+4GJCD	8NXHQ	accepted	species	Phlugiola dahlemica	Eichler, 1938
+SDM7	8NP6Q	accepted	species	Cephalophlugis setosa	Gorochov, 2012
+SDM6	8NP6Q	accepted	species	Cephalophlugis cephalotes	(Bolívar, 1888)
+BSX9C	8NP6Q	accepted	species	Cephalophlugis gaucho	Tavares, Acosta & Timm, 2022
+8PX57	8PTWY	accepted	species	Arboraptor viridis	Mendes, Oliveira, Chamorro-Rengifo & Rafael, 2018
+8PX56	8PTWY	accepted	species	Arboraptor stigmatus	(Nickle, 2003)
+564WQ	4PD77	synonym	species	Thaumaspis (Pseudothaumaspis) gialaiensis	Gorochov, 1998
+5CF4L	TLY2	synonym	species	Xiphidiopsis bivittata	Bey-Bienko, 1957
+5GDHP	TLY2	accepted	subspecies	Chandozhinskia bivittata bivittata	(Bey-Bienko, 1957)
+5GDHQ	TLY2	accepted	subspecies	Chandozhinskia bivittata vietnamica	Gorochov, 2011
+5CF5Y	TLY3	synonym	species	Xiphidiopsis hastaticercus	Tinkham, 1936
+8Q4FV	TLY3	synonym	species	Thaumaspis (Thaumaspis) hastaticercus	(Tinkham, 1936)
+8Q4FW	TLY3	synonym	species	Thaumaspis hastaticercus	(Tinkham, 1936)
+9G6YH	9H3KQ	synonym	species	Sinocyrtaspis brachycercus	Chang, Bian & Shi, 2012
+8Q6FR	9H3KQ	synonym	subspecies	Sinocyrtaspis huangshanensis brachycercus	Chang, Bian & Shi, 2012
+8PJYM	9H3FP	synonym	species	Sinocyrtaspis angustisulcus	Chang, Bian & Shi, 2012
+8Q4FT	5W7BB	synonym	species	Thaumaspis (Thaumaspis) bifurcata	Liu, Zhou & Bi, 2010
+XRFV	73VV2	synonym	species	Cononicephora storozhenkoi	Gorochov, 1994
+8Q2P7	8PV82	accepted	species	Ovonotus abreuae	Naskrecki & Guta, 2019
+8Q2P8	8PV82	accepted	species	Ovonotus incisus	(Naskrecki, 1996)
+65F59	8NLLM	accepted	species	Africariola longicauda	Naskrecki, 1996
+8PW4C	8NWQM	accepted	subgenus	Paracilacris (Paracilacris)	Chopard, 1955
+B7Z87	8NWQM	accepted	subgenus	Paracilacris (Anaroegas)	Gorochov, 2017
+B7ZF4	8NWQM	accepted	subgenus	Paracilacris (Neacilacris)	Gorochov, 2017
+8PVJK	8NLG5	accepted	subgenus	Acilacris (Acilacris)	Bolívar, 1890
+8PVJL	8NLG5	accepted	subgenus	Acilacris (Aroegas)	Péringuey, 1916
+8PLF3	8QJ84	synonym	species	Xiphidiopsis bazyluki	Bey-Bienko, 1971
+8PLDX	8QJ84	synonym	species	Xiphidiopsis (Zaxiphidiopsis) bazyluki	Bey-Bienko, 1971
+3TXT4	6HMF9	synonym	species	Leptoteratura (Exoteratura) kerinci	Gorochov, 2002
+5CF7T	D9QY	synonym	species	Xiphidiopsis salamica	Karny, 1920
+8PYRY	3BMVV	synonym	species	Euanisous mirabils	
+5CF76	3BMVV	synonym	species	Xiphidiopsis mirabilis	Karny, 1923
+5CF5B	6GSW8	synonym	species	Xiphidiopsis distincta	Redtenbacher, 1891
+5CF88	3BMVZ	synonym	species	Xiphidiopsis teuthroides	Bolívar, 1905
+55WN7	55WMT	synonym	species	Tettigoniopsis monticola	Yamasaki, 1985
+7L5KR	55WMY	accepted	subspecies	Tettigoniopsis kongozanensis awajiensis	Kano, 1999
+5LGSV	55WMY	accepted	subspecies	Tettigoniopsis kongozanensis kongozanensis	Kano & Kawakita, 1984
+5LGSW	55WMY	accepted	subspecies	Tettigoniopsis kongozanensis seppikensis	Kano, 1999
+5LGST	55WMZ	synonym	subspecies	Tettigoniopsis awaensis kotsusana	Tominaga, 1999
+8QKV4	55WN6	synonym	species	Tettigoniopsis awaensis	Tominaga, 1999
+BZNN	55WMR	synonym	species	Allotettigoniopsis hikosana	Yamasaki, 1983
+C3WNL	55WMR	synonym	species	Tettigoniopsis hikosona	Yamasaki, 1983
+4NYRH	8PW7K	accepted	species	Pseudokuzicus (Similkuzicus) quadridentatus	Shi, Mao & Chang, 2007
+4NYRG	8PW7K	accepted	species	Pseudokuzicus (Similkuzicus) longidentatus	Chang, Zheng & Wang, 1998
+4NYRF	9XDR2	accepted	species	Pseudokuzicus (Pseudokuzicus) trianglus	Di, Bian, Shi & Chang, 2014
+4NYRB	9XDR2	accepted	species	Pseudokuzicus (Pseudokuzicus) pieli	(Tinkham, 1943)
+4NYR9	9XDR2	accepted	species	Pseudokuzicus (Pseudokuzicus) acinacus	Shi, Mao & Chang, 2007
+78FPK	9XDR2	accepted	species	Pseudokuzicus (Pseudokuzicus) furcicaudus	(Mu, He & Wang, 2000)
+4NYRD	9XDR2	accepted	species	Pseudokuzicus (Pseudokuzicus) spinus	Shi, Mao & Chang, 2007
+4NYRC	9XDR2	accepted	species	Pseudokuzicus (Pseudokuzicus) platynus	Di, Bian, Shi & Chang, 2014
+C4VV4	9XDR2	synonym	subgenus	Kuzicus (Pseudokuzicus)	Gorochov, 1993
+6WFPN	9XDR2	accepted	species	Pseudokuzicus (Pseudokuzicus) tamdao	Gorochov, 1998
+8P4JW	8QJQR	synonym	species	Acosmetura trigentis	Wang, Bian & Shi, 2016
+564WP	B7ZCV	accepted	species	Thaumaspis (Isothaumaspis) forcipatus	Bolívar, 1900
+8PWBZ	8PWC2	synonym	subgenus	Thaumaspis (Thaumaspia)	Bolívar, 1900
+7C6P4	8PWC2	accepted	species	Thaumaspis (Thaumaspis) montanus	Bey-Bienko, 1957
+564WR	8PWC2	accepted	species	Thaumaspis (Thaumaspis) castetsi	Gorochov, 1993
+564WT	8PWC2	accepted	species	Thaumaspis (Thaumaspis) longipes	Bolívar, 1900
+564WW	8PWC2	accepted	species	Thaumaspis (Thaumaspis) trigonurus	Bolívar, 1900
+564WV	8PWC2	accepted	species	Thaumaspis (Thaumaspis) siccifolii	(Karny, 1922)
+8P237	8PWC2	synonym	genus	Thaumaspis	Bolívar, 1900
+BZLH	8PVK7	accepted	species	Alloteratura (Meconemopsis) longa	Gorochov, 2008
+BZLB	8PVK7	accepted	species	Alloteratura (Meconemopsis) bispina	Gorochov, 1993
+BZLC	8PVK7	accepted	species	Alloteratura (Meconemopsis) borellii	(Karny, 1924)
+BZLM	8PVK7	accepted	species	Alloteratura (Meconemopsis) sarawaki	Gorochov, 2016
+BZLL	8PVK7	accepted	species	Alloteratura (Meconemopsis) sandakanae	Hebard, 1922
+8PWQX	8PVK7	accepted	species	Alloteratura (Meconemopsis) kalabakanica	Jin, 2020
+8PWQZ	8PVK7	accepted	species	Alloteratura (Meconemopsis) pentadactyla	Xin & Shi, 2019
+BZLJ	8PVK7	accepted	species	Alloteratura (Meconemopsis) media	Gorochov, 2008
+BZLK	8PVK7	accepted	species	Alloteratura (Meconemopsis) nigrigutta	(Karny, 1924)
+8PWQY	8PVK7	accepted	species	Alloteratura (Meconemopsis) kevani	Jin, 2020
+BZLF	8PVK7	accepted	species	Alloteratura (Meconemopsis) dawwruengi	Tan & Artchawakom, 2017
+5TWSR	8PVK7	accepted	species	Alloteratura (Meconemopsis) curta	Gorochov, 2008
+8PWR2	8PVK7	accepted	species	Alloteratura (Meconemopsis) tuberculata	Jin, 2020
+BZLG	8PVK7	accepted	species	Alloteratura (Meconemopsis) eubispina	Gorochov, 2016
+BZLD	8PVK7	accepted	species	Alloteratura (Meconemopsis) breviuscula	Gorochov, 2016
+8P3YK	8PVK7	synonym	genus	Meconemopsis	Karny, 1922
+BZL4	BZMY	synonym	species	Alloteratura (Alloteratura) thanjavuensis	Kevan & Jin, 1993
+BZKG	8PVK4	accepted	species	Alloteratura (Alloteratura) hebardi	Gorochov, 1998
+668T2	8PVK4	accepted	species	Alloteratura (Alloteratura) bakeri	Hebard, 1922
+BZKQ	8PVK4	accepted	species	Alloteratura (Alloteratura) multispina	Jin, 1995
+BZKS	8PVK4	accepted	species	Alloteratura (Alloteratura) parvispina	Gorochov, 2016
+BZKB	8PVK4	accepted	species	Alloteratura (Alloteratura) belalongensis	Tan, Gorochov & Wahab, 2017
+6694Q	8PVK4	accepted	species	Alloteratura (Alloteratura) cylindracauda	Jin, 1995
+BZKZ	8PVK4	accepted	species	Alloteratura (Alloteratura) stebaevi	Gorochov, 1993
+66952	8PVK4	accepted	species	Alloteratura (Alloteratura) plauta	Jin, 1995
+8PWQW	8PVK4	accepted	species	Alloteratura (Alloteratura) sagittala	Xin & Shi, 2019
+BZKP	8PVK4	accepted	species	Alloteratura (Alloteratura) megaspina	Gorochov, 2016
+BZK9	8PVK4	accepted	species	Alloteratura (Alloteratura) bachma	Gorochov, 2005
+BZKN	8PVK4	accepted	species	Alloteratura (Alloteratura) longicercata	(Bolívar, 1905)
+BZL6	8PVK4	accepted	species	Alloteratura (Alloteratura) triloba	(Karny, 1926)
+BZKK	8PVK4	accepted	species	Alloteratura (Alloteratura) klankamsorni	Sänger & Helfert, 2004
+BZKJ	8PVK4	accepted	species	Alloteratura (Alloteratura) keyica	(Karny, 1924)
+BZL7	8PVK4	accepted	species	Alloteratura (Alloteratura) vietnami	Gorochov, 2016
+BZL5	8PVK4	accepted	species	Alloteratura (Alloteratura) tibetensis	Jin, 1995
+8NLRL	8PVK4	synonym	genus	Alloteratura	Hebard, 1922
+BZKR	8PVK4	accepted	species	Alloteratura (Alloteratura) muntiacus	Gorochov, 1998
+8PWQS	8PVK4	accepted	species	Alloteratura (Alloteratura) flabellata	Xin & Shi, 2019
+BZKH	8PVK4	accepted	species	Alloteratura (Alloteratura) karnyi	Kästner, 1932
+BZKX	8PVK4	accepted	species	Alloteratura (Alloteratura) siamensis	Jin, 1995
+BZL9	8PVK4	accepted	species	Alloteratura (Alloteratura) xiphidiopsis	(Karny, 1920)
+8PWQT	8PVK4	accepted	species	Alloteratura (Alloteratura) lamella	Jin, 1995
+BZKW	8PVK4	accepted	species	Alloteratura (Alloteratura) quaternispina	Shi, Di & Chang, 2014
+BZL2	8PVK4	accepted	species	Alloteratura (Alloteratura) subanalis	(Karny, 1926)
+BZKD	8PVK4	accepted	species	Alloteratura (Alloteratura) cervus	Gorochov, 1998
+BZKL	8PVK4	accepted	species	Alloteratura (Alloteratura) kuehnelti	Sänger & Helfert, 1996
+8PWQV	8PVK4	accepted	species	Alloteratura (Alloteratura) longicauda	(Karny, 1924)
+BZL8	8PVK4	accepted	species	Alloteratura (Alloteratura) werneri	(Karny, 1924)
+BZKT	8PVK4	accepted	species	Alloteratura (Alloteratura) penangica	Hebard, 1922
+BZKV	8PVK4	accepted	species	Alloteratura (Alloteratura) podgornajae	Gorochov, 1993
+BZKC	8PVK4	accepted	species	Alloteratura (Alloteratura) carinata	Gorochov, 2008
+BZKY	8PVK4	accepted	species	Alloteratura (Alloteratura) simplex	(Karny, 1920)
+BZL3	8PVK4	accepted	species	Alloteratura (Alloteratura) tahanensis	(Karny, 1926)
+BZKF	8PVK4	accepted	species	Alloteratura (Alloteratura) gigliotosi	(Karny, 1924)
+5CF56	BZLZ	synonym	species	Xiphidiopsis delicatula	(Chopard, 1924)
+D9QC	BZLZ	synonym	species	Amytta delicatula	Chopard, 1924
+D9QB	BZLX	synonym	species	Amytta cyclolabia	(Karny, 1923)
+5CF54	BZLX	synonym	species	Xiphidiopsis cyclolabia	Karny, 1923
+66GL4	BZMJ	synonym	species	Amytta nigrivertex	Karny, 1924
+8PFTY	8Q3X3	synonym	species	Nipponomeconema sinica	Liu & Wang, 1998
+46WLG	9H38V	synonym	species	Neoxizicus longipennis	Liu & Zhang, 2000
+9HS2	6WF4V	synonym	species	Acosmetura multicolora	Shi & Du, 2006
+8Q4FS	9H39X	synonym	species	Thaumaspia henanensis	Liu & Wang, 1998
+564WS	9H39X	synonym	species	Thaumaspis (Thaumaspis) henanensis	Liu & Wang, 1998
+564WZ	9H39X	synonym	species	Thaumaspis henanensis	Liu & Wang, 1998
+55WMK	4NV2B	synonym	species	Tettigoniopsis anjiensis	Shi & Zheng, 1998
+5CF74	3PN8P	synonym	species	Xiphidiopsis militaris	Bolívar, 1900
+KMJQ	33L5Z	synonym	species	Barbitistes scutatus	Charpentier, 1825
+33L5Y	33L5Z	synonym	species	Cyrtaspis lineolata	Costa, 1860
+33L63	33L5Z	synonym	species	Cyrtaspis variopicta	Costa, 1860
+4XKY5	9H3KJ	synonym	species	Sinocyrtaspiodea longicercus	Shi & Bian, 2013
+9WGS	9HRW	synonym	species	Acyrtaspis jinyunensis	Shi & Zheng, 1994
+4GJDW	9HRW	synonym	species	Phlugiolopsis jinyunensis	(Shi & Zheng, 1994)
+4XKY4	9HRS	synonym	species	Sinocyrtaspiodea carinata	(Liu, Zhou & Bi, 2008)
+YTMT	9HS3	synonym	species	Cosmetura nigrogeniculata	Liu & Wang, 1998
+D9QW	6KQ5T	synonym	species	Amytta occidentalis	Karsch, 1890
+DXZG	9H2X7	synonym	species	Anepitacta scrofina	Beier, 1965
+D9QZ	6KPTT	synonym	species	Amytta planicollis	Chopard, 1954
+5CF63	6KPTT	synonym	species	Xiphidiopsis hintheliana	Griffini, 1908
+8PY35	8PVQJ	accepted	species	Cononicephora (Cononicephora) acutilobata	Wang, 2020
+XRFT	8PVQJ	accepted	species	Cononicephora (Cononicephora) berezhkovi	Gorochov, 1993
+5ZTXK	8PVQJ	accepted	species	Cononicephora (Cononicephora) tarbinskyi	Gorochov, 1993
+XRFS	B7Z7T	accepted	species	Cononicephora (Acononicephora) rentzi	Gorochov, 1994
+3RGN5	8PVXC	accepted	species	Kuzicus (Kuzicus) compressus	Han & Shi, 2014
+6NQNS	8PVXC	accepted	species	Kuzicus (Kuzicus) pakthongchai	Tan, Dawwrueng & Artchawakom, 2015
+3RGND	8PVXC	accepted	species	Kuzicus (Kuzicus) multifidous	Mao & Shi, 2009
+8PVXM	8PVXC	synonym	subgenus	Kuzikus (Kuzikus)	Gorochov, 1993
+3RGN4	8PVXC	accepted	species	Kuzicus (Kuzicus) cervicercus	(Tinkham, 1943)
+6NQNT	8PVXC	accepted	species	Kuzicus (Kuzicus) megaterminatus	Ingrisch & Shishodia, 1998
+3RGN2	8PVXC	accepted	species	Kuzicus (Kuzicus) aspercaudatus	Sänger & Helfert, 2006
+3RGN9	8PVXC	accepted	species	Kuzicus (Kuzicus) leptocercus	Zhu & Shi, 2017
+9GZQK	8PVXC	accepted	species	Kuzicus (Kuzicus) multispinus	Li, Chen & Chang, 2021
+3RGNG	8PVXC	accepted	species	Kuzicus (Kuzicus) suzukii	(Matsumura & Shiraki, 1908)
+3RGNC	8PVXC	accepted	species	Kuzicus (Kuzicus) multidenticulatus	Tan, Dawwrueng & Artchawakom, 2015
+9GW6Y	8PVXC	accepted	species	Kuzicus (Kuzicus) mirus	Gorochov, 2016
+3RGNF	8PVXC	accepted	species	Kuzicus (Kuzicus) scorpioides	Sänger & Helfert, 2006
+3RGN3	8PVXC	accepted	species	Kuzicus (Kuzicus) bicornis	Ingrisch, 2006
+3RGN8	8PVXC	accepted	species	Kuzicus (Kuzicus) koeppeli	Sänger & Helfert, 2004
+3RGN7	8PVXC	accepted	species	Kuzicus (Kuzicus) denticuloides	(Kevan & Jin, 1993)
+3RGN6	8PVXC	accepted	species	Kuzicus (Kuzicus) denticulatus	(Karny, 1926)
+8PZNQ	8PVXC	accepted	species	Kuzicus (Kuzicus) bicurvus	Cui & Shi, 2019
+9GZQH	B7ZF9	accepted	species	Kuzicus (Neokuzicus) inflatus	(Shi & Zheng, 1995)
+8PZNS	B7ZF9	accepted	species	Kuzicus (Neokuzicus) sarawakicus	Liu, 2020
+3RGNH	B7ZF9	accepted	species	Kuzicus (Neokuzicus) uvarovi	Gorochov, 1993
+8PLFY	8PXLD	synonym	species	Xiphidiopsis nebulosa	Karny, 1924
+8PLDV	8PXLD	synonym	species	Xiphidiopsis (Xiphidiopsis) nebulosa	Karny, 1924
+8PLDY	8PXL9	synonym	species	Xiphidiopsis abbreviata	Karny, 1924
+8PCLT	8PXLB	synonym	species	Kuzicus mirabilis	Tan & Wahab, 2018
+8PLG5	8PXLF	synonym	species	Xiphidiopsis spinicauda	Sänger & Helfert, 1998
+8PLK6	8PXLF	synonym	species	Xizicus (Xizicus) spinicauda	(Sänger & Helfert, 1998)
+8PLDP	8PZ3M	synonym	species	Xiphidiopsis (Xiphidiopsis) cheni	Bey-Bienko, 1955
+8QKPK	8PZ3M	synonym	species	Xiphidiopsis zhejiangensis	Zheng & Shi, 1995
+8PYLL	8PZ3M	synonym	species	Eoxizicus (Eoxizicus) cheni	(Bey-Bienko, 1955)
+8PLF6	8PZ3M	synonym	species	Xiphidiopsis cheni	Bey-Bienko, 1955
+79QCV	3HDWH	synonym	species	Satunia tassirii	Sänger & Helfert, 1996
+8PLFP	8PZ3P	synonym	species	Xiphidiopsis kweichowensis	Tinkham, 1944
+8PLJJ	8PZ3P	synonym	species	Xizicus (Eoxizicus) kweichowensis	(Tinkham, 1944)
+8P9KB	8PZ3P	synonym	species	Eoxizicus (Axizicus) kweichowensis	(Tinkham, 1944)
+8PLK5	8PXBM	synonym	species	Xizicus (Furcixizicus) cryptosticta	(Hebard, 1922)
+8Q4WH	8PXBM	synonym	species	Xiphidiopsis (Xiphidiopsis) cryptosticta	Hebard, 1922
+8PLFB	8PXBM	synonym	species	Xiphidiopsis cryptosticta	Hebard, 1922
+8P4JS	8QHMX	synonym	species	Acosmetura emarginata	Liu, 2000
+BSTB2	BTQM	synonym	species	Allicyrtaspis conicicersus	Shi, Bian & Chang, 2013
+RZJP	RZJS	synonym	species	Cecidophaga leeuwenii	Karny, 1921
+4PD3N	B7ZK3	accepted	species	Pseudoteratura (Subtilotura) subtilissima	Gorochov, 2008
+4PD3K	8PW7Q	accepted	species	Pseudoteratura (Pseudoteratura) raggei	(Bey-Bienko, 1971)
+8Q3KV	8PW7Q	accepted	species	Pseudoteratura (Pseudoteratura) lambir	Gorochov, 2014
+4PD3J	8PW7Q	accepted	species	Pseudoteratura (Pseudoteratura) picta	(Karny, 1924)
+8Q3KW	8PW7Q	accepted	species	Pseudoteratura (Pseudoteratura) mittena	Liu, 2020
+8Q3KS	8PW7Q	accepted	species	Pseudoteratura (Pseudoteratura) elaphocerca	(Karny, 1926)
+8NY9P	8PW7Q	synonym	genus	Pseudoteratura	Gorochov, 1998
+8Q3KX	8PW7Q	accepted	species	Pseudoteratura (Pseudoteratura) tridenta	Liu, 2020
+4PD3L	8PW7Q	accepted	species	Pseudoteratura (Pseudoteratura) spinea	Gorochov, 2014
+8Q3KR	8PW7Q	accepted	species	Pseudoteratura (Pseudoteratura) aglaia	(Hebard, 1922)
+8Q3KT	8PW7Q	accepted	species	Pseudoteratura (Pseudoteratura) gemmicula	(Hebard, 1922)
+4PD3G	8PW7Q	accepted	species	Pseudoteratura (Pseudoteratura) mima	Gorochov, 2014
+6WHVW	8PW7Q	accepted	species	Pseudoteratura (Pseudoteratura) bella	Gorochov, 2008
+4PD3M	8PW7Q	accepted	species	Pseudoteratura (Pseudoteratura) sundaica	(Kästner, 1932)
+4PD3F	8PW7Q	accepted	species	Pseudoteratura (Pseudoteratura) kenuan	Tan, Gorochov & Wahab, 2017
+4PD3H	8PW7Q	accepted	species	Pseudoteratura (Pseudoteratura) parallela	Ingrisch, 2006
+8P94W	8QKKJ	synonym	species	Doicholobosa rotundata	Bian, Zhu & Shi, 2017
+8P94T	8QK8H	synonym	species	Doicholobosa complanatis	Bian, Zhu & Shi, 2017
+8PYFW	8QJG9	synonym	species	Doicholobosa acuta	Wang & Shi, 2019
+8P4JT	8QJ4B	synonym	species	Acosmetura nigrovittata	(Liu & Bi, 1994)
+8P94V	8QJ4B	synonym	species	Doicholobosa nigrovittata	(Liu & Bi, 1994)
+8P8KH	8QJ4B	synonym	species	Cosmetura nigrovittata	Liu & Bi, 1994
+47CHV	B7ZBT	accepted	species	Nicephora (Eunicephora) dianxiensis	Wang & Liu, 2013
+47CHW	B7ZBT	accepted	species	Nicephora (Eunicephora) ulla	Gorochov, 1998
+47CHY	8PW2W	accepted	species	Nicephora (Nicephora) hakgallae	Henry, 1932
+BTRV3	8PW2W	accepted	species	Nicephora (Nicephora) curvata	Su, Wang & Chang, 2023
+47CHZ	8PW2W	accepted	species	Nicephora (Nicephora) mazerani	Bolívar, 1900
+47CJ2	8PW2W	accepted	species	Nicephora (Nicephora) subulata	Bolívar, 1900
+47CHX	8PW2W	accepted	species	Nicephora (Nicephora) forficulata	Carl, 1921
+47CJ3	8PW2W	accepted	species	Nicephora (Nicephora) trigonidioides	Bolívar, 1900
+8NVYP	8PW2W	synonym	genus	Nicephora	Bolívar, 1900
+749RJ	B7ZB5	accepted	species	Nicephora (Dianicephora) mirabilis	Bolívar, 1900
+BSKYH	8NM58	synonym	subgenus	Anepitacta (Anepitacta)	Brunner von Wattenwyl, 1891
+8PVL3	8NM58	accepted	subgenus	Anepitacta (Anepitacta)	Brunner von Wattenwyl, 1891
+B7ZKG	8NM58	accepted	subgenus	Anepitacta (Teratacta)	Gorochov, 1993
+5GMQZ	YTMS	accepted	subspecies	Cosmetura mikuraensis hachijyoensis	Kano, 1999
+5GMR3	YTMS	accepted	subspecies	Cosmetura mikuraensis toshimaensis	Takahashi, 1999
+5GMR2	YTMS	accepted	subspecies	Cosmetura mikuraensis mikuraensis	Kano & Tominaga, 1988
+8PY68	33NKQ	synonym	species	Cyrtopsis (Cyrtopsis) scutigera	Bey-Bienko, 1962
+YTMN	33NKL	synonym	species	Cosmetura bivittata	Mu, He & Wang, 2000
+33NKK	33NKP	synonym	species	Cyrtopsis (Cyrtopsis) robusta	Liu & Zhang, 2007
+3QZTT	8NT43	accepted	species	Kamerula kameruni	Gorochov, 2017
+6NK4C	8NT43	accepted	species	Kamerula korupi	Gorochov, 2017
+9H2TD	9GVZF	accepted	species	Rhinoteratura raoani	(Gorochov, 2008)
+9H2VZ	9GVZF	accepted	species	Rhinoteratura kailingensis	(Jin, 2020)
+9H2V5	9GVZF	accepted	species	Rhinoteratura symmetrica	(Yamasaki, 1988)
+9H2YB	9GVZF	accepted	species	Rhinoteratura chela	(Tan, Gorochov & Wahab, 2017)
+9H2T3	9GVZF	accepted	species	Rhinoteratura ketambe	Gorochov, 2022
+9H2Y6	9GVZF	accepted	species	Rhinoteratura sharovi	(Gorochov, 1993)
+9H2VR	9GVZF	accepted	species	Rhinoteratura sakaii	(Jin, 2020)
+9H2YL	9GVZF	accepted	species	Rhinoteratura pseudocapreola	Gorochov, 2022
+9H2TN	9GVZF	accepted	species	Rhinoteratura capreola	(Redtenbacher, 1891)
+9H2WJ	9GVZF	accepted	species	Rhinoteratura pulchra	(Gorochov, 2008)
+9H2WT	9GVZF	accepted	species	Rhinoteratura chaseni	(Karny, 1926)
+9H2WF	9GVZF	accepted	species	Rhinoteratura lamellata	(Mao & Shi, 2007)
+8PVXX	9GVZF	synonym	subgenus	Leptoteratura (Rhinoteratura)	Gorochov, 1993
+9H2WZ	9GVZF	accepted	species	Rhinoteratura uniformis	(Gorochov, 2008)
+5CF6X	8P2XH	accepted	species	Xiphidiopsis madras	Gorochov, 2005
+B7Z8Q	8P2XH	accepted	subgenus	Xiphidiopsis (Bhuxiphidiopsis)	Ingrisch, 2002
+9H2VL	8P2XH	accepted	species	Xiphidiopsis lampungi	Gorochov, 2022
+9H2X9	8P2XH	accepted	species	Xiphidiopsis laosi	Gorochov, 2022
+7G9FK	8P2XH	accepted	species	Xiphidiopsis gracilis	Sänger & Helfert, 2004
+8PWFB	8P2XH	accepted	subgenus	Xiphidiopsis (Paraxiphidiopsis)	Gorochov, 1993
+5CF83	8P2XH	accepted	species	Xiphidiopsis subpunctata	(Motschulsky, 1866)
+5CF6G	8P2XH	accepted	species	Xiphidiopsis jugata	Gorochov, 2016
+8PWF9	8P2XH	accepted	subgenus	Xiphidiopsis (Euxiphidiopsis)	Gorochov, 1993
+B7ZB8	8P2XH	accepted	subgenus	Xiphidiopsis (Dinoxiphidiopsis)	Gorochov, 1993
+5CF64	8P2XH	accepted	species	Xiphidiopsis hoabinh	Gorochov, 2005
+8PWFC	8P2XH	accepted	subgenus	Xiphidiopsis (Xiphidiopsis)	Redtenbacher, 1891
+8P46Z	9H2W6	synonym	genus	Paraxizicus	Gorochov & Kang, 2005
+9H2WM	9H2W6	accepted	species	Caprixizicus capricercus	(Tinkham, 1943)
+9H2YG	9H2W6	accepted	species	Caprixizicus brevicercus	(Gorochov & Kang, 2005)
+C253	8NLRY	accepted	species	Alloxiphidiopsis cyclolamina	Liu & Zhang, 2007
+C254	8NLRY	accepted	species	Alloxiphidiopsis emarginata	(Tinkham, 1944)
+C255	8NLRY	accepted	species	Alloxiphidiopsis fingera	Shi & Li, 2010
+C259	8NLRY	accepted	species	Alloxiphidiopsis quadratis	Shi & Li, 2010
+9H2XG	9H2XK	accepted	species	Subtilodecma bilobata	Gorochov, 2022
+9H2VC	9H2XK	accepted	species	Subtilodecma unilobata	Gorochov, 2022
+48SCW	8NW7C	accepted	species	Odonturisca epiproctalis	Gorochov, 2008
+48SCX	8NW7C	accepted	species	Odonturisca grigoriji	Gorochov, 2008
+48SCY	8NW7C	accepted	species	Odonturisca serricauda	(Karny, 1924)
+8Q2J2	8NW7C	accepted	species	Odonturisca karnyi	Liu, 2020
+9H2YD	8NW7C	accepted	species	Odonturisca dentata	Gorochov, 2022
+B7Z8G	8NXWG	accepted	subgenus	Proamytta (Archamytta)	Gorochov, 1993
+8PW79	8NXWG	accepted	subgenus	Proamytta (Proamytta)	Beier, 1965
+BSMCM	8NTHL	synonym	subgenus	Leptoteratura (Leptoteratura)	Yamasaki, 1982
+6PJRF	8NTHL	accepted	species	Leptoteratura taiwana	Yamasaki, 1987
+6PK3G	8NTHL	accepted	species	Leptoteratura yaeyamana	Yamasaki, 1987
+3TXTS	8NTHL	accepted	species	Leptoteratura digitata	Yamasaki, 1987
+9GS9Q	8NTHL	accepted	species	Leptoteratura sugonjaevi	Gorochov, 1994
+8PZRD	8NTHL	accepted	species	Leptoteratura albicorne	(Motschulsky, 1866)
+3TXTV	8NTHL	accepted	species	Leptoteratura jona	Yamasaki, 1987
+3TXTX	8NTHL	accepted	species	Leptoteratura martynovi	Gorochov, 1998
+3TXTW	8NTHL	accepted	species	Leptoteratura koncharangi	Gorochov, 1998
+3TXTR	8NTHL	accepted	species	Leptoteratura cemande	Gorochov, 2008
+6PK3F	8NTHL	accepted	species	Leptoteratura triura	Liu, 1997
+6PK3H	8NTHL	accepted	species	Leptoteratura gialai	Gorochov, 2008
+9GS9P	8NTHL	accepted	species	Leptoteratura kevani	Gorochov, 1998
+9GW72	8NTHL	accepted	species	Leptoteratura emarginata	Liu, 2004
+8PWFS	8P2XZ	accepted	subgenus	Xizicus (Xizicus)	Gorochov, 1993
+8PVSZ	8P2XZ	accepted	subgenus	Xizicus (Axizicus)	Gorochov, 1998
+B7ZGK	8P2XZ	accepted	subgenus	Xizicus (Paraxizicus)	Liu, 2004
+7G97P	8P2XZ	accepted	species	Xizicus kaltenbachi	Sänger & Helfert, 2006
+B7ZCD	8P2XZ	accepted	subgenus	Xizicus (Haploxizicus)	Wang, Jing, Liu & Li, 2014
+BSLR6	8P2XZ	accepted	subgenus	Xizicus (Eoxizicus)	Gorochov, 1993
+B7ZBZ	8P2XZ	accepted	subgenus	Xizicus (Furcixizicus)	Gorochov, 2002
+B7ZL6	8P2XZ	accepted	subgenus	Xizicus (Zangxizicus)	Wang, Jing, Liu & Li, 2014
+3YLJ2	8NRQT	accepted	species	Meconema meridionale	Costa, 1860
+C7PMH	8NRQT	accepted	species	Meconema thalassinum	(DeGeer, 1773)
+BSHSF	8NRQT	synonym	subgenus	Locusta (Meconema)	Serville, 1831
+D9S2	8NM22	accepted	species	Amyttosa mutillata	(Karsch, 1890)
+D9S3	8NM22	accepted	species	Amyttosa nimbana	(Chopard, 1954)
+D9RZ	8NM22	accepted	species	Amyttosa insectivora	Naskrecki, 2008
+D9RY	8NM22	accepted	species	Amyttosa brevipennis	Beier, 1967
+B7ZCG	8P2XF	accepted	subgenus	Xiphidiola (Hemidiola)	Gorochov, 2017
+8PWF5	8P2XF	accepted	subgenus	Xiphidiola (Xiphidiola)	Bolívar, 1906
+B7Z9Z	8P2XF	accepted	subgenus	Xiphidiola (Deinodiola)	Gorochov, 2017
+BSQJM	8P2XF	synonym	subgenus	Xiphidiola (Xiphidiola)	Bolívar, 1906
+5X2YM	8NNKW	accepted	species	Breviratura brevis	Gorochov, 2008
+68PVZ	8NNGP	accepted	species	Brachyamytta maculipes	Naskrecki, 2008
+68Q7Z	8NNGP	accepted	species	Brachyamytta mcculloughae	Naskrecki, 2008
+6927Z	8NNGP	accepted	species	Brachyamytta rapidoaestima	Naskrecki, 2008
+8PXBV	8NNGP	accepted	species	Brachyamytta bombomensis	Heller, 2019
+MKKS	8NNG3	accepted	species	Borneratura modesta	Gorochov, 2008
+9H2V2	8NNG3	accepted	species	Borneratura sarawaca	(Bey-Bienko, 1971)
+MKKR	8NNG3	accepted	species	Borneratura lobata	Gorochov, 2008
+MKKT	8NNG3	accepted	species	Borneratura sinuata	Gorochov, 2008
+9H2WS	8NNG3	accepted	species	Borneratura atromacula	Gorochov, 2022
+9H2TM	8NNG3	accepted	species	Borneratura borneensis	(Karny, 1925)
+8PXBP	8NNG3	accepted	species	Borneratura mjobergi	(Karny, 1925)
+8PXBN	8NNG3	accepted	species	Borneratura kinabaluana	(Bey-Bienko, 1971)
+7629Z	8NWTX	accepted	species	Parakamerula irisovi	Gorochov, 2017
+45QFR	8NVR7	accepted	species	Naskreckia farrelli	(Naskrecki, Bazelet & Spearman, 2008)
+45QFS	8NVR7	accepted	species	Naskreckia marakelensis	(Naskrecki, Bazelet & Spearman, 2008)
+8PZWX	B7ZJT	accepted	species	Macroteratura (Stenoteratura) yunnanea	(Bey-Bienko, 1957)
+8PZWT	B7ZJT	accepted	species	Macroteratura (Stenoteratura) kryzhanovskii	(Bey-Bienko, 1957)
+8PZWW	B7ZJT	accepted	species	Macroteratura (Stenoteratura) twinsloba	Liu, 2020
+B7ZJS	B7ZJT	synonym	subgenus	Teratura (Stenoteratura)	Gorochov, 1993
+8PZWR	B7ZJT	accepted	species	Macroteratura (Stenoteratura) bhutanica	(Ingrisch, 2002)
+8PZWS	B7ZJT	accepted	species	Macroteratura (Stenoteratura) janetscheki	(Bey-Bienko, 1968)
+8PZWQ	8PVYL	accepted	species	Macroteratura (Macroteratura) thrinaca	(Qiu & Shi, 2010)
+8PZWN	8PVYL	accepted	species	Macroteratura (Macroteratura) megafurcula	(Tinkham, 1944)
+B82C3	8PVYL	synonym	subgenus	Kuzicus (Macroteraturus)	Gorochov, 1993
+8PZWP	8PVYL	accepted	species	Macroteratura (Macroteratura) sinica	(Bey-Bienko, 1957)
+C7NC5	8PVYL	synonym	subgenus	Teratura (Macroteratura)	Gorochov, 1993
+8QK2Z	8PVYL	accepted	species	Macroteratura (Macroteratura) inospina	Chen, Cui & Chang, 2020
+BZLN	464N2	synonym	species	Alloteratura (Nefateratura) terminata	Ingrisch & Shishodia, 2000
+8PLDM	8Q2CD	synonym	species	Xiphidiopsis (Xiphidiopsis) bifurcata	Liu & Bi, 1994
+8PWR3	464MZ	synonym	species	Alloteratura (Nefateratura) mesembrina	Kevan & Jin, 1993
+BZMD	464MZ	synonym	species	Alloteratura mesembrina	Kevan & Jin, 1993
+C4VM7	BWD4W	synonym	subgenus	Cyrtopsis (Neocyrtopsis)	Liu & Zhang, 2007
+9GZW2	BWD4W	accepted	species	Neocyrtopsis (Neocyrtopsis) tristrigata	Bian, Lu & Zhang, 2022
+46FNR	BWD4W	accepted	species	Neocyrtopsis (Neocyrtopsis) fallax	Wang & Liu, 2012
+8Q2DL	BWD4W	accepted	species	Neocyrtopsis (Neocyrtopsis) shimianensis	Wang & Shi, 2019
+46FNT	BWD4W	accepted	species	Neocyrtopsis (Neocyrtopsis) variabilis	(Xia & Liu, 1993)
+46FNS	BWD4W	accepted	species	Neocyrtopsis (Neocyrtopsis) unicolor	Wang, Liu & Li, 2015
+8PV78	BWD4W	synonym	genus	Neocrytopsis	Liu & Zhang, 2007
+46FNV	B7ZGB	accepted	species	Neocyrtopsis (Paraneocyrtopsis) bilobata	(Liu, Zhou & Bi, 2008)
+46FNX	B7ZGB	accepted	species	Neocyrtopsis (Paraneocyrtopsis) yachowensis	(Tinkham, 1944)
+8PW2G	B7ZGB	synonym	subgenus	Neocyrtopsis (Paraneocrytopsis)	Wang, Liu & Li, 2013
+5TX53	3PNQJ	synonym	species	Alloteratura (Indoteratura) erecta	Ingrisch & Shishodia, 2000
+5CF7P	73XWM	synonym	species	Xiphidiopsis quadrinotata	Bey-Bienko, 1971
+3YLJ8	73XWM	synonym	species	Meconemopsis quadrinotata	(Bey-Bienko, 1971)
+3YLJ7	6S9WM	synonym	species	Meconemopsis paraquadrinotata	Wang, Liu & Li, 2015
+7FX7Y	749WM	synonym	species	Xizicus (Axizicus) xizangensis	Jiao & Shi, 2013
+55WN2	3R82R	synonym	species	Tettigoniopsis koyasanensis	Kano, 1987
+3RGNJ	7628M	synonym	species	Kuzicus (Parakuzicus) cervicus	Ingrisch & Shishodia, 2000
+3RGNK	4CXNB	synonym	species	Kuzicus (Parakuzicus) excavatus	Ingrisch & Shishodia, 2000
+3RGNL	4CXNC	synonym	species	Kuzicus (Parakuzicus) forficatus	(Bolívar, 1900)
+5CF5P	4CXNC	synonym	species	Xiphidiopsis forficata	Bolívar, 1900
+6SVM7	6T7YM	synonym	species	Orphilopsis subaptera	Chopard, 1945
+8PKHN	8PZZB	synonym	species	Teratura (Megaconema) geniculata	(Bey-Bienko, 1962)
+8PLFZ	8PZZB	synonym	species	Xiphidiopsis phyllocerca	Tinkham, 1944
+8PLD3	8PZZB	synonym	species	Xiphidiola (Megaconema) geniculata	(Bey-Bienko, 1962)
+8PLFF	8PZZB	synonym	species	Xiphidiopsis geniculata	Bey-Bienko, 1962
+BTKQM	4XKY9	synonym	subspecies	Sinocyrtaspis huangshanensis huangshanensis	Liu, 2000
+8Q3XB	4XKYC	synonym	species	Sinocyrtaspis truncate	
+55WMV	4X4NF	synonym	species	Tettigoniopsis ishizuchiensis	Kano & Kawakita, 1987
+8P4JV	8QKJS	synonym	species	Acosmetura platycata	(Shi & Zheng, 1994)
+8PHDW	8QKJS	synonym	species	Phlugiolopsis platycata	Shi & Zheng, 1994
+8PFP6	8QKJS	synonym	species	Neocyrtopsis (Paraneocyrtopsis) platycata	(Shi & Zheng, 1994)
+8PLF8	8Q266	synonym	species	Xiphidiopsis clavata	Uvarov, 1933
+8Q4VK	8Q266	synonym	species	Xiphidiola (Microconema) clavata	(Uvarov, 1933)
+6CFQP	8PVQS	accepted	species	Decma (Decma) sulawesi	Gorochov, 2012
+34DTZ	8PVQS	accepted	species	Decma (Decma) minahassa	Gorochov, 2012
+6CG2P	8PVQS	accepted	species	Decma (Decma) thai	Gorochov, 1998
+34DTY	8PVQS	accepted	species	Decma (Decma) lindu	Gorochov, 2012
+6CFP7	8PVQS	accepted	species	Decma (Decma) orlovi	Gorochov, 2004
+8PY6X	8PVQS	accepted	species	Decma (Decma) sjostedti	(Karny, 1927)
+34DTX	8PVQS	accepted	species	Decma (Decma) inversa	(Karny, 1907)
+6CFPF	8PVQS	accepted	species	Decma (Decma) miramae	Gorochov, 1993
+6CFP9	8PVQS	accepted	species	Decma (Decma) stshelkanovtzevi	Gorochov, 1993
+6CFPD	8PVQS	accepted	species	Decma (Decma) bolivari	(Karny, 1924)
+34DTW	8PVQS	accepted	species	Decma (Decma) fissa	(Xia & Liu, 1993)
+34DTV	8PVQS	accepted	species	Decma (Decma) brachyptera	Chang, Du & Shi, 2013
+6CFQQ	8PVQS	accepted	species	Decma (Decma) tristis	Gorochov & Kang, 2005
+6CFP8	8PVQS	accepted	species	Decma (Decma) predtetshenskyi	Gorochov, 1993
+6CG2Q	B7ZCM	accepted	species	Decma (Idiodecma) improvisum	Gorochov & Kostia, 1993
+6CFR2	B7ZCM	accepted	species	Decma (Idiodecma) birmanica	(Bey-Bienko, 1971)
+6CG32	B7ZCM	accepted	species	Decma (Idiodecma) nigrovertex	Liu, 2004
+6CFR3	B7ZG6	accepted	species	Decma (Paradecma) bispinosa	Liu & Zhou, 2007
+6CFQR	B7ZF7	accepted	species	Decma (Neodecma) elefani	Gorochov, 2004
+8PKJ4	8PKJ9	synonym	species	Teratura (Teratura) maculata	Ingrisch, 1990
+8PKJ2	8Q4CC	synonym	species	Teratura (Teratura) hastata	Shi, Mao & Ou, 2007
+8PKJ5	8PKJB	synonym	species	Teratura (Teratura) monstrosa	Redtenbacher, 1891
+8PKHV	8Q4C7	synonym	species	Teratura (Teratura) albidisca	Sänger & Helfert, 1998
+8PKJ3	8Q4CD	synonym	species	Teratura (Teratura) lyra	Gorochov, 2001
+8PKJ7	8Q4CG	synonym	species	Teratura (Teratura) pulchella	Gorochov & Kang, 2005
+8PLF7	8PKJ8	synonym	species	Xiphidiopsis cincta	Bey-Bienko, 1962
+8PKHX	8PKJ8	synonym	species	Teratura (Teratura) cincta	(Bey-Bienko, 1962)
+8PKHW	8Q4C8	synonym	species	Teratura (Teratura) angusi	Gorochov, 1998
+8PKHY	8Q4C9	synonym	species	Teratura (Teratura) darevskyi	Gorochov, 1993
+8Q4CB	8Q4C9	synonym	species	Teratura flexispatha	Qiu & Shi, 2010
+8PKJ6	8Q4CF	synonym	species	Teratura (Teratura) paracincta	Gorochov & Kang, 2005
+4GJCW	8PW62	accepted	species	Phlugiolopsis (Phlugiolopsis) henryi	Zeuner, 1940
+4GJDF	8PW62	accepted	species	Phlugiolopsis (Phlugiolopsis) yaeyamensis	Yamasaki, 1986
+C45XF	8PW62	synonym	genus	Phlugiolopsis	Zeuner, 1940
+8PMY8	8PW62	synonym	genus	Acyrtaspis	Bey-Bienko, 1955
+4GJCM	8PW62	accepted	species	Phlugiolopsis (Phlugiolopsis) carinata	Wang, Li & Liu, 2012
+4GJCV	8PW62	accepted	species	Phlugiolopsis (Phlugiolopsis) grahami	(Tinkham, 1944)
+8Q338	8PW62	accepted	species	Phlugiolopsis (Phlugiolopsis) taiwanensis	Wang, Chen & Shi, 2019
+8Q33C	8PW63	accepted	species	Phlugiolopsis (Tribranchis) punctata	Wang, Li & Liu, 2012
+8Q33B	8PW63	accepted	species	Phlugiolopsis (Tribranchis) elongata	Bian, Shi & Chang, 2013
+8Q33D	8PW63	accepted	species	Phlugiolopsis (Tribranchis) tribranchis	Bian, Shi & Chang, 2012
+8Q339	8PW63	accepted	species	Phlugiolopsis (Tribranchis) circolobosis	Bian, Shi & Chang, 2013
+8Q333	8PW5Z	accepted	species	Phlugiolopsis (Longiloba) bispinata	Bian & Shi, 2018
+8Q334	8PW5Z	accepted	species	Phlugiolopsis (Longiloba) complanispinis	Bian, Shi & Chang, 2013
+8Q336	8PW5Z	accepted	species	Phlugiolopsis (Longiloba) montana	Wang, Li & Liu, 2012
+8Q337	8PW5Z	accepted	species	Phlugiolopsis (Longiloba) pentagonis	Bian, Shi & Chang, 2013
+8Q335	8PW5Z	accepted	species	Phlugiolopsis (Longiloba) emarginata	Bian, Shi & Chang, 2013
+8QK76	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) longiangulis	Bian, Shi & Chang, 2013
+8QHNL	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) pectinis	Bian, Shi & Chang, 2012
+8QJV6	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) tuberculata	Xia & Liu, 1993
+8QJF3	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) digitusis	Bian, Shi & Chang, 2012
+8QK29	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) chayuensis	Wang, Li & Liu, 2012
+8QKV3	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) huangi	Bian, Shi & Chang, 2012
+8QJY5	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) minuta	(Tinkham, 1943)
+8QKWY	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) brevis	Xia & Liu, 1993
+8QKLZ	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) aculeata	(Sänger & Helfert, 2002)
+8QHKZ	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) ventralis	Wang, Li & Liu, 2012
+8QJ79	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) xinanensis	Bian, Shi & Chang, 2013
+8QKS2	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) longicerca	Wang, Li & Liu, 2012
+8QJPN	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) vietnamica	Wang, Li & Liu, 2012
+8QJS7	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) damingshanis	Bian, Shi & Chang, 2012
+8QKC7	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) trilobulata	Gorochov, 2020
+8QHLL	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) bilobulata	Gorochov, 2020
+8QJ2V	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) uncicercis	Bian, Shi & Chang, 2013
+8NW94	8QKWQ	synonym	genus	Omkoiana	Sänger & Helfert, 2002
+8QHVB	8QKWQ	accepted	species	Phlugiolopsis (Omkoiana) trullis	Bian, Shi & Chang, 2012
+8Q33G	8PW64	accepted	species	Phlugiolopsis (Uncinata) angustimarginis	Bian & Shi, 2018
+8Q33K	8PW64	accepted	species	Phlugiolopsis (Uncinata) platylobosis	Bian & Shi, 2018
+8Q33H	8PW64	accepted	species	Phlugiolopsis (Uncinata) latusiprocera	Bian & Shi, 2018
+8Q33F	8PW64	accepted	species	Phlugiolopsis (Uncinata) adentis	Bian, Shi & Chang, 2012
+8Q33L	8PW64	accepted	species	Phlugiolopsis (Uncinata) yunnanensis	Shi & Ou, 2005
+8Q33J	8PW64	accepted	species	Phlugiolopsis (Uncinata) mistshenkoi	(Gorochov, 1993)
+5CF4G	369CZ	synonym	species	Xiphidiopsis beieri	Bey-Bienko, 1971
+5CF7M	369D2	synonym	species	Xiphidiopsis punctata	Karny, 1924
+5G6WJ	5WXQW	accepted	subspecies	Canariola emarginata paynei	Llucià Pomares & Quiñones, 2013
+5G6WH	5WXQW	accepted	subspecies	Canariola emarginata emarginata	Newman, 1964
+757YN	5WXR8	synonym	species	Orophila nubigena	Krauss, 1892
+B7ZKC	8NWYJ	accepted	subgenus	Paraphisis (Tapangiphisis)	Rentz, 2001
+8PW4Q	8NWYJ	accepted	subgenus	Paraphisis (Paraphisis)	Karny, 1912
+B7ZCJ	8NWYJ	accepted	subgenus	Paraphisis (Heterophisis)	Jin, 1992
+8PV5Z	8NV4R	synonym	genus	Meiophis	Jin, 1992
+3Z39Z	8NV4R	accepted	species	Meiophisis likkaldin	Rentz, 2001
+72XPC	8NV4R	accepted	species	Meiophisis unguipennis	Jin, 1992
+6R9PC	8NV4R	accepted	species	Meiophisis pyramipennis	Jin, 1992
+3Z39X	8NV4R	accepted	species	Meiophisis cardiopennis	Jin, 1992
+3Z39Y	8NV4R	accepted	species	Meiophisis enarotali	Gorochov, 2012
+6QXPC	8NV4R	accepted	species	Meiophisis micropennis	Jin, 1992
+8PW2J	8NVW2	accepted	subgenus	Neophisis (Anaphisis)	Gorochov, 2019
+8PW2S	8NVW2	accepted	subgenus	Neophisis (Platyphisis)	Gorochov, 2019
+B7ZDH	8NVW2	accepted	subgenus	Neophisis (Megaphisis)	Kevan, 1992
+B7ZCS	8NVW2	accepted	subgenus	Neophisis (Indophisis)	Jin, 1990
+8PW2R	8NVW2	accepted	subgenus	Neophisis (Neophisis)	Jin, 1990
+C5WBB	8NVW2	synonym	subgenus	Neophisis (Neophisis)	Jin, 1990
+C7R4N	8NVW2	synonym	subgenus	Neophisis (Neophisis)	Jin, 1990
+B7Z9V	8NW5Q	accepted	subgenus	Oceaniphisis (Curtipenna)	Kevan, 1992
+8PW2Y	8NW5Q	accepted	subgenus	Oceaniphisis (Oceaniphisis)	Jin, 1992
+L8YS	8NN65	accepted	species	Beiericolya eddae	Kaltenbach, 1968
+L8YT	8NN65	accepted	species	Beiericolya howensis	Rentz, 2001
+68FJB	8NN65	accepted	species	Beiericolya tardipes	(Rentz, 1988)
+3BKH9	8NRHW	accepted	species	Estrinia dauanensis	Rentz, 2001
+3BKHB	8NRHW	accepted	species	Estrinia octospinosa	Jin, 1992
+6H542	8NRHW	accepted	species	Estrinia decemspinosa	Karny, 1926
+692XV	8NNKV	accepted	species	Breviphisis robusta	Gorochov, 2017
+53H29	8NZNZ	accepted	species	Supersonus aequoreus	Sarria-S., Morris, Windmill, Jackson & Montealegre-Z., 2014
+7B68Q	8NZNZ	accepted	species	Supersonus piercei	Sarria-S., Morris, Windmill, Jackson & Montealegre-Z., 2014
+53H2B	8NZNZ	accepted	species	Supersonus undulus	Sarria-S., Morris, Windmill, Jackson & Montealegre-Z., 2014
+4KTLP	8NXRH	accepted	species	Poecilomerus saga	Karny, 1907
+3VYTQ	8NTPQ	accepted	species	Longiphisis media	Gorochov, 2017
+3VYTP	8NTPQ	accepted	species	Longiphisis gracilis	Gorochov, 2017
+B7Z98	8NMHS	accepted	subgenus	Arachnoscelis (Centrophisis)	Gorochov, 2013
+B7ZGT	8NMHS	accepted	subgenus	Arachnoscelis (Peruphisis)	Gorochov, 2013
+8PVLT	8NMHS	accepted	subgenus	Arachnoscelis (Arachnoscelis)	Karny, 1911
+LVTN	8NNBP	accepted	species	Biproctis anatomensis	Jin, 1992
+B7ZBV	8NQN8	accepted	subgenus	Decolya (Eusrilankana)	Özdikmen, 2010
+8PVQX	8NQN8	accepted	subgenus	Decolya (Decolya)	Bolívar, 1900
+72SSV	8NTXL	accepted	species	Malagasyphisis maromizaha	Hugel, 2012
+XGLB	8NPXD	accepted	species	Comorophisis mayottensis	Hugel, 2012
+5ZSB2	8NPXD	accepted	species	Comorophisis labati	Hugel, 2012
+69BQV	8NP2C	accepted	species	Carliphisis acutipennis	(Carl, 1908)
+69BR7	8NP2C	accepted	species	Carliphisis leontopolites	(Karny, 1931)
+4CST2	8NWRM	accepted	species	Paradecolya briseferi	Hugel, 2010
+4CST3	8NWRM	accepted	species	Paradecolya expectata	Hugel, 2010
+4CST4	8NWRM	accepted	species	Paradecolya inexspectata	(Chopard, 1957)
+4WZJP	8NZ4M	accepted	species	Seselphisis praslinensis	Hugel, 2012
+4WZJQ	8NZ4M	accepted	species	Seselphisis visenda	(Bolívar, 1912)
+XGKZ	8NPXC	accepted	species	Comorocolya mwaliensis	Hugel, 2012
+XGL2	8NPXC	accepted	species	Comorocolya ndzuwaniensis	Hugel, 2012
+XGL3	8NPXC	accepted	species	Comorocolya ngazidja	Hugel, 2012
+48W9J	8NW7M	accepted	species	Oediphisis petalispina	Jin, 1992
+76ZVS	8NXH9	accepted	species	Phisis trigonella	Jin, 1992
+76ZW5	8NXH9	accepted	species	Phisis vittata	Kevan, 1992
+76ZX7	8NXH9	accepted	species	Phisis longilobata	Jin, 1992
+76ZX9	8NXH9	accepted	species	Phisis minor	Kevan, 1992
+76ZW4	8NXH9	accepted	species	Phisis trigoniata	Jin, 1992
+76ZWL	8NXH9	accepted	species	Phisis chirolobata	Jin, 1992
+76ZVP	8NXH9	accepted	species	Phisis sinuata	Jin, 1992
+76ZVF	8NXH9	accepted	species	Phisis peregrina	Karny, 1926
+76ZX4	8NXH9	accepted	species	Phisis holdhausi	Karny, 1926
+76ZVB	8NXH9	accepted	species	Phisis parapallida	Jin, 1992
+76ZX2	8NXH9	accepted	species	Phisis eurylobata	Jin, 1992
+76ZVC	8NXH9	accepted	species	Phisis parva	Kevan, 1992
+76ZWX	8NXH9	accepted	species	Phisis meiolobata	Jin, 1992
+76ZW6	8NXH9	accepted	species	Phisis willemsei	Kevan, 1987
+76ZW2	8NXH9	accepted	species	Phisis stenolobata	Jin, 1992
+76ZWN	8NXH9	accepted	species	Phisis cyclolobata	Jin, 1992
+76ZW3	8NXH9	accepted	species	Phisis tolensis	Kevan, 1992
+76ZWT	8NXH9	accepted	species	Phisis jinae	Rentz, 2001
+8PRFY	8NXH9	synonym	genus	Teuthras	Stål, 1874
+76ZWZ	8NXH9	accepted	species	Phisis pallida	(Walker, 1869)
+8PQCZ	8NXH9	synonym	genus	Nocera	Walker, 1869
+76ZWS	8NXH9	accepted	species	Phisis hirundocaudata	Jin, 1992
+76ZVK	8NXH9	accepted	species	Phisis rani	Gorochov, 2004
+76ZVD	8NXH9	accepted	species	Phisis pectinata	(Guérin-Méneville, 1832)
+76ZVJ	8NXH9	accepted	species	Phisis pseudopallida	Jin, 1992
+B7ZCX	8NLM9	accepted	subgenus	Afrophisis (Jinkevania)	Gorochov, 2017
+8PVK2	8NLM9	accepted	subgenus	Afrophisis (Afrophisis)	Jin & Kevan, 1991
+4T8VF	8NYRM	accepted	species	Rodriguesiophisis spinifera	(Butler, 1876)
+MYFN	8NNHK	accepted	species	Brachyphisis viettei	Chopard, 1957
+MYFM	8NNHK	accepted	species	Brachyphisis nattecantor	Hugel, 2010
+3R6TC	8NT5Y	accepted	species	Kevanophisis ponapensis	Kevan, 1992
+4GJFH	48QZX	synonym	species	Phlugis maculata	Nickle, 2003
+8Q33P	48QZY	synonym	species	Phlugis (Odontophlugis) pehlkei	Kästner, 1932
+4GJFT	48QZY	synonym	species	Phlugis pehlkei	Kästner, 1932
+8Q33R	48QZW	synonym	species	Phlugis bimaculatoides	
+6VBZ2	48QZW	synonym	species	Phlugis bimaculoides	Nickle, 2003
+6VBYQ	48QZV	synonym	species	Phlugis bimaculata	Nickle, 2003
+4GJFZ	48QZZ	synonym	species	Phlugis ramirezi	Barranco, 2013
+77BYC	3WBNN	synonym	species	Phlugiola gressitti	Chopard, 1969
+8Q4C4	3WBNN	synonym	species	Tenuiphlugis gressitti	(Chopard, 1969)
+55BPX	3WBNS	synonym	species	Tenuiphlugis tiwiwarrina	Rentz, 2001
+55BPW	3WBNR	synonym	species	Tenuiphlugis pitti	Rentz, 2001
+7C2KK	3WBNP	synonym	species	Tenuiphlugis maai	Jin, 1993
+55BPT	3WBNM	synonym	species	Tenuiphlugis brittoni	Jin, 1993
+8PHF9	8Q4NP	synonym	species	Phlugis arborea	Nickle, 2003
+6VBYT	6ZNCK	synonym	species	Phlugis burgersi	Jin, 1993
+4GJFQ	523DB	synonym	species	Phlugis novaeguineaensis	Jin, 1993
+5K6F2	4CLK4	accepted	subspecies	Papuaphlugis papua papua	Gorochov, 2012
+7KGNC	4CLK4	accepted	subspecies	Papuaphlugis papua bagusa	Gorochov, 2012
+4GJG2	4CLK5	synonym	species	Phlugis rapax	Jin, 1993
+55BPV	3PLNP	synonym	species	Tenuiphlugis malkini	Jin, 1993
+3WBNQ	3PLNP	synonym	species	Lucienola malkini	(Jin, 1993)
+4GJFV	5VTW9	synonym	species	Phlugis philippina	Jin, 1993
+77BZ6	5W67X	synonym	species	Phlugis sulawesi	Jin, 1993
+6VBWV	67TW9	synonym	species	Phlugis thaumasia	Hebard, 1922
+77BYQ	5W67Y	synonym	species	Phlugis borneoensis	Jin, 1993
+8PHFF	5W5VX	synonym	species	Phlugis thai	Helfert & Sänger, 1998
+4GJF5	685VY	synonym	species	Phlugis dubia	Karny, 1907
+5FT3Z	5W689	accepted	subspecies	Asiophlugis temasek tioman	Gorochov, 2011
+5FT3Y	5W689	accepted	subspecies	Asiophlugis temasek temasek	Gorochov & Tan, 2011
+8Q662	8PX68	accepted	subspecies	Asiophlugis legitima manukan	Gorochov, 2019
+8Q65Z	8PX68	accepted	subspecies	Asiophlugis legitima legitima	Gorochov, 2019
+C67L2	66RFD	synonym	species	Anisophlugis appendiculata	Gorochov, 2015
+4GJCB	66RFD	synonym	species	Phlugiola appendicula	Gorochov, 2015
+7BYWG	6VBZ3	synonym	species	Thysdrus abnormis	Redtenbacher, 1891
+7BZ8F	77BZ4	synonym	species	Thysdrus infirmus	Saussure & Pictet, 1898
+4GJFC	77BZ4	synonym	species	Phlugis infirma	(Saussure & Pictet, 1898)
+4GJFM	77BZ4	synonym	species	Phlugis mexicana	(Saussure & Pictet, 1898)
+7BZ8D	77BZ4	synonym	species	Thysdrus mexicanus	Saussure & Pictet, 1898
+668HF	77BZ4	synonym	species	Alogopteron carribbeum	Rehn, 1903
+6VGV3	77BZ4	synonym	species	Phylugis chrysopa	Bolívar, 1888
+8PWR8	77BZ4	synonym	species	Alogoptera caribbeum	(Rehn, 1903)
+C4LPK	77BZ4	synonym	species	Phlugis caribbeum	(Rehn, 1903)
+7BYWD	4GJFL	synonym	species	Thysdrus marginatus	Redtenbacher, 1891
+7BYYQ	4GJG8	synonym	species	Thysdrus tener	Stål, 1874
+8PHFD	4GJG8	synonym	species	Phlugis tenera	
+8PZT9	4GJG8	synonym	species	Locusta (Xiphidium) spinipes	Fabricius, 1775
+72LHC	4GJG8	synonym	species	Locusta spinipes	Fabricius, 1775
+9GTZM	4GJG8	synonym	species	Thysdrus tener	
+C7L8Q	C846W	synonym	species	Locusta teres	DeGeer, 1773
+7BYZ2	C846W	synonym	species	Thysdrus teres	(De Geer, 1773)
+7BZ8C	C846W	synonym	species	Thysdrus mantispa	(Bolívar, 1888)
+4HVP3	C846W	synonym	species	Pilugis teres	(De Geer, 1773)
+4GJFJ	C846W	synonym	species	Phlugis mantispa	Bolívar, 1888
+8Q33Q	77BZ3	synonym	species	Phlugis arboreoloides	
+8Q33S	4GJFP	synonym	species	Phlugis menoptera	
+7BYWB	4GJFP	synonym	species	Thysdrus nemoptera	(Bolívar, 1888)
+7BYWC	4GJFF	synonym	species	Thysdrus macilentus	Redtenbacher, 1891
+7BZ8H	4GJF2	synonym	species	Thysdrus coriaceus	Redtenbacher, 1891
+7BYYR	4GJGF	synonym	species	Thysdrus virens	(Thunberg, 1815)
+XQKX	4GJGF	synonym	species	Conocephalus virens	Thunberg, 1815
+7BZ8G	77BYT	synonym	species	Thysdrus caudatus	Redtenbacher, 1891
+BZNG8	4GJCH	synonym	species	Phlugiola longipeles	Mendes, Oliveira, Alves-Oliveira & Rafael, 2017
+7BYWH	SDM6	synonym	species	Thysdrus cephalotes	(Bolívar, 1888)
+6VBZ4	SDM6	synonym	species	Phlugis cephalotes	Bolívar, 1888
+8PHFC	8PX56	synonym	species	Phlugis stigmata	Nickle, 2003
+8P4HN	8Q2P8	synonym	species	Acilacris incisus	Naskrecki, 1996
+8NWQL	8PW4C	synonym	genus	Paracilacris	Chopard, 1955
+4CPY8	8PW4C	accepted	species	Paracilacris (Paracilacris) lateralis	Chopard, 1955
+4CPY5	B7Z87	accepted	species	Paracilacris (Anaroegas) mordax	Naskrecki, Bazelet & Spearman, 2008
+4CPY7	B7ZF4	accepted	species	Paracilacris (Neacilacris) periclitatus	Naskrecki, Bazelet & Spearman, 2008
+4CPY6	B7ZF4	accepted	species	Paracilacris (Neacilacris) latiexcisa	Gorochov, 2017
+64J5H	8PVJK	accepted	species	Acilacris (Acilacris) kristinae	Naskrecki, 1996
+64J5G	8PVJK	accepted	species	Acilacris (Acilacris) obovatus	Naskrecki, 1996
+8NLG4	8PVJK	synonym	genus	Acilacris	Bolívar, 1890
+64J4H	8PVJK	accepted	species	Acilacris (Acilacris) tridens	Bolívar, 1890
+64J5C	8PVJK	accepted	species	Acilacris (Acilacris) furcatus	Naskrecki, 1996
+8P38K	8PVJL	synonym	genus	Aroegas	Péringuey, 1916
+64J4K	8PVJL	accepted	species	Acilacris (Aroegas) dilatatus	(Naskrecki, 1996)
+64J4M	8PVJL	accepted	species	Acilacris (Aroegas) nigroornatus	(Péringuey, 1916)
+64J4J	8PVJL	accepted	species	Acilacris (Aroegas) fuscus	(Naskrecki, 1996)
+64J4L	8PVJL	accepted	species	Acilacris (Aroegas) rentzi	(Naskrecki, 1996)
+55WMX	5LGSV	synonym	species	Tettigoniopsis kinkimontana	Yamasaki, 1986
+4NYRJ	4NYRG	synonym	species	Pseudokuzicus longidentatus	Chang, Zheng & Wang, 1998
+5CF7K	4NYRB	synonym	species	Xiphidiopsis pieli	Tinkham, 1943
+8PZNT	4NYRB	synonym	species	Kuzicus (Pseudokuzicus) pieli	(Tinkham, 1943)
+8Q3JP	4NYRB	synonym	species	Pseudokuzicus pieli	(Tinkham, 1943)
+5CF5R	78FPK	synonym	species	Xiphidiopsis furcicauda	Mu, He & Wang, 2000
+8Q3JN	78FPK	synonym	species	Pseudokuzicus furcicaudus	(Mu, He & Wang, 2000)
+4NYRK	6WFPN	synonym	species	Pseudokuzicus tamdao	Gorochov, 1998
+8Q3JM	6WFPN	synonym	species	Pseudokuzicus (Pseudokuzicus) tambao	
+564WY	564WP	synonym	species	Thaumaspis forcipatus	Bolívar, 1900
+564X3	7C6P4	synonym	species	Thaumaspis montanus	Bey-Bienko, 1957
+564X2	564WT	synonym	species	Thaumaspis longipes	Bolívar, 1900
+564X5	564WW	synonym	species	Thaumaspis trigonurus	Bolívar, 1900
+RZJQ	564WV	synonym	species	Cecidophaga siccifolii	Karny, 1922
+564X4	564WV	synonym	species	Thaumaspis siccifolii	(Karny, 1922)
+5TX4R	BZLH	synonym	species	Alloteratura longa	Gorochov, 2008
+BZLT	BZLB	synonym	species	Alloteratura bispina	Gorochov, 1993
+3YLJ6	BZLC	synonym	species	Meconemopsis borellii	Karny, 1924
+BZMQ	BZLL	synonym	species	Alloteratura sandakanae	Hebard, 1922
+BZMC	BZLJ	synonym	species	Alloteratura media	Gorochov, 2008
+BZMH	BZLK	synonym	species	Alloteratura nigrigutta	(Karny, 1924)
+D9QT	BZLK	synonym	species	Amytta nigrigutta	Karny, 1924
+BZLW	5TWSR	synonym	species	Alloteratura curta	Gorochov, 2008
+BZM3	BZKG	synonym	species	Alloteratura hebardi	Gorochov, 1998
+BZLS	668T2	synonym	species	Alloteratura bakeri	Hebard, 1922
+65WSR	BZKQ	synonym	species	Alloteratura multispina	Jin, 1995
+BZLY	6694Q	synonym	species	Alloteratura cylindracauda	Jin, 1995
+BZMV	BZKZ	synonym	species	Alloteratura stebaevi	Gorochov, 1993
+BZML	66952	synonym	species	Alloteratura plauta	Jin, 1995
+BZLR	BZK9	synonym	species	Alloteratura bachma	Gorochov, 2005
+5CF6V	BZKN	synonym	species	Xiphidiopsis longicercata	Bolívar, 1905
+5FHVN	BZKN	accepted	subspecies	Alloteratura (Alloteratura) longicercata longicercata	(Bolívar, 1905)
+8Q65K	BZKN	accepted	subspecies	Alloteratura (Alloteratura) longicercata angulata	Jin, 1995
+5FHVP	BZKN	accepted	subspecies	Alloteratura (Alloteratura) longicercata sulawesi	Gorochov, 2016
+BSTLS	BZKN	synonym	species	Alloteratura longicercata	(Bolívar, 1905)
+66GKP	BZL6	synonym	species	Amytta triloba	Karny, 1926
+5FHVQ	BZL6	accepted	subspecies	Alloteratura (Alloteratura) triloba allopatrica	Gorochov, 2016
+5FHVR	BZL6	accepted	subspecies	Alloteratura (Alloteratura) triloba triloba	(Karny, 1926)
+BZM6	BZKK	synonym	species	Alloteratura klankamsorni	Sänger & Helfert, 2004
+D9QK	BZKJ	synonym	species	Amytta keyica	Karny, 1924
+BZM5	BZKJ	synonym	species	Alloteratura keyica	(Karny, 1924)
+BZMZ	BZL5	synonym	species	Alloteratura tibetensis	Jin, 1995
+BZMF	BZKR	synonym	species	Alloteratura muntiacus	Gorochov, 1998
+BZM4	BZKH	synonym	species	Alloteratura karnyi	Kästner, 1932
+BZMP	BZKX	synonym	species	Alloteratura saimensis	Jin, 1995
+8PWR7	BZKX	synonym	species	Alloteratura siamensis	Jin, 1995
+8Q4CH	BZL9	synonym	species	Teratura xiphidiosis	
+BZN4	BZL9	synonym	species	Alloteratura xiphidiopsis	(Karny, 1920)
+7BPVF	BZL9	synonym	species	Teratura xiphidiopsis	Karny, 1920
+D9RD	BZL9	synonym	species	Amytta xiphidiopsis	(Karny, 1920)
+8PWR5	8PWQT	synonym	species	Alloteratura lamella	Jin, 1995
+BZM8	8PWQT	synonym	species	Alloteratura lamellata	Jin, 1995
+BZMN	BZKW	synonym	species	Alloteratura quaternispina	Shi, Di & Chang, 2014
+D9R7	BZL2	synonym	species	Amytta subanalis	Karny, 1926
+BZMW	BZL2	synonym	species	Alloteratura subanalis	(Karny, 1926)
+BZLV	BZKD	synonym	species	Alloteratura cervus	Gorochov, 1998
+BZM7	BZKL	synonym	species	Alloteratura kuehnelti	Sänger & Helfert, 1996
+8P4XQ	8PWQV	synonym	species	Alloteratura longicauda	(Karny, 1924)
+8P54W	8PWQV	synonym	species	Amytta longicauda	Karny, 1924
+D9RC	BZL8	synonym	species	Amytta werneri	Karny, 1924
+BZN3	BZL8	synonym	species	Alloteratura werneri	(Karny, 1924)
+BZMK	BZKT	synonym	species	Alloteratura penangica	Hebard, 1922
+BZMM	BZKV	synonym	species	Alloteratura podgornajae	Gorochov, 1993
+5TWT3	BZKC	synonym	species	Alloteratura carinata	Gorochov, 2008
+7BQ7H	BZKY	synonym	species	Teratura simplex	Karny, 1920
+D9R4	BZKY	synonym	species	Amytta simplex	(Karny, 1920)
+BZMS	BZKY	synonym	species	Alloteratura simplex	(Karny, 1920)
+D9R8	BZL3	synonym	species	Amytta tahanensis	Karny, 1926
+BZMX	BZL3	synonym	species	Alloteratura tahanensis	(Karny, 1926)
+BZM2	BZKF	synonym	species	Alloteratura gigliotosi	(Karny, 1924)
+D9QF	BZKF	synonym	species	Amytta gigliotosi	Karny, 1924
+8PY36	8PY35	synonym	species	Cononicephora acutilobata	Wang, 2020
+8PY37	XRFT	synonym	species	Cononicephora berezhkovi	Gorochov, 1993
+8PY38	5ZTXK	synonym	species	Cononicephora tarbinskyi	Gorochov, 1993
+8PZNW	3RGN5	synonym	species	Kuzicus compressus	Han & Shi, 2014
+3RGNS	6NQNS	synonym	species	Kuzicus pakthongchai	Tan, Dawwrueng & Artchawakom, 2015
+8PZP2	3RGND	synonym	species	Kuzicus multifidous	Mao & Shi, 2009
+5CF4T	3RGN4	synonym	species	Xiphidiopsis cervicercus	Tinkham, 1943
+8PZNV	3RGN4	synonym	species	Kuzicus cervicercus	(Tinkham, 1943)
+8PZNZ	6NQNT	synonym	species	Kuzicus megaterminatus	Ingrisch & Shishodia, 1998
+3RGNM	3RGN2	synonym	species	Kuzicus aspercaudatus	Sänger & Helfert, 2006
+9GZQJ	9GZQK	synonym	species	Kuzicus multispinus	Li, Chen & Chang, 2021
+8Q4WZ	3RGNG	synonym	species	Xiphidiopsis suzukii	(Matsumura & Shiraki, 1908)
+7C27H	3RGNG	synonym	species	Teratura suzukii	Matsumura & Shiraki, 1908
+8PZP3	3RGNG	synonym	species	Kuzicus suzukii	(Matsumura & Shiraki, 1908)
+3RGNR	3RGNC	synonym	species	Kuzicus multidenticulatus	Tan, Dawwrueng & Artchawakom, 2015
+3RGNQ	9GW6Y	synonym	species	Kuzicus mirus	Gorochov, 2016
+3RGNT	3RGNF	synonym	species	Kuzicus scorpioides	Sänger & Helfert, 2006
+6NQNN	3RGN3	synonym	species	Kuzikus (Kuzikus) bicornis	Ingrisch, 2006
+3RGNN	3RGN8	synonym	species	Kuzicus koeppeli	Sänger & Helfert, 2004
+8PZNY	3RGN7	synonym	species	Kuzicus denticuloides	(Kevan & Jin, 1993)
+5CF58	3RGN7	synonym	species	Xiphidiopsis denticuloides	Kevan & Jin, 1993
+5CF57	3RGN6	synonym	species	Xiphidiopsis denticulata	Karny, 1926
+8PZNX	3RGN6	synonym	species	Kuzicus denticulatus	(Karny, 1926)
+5CF35	9GZQH	synonym	species	Xiphidiopsis (Xiphidiopsis) inflata	Shi & Zheng, 1995
+8PZP4	3RGNH	synonym	species	Kuzicus uvarovi	Gorochov, 1993
+5CF7Q	4PD3K	synonym	species	Xiphidiopsis raggei	Bey-Bienko, 1971
+8PM63	8Q3KV	synonym	subspecies	Pseudoteratura (Pseudoteratura) bella lambir	Gorochov, 2014
+5CF7J	4PD3J	ambiguous synonym	species	Xiphidiopsis picta	Karny, 1924
+8Q3KY	4PD3J	synonym	species	Pseudoteratura picta	(Karny, 1924)
+8Q4WW	8Q3KS	synonym	species	Xiphidiopsis elaphocera	
+8PLFC	8Q3KS	synonym	species	Xiphidiopsis elaphocerca	Karny, 1926
+BTHP2	8Q3KR	synonym	species	Xiphidiopsis (Xiphidiopsis) aglaia	Hebard, 1922
+8PLDK	8Q3KR	synonym	species	Xiphidiopsis aglaia	Hebard, 1922
+8PLDQ	8Q3KT	synonym	species	Xiphidiopsis gemmicula	Hebard, 1922
+BTHP6	8Q3KT	synonym	species	Xiphidiopsis (Xiphidiopsis) gemmicula	Hebard, 1922
+5KQYP	6WHVW	synonym	subspecies	Pseudoteratura (Pseudoteratura) bella bella	Gorochov, 2008
+5CF86	4PD3M	synonym	species	Xiphidiopsis sundaica	Kästner, 1932
+4PD3Q	4PD3M	synonym	species	Pseudoteratura sundaica	(Kästner, 1932)
+5KQYS	4PD3H	accepted	subspecies	Pseudoteratura (Pseudoteratura) parallela parallela	Ingrisch, 2006
+5KQYR	4PD3H	accepted	subspecies	Pseudoteratura (Pseudoteratura) parallela curup	Gorochov, 2014
+BPN75	4PD3H	synonym	species	Pseudoteratura parallela	Ingrisch, 2006
+47CJ4	47CHV	synonym	species	Nicephora dianxiensis	Wang & Liu, 2013
+47CJ6	47CHY	synonym	species	Nicephora hakgallae	Henry, 1932
+BTRV2	BTRV3	synonym	species	Nicephora curvata	Su, Wang & Chang, 2023
+47CJ7	47CHZ	synonym	species	Nicephora mazerani	Bolívar, 1900
+47CJ9	47CJ2	synonym	species	Nicephora subulata	Bolívar, 1900
+47CJ5	47CHX	synonym	species	Nicephora forficulata	Carl, 1921
+6RXRH	47CJ3	synonym	species	Nicephora trigonidioides	Bolívar, 1900
+47CJ8	749RJ	synonym	species	Nicephora mirabilis	Bolívar, 1900
+DXYR	8PVL3	accepted	species	Anepitacta (Anepitacta) bicaudata	Beier, 1965
+DXYX	8PVL3	accepted	species	Anepitacta (Anepitacta) inconspicua	Brunner von Wattenwyl, 1891
+DXYV	8PVL3	accepted	species	Anepitacta (Anepitacta) guentheri	Gorochov, 1994
+DXYY	8PVL3	accepted	species	Anepitacta (Anepitacta) lomana	Roy, 1971
+DXZ3	8PVL3	accepted	species	Anepitacta (Anepitacta) wrightae	Naskrecki, 2008
+DXYS	8PVL3	accepted	species	Anepitacta (Anepitacta) egestoides	Beier, 1967
+DXYT	8PVL3	accepted	species	Anepitacta (Anepitacta) egestosa	Karsch, 1893
+672RK	8PVL3	accepted	species	Anepitacta (Anepitacta) gaillardi	Roy, 1967
+DXYW	8PVL3	accepted	species	Anepitacta (Anepitacta) guineensis	Beier, 1965
+8NM59	8PVL3	synonym	genus	Anepitacta	Brunner von Wattenwyl, 1891
+DXZ5	B7ZKG	accepted	species	Anepitacta (Teratacta) olsufievi	Gorochov, 1993
+8PWYK	B7ZKG	accepted	species	Anepitacta (Teratacta) nigerica	Beier, 1965
+DXZ4	B7ZKG	accepted	species	Anepitacta (Teratacta) katangica	Beier, 1965
+3TXTY	9H2TD	synonym	species	Leptoteratura raoani	Gorochov, 2008
+8PZRB	9H2VZ	synonym	species	Leptoteratura (Rhinoteratura) kailingensis	Jin, 2020
+3TXTZ	9H2V5	synonym	species	Leptoteratura symmetrica	Yamasaki, 1988
+3TXTP	9H2V5	synonym	species	Leptoteratura (Rhinoteratura) symmetrica	Yamasaki, 1988
+3TXTJ	9H2YB	synonym	species	Leptoteratura (Rhinoteratura) chela	Tan, Gorochov & Wahab, 2017
+3TXTN	9H2Y6	synonym	species	Leptoteratura (Rhinoteratura) sharovi	Gorochov, 1993
+8PZRC	9H2VR	synonym	species	Leptoteratura (Rhinoteratura) sakaii	Jin, 2020
+9GS9N	9H2TN	synonym	species	Leptoteratura (Leptoteratura) capreola	(Redtenbacher, 1891)
+5CF4Q	9H2TN	synonym	species	Xiphidiopsis capreola	Redtenbacher, 1891
+3TXTQ	9H2TN	synonym	species	Leptoteratura capreola	(Redtenbacher, 1891)
+3TXTM	9H2WJ	synonym	species	Leptoteratura (Rhinoteratura) pulchra	Gorochov, 2008
+8PLF5	9H2WT	synonym	species	Xiphidiopsis chaseni	Karny, 1926
+8PZR9	9H2WT	synonym	species	Leptoteratura (Rhinoteratura) chaseni	(Karny, 1926)
+8PLDN	9H2WT	synonym	species	Xiphidiopsis (Xiphidiopsis) chaseni	Karny, 1926
+8Q8VK	9H2WT	synonym	species	Leptoteratura borneoensis	Jin, 1995
+BZJ2G	9H2WT	synonym	species	Leptoteratura (Rhinoteratura) broneoensis	(Jin, 1995)
+3TXTL	9H2WF	synonym	species	Leptoteratura (Rhinoteratura) lamellatus	Mao & Shi, 2007
+BZM9	9H2WF	synonym	species	Alloteratura lamellatus	(Mao & Shi, 2007)
+6PJRG	9H2WZ	synonym	species	Leptoteratura uniformis	Gorochov, 2008
+7FXH2	B7Z8Q	accepted	species	Xiphidiopsis (Bhuxiphidiopsis) microstyla	Ingrisch, 2002
+9GV73	8PWFB	accepted	species	Xiphidiopsis (Paraxiphidiopsis) zubovskyi	Gorochov, 1993
+3YLJ3	5CF83	synonym	species	Meconema subpunctatum	Motschulsky, 1866
+BXPSM	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) ossicariniana	Ran & Bian, 2023
+7FXGS	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) motshulskyi	Gorochov, 1993
+9GV72	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) tonicosa	Shi & Chen, 2002
+9H398	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) triloba	(Shi, Bian & Chang, 2011)
+BTVGS	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) spicula	Su, An & Shi, 2023
+7G9H3	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) haudlata	Gorochov, 1994
+8Q4W9	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) lacusicerca	Shi, Zheng & Jiang, 1995
+9GV6Z	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) spathulata	(Mao & Shi, 2007)
+8Q4WC	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) platycerca	Bey-Bienko, 1962
+9GV6X	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) impressa	Bey-Bienko, 1962
+9GV6V	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) compacta	Sänger & Helfert, 2004
+9H3L5	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) damingshanensis	(Shi & Han, 2014)
+8Q4WB	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) nigrovittata	Bey-Bienko, 1962
+9H3CF	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) erromena	(Shi & Mao, 2014)
+7G9GR	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) eversmanni	Gorochov, 1993
+9H37Q	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) ovalis	(Liu & Zhang, 2007)
+9GV6R	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) altiterga	Sänger & Helfert, 1998
+9H3D3	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) quadridentata	(Liu & Zhang, 2000)
+9GW9C	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) protensa	Han, Chang & Shi, 2015
+9GV6Y	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) sinensis	Tinkham, 1944
+9GV6W	8PWF9	accepted	species	Xiphidiopsis (Euxiphidiopsis) gurneyi	Tinkham, 1944
+7G9GQ	B7ZB8	accepted	species	Xiphidiopsis (Dinoxiphidiopsis) expressa	Wang, Liu & Li, 2015
+8Q4W6	B7ZB8	accepted	species	Xiphidiopsis (Dinoxiphidiopsis) bifurcatis	Cui, Liu & Chang, 2020
+7G9H2	B7ZB8	accepted	species	Xiphidiopsis (Dinoxiphidiopsis) fanjingshanensis	Shi & Du, 2006
+7FXH3	B7ZB8	accepted	species	Xiphidiopsis (Dinoxiphidiopsis) jacobsoni	Gorochov, 1993
+7FXGR	B7ZB8	accepted	species	Xiphidiopsis (Dinoxiphidiopsis) ikonnikovi	(Gorochov, 1993)
+9H3J5	B7ZB8	accepted	species	Xiphidiopsis (Dinoxiphidiopsis) abnormalis	(Gorochov & Kang, 2005)
+5CF2Q	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) elefan	Gorochov, 2005
+5CF2T	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) exigua	Karny, 1926
+5CF3N	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) parallela	Bey-Bienko, 1962
+5CF2N	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) drepanophora	Hebard, 1922
+8Q4WD	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) acuminata	Jin, 2020
+7FXH5	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) alatissima	Karny, 1907
+7FXFG	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) malabarica	Kevan & Jin, 1993
+5CF42	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) tembelingi	Gorochov, 2016
+8Q4WL	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) gressitti	Jin, 2020
+8Q4WM	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) irregularis	Bey-Bienko, 1962
+5CF3F	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) minorincisus	Han, Chang & Shi, 2015
+5CF3W	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) straminula	(Walker, 1871)
+8Q4WQ	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) ornata	Gorochov, 2019
+7G9FF	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) kraussi	Karny, 1924
+8Q4WG	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) compressa	Jin, 2020
+5CF36	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) jambi	Gorochov, 2008
+5CF3T	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) sabahi	Gorochov, 2008
+8Q4WN	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) maai	Jin, 2020
+5CF2S	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) excavata	Xia & Liu, 1993
+5CF3Y	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) sumatrensis	Karny, 1924
+5CF24	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) anomala	Kevan & Jin, 1993
+8PRPH	8PWFC	synonym	genus	Xyphidiopsis	Bolívar, 1900
+5CF3C	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) lita	Hebard, 1922
+9GV6S	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) appendiculata	Tinkham, 1944
+5CF44	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) vernalis	Gorochov, 1998
+5CF37	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) jinxiuensis	Xia & Liu, 1990
+5CF33	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) hwangi	Bey-Bienko, 1962
+5CF3Q	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) phyllocercus	Karny, 1907
+5CF22	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) angustifurca	Gorochov, 2011
+7FXFF	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) fallax	Redtenbacher, 1891
+5CF2J	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) cyclolobia	Karny, 1923
+8Q4WJ	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) dichotoma	Jin, 2020
+5CF43	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) trusmadi	Gorochov, 2008
+5CF3B	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) lata	Bey-Bienko, 1962
+5CF2C	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) brevifurca	Gorochov, 2011
+5CF2L	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) dissita	Gorochov, 1998
+5CF2K	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) dicera	Hebard, 1922
+5CF3Z	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) symmetrica	Gorochov, 2011
+7FXH6	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) bituberculata	Ebner, 1939
+8Q4WF	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) bicarinata	Jin, 2020
+5CF32	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) hebardi	Karny, 1924
+8Q4WR	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) shcherbakovi	Gorochov, 2019
+7G9H4	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) adelungi	Gorochov, 1993
+5CF3S	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) redtenbacheri	Karny, 1924
+5CF2W	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) forficula	Uvarov, 1923
+8Q4WP	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) mada	Gorochov, 2016
+5CF3L	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) ocellata	Bey-Bienko, 1971
+5CF3K	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) nepalensis	Kevan & Jin, 1993
+8P2XJ	8PWFC	synonym	genus	Xiphidiopsis	Redtenbacher, 1891
+5CF3M	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) padangi	Gorochov, 2008
+8Q4WS	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) spoona	Cui, Liu & Chang, 2020
+5CF26	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) beybienkoi	Gorochov, 1993
+5CF23	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) anisolobula	Han, Chang & Shi, 2015
+5CF27	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) bifoliata	Shi & Zheng, 1995
+5CF2M	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) divida	Shi & Zheng, 1995
+5CF3X	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) sulcata	Xia & Liu, 1990
+7G9H5	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) amnicola	Gorochov, 1998
+5CF38	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) kemneri	Ander, 1937
+5CF2F	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) citrina	Redtenbacher, 1891
+5CF25	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) autumnalis	Gorochov, 1998
+5CF2H	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) convexis	Shi & Zheng, 1995
+9H3LM	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) longicauda	(Liu & Zhang, 2007)
+5CF2Y	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) greeni	Uvarov, 1923
+5CF3H	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) monstrosa	Karny, 1924
+5CF3P	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) phetchaburi	Gorochov, 1998
+8Q4WT	8PWFC	accepted	species	Xiphidiopsis (Xiphidiopsis) trifoliata	Wang, Chen & Shi, 2019
+3DFNX	9H2WM	synonym	species	Euxiphidiopsis capricercus	(Tinkham, 1943)
+C8KVS	9H2WM	synonym	species	Xiphidiopsis capricercus	Tinkham, 1943
+8Q2XJ	9H2WM	synonym	species	Paraxizicus capricercus	(Tinkham, 1943)
+C5W7D	9H2WM	synonym	species	Xiphidiopsis (Euxiphidiopsis) capricercus	Tinkham, 1943
+3DFNV	9H2YG	synonym	species	Euxiphidiopsis brevicercus	(Gorochov & Kang, 2005)
+4DJ49	9H2YG	synonym	species	Paraxizicus brevicercus	Gorochov & Kang, 2005
+5CF5F	C254	synonym	species	Xiphidiopsis emarginata	Tinkham, 1944
+D9R3	48SCY	synonym	species	Amytta serricauda	Karny, 1924
+BZMR	48SCY	synonym	species	Alloteratura serricauda	(Karny, 1924)
+4ML6J	B7Z8G	accepted	species	Proamytta (Archamytta) eburnea	Beier, 1965
+4ML6L	B7Z8G	accepted	species	Proamytta (Archamytta) simillima	Beier, 1965
+4ML6K	B7Z8G	accepted	species	Proamytta (Archamytta) kamerunensis	Beier, 1965
+4ML6N	8PW79	accepted	species	Proamytta (Proamytta) insularis	(Chopard, 1958)
+4ML6S	8PW79	accepted	species	Proamytta (Proamytta) spinifera	Naskrecki, 2008
+4ML6P	8PW79	accepted	species	Proamytta (Proamytta) reducta	Beier, 1965
+4ML6R	8PW79	accepted	species	Proamytta (Proamytta) sincera	Beier, 1965
+8NXWH	8PW79	synonym	genus	Proamytta	Beier, 1965
+4ML6Q	8PW79	accepted	species	Proamytta (Proamytta) simplicoides	Beier, 1965
+4ML6M	8PW79	accepted	species	Proamytta (Proamytta) brevipennis	(Chopard, 1945)
+4ML6T	8PW79	accepted	species	Proamytta (Proamytta) straminea	(Sjöstedt, 1912)
+6PJRH	6PJRF	synonym	species	Leptoteratura (Leptoteratura) taiwana	Yamasaki, 1987
+9GVK4	6PK3G	accepted	subspecies	Leptoteratura yaeyamana yaeyamana	Yamasaki, 1987
+9GVK3	6PK3G	accepted	subspecies	Leptoteratura yaeyamana donan	Yamasaki, 1988
+3TXTD	9GS9Q	synonym	species	Leptoteratura (Leptoteratura) sugonjaevi	Gorochov, 1994
+8PWR4	8PZRD	synonym	species	Alloteratura albicorne	(Motschulsky, 1866)
+3TXTC	8PZRD	synonym	species	Leptoteratura omeiensis	(Tinkham, 1956)
+3YLHY	8PZRD	synonym	species	Meconema albicorne	Motschulsky, 1866
+BXLVT	8PZRD	synonym	species	Leptoteratura (Leptoteratura) omeiensis	(Tinkham, 1956)
+7FXFC	8PZRD	synonym	species	Xiphidiopsis omeiensis	Tinkham, 1956
+8PWRR	8PZRD	synonym	species	Amytta albicorne	(Motschulsky, 1866)
+3TXT5	8PZRD	synonym	species	Leptoteratura (Leptoteratura) albicorne	(Motschulsky, 1866)
+3TXT8	3TXTV	synonym	species	Leptoteratura (Leptoteratura) jona	Yamasaki, 1987
+3TXTB	3TXTX	synonym	species	Leptoteratura (Leptoteratura) martynovi	Gorochov, 1998
+6PK3K	3TXTW	synonym	species	Leptoteratura (Leptoteratura) koncharangi	Gorochov, 1998
+3TXTF	6PK3F	synonym	species	Leptoteratura (Leptoteratura) triura	Liu, 1997
+3TXT9	9GS9P	synonym	species	Leptoteratura (Leptoteratura) kevani	Gorochov, 1998
+3TXT7	9GW72	synonym	species	Leptoteratura (Leptoteratura) emarginata	Liu, 2004
+7FX7N	8PWFS	accepted	species	Xizicus (Xizicus) proximus	Gorochov, 1998
+5CG9Y	8PWFS	accepted	species	Xizicus (Xizicus) daedalus	Gorochov, 2011
+8P2Y2	8PWFS	synonym	genus	Xizicus	Gorochov, 1993
+7G97N	8PWFS	accepted	species	Xizicus (Xizicus) tricercus	Feng, Shi & Mao, 2017
+5CG9Z	8PWFS	accepted	species	Xizicus (Xizicus) fascipes	(Bey-Bienko, 1955)
+8Q4ZF	8PVSZ	accepted	species	Xizicus (Axizicus) furcus	Cui, Liu & Shi, 2020
+9GV8X	8PVSZ	accepted	species	Xizicus (Axizicus) incisus	(Xia & Liu, 1990)
+9H3KR	8PVSZ	accepted	species	Xizicus (Axizicus) bifurcatus	(Liu, 2020)
+8PLHR	8PVSZ	accepted	species	Xizicus (Axizicus) andamanensis	(Kevan & Jin, 1993)
+5CG88	8PVSZ	accepted	species	Xizicus (Axizicus) sergeji	(Gorochov, 1998)
+5CG86	8PVSZ	accepted	species	Xizicus (Axizicus) falcatus	Chang, Du & Shi, 2013
+8P395	8PVSZ	synonym	genus	Axizicus	Gorochov, 1998
+8PLHT	8PVSZ	accepted	species	Xizicus (Axizicus) bispinus	Jiao & Shi, 2014
+8PLHY	8PVSZ	accepted	species	Xizicus (Axizicus) spinocercus	Jiao & Shi, 2013
+BSL3T	8PVSZ	synonym	subgenus	Eoxizicus (Axizicus)	Gorochov, 1998
+5CG9W	B7ZGK	accepted	species	Xizicus (Paraxizicus) furcistylus	Feng, Chang & Shi, 2016
+5CG9T	B7ZGK	accepted	species	Xizicus (Paraxizicus) anisocercus	Liu, 2004
+9H3D8	B7ZGK	accepted	species	Xizicus (Paraxizicus) anisyutkini	Gorochov, 2022
+7G8VZ	B7ZGK	accepted	species	Xizicus (Paraxizicus) biprocerus	(Shi & Zheng, 1996)
+BV6NP	B7ZGK	accepted	species	Xizicus (Paraxizicus) elongatus	Zhang & Bian, 2023
+5CG9V	B7ZGK	accepted	species	Xizicus (Paraxizicus) fallax	Wang, Jing, Liu & Li, 2014
+5CG9N	B7ZCD	accepted	species	Xizicus (Haploxizicus) hunanensis	(Xia & Liu, 1993)
+5CG9R	B7ZCD	accepted	species	Xizicus (Haploxizicus) spathulatus	(Tinkham, 1944)
+5CG9S	B7ZCD	accepted	species	Xizicus (Haploxizicus) szechwanensis	(Tinkham, 1944)
+5CG9Q	B7ZCD	accepted	species	Xizicus (Haploxizicus) maculatus	(Xia & Liu, 1993)
+5CG9C	BSLR6	accepted	species	Xizicus (Eoxizicus) tuberculatus	(Liu & Zhang, 2000)
+8Q4ZM	BSLR6	accepted	species	Xizicus (Eoxizicus) gaoligongshanensis	Cui, Liu & Shi, 2020
+5CG8F	BSLR6	accepted	species	Xizicus (Eoxizicus) danangi	Gorochov, 1998
+8PLJ2	BSLR6	accepted	species	Xizicus (Eoxizicus) choui	(Liu & Zhang, 2000)
+9H3J8	BSLR6	accepted	species	Xizicus (Eoxizicus) bihammeris	(Liu, 2020)
+8PLJR	BSLR6	accepted	species	Xizicus (Eoxizicus) simianshanensis	Wang & Shi, 2017
+8PLK3	BSLR6	accepted	species	Xizicus (Eoxizicus) wuzhishanensis	(Liu & Zhang, 2000)
+BTVGT	BSLR6	accepted	species	Xizicus (Eoxizicus) wuliangshanensis	Su, Duan, Liu & Chang, 2023
+5CG93	BSLR6	accepted	species	Xizicus (Eoxizicus) ryabovi	Gorochov, 2005
+8PLJM	BSLR6	accepted	species	Xizicus (Eoxizicus) meridianus	(Xia & Liu, 1990)
+5CG8Z	BSLR6	accepted	species	Xizicus (Eoxizicus) parallelus	(Liu & Zhang, 2000)
+5CG8W	BSLR6	accepted	species	Xizicus (Eoxizicus) megalobatus	(Xia & Liu, 1990)
+5CG92	BSLR6	accepted	species	Xizicus (Eoxizicus) rehni	(Tinkham, 1956)
+5CG9B	BSLR6	accepted	species	Xizicus (Eoxizicus) transversus	(Tinkham, 1944)
+8PLJ8	BSLR6	accepted	species	Xizicus (Eoxizicus) dubius	(Liu & Zhang, 2000)
+8PLJL	BSLR6	accepted	species	Xizicus (Eoxizicus) magnus	(Xia & Liu, 1993)
+8PWFN	BSLR6	synonym	subgenus	Eoxizicus (Eoxizicus)	Gorochov, 1993
+8Q4ZL	BSLR6	accepted	species	Xizicus (Eoxizicus) dentatus	Liu, Chen, Wang & Chang, 2019
+9H3MC	BSLR6	accepted	species	Xizicus (Eoxizicus) bothrocercus	Gorochov, 2022
+5CG8Y	BSLR6	accepted	species	Xizicus (Eoxizicus) orlovi	Gorochov, 2005
+5CG8S	BSLR6	accepted	species	Xizicus (Eoxizicus) kulingensis	(Tinkham, 1943)
+8PLJ7	BSLR6	accepted	species	Xizicus (Eoxizicus) divergentis	(Liu & Zhang, 2000)
+9H38K	BSLR6	accepted	species	Xizicus (Eoxizicus) fengyangshanensis	(Liu, Zhou & Bi, 2010)
+9GV8Y	BSLR6	accepted	species	Xizicus (Eoxizicus) juxta-furcus	(Xia & Liu, 1990)
+8Q4ZN	BSLR6	accepted	species	Xizicus (Eoxizicus) hsiehi	Liu, Chen, Wang & Chang, 2019
+8PLJK	BSLR6	accepted	species	Xizicus (Eoxizicus) laminatus	Shi, 2013
+9H394	BSLR6	accepted	species	Xizicus (Eoxizicus) reductus	Gorochov, 2022
+8Q4ZK	BSLR6	accepted	species	Xizicus (Eoxizicus) bimaculus	Liu, Chen, Wang & Chang, 2019
+5CG8Q	BSLR6	accepted	species	Xizicus (Eoxizicus) hue	Gorochov, 2005
+5CG8R	BSLR6	accepted	species	Xizicus (Eoxizicus) khaosoki	Gorochov, 1998
+5CG8D	BSLR6	accepted	species	Xizicus (Eoxizicus) coreanus	(Bey-Bienko, 1971)
+8PLJC	BSLR6	accepted	species	Xizicus (Eoxizicus) hainani	Gorochov & Kang, 2005
+8PLJV	BSLR6	accepted	species	Xizicus (Eoxizicus) streptocercus	Jiao & Shi, 2014
+9H3B6	BSLR6	accepted	species	Xizicus (Eoxizicus) robustocercus	Gorochov, 2022
+5CG8L	BSLR6	accepted	species	Xizicus (Eoxizicus) duplum	Gorochov, 1998
+8PLJ6	BSLR6	accepted	species	Xizicus (Eoxizicus) dischidus	Di, Han & Shi, 2015
+5CG8P	BSLR6	accepted	species	Xizicus (Eoxizicus) howardi	(Tinkham, 1956)
+8Q4ZP	BSLR6	accepted	species	Xizicus (Eoxizicus) lobicercus	Chen, Mao & Chang, 2019
+7FWVZ	BSLR6	accepted	species	Xizicus (Eoxizicus) tinkhami	(Bey-Bienko, 1962)
+9H224	BSLR6	accepted	species	Xizicus (Eoxizicus) concavilaminus	(Jin, 1999)
+8PLK2	BSLR6	accepted	species	Xizicus (Eoxizicus) uncicercus	Mao & Shi, 2015
+8PLJW	BSLR6	accepted	species	Xizicus (Eoxizicus) taiwanensis	Chang, Du & Shi, 2013
+8PLJS	BSLR6	accepted	species	Xizicus (Eoxizicus) simplicicercis	(Kevan & Jin, 1993)
+5CG8G	BSLR6	accepted	species	Xizicus (Eoxizicus) dao	Gorochov, 1998
+8PLJT	BSLR6	accepted	species	Xizicus (Eoxizicus) sinuatus	(Liu & Zhang, 2000)
+8PLK4	BSLR6	accepted	species	Xizicus (Eoxizicus) xiai	(Liu & Zhang, 2000)
+9GV8Z	BSLR6	accepted	species	Xizicus (Eoxizicus) lineosus	Gorochov & Kang, 2005
+5CG99	BSLR6	accepted	species	Xizicus (Eoxizicus) tam	Gorochov, 1998
+5CG9L	B7ZBZ	accepted	species	Xizicus (Furcixizicus) furcicercus	Gorochov, 2002
+9H3DJ	B7ZBZ	accepted	species	Xizicus (Furcixizicus) forcipa	(Shi & Chen, 2002)
+5CG9H	B7ZBZ	accepted	species	Xizicus (Furcixizicus) bilobus	(Bey-Bienko, 1962)
+5CG9M	B7ZBZ	accepted	species	Xizicus (Furcixizicus) siamensis	(Karny, 1926)
+9H3DM	B7ZBZ	accepted	species	Xizicus (Furcixizicus) singulus	(Shi, Bian & Chang, 2011)
+5CG9J	B7ZBZ	accepted	species	Xizicus (Furcixizicus) changi	Gorochov, 2002
+8Q4ZQ	B7ZBZ	accepted	species	Xizicus (Furcixizicus) omelkoi	Gorochov, 2019
+7FX7P	B7ZL6	accepted	species	Xizicus (Zangxizicus) quadrifascipes	Wang, Jing, Liu & Li, 2014
+7FWVP	B7ZL6	accepted	species	Xizicus (Zangxizicus) curvus	Chang & Shi, 2016
+7G8VP	B7ZL6	accepted	species	Xizicus (Zangxizicus) tibeticus	Wang, Jing, Liu & Li, 2014
+3YLHZ	3YLJ2	synonym	species	Meconema brevipenne	Yersin, 1860
+C7L8R	C7PMH	synonym	species	Locusta thalassina	DeGeer, 1773
+8PDRC	C7PMH	synonym	species	Meconema varium	
+3HGTK	C7PMH	synonym	species	Gryllus arboreus	Fuessly, 1775
+8PZYK	C7PMH	synonym	species	Meconema variatum	
+6QLGW	C7PMH	synonym	species	Locusta varia	Fabricius, 1775
+D9QS	D9S2	synonym	species	Amytta mutillata	Karsch, 1890
+5FKT9	D9S2	accepted	subspecies	Amyttosa mutillata mutillata	(Karsch, 1890)
+5FKT8	D9S2	accepted	subspecies	Amyttosa mutillata bubiana	(Bolívar, 1906)
+D9QV	D9S3	synonym	species	Amytta nimbana	Chopard, 1954
+7G9DS	B7ZCG	accepted	species	Xiphidiola (Hemidiola) emarginata	Gorochov, 2017
+7G9DT	B7ZCG	accepted	species	Xiphidiola (Hemidiola) minuta	Gorochov, 2017
+7FXDV	B7ZCG	accepted	species	Xiphidiola (Hemidiola) pulchra	Beier, 1967
+7FXDS	B7ZCG	accepted	species	Xiphidiola (Hemidiola) congica	Beier, 1965
+7G9DV	B7ZCG	accepted	species	Xiphidiola (Hemidiola) rhodei	(Beier, 1965)
+7FXDT	B7ZCG	accepted	species	Xiphidiola (Hemidiola) exorbitans	(Beier, 1965)
+7G9DW	8PWF5	accepted	species	Xiphidiola (Xiphidiola) aliquantula	(Karsch, 1893)
+BV3MM	8PWF5	accepted	species	Xiphidiola (Xiphidiola) concolor	Bolívar, 1906
+8P2XG	8PWF5	synonym	genus	Xiphidiola	Bolívar, 1906
+7FXDY	8PWF5	accepted	species	Xiphidiola (Xiphidiola) lobaticerca	Naskrecki, 2008
+BV6JQ	8PWF5	synonym	genus	Xyphidiola	Bolívar, 1906
+7G9DX	8PWF5	accepted	species	Xiphidiola (Xiphidiola) hokei	Naskrecki, 2008
+8PN33	8PWF5	synonym	genus	Amyttina	Beier, 1965
+7G9DB	B7Z9Z	accepted	species	Xiphidiola (Deinodiola) quadrimaculata	(Karny, 1911)
+7FXCZ	B7Z9Z	accepted	species	Xiphidiola (Deinodiola) ituriensis	(Rehn, 1914)
+7G9DH	B7Z9Z	accepted	species	Xiphidiola (Deinodiola) adunca	Gorochov, 2017
+7G9DJ	B7Z9Z	accepted	species	Xiphidiola (Deinodiola) dja	Gorochov, 2017
+7FXDB	B7Z9Z	accepted	species	Xiphidiola (Deinodiola) lobulata	Gorochov, 2017
+7FXDJ	B7Z9Z	accepted	species	Xiphidiola (Deinodiola) dispersa	(Beier, 1965)
+7G9CZ	B7Z9Z	accepted	species	Xiphidiola (Deinodiola) kivuensis	(Beier, 1965)
+5FZKV	6927Z	accepted	subspecies	Brachyamytta rapidoaestima speculifera	Gorochov, 2017
+7JGDL	6927Z	accepted	subspecies	Brachyamytta rapidoaestima rapidoaestima	Naskrecki, 2008
+9H2P6	9H2V2	synonym	species	Xiphidiopsis sarawaca	Bey-Bienko, 1971
+9H2P7	9H2V2	synonym	species	Xiphidiopsis (Xiphidiopsis) sarawaca	Bey-Bienko, 1971
+5CF4N	9H2TM	synonym	species	Xiphidiopsis borneensis	Karny, 1925
+8PLFX	8PXBP	synonym	species	Xiphidiopsis mjobergi	Karny, 1925
+C5W7K	8PXBP	synonym	species	Xiphidiopsis (Xiphidiopsis) mjobergi	Karny, 1925
+C8KVT	8PXBP	synonym	species	Xiphidiopsis mjöbergi	Karny, 1925
+8PLFL	8PXBN	synonym	species	Xiphidiopsis kinabaluana	Bey-Bienko, 1971
+D9RF	45QFR	synonym	species	Amyttacta farrelli	Naskrecki, Bazelet & Spearman, 2008
+D9RG	45QFS	synonym	species	Amyttacta marakelensis	Naskrecki, Bazelet & Spearman, 2008
+8PKHT	8PZWX	synonym	species	Teratura (Stenoteratura) yunnanea	(Bey-Bienko, 1957)
+8PLG8	8PZWX	synonym	species	Xiphidiopsis yunnanea	Bey-Bienko, 1957
+8PKHS	8PZWX	synonym	species	Teratura subtilis	Gorochov & Kang, 2005
+8PLFM	8PZWT	synonym	species	Xiphidiopsis kryzhanovskii	Bey-Bienko, 1957
+8PKHR	8PZWT	synonym	species	Teratura (Stenoteratura) kryzhanovskii	(Bey-Bienko, 1957)
+8PKHP	8PZWR	synonym	species	Teratura (Stenoteratura) bhutanica	Ingrisch, 2002
+8PKHQ	8PZWS	synonym	species	Teratura (Stenoteratura) janetscheki	(Bey-Bienko, 1968)
+8PLFK	8PZWS	synonym	species	Xiphidiopsis janetscheki	Bey-Bienko, 1968
+8PKHM	8PZWQ	synonym	species	Teratura (Macroteratura) thrinaca	Qiu & Shi, 2010
+8PZNR	8PZWN	synonym	species	Kuzicus (Macroteraturus) megafurcula	(Tinkham, 1944)
+8PLFR	8PZWN	synonym	species	Xiphidiopsis megafurcula	Tinkham, 1944
+8PKHL	8PZWN	synonym	species	Teratura (Macroteratura) megafurcula	(Tinkham, 1944)
+8P4XS	8PZWP	synonym	species	Alloteratura sinica	(Bey-Bienko, 1957)
+8P54X	8PZWP	synonym	species	Amytta sinica	Bey-Bienko, 1957
+8QHMH	46FNR	synonym	species	Neocyrtopsis emeishanensis	Shi, 2013
+46FNY	46FNR	synonym	species	Neocyrtopsis fallax	Wang & Liu, 2012
+46FDM	46FNR	synonym	species	Neocrytopsis (Neocrytopsis) fallax	Wang & Liu, 2012
+BWNM4	46FNT	synonym	species	Cyrtopsis (Neocyrtopsis) variabilis	Xia & Liu, 1993
+BZ7JF	46FNT	synonym	species	Cyrtopsis variabilis	Xia & Liu, 1993
+8Q2DN	46FNT	synonym	species	Neocyrtopsis variabilis	(Xia & Liu, 1993)
+8Q2DJ	46FNT	synonym	species	Neocrytopsis (Neocrytopsis) variabilis	(Xia & Liu, 1993)
+46FNZ	46FNS	synonym	species	Neocyrtopsis unicolor	Wang, Liu & Li, 2015
+9HRQ	46FNV	synonym	species	Acosmetura bilobata	Liu, Zhou & Bi, 2008
+6RW7R	46FNV	synonym	species	Neocyrtopsis (Paraneocrytopsis) bilobata	(Liu, Zhou & Bi, 2008)
+8Q2DM	46FNX	synonym	species	Neocyrtopsis (Paraneocrytopsis) yachowensis	(Tinkham, 1944)
+8PWJV	46FNX	synonym	species	Acosmetura yachowensis	(Tinkham, 1944)
+8Q4FX	46FNX	synonym	species	Thaumaspis yachowensis	(Tinkham, 1944)
+5CF8C	46FNX	synonym	species	Xiphidiopsis yachowensis	Tinkham, 1944
+5GTMX	6CFQP	accepted	subspecies	Decma (Decma) sulawesi sulawesi	Gorochov, 2012
+5GTMY	6CFQP	accepted	subspecies	Decma (Decma) sulawesi wuasa	Gorochov, 2012
+5CF3V	8PY6X	synonym	species	Xiphidiopsis sjostedti	Karny, 1927
+5CF4S	34DTX	synonym	species	Xiphidiopsis celebensis	Kästner, 1932
+5CF6B	34DTX	synonym	species	Xiphidiopsis inversa	Karny, 1907
+5CF4M	6CFPD	synonym	species	Xiphidiopsis bolivari	Karny, 1924
+BSZ53	34DTW	synonym	species	Decma fissa	(Xia & Liu, 1993)
+5CF5M	34DTW	synonym	species	Xiphidiopsis fissa	Xia & Liu, 1993
+5CF4J	6CFR2	synonym	species	Xiphidiopsis birmanica	Bey-Bienko, 1971
+5GTN2	6CFQR	accepted	subspecies	Decma (Neodecma) elefani orientale	Gorochov, 2012
+5GTMZ	6CFQR	accepted	subspecies	Decma (Neodecma) elefani elefani	Gorochov, 2004
+77BYH	4GJCW	synonym	species	Phlugiolopsis henryi	Zeuner, 1940
+77BYP	4GJDF	synonym	species	Phlugiolopsis yaeyamensis	Yamasaki, 1986
+4GJDK	4GJCM	synonym	species	Phlugiolopsis carinata	Wang, Li & Liu, 2012
+8Q33M	4GJCV	synonym	species	Phlugiolopsis grahami	(Tinkham, 1944)
+9WGR	4GJCV	synonym	species	Acyrtaspis grahami	(Tinkham, 1944)
+5CF5V	4GJCV	synonym	species	Xiphidiopsis grahami	Tinkham, 1944
+8PHDX	8Q33C	synonym	species	Phlugiolopsis punctata	Wang, Li & Liu, 2012
+8PHDK	8Q33B	synonym	species	Phlugiolopsis elongata	Bian, Shi & Chang, 2013
+8PHDZ	8Q33D	synonym	species	Phlugiolopsis tribranchis	Bian, Shi & Chang, 2012
+8PHDF	8Q339	synonym	species	Phlugiolopsis circolobosis	Bian, Shi & Chang, 2013
+8PHDG	8Q334	synonym	species	Phlugiolopsis complanispinis	Bian, Shi & Chang, 2013
+8PHDS	8Q336	synonym	species	Phlugiolopsis montana	Wang, Li & Liu, 2012
+8PHDV	8Q337	synonym	species	Phlugiolopsis pentagonis	Bian, Shi & Chang, 2013
+8PHDL	8Q335	synonym	species	Phlugiolopsis emarginata	Bian, Shi & Chang, 2013
+8PHDP	8QK76	synonym	species	Phlugiolopsis longiangulis	Bian, Shi & Chang, 2013
+8PHDY	8QHNL	synonym	species	Phlugiolopsis ramosissima	Wang, Li & Liu, 2012
+8PHDT	8QHNL	synonym	species	Phlugiolopsis pectinis	Bian, Shi & Chang, 2012
+8PHF3	8QJV6	synonym	species	Phlugiolopsis tuberculata	Xia & Liu, 1993
+8PHDJ	8QJF3	synonym	species	Phlugiolopsis digitusis	Bian, Shi & Chang, 2012
+8PHDD	8QK29	synonym	species	Phlugiolopsis chayuensis	Wang, Li & Liu, 2012
+8PHDN	8QKV3	synonym	species	Phlugiolopsis huangi	Bian, Shi & Chang, 2012
+8PHDM	8QJY5	synonym	species	Phlugiolopsis fallax	Xia & Liu, 1993
+8PLFV	8QJY5	synonym	species	Xiphidiopsis minuta	Tinkham, 1943
+8Q33N	8QJY5	synonym	species	Phlugiolopsis minuta	(Tinkham, 1943)
+8PLFW	8QJY5	synonym	species	Xiphidiopsis minutus	Tinkham, 1943
+8PHDC	8QKWY	synonym	species	Phlugiolopsis brevis	Xia & Liu, 1993
+8PG4F	8QKLZ	synonym	species	Omkoiana aculeata	Sänger & Helfert, 2002
+8PHF5	8QHKZ	synonym	species	Phlugiolopsis ventralis	Wang, Li & Liu, 2012
+8PHF7	8QJ79	synonym	species	Phlugiolopsis xinanensis	Bian, Shi & Chang, 2013
+8PHDQ	8QKS2	synonym	species	Phlugiolopsis longicerca	Wang, Li & Liu, 2012
+8PHF6	8QJPN	synonym	species	Phlugiolopsis vietnamica	Wang, Li & Liu, 2012
+8PHDH	8QJS7	synonym	species	Phlugiolopsis damingshanis	Bian, Shi & Chang, 2012
+8PHF4	8QJ2V	synonym	species	Phlugiolopsis uncicercis	Bian, Shi & Chang, 2013
+8PHF2	8QHVB	synonym	species	Phlugiolopsis trullis	Bian, Shi & Chang, 2012
+8PHDB	8Q33F	synonym	species	Phlugiolopsis adentis	Bian, Shi & Chang, 2012
+8PHF8	8Q33L	synonym	species	Phlugiolopsis yunnanensis	Shi & Ou, 2005
+8PHDR	8Q33J	synonym	species	Phlugiolopsis mistshenkoi	(Gorochov, 1993)
+8P4NL	8Q33J	synonym	species	Acyrtaspis mistshenkoi	Gorochov, 1993
+4D865	B7ZKC	accepted	species	Paraphisis (Tapangiphisis) chopardi	Jin, Kevan & Hsu, 1991
+4D866	B7ZKC	accepted	species	Paraphisis (Tapangiphisis) leawillia	Rentz, 2001
+4D867	B7ZKC	accepted	species	Paraphisis (Tapangiphisis) tryonensis	Jin, 1992
+4D864	B7ZKC	accepted	species	Paraphisis (Tapangiphisis) alumba	Rentz, 2001
+4D863	8PW4Q	accepted	species	Paraphisis (Paraphisis) truncata	Jin, 1992
+4D85Y	8PW4Q	accepted	species	Paraphisis (Paraphisis) spinicercis	Jin, Kevan & Hsu, 1991
+4D85T	8PW4Q	accepted	species	Paraphisis (Paraphisis) longipygida	Jin, 1992
+4D85X	8PW4Q	accepted	species	Paraphisis (Paraphisis) rubrosignata	(Bolívar, 1905)
+4D85Q	8PW4Q	accepted	species	Paraphisis (Paraphisis) helleri	Karny, 1912
+4D85Z	8PW4Q	accepted	species	Paraphisis (Paraphisis) trigonata	Jin, 1992
+4D85R	8PW4Q	accepted	species	Paraphisis (Paraphisis) lingulata	Jin, 1992
+4D862	8PW4Q	accepted	species	Paraphisis (Paraphisis) tropida	Jin, 1992
+4D85P	8PW4Q	accepted	species	Paraphisis (Paraphisis) arfakensis	Jin, 1992
+75QXH	8PW4Q	accepted	species	Paraphisis (Paraphisis) noonadanae	Kevan, 1992
+4D85M	8PW4Q	accepted	species	Paraphisis (Paraphisis) acanthiola	Jin, 1992
+4D85S	8PW4Q	accepted	species	Paraphisis (Paraphisis) longipennis	(Kästner, 1933)
+8NWYK	8PW4Q	synonym	genus	Paraphisis	Karny, 1912
+4D85W	8PW4Q	accepted	species	Paraphisis (Paraphisis) proxima	Jin, 1992
+4D85N	8PW4Q	accepted	species	Paraphisis (Paraphisis) acuminata	Jin, 1992
+4D85V	8PW4Q	accepted	species	Paraphisis (Paraphisis) pachycercata	Jin, 1992
+6TR9H	B7ZCJ	accepted	species	Paraphisis (Heterophisis) lynae	Rentz, 2001
+4D85K	B7ZCJ	accepted	species	Paraphisis (Heterophisis) wirreecoo	Rentz, 2001
+4D85D	B7ZCJ	accepted	species	Paraphisis (Heterophisis) listeri	(Kirby, 1888)
+4D85C	B7ZCJ	accepted	species	Paraphisis (Heterophisis) kurnkuni	Rentz, 2001
+4D85J	B7ZCJ	accepted	species	Paraphisis (Heterophisis) turnar	Rentz, 2001
+4D85F	B7ZCJ	accepted	species	Paraphisis (Heterophisis) modla	Rentz, 2001
+4D85L	B7ZCJ	accepted	species	Paraphisis (Heterophisis) wonnewarra	Rentz, 2001
+4D85G	B7ZCJ	accepted	species	Paraphisis (Heterophisis) nurragi	Rentz, 2001
+8Q2DT	8PW2J	accepted	species	Neophisis (Anaphisis) halmahera	Gorochov, 2012
+8Q2DV	8PW2J	accepted	species	Neophisis (Anaphisis) supiori	Gorochov, 2004
+8Q2DX	8PW2S	accepted	species	Neophisis (Platyphisis) arcuata	Jin, 1992
+8Q2DZ	8PW2S	accepted	species	Neophisis (Platyphisis) malaysiana	Gorochov, 2019
+8Q2F3	8PW2S	accepted	species	Neophisis (Platyphisis) siamensis	Jin, 1992
+8Q2DY	8PW2S	accepted	species	Neophisis (Platyphisis) haani	Jin, 1992
+8Q2F2	8PW2S	accepted	species	Neophisis (Platyphisis) sabah	Gorochov, 2012
+46Q5Z	B7ZDH	accepted	species	Neophisis (Megaphisis) salomonensis	Jin, 1992
+46Q5Y	B7ZDH	accepted	species	Neophisis (Megaphisis) echinata	(Redtenbacher, 1891)
+46Q5J	B7ZCS	accepted	species	Neophisis (Indophisis) gracilipennis	Jin, 1992
+46Q5S	B7ZCS	accepted	species	Neophisis (Indophisis) philippinarum	(Karny, 1920)
+46Q5K	B7ZCS	accepted	species	Neophisis (Indophisis) gracilipes	(Stål, 1877)
+46Q5T	B7ZCS	accepted	species	Neophisis (Indophisis) philorites	Jin, 1992
+46Q5N	B7ZCS	accepted	species	Neophisis (Indophisis) kotoshoensis	(Shiraki, 1930)
+46Q5Q	B7ZCS	accepted	species	Neophisis (Indophisis) meiopennis	Jin, 1992
+46Q5H	B7ZCS	accepted	species	Neophisis (Indophisis) curvata	Jin, 1992
+8Q2DW	B7ZCS	accepted	species	Neophisis (Indophisis) montealegrei	Tan, Jin, Baroga-Barbecho & Yap, 2020
+46Q5X	B7ZCS	accepted	species	Neophisis (Indophisis) tangkoko	Gorochov, 2012
+46Q5G	B7ZCS	accepted	species	Neophisis (Indophisis) brevipennis	(Kästner, 1933)
+B82CL	B7ZCS	synonym	subgenus	Neophisis (Indiophisis)	Jin, 1990
+46Q5M	B7ZCS	accepted	species	Neophisis (Indophisis) iriomotensis	Jin, Kevan & Yamasaki, 1990
+8PW2K	B7ZCS	synonym	subgenus	Neophisis (Indiophisis)	
+46Q5R	B7ZCS	accepted	species	Neophisis (Indophisis) mentawaiensis	Jin, 1992
+46Q5P	B7ZCS	accepted	species	Neophisis (Indophisis) longipennis	Jin, 1992
+46Q5V	B7ZCS	accepted	species	Neophisis (Indophisis) sarasini	(Karny, 1931)
+46Q66	8PW2R	accepted	species	Neophisis (Neophisis) curvicaudata	Jin, 1992
+46Q6C	8PW2R	accepted	species	Neophisis (Neophisis) longiplata	Jin, 1992
+46Q64	8PW2R	accepted	species	Neophisis (Neophisis) buloloensis	Jin, 1992
+7483H	8PW2R	accepted	species	Neophisis (Neophisis) megaurita	Jin, 1992
+46Q6H	8PW2R	accepted	species	Neophisis (Neophisis) phymacercata	Jin, 1992
+46Q6G	8PW2R	accepted	species	Neophisis (Neophisis) obiensis	(Hebard, 1922)
+46Q6J	8PW2R	accepted	species	Neophisis (Neophisis) pogonopoda	(Montrouzier, 1855)
+46Q6B	8PW2R	accepted	species	Neophisis (Neophisis) longifenestrata	Jin, 1992
+46Q62	8PW2R	accepted	species	Neophisis (Neophisis) arachnoides	(Bolívar, 1905)
+46Q63	8PW2R	accepted	species	Neophisis (Neophisis) brachyptera	Kevan, 1992
+46Q67	8PW2R	accepted	species	Neophisis (Neophisis) ecmurra	Rentz, 2001
+46Q6D	8PW2R	accepted	species	Neophisis (Neophisis) longistylata	Jin, 1992
+46Q6K	8PW2R	accepted	species	Neophisis (Neophisis) robusta	Jin, 1992
+46Q69	8PW2R	accepted	species	Neophisis (Neophisis) leptoptera	Jin, 1992
+747RH	8PW2R	accepted	species	Neophisis (Neophisis) longicercata	Jin, 1992
+46Q6F	8PW2R	accepted	species	Neophisis (Neophisis) novemspinata	Jin, 1992
+46Q65	8PW2R	accepted	species	Neophisis (Neophisis) crassipes	(Bolívar, 1905)
+48C35	B7Z9V	accepted	species	Oceaniphisis (Curtipenna) kororensis	Kevan, 1992
+48C37	8PW2Y	accepted	species	Oceaniphisis (Oceaniphisis) forficata	Jin, 1992
+48C38	8PW2Y	accepted	species	Oceaniphisis (Oceaniphisis) tongaensis	Jin, 1992
+8NW5R	8PW2Y	synonym	genus	Oceaniphisis	Jin, 1992
+48C36	8PW2Y	accepted	species	Oceaniphisis (Oceaniphisis) cookiensis	Jin, 1992
+76ZVR	68FJB	synonym	species	Phisis tardipes	Rentz, 1988
+G3PZ	B7Z98	accepted	species	Arachnoscelis (Centrophisis) feroxnotha	Bowen-Jones, 1994
+G3Q3	B7Z98	accepted	species	Arachnoscelis (Centrophisis) rehni	Randell, 1964
+G3Q2	B7Z98	accepted	species	Arachnoscelis (Centrophisis) magnifica	Hebard, 1927
+G3Q4	B7ZGT	accepted	species	Arachnoscelis (Peruphisis) meriti	Nickle, 2002
+G3Q5	B7ZGT	accepted	species	Arachnoscelis (Peruphisis) tanasijtshuki	Gorochov, 2012
+8NMHT	8PVLT	synonym	genus	Arachnoscelis	Karny, 1911
+G3PY	8PVLT	accepted	species	Arachnoscelis (Arachnoscelis) arachnoides	(Redtenbacher, 1891)
+34DVQ	B7ZBV	accepted	species	Decolya (Eusrilankana) roseopicta	Uvarov, 1927
+34DVP	B7ZBV	accepted	species	Decolya (Eusrilankana) phillipsi	Henry, 1934
+34DVR	B7ZBV	accepted	species	Decolya (Eusrilankana) splendens	Henry, 1932
+8PVQZ	B7ZBV	synonym	subgenus	Decolya (Srilankana)	Jin, 1992
+34DVN	B7ZBV	accepted	species	Decolya (Eusrilankana) petiyagallae	Henry, 1932
+34DVH	B7ZBV	accepted	species	Decolya (Eusrilankana) confusa	Henry, 1934
+34DVJ	B7ZBV	accepted	species	Decolya (Eusrilankana) elegans	Henry, 1934
+34DVS	B7ZBV	accepted	species	Decolya (Eusrilankana) uvarovi	Henry, 1932
+34DVL	B7ZBV	accepted	species	Decolya (Eusrilankana) kelletti	(Henry, 1932)
+34DVK	B7ZBV	accepted	species	Decolya (Eusrilankana) kalugallae	Kevan, 1992
+34DVM	B7ZBV	accepted	species	Decolya (Eusrilankana) mousakandae	Henry, 1934
+8NQN9	8PVQX	synonym	genus	Decolya	Bolívar, 1900
+34DVG	8PVQX	accepted	species	Decolya (Decolya) visenda	Bolívar, 1900
+76ZWC	69BQV	synonym	species	Phisis acutipennis	Carl, 1908
+76ZX6	69BR7	synonym	species	Phisis leontopolites	Karny, 1931
+34DVW	4CST4	synonym	species	Decolya inexspectata	Chopard, 1957
+8Q2RZ	4CST4	synonym	species	Paradecolya inexpectata	
+MYFP	4WZJQ	synonym	species	Brachyphisis visenda	(Bolívar, 1912)
+76ZVT	4WZJQ	synonym	species	Phisis visenda	Bolívar, 1912
+76ZX3	76ZVF	synonym	species	Phisis hebardi	Karny, 1926
+76ZX8	76ZX4	synonym	species	Phisis marquesana	Hebard, 1933
+8QHPQ	76ZW6	synonym	species	Phisis gilbertensis	Kevan, 1987
+47KSQ	76ZWZ	synonym	species	Nocera pallida	Walker, 1869
+55Y3X	76ZWZ	synonym	species	Teuthras pallida	(Walker, 1869)
+55Y3Z	76ZWZ	synonym	species	Teuthras rapax	Redtenbacher, 1891
+3VH8L	76ZVD	synonym	species	Listroscelis pectinata	Guérin-Méneville, 1832
+6QLG6	76ZVD	synonym	species	Locusta pectinata	(Guérin-Méneville, 1832)
+55Y3Y	76ZVD	synonym	species	Teuthras pectinata	(Guérin-Méneville, 1832)
+65GH7	B7ZCX	accepted	species	Afrophisis (Jinkevania) parva	Gorochov, 2017
+65GGV	B7ZCX	accepted	species	Afrophisis (Jinkevania) leptopennis	Jin & Kevan, 1991
+65GH2	8PVK2	accepted	species	Afrophisis (Afrophisis) kisarawe	Hemp, 2013
+65GGP	8PVK2	accepted	species	Afrophisis (Afrophisis) tanzanica	Jin & Kevan, 1991
+8NLMB	8PVK2	synonym	genus	Afrophisis	Jin & Kevan, 1991
+65GFK	8PVK2	accepted	species	Afrophisis (Afrophisis) dumosa	(Karsch, 1896)
+65GFJ	8PVK2	accepted	species	Afrophisis (Afrophisis) carminator	(Bolívar, 1906)
+65GH3	8PVK2	accepted	species	Afrophisis (Afrophisis) pseudoflagellata	Hemp, 2013
+65GGQ	8PVK2	accepted	species	Afrophisis (Afrophisis) flagellata	Hemp, 2013
+65GGR	8PVK2	accepted	species	Afrophisis (Afrophisis) mazumbaiensis	Hemp, 2013
+65GH6	8PVK2	accepted	species	Afrophisis (Afrophisis) undosa	Hemp, 2017
+76ZVQ	4T8VF	synonym	species	Phisis spinifera	Butler, 1876
+8Q4FH	4T8VF	synonym	species	Teuthras spinifer	
+8Q2S2	4T8VF	synonym	species	Paradecolya spinifera	(Butler, 1876)
+4CPY9	4CPY8	synonym	species	Paracilacris lateralis	Chopard, 1955
+75NKB	4CPY5	synonym	species	Paracilacris mordax	Naskrecki, Bazelet & Spearman, 2008
+4CPYB	4CPY7	synonym	species	Paracilacris periclitatus	Naskrecki, Bazelet & Spearman, 2008
+64J52	64J5H	synonym	species	Acilacris kristinae	Naskrecki, 1996
+64J4P	64J5G	synonym	species	Acilacris obovatus	Naskrecki, 1996
+64J4S	64J4H	synonym	species	Acilacris tridens	Bolívar, 1890
+64J4N	64J5C	synonym	species	Acilacris furcatus	Naskrecki, 1996
+684SS	64J4K	synonym	species	Aroegas dilatatus	Naskrecki, 1996
+GTNG	64J4M	synonym	species	Aroegas nigroornatus	Péringuey, 1916
+GTNF	64J4J	synonym	species	Aroegas fuscus	Naskrecki, 1996
+GTNH	64J4L	synonym	species	Aroegas rentzi	Naskrecki, 1996
+8P4XN	8Q65K	synonym	species	Alloteratura angulata	Jin, 1995
+8P4XL	8Q65K	synonym	species	Alloteratura (Alloteratura) angulata	Jin, 1995
+8P4XT	5FHVR	synonym	species	Alloteratura triloba	(Karny, 1926)
+DXZ7	DXYR	synonym	species	Anepitacta bicaudata	Beier, 1965
+DXZ8	DXYX	synonym	species	Anepitacta contaminata	Karsch, 1893
+5CF6T	DXYX	synonym	species	Xiphidiopsis lineatus	Bolívar, 1906
+DXZD	DXYX	synonym	species	Anepitacta inconspicua	Brunner von Wattenwyl, 1891
+D9QH	DXYX	synonym	species	Amytta inconspicua	(Brunner von Wattenwyl, 1891)
+8PWYM	DXYV	synonym	species	Anepitacta guentheri	Gorochov, 1994
+5V2RL	DXYY	synonym	species	Anepitacta lomana	Roy, 1971
+DXZ9	DXYS	synonym	species	Anepitacta egestoides	Beier, 1967
+66GKS	DXYT	synonym	species	Amytta egestosa	(Karsch, 1893)
+6733K	DXYT	synonym	species	Anepitacta egestosa	Karsch, 1893
+DXZB	672RK	synonym	species	Anepitacta gaillardi	Roy, 1967
+DXZC	DXYW	synonym	species	Anepitacta guineensis	Beier, 1965
+BZ2FF	8PWYK	synonym	species	Anepitacta nigerica	Beier, 1965
+BWJL4	8PWYK	synonym	species	Anepitacta (Anepitacta) nigerica	Beier, 1965
+8Q4C6	8PWYK	synonym	species	Teratacta nigerica	(Beier, 1965)
+5FM9F	DXZ4	synonym	subspecies	Anepitacta nigerica katangica	Beier, 1965
+3DFPJ	9GV73	synonym	species	Euxiphidiopsis zubovskyi	(Gorochov, 1993)
+3DFP8	7FXGS	synonym	species	Euxiphidiopsis motshulskyi	(Gorochov, 1993)
+5CG9X	9GV72	synonym	species	Xizicus (Paraxizicus) tonicosa	(Shi & Chen, 2002)
+7FXFD	9GV72	synonym	species	Xiphidiopsis tonicosa	Shi & Chen, 2002
+9H3C8	9GV72	synonym	species	Euxiphidiopsis (Euxiphidiopsis) tonicosa	(Shi & Chen, 2002)
+4DJ4F	9H398	synonym	species	Paraxizicus trilobus	Shi, Bian & Chang, 2011
+3DFPG	9H398	synonym	species	Euxiphidiopsis trilobus	(Shi, Bian & Chang, 2011)
+3DFP5	7G9H3	synonym	species	Euxiphidiopsis haudlata	(Gorochov, 1994)
+8Q4WY	7G9H3	synonym	species	Xiphidiopsis haudlata	Gorochov, 1994
+5CF6Q	8Q4W9	synonym	species	Xiphidiopsis lacusicerca	Shi, Zheng & Jiang, 1995
+4DJ4B	8Q4W9	synonym	species	Paraxizicus lacusicerca	(Shi, Zheng & Jiang, 1995)
+3DFP7	8Q4W9	synonym	species	Euxiphidiopsis lacusicerca	(Shi, Zheng & Jiang, 1995)
+6TRVF	9GV6Z	synonym	species	Paraxizicus spathulata	Mao & Shi, 2007
+3DFPF	9GV6Z	synonym	species	Euxiphidiopsis spathulata	(Mao & Shi, 2007)
+5CF7L	8Q4WC	synonym	species	Xiphidiopsis platycerca	Bey-Bienko, 1962
+9H2SC	9GV6X	synonym	species	Euxiphidiopsis (Euxiphidiopsis) impressa	(Bey-Bienko, 1962)
+5CF68	9GV6X	synonym	species	Xiphidiopsis impressa	Bey-Bienko, 1962
+5CF4Z	9GV6V	synonym	species	Xiphidiopsis compacta	Sänger & Helfert, 2004
+3DFNY	9H3L5	synonym	species	Euxiphidiopsis damingshanensis	Shi & Han, 2014
+3DFP9	8Q4WB	synonym	species	Euxiphidiopsis nigrovittata	(Bey-Bienko, 1962)
+5CF7C	8Q4WB	synonym	species	Xiphidiopsis nigrovittata	Bey-Bienko, 1962
+3DFNZ	9H3CF	synonym	species	Euxiphidiopsis erromena	Shi & Mao, 2014
+3DFP2	7G9GR	synonym	species	Euxiphidiopsis eversmanni	(Gorochov, 1993)
+C258	9H37Q	synonym	species	Alloxiphidiopsis ovalis	Liu & Zhang, 2007
+7G9GT	9GV6R	synonym	species	Xiphidiopsis (Xiphidiopsis) altiterga	Sänger & Helfert, 1998
+5CF4B	9GV6R	synonym	species	Xiphidiopsis altiterga	Sänger & Helfert, 1998
+BWQ6T	9H3D3	synonym	species	Euxiphidiopsis (Euxiphidiopsis) quadridentata	Liu & Zhang, 2000
+8PLJB	9H3D3	synonym	species	Xizicus furcutus	Jiao & Shi, 2014
+BZDM9	9H3D3	synonym	species	Euxiphidiopsis quadridentata	Liu & Zhang, 2000
+8PLDW	9GW9C	synonym	species	Xiphidiopsis (Xiphidiopsis) protensus	Han, Chang & Shi, 2015
+9GW6S	9GW9C	synonym	species	Euxiphidiopsis (Euxiphidiopsis) protensus	(Han, Chang & Shi, 2015)
+4DJ4C	9GV6Y	synonym	species	Paraxizicus sinensis	(Tinkham, 1944)
+5CF7W	9GV6Y	synonym	species	Xiphidiopsis sinensis	Tinkham, 1944
+3DFPC	9GV6Y	synonym	species	Euxiphidiopsis sinensis	(Tinkham, 1944)
+8PLFG	9GV6W	synonym	species	Xiphidiopsis gurneyi	Tinkham, 1944
+8PLDR	9GV6W	synonym	species	Xiphidiopsis (Xiphidiopsis) gurneyi	Tinkham, 1944
+8PYX5	9GV6W	synonym	species	Euxiphidiopsis gurneyi	(Tinkham, 1944)
+5CF5K	7G9H2	synonym	species	Xiphidiopsis fanjingshanensis	Shi & Du, 2006
+7G97Z	7FXGR	synonym	species	Xizicus (Xizicus) ikonnikovi	Gorochov, 1993
+8PLHZ	9H3J5	synonym	species	Xizicus (Eoxizicus) abnormalis	Gorochov & Kang, 2005
+8QJ22	9H3J5	synonym	species	Xizicus abnormalis	Gorochov, 2002
+5CF5H	5CF2T	synonym	species	Xiphidiopsis exigua	Karny, 1926
+5CF7F	5CF3N	synonym	species	Xiphidiopsis parallela	Bey-Bienko, 1962
+5CF5C	5CF2N	synonym	species	Xiphidiopsis drepanophora	Hebard, 1922
+7FXFH	7FXH5	synonym	species	Xiphidiopsis alatissima	Karny, 1907
+5CF6Y	7FXFG	synonym	species	Xiphidiopsis malabarica	Kevan & Jin, 1993
+5CF6C	8Q4WM	synonym	species	Xiphidiopsis irregularis	Bey-Bienko, 1962
+C256	8Q4WM	synonym	species	Alloxiphidiopsis irregularis	(Bey-Bienko, 1962)
+5CF82	5CF3W	synonym	species	Xiphidiopsis straminula	(Walker, 1871)
+72LHB	5CF3W	synonym	species	Locusta straminula	Walker, 1871
+5CF6L	7G9FF	synonym	species	Xiphidiopsis kraussi	Karny, 1924
+8QKPN	8Q4WN	synonym	species	Xiphidiopsis inflata	Jin, 2020
+5CF5G	5CF2S	synonym	species	Xiphidiopsis excavata	Xia & Liu, 1993
+5CF85	5CF3Y	synonym	species	Xiphidiopsis sumatrensis	Karny, 1924
+5CF4C	5CF24	synonym	species	Xiphidiopsis anomala	Kevan & Jin, 1993
+7FXFB	5CF3C	synonym	species	Xiphidiopsis lita	Hebard, 1922
+8PLF2	9GV6S	synonym	species	Xiphidiopsis appendiculata	Tinkham, 1944
+8PLHS	9GV6S	synonym	species	Xizicus (Axizicus) appendiculata	(Tinkham, 1944)
+7FXFK	9GV6S	synonym	species	Xiphidiopsis elongata	Xia & Liu, 1993
+5CF6F	5CF37	synonym	species	Xiphidiopsis jinxiuensis	Xia & Liu, 1990
+8QKWJ	5CF37	synonym	species	Xiphidiopsis fischerwaldheimi	Gorochov, 1993
+5CF67	5CF33	synonym	species	Xiphidiopsis hwangi	Bey-Bienko, 1962
+5CF7G	5CF3Q	synonym	species	Xiphidiopsis phyllocercus	Karny, 1907
+5CF5J	7FXFF	synonym	species	Xiphidiopsis fallax	Redtenbacher, 1891
+5CF55	5CF2J	synonym	species	Xiphidiopsis cyclolobia	Karny, 1923
+5CF6R	5CF3B	synonym	species	Xiphidiopsis lata	Bey-Bienko, 1962
+7G9FJ	5CF2L	synonym	species	Xiphidiopsis dissita	Gorochov, 1998
+5CF59	5CF2K	synonym	species	Xiphidiopsis dicera	Hebard, 1922
+5CF4K	7FXH6	synonym	species	Xiphidiopsis bituberculata	Ebner, 1939
+5CF5Z	5CF32	ambiguous synonym	species	Xiphidiopsis hebardi	Karny, 1924
+5CF48	7G9H4	synonym	species	Xiphidiopsis adelungi	Gorochov, 1993
+5CF7R	5CF3S	synonym	species	Xiphidiopsis redtenbacheri	Karny, 1924
+5CF5Q	5CF2W	synonym	species	Xiphidiopsis forficula	Uvarov, 1923
+8PM8M	8Q4WP	synonym	subspecies	Xiphidiopsis (Xiphidiopsis) beybienkoi mada	Gorochov, 2016
+5CF7D	5CF3L	synonym	species	Xiphidiopsis ocellata	Bey-Bienko, 1971
+5CF7B	5CF3K	synonym	species	Xiphidiopsis nepalensis	Kevan & Jin, 1993
+5LT4Q	5CF26	accepted	subspecies	Xiphidiopsis (Xiphidiopsis) beybienkoi thaica	Gorochov, 2016
+9H2W8	5CF26	accepted	subspecies	Xiphidiopsis (Xiphidiopsis) beybienkoi adjacens	Gorochov, 2022
+5LT4N	5CF26	accepted	subspecies	Xiphidiopsis (Xiphidiopsis) beybienkoi beybienkoi	Gorochov, 1993
+9H2WL	5CF26	accepted	subspecies	Xiphidiopsis (Xiphidiopsis) beybienkoi namlik	Gorochov, 2022
+8PLDL	5CF23	synonym	species	Xiphidiopsis (Xiphidiopsis) anisolobulus	Han, Chang & Shi, 2015
+5CF84	5CF3X	synonym	species	Xiphidiopsis sulcata	Xia & Liu, 1990
+5CF6J	5CF38	synonym	species	Xiphidiopsis kemneri	Ander, 1937
+8PLG2	5CF38	ambiguous synonym	species	Xiphidiopsis picta	
+5CF4X	5CF2F	synonym	species	Xiphidiopsis citrina	Redtenbacher, 1891
+7G9FH	5CF25	synonym	species	Xiphidiopsis autumnalis	Gorochov, 1998
+8Q4W7	5CF25	synonym	species	Xiphidiopsis (Euxiphidiopsis) autumnalis	Gorochov, 1998
+C257	9H3LM	synonym	species	Alloxiphidiopsis longicauda	Liu & Zhang, 2007
+5CF5W	5CF2Y	synonym	species	Xiphidiopsis greeni	Uvarov, 1923
+5CF79	5CF3H	synonym	species	Xiphidiopsis monstrosa	Karny, 1924
+4ML6V	4ML6J	synonym	species	Proamytta eburnea	Beier, 1965
+4ML6Z	4ML6L	synonym	species	Proamytta simillima	Beier, 1965
+4ML6X	4ML6K	synonym	species	Proamytta kamerunensis	Beier, 1965
+7FXFL	4ML6N	synonym	species	Xiphidiopsis insularis	Chopard, 1958
+4ML6W	4ML6N	synonym	species	Proamytta insularis	(Chopard, 1958)
+4ML6Y	4ML6P	synonym	species	Proamytta reducta	Beier, 1965
+4ML73	4ML6R	synonym	species	Proamytta sincera	Beier, 1965
+4ML72	4ML6Q	synonym	species	Proamytta simplicoides	Beier, 1965
+6VYD6	4ML6M	synonym	species	Proamytta brevipennis	(Chopard, 1945)
+66GL3	4ML6M	synonym	species	Amytta brevipennis	Chopard, 1945
+D9R6	4ML6T	synonym	species	Amytta straminea	Sjöstedt, 1912
+4ML74	4ML6T	synonym	species	Proamytta straminea	(Sjöstedt, 1912)
+3TXTT	9GVK3	synonym	species	Leptoteratura donan	Yamasaki, 1988
+8Q4ZR	5CG9Z	synonym	species	Xizicus fascipes	(Bey-Bienko, 1955)
+5CF5L	5CG9Z	synonym	species	Xiphidiopsis fascipes	Bey-Bienko, 1955
+9H2TK	9GV8X	accepted	subspecies	Xizicus (Axizicus) incisus laticercus	Gorochov, 2022
+9H2WP	9GV8X	accepted	subspecies	Xizicus (Axizicus) incisus incisus	(Xia & Liu, 1990)
+BTHP7	9GV8X	synonym	species	Xiphidiopsis incisa	Xia & Liu, 1990
+8PYL8	9H3KR	synonym	species	Eoxizicus (Axizicus) bifurcatus	Liu, 2020
+8P4XM	8PLHR	synonym	species	Alloteratura andamanensis	Kevan & Jin, 1993
+8P6N3	8PLHR	synonym	species	Axizicus andamanensis	(Kevan & Jin, 1993)
+8P6N4	5CG88	synonym	species	Axizicus sergeji	Gorochov, 1998
+8PLHV	5CG86	synonym	species	Xizicus (Axizicus) falcata	Chang, Du & Shi, 2013
+5CF29	7G8VZ	synonym	species	Xiphidiopsis (Xiphidiopsis) biprocera	Shi & Zheng, 1996
+5CF66	5CG9N	synonym	species	Xiphidiopsis hunanensis	Xia & Liu, 1993
+8PYMY	5CG9R	synonym	species	Eoxizicus spathulata	(Tinkham, 1944)
+8PX7V	5CG9R	synonym	species	Axizicus spathulata	(Tinkham, 1944)
+5CF7Y	5CG9R	synonym	species	Xiphidiopsis spathulata	Tinkham, 1944
+8Q4ZG	5CG9R	synonym	species	Xizicus (Axizicus) spathulatus	(Tinkham, 1944)
+8PYX7	5CG9S	synonym	species	Euxiphidiopsis szechwanensis	(Tinkham, 1944)
+8Q4ZH	5CG9S	synonym	species	Xizicus szechwanensis	(Tinkham, 1944)
+5CF87	5CG9S	synonym	species	Xiphidiopsis szechwanensis	Tinkham, 1944
+BTCST	5CG9S	synonym	species	Xizicus (Axizicus) szechwanensis	(Tinkham, 1944)
+5CF6W	5CG9Q	synonym	species	Xiphidiopsis maculata	Xia & Liu, 1993
+8PX7T	5CG9Q	synonym	species	Axizicus maculata	(Xia & Liu, 1993)
+8P9KN	5CG9C	synonym	species	Eoxizicus tuberculatus	Liu & Zhang, 2000
+8PYMX	5CG8F	synonym	species	Eoxizicus danangi	(Gorochov, 1998)
+8P9KH	8PLJ2	synonym	species	Eoxizicus choui	Liu & Zhang, 2000
+8PYLJ	9H3J8	synonym	species	Eoxizicus (Eoxizicus) bihammeris	Liu, 2020
+8P9KP	8PLK3	synonym	species	Eoxizicus wuzhishanensis	Liu & Zhang, 2000
+8PLFT	8PLJM	synonym	species	Xiphidiopsis meridiana	Xia & Liu, 1990
+8P9KL	5CG8Z	synonym	species	Eoxizicus parallelus	Liu & Zhang, 2000
+8PLFS	5CG8W	synonym	species	Xiphidiopsis megalobata	Xia & Liu, 1990
+8PLG3	5CG92	synonym	species	Xiphidiopsis rehni	Tinkham, 1956
+8PLG7	5CG9B	synonym	species	Xiphidiopsis transversa	Tinkham, 1944
+8P9KK	8PLJ8	synonym	species	Eoxizicus dubius	Liu & Zhang, 2000
+8PLDS	8PLJL	synonym	species	Xiphidiopsis magna	Xia & Liu, 1993
+5CF3D	8PLJL	synonym	species	Xiphidiopsis (Xiphidiopsis) magna	Xia & Liu, 1993
+8PLFN	5CG8S	synonym	species	Xiphidiopsis kulingensis	Tinkham, 1943
+8P9KJ	8PLJ7	synonym	species	Eoxizicus divergentis	Liu & Zhang, 2000
+8PYLW	9H38K	synonym	species	Eoxizicus (Eoxizicus) fengyangshanensis	Liu, Zhou & Bi, 2010
+5CF6H	9GV8Y	synonym	species	Xiphidiopsis juxta-furca	Xia & Liu, 1990
+9H2S7	9GV8Y	synonym	species	Eoxizicus (Eoxizicus) juxta-furca	(Xia & Liu, 1990)
+7FWVN	9GV8Y	synonym	species	Xizicus (Xizicus) juxta-furcus	(Xia & Liu, 1990)
+7G97Y	8PLJK	synonym	species	Xizicus laminatus	Shi, 2013
+8PYMW	5CG8D	synonym	species	Eoxizicus coreana	(Bey-Bienko, 1971)
+8PLF9	5CG8D	synonym	species	Xiphidiopsis coreana	Bey-Bienko, 1971
+9H3LF	8PLJC	synonym	species	Euxiphidiopsis (Euxiphidiopsis) hainani	(Gorochov & Kang, 2005)
+6FLSN	5CG8L	synonym	species	Eoxizicus (Eoxizicus) duplum	(Gorochov, 1998)
+8QHTG	5CG8P	synonym	species	Eoxizicus howardi	(Tinkham, 1956)
+8PYM2	5CG8P	synonym	species	Eoxizicus (Eoxizicus) howardi	(Tinkham, 1956)
+8Q4ZS	5CG8P	synonym	species	Xizicus howardi	(Tinkham, 1956)
+8PLFJ	5CG8P	synonym	species	Xiphidiopsis howardi	Tinkham, 1956
+8PLFH	7FWVZ	ambiguous synonym	species	Xiphidiopsis hebardi	Tinkham, 1956
+8PLG6	7FWVZ	synonym	species	Xiphidiopsis tinkhami	Bey-Bienko, 1962
+6FM4N	7FWVZ	synonym	species	Eoxizicus (Eoxizicus) tinkhami	(Bey-Bienko, 1962)
+8PYLN	9H224	synonym	species	Eoxizicus (Eoxizicus) concavilamina	(Jin, 1999)
+8Q4WV	9H224	synonym	species	Xiphidiopsis concavilamina	Jin, 1999
+8PLFQ	9H224	synonym	species	Xiphidiopsis latilamella	Mu, He & Wang, 2000
+8P6N5	8PLJS	synonym	species	Axizicus simplicicercis	(Kevan & Jin, 1993)
+8P4XR	8PLJS	synonym	species	Alloteratura simplicicercis	Kevan & Jin, 1993
+6FM4K	5CG8G	synonym	species	Eoxizicus (Eoxizicus) dao	(Gorochov, 1998)
+8P9KM	8PLJT	synonym	species	Eoxizicus sinuatus	Liu & Zhang, 2000
+BWPNF	8PLK4	synonym	species	Eoxizicus (Axizicus) xiai	Liu & Zhang, 2000
+8P9KC	8PLK4	synonym	species	Eoxizicus (Eoxizicus) curvicercus	Wang, Liu & Li, 2015
+BZBWC	8PLK4	synonym	species	Eoxizicus xiai	Liu & Zhang, 2000
+9GW6N	9GV8Z	synonym	species	Eoxizicus (Eoxizicus) lineosus	(Gorochov & Kang, 2005)
+8PLHW	9GV8Z	synonym	species	Xizicus (Axizicus) lineosus	Gorochov & Kang, 2005
+7647D	9H3DJ	synonym	species	Paraxizicus forcipa	(Shi & Chen, 2002)
+3DFP3	9H3DJ	synonym	species	Euxiphidiopsis forcipa	(Shi & Chen, 2002)
+5CF5N	9H3DJ	synonym	species	Xiphidiopsis forcipa	Shi & Chen, 2002
+8Q4ZJ	5CG9H	synonym	species	Xizicus (Eoxizicus) bilobus	(Bey-Bienko, 1962)
+5CF4H	5CG9H	synonym	species	Xiphidiopsis biloba	Bey-Bienko, 1962
+5CF7V	5CG9M	synonym	species	Xiphidiopsis siamensis	Karny, 1926
+3DFPD	9H3DM	synonym	species	Euxiphidiopsis singulus	(Shi, Bian & Chang, 2011)
+4DJ4D	9H3DM	synonym	species	Paraxizicus singulus	Shi, Bian & Chang, 2011
+D9Q9	5FKT9	synonym	species	Amytta angulata	Chopard, 1945
+5CF77	5FKT9	synonym	species	Xiphidiopsis mitratus	Bolívar, 1906
+BZX5Q	5FKT8	synonym	species	Xiphidiopsis bubianus	Bolívar, 1906
+BX4KM	5FKT8	synonym	species	Xiphidiopsis bubiana	Bolívar, 1906
+BX4KJ	7FXDV	synonym	species	Xiphidiola (Xiphidiola) pulchra	Beier, 1967
+BZX5L	7FXDV	synonym	species	Xiphidiola pulchra	Beier, 1967
+7G9DZ	7FXDS	synonym	species	Xiphidiola congica	Beier, 1965
+D9RR	7G9DV	synonym	species	Amyttina rhodei	Beier, 1965
+7FXDP	7G9DV	synonym	species	Xiphidiola rhodei	(Beier, 1965)
+7G9DK	7FXDT	synonym	species	Xiphidiola exorbitans	(Beier, 1965)
+D9RP	7FXDT	synonym	species	Amyttina exorbitans	Beier, 1965
+8Q4VL	7FXDT	synonym	species	Xiphidiola (Xiphidiola) exorbitans	(Beier, 1965)
+DXZ6	7G9DW	synonym	species	Anepitacta aliquantula	Karsch, 1893
+5LT4H	7G9DW	accepted	subspecies	Xiphidiola (Xiphidiola) aliquantula schoutedeni	(Beier, 1965)
+5LT4G	7G9DW	accepted	subspecies	Xiphidiola (Xiphidiola) aliquantula nigrospinosa	Bolívar, 1906
+5LT4F	7G9DW	accepted	subspecies	Xiphidiola (Xiphidiola) aliquantula aliquantula	(Karsch, 1893)
+BV3ML	BV3MM	synonym	species	Xiphidiola concolor	Bolívar, 1906
+7G9DM	7FXDY	synonym	species	Xiphidiola lobaticerca	Naskrecki, 2008
+7FXDL	7G9DX	synonym	species	Xiphidiola hokei	Naskrecki, 2008
+5LT4D	7G9DB	accepted	subspecies	Xiphidiola (Deinodiola) quadrimaculata immaculata	Gorochov, 2017
+5CF7N	7G9DB	synonym	species	Xiphidiopsis quadrimaculata	Karny, 1911
+7KWDW	7G9DB	accepted	subspecies	Xiphidiola (Deinodiola) quadrimaculata quadrimaculata	(Karny, 1911)
+BTHNY	7G9DB	synonym	species	Xiphidiola quadrimaculata	(Karny, 1911)
+BSV2J	7G9DB	synonym	species	Amyttina quadrimaculata	(Karny, 1911)
+5CF6D	7FXCZ	synonym	species	Xiphidiopsis ituriensis	Rehn, 1914
+7G9DL	7FXCZ	synonym	species	Xiphidiola ituriensis	(Rehn, 1914)
+7FXDK	7FXDJ	synonym	species	Xiphidiola dispersa	(Beier, 1965)
+D9RN	7FXDJ	synonym	species	Amyttina dispersa	Beier, 1965
+D9RQ	7G9CZ	synonym	species	Amyttina kivuensis	Beier, 1965
+7FXDM	7G9CZ	synonym	species	Xiphidiola kivuensis	(Beier, 1965)
+4D868	4D865	synonym	species	Paraphisis chopardi	Jin, Kevan & Hsu, 1991
+76ZWG	4D865	ambiguous synonym	species	Phisis brevipennis	Chopard, 1951
+BSMB2	4D865	synonym	species	Paraphisis (Heterophisis) chopardi	Jin, Kevan & Hsu, 1991
+4D85H	4D867	synonym	species	Paraphisis (Heterophisis) tryonensis	Jin, 1992
+75R9H	4D85Y	synonym	species	Paraphisis spinicercis	Jin, Kevan & Hsu, 1991
+76ZVM	4D85X	synonym	species	Phisis rubrosignatus	(Bolívar, 1905)
+55Y42	4D85X	synonym	species	Teuthras rubrosignatus	Bolívar, 1905
+4D869	4D85Q	synonym	species	Paraphisis helleri	Karny, 1912
+8Q2VW	75QXH	synonym	species	Paraphisis noonadanae	Kevan, 1992
+76ZWW	4D85S	synonym	species	Phisis longipennis	Kästner, 1933
+76ZWV	4D85D	synonym	species	Phisis listeri	Kirby, 1888
+BT6XZ	8Q2DT	synonym	species	Neophisis (Neophisis) halmahera	Gorochov, 2012
+BT6Y3	8Q2DV	synonym	species	Neophisis (Neophisis) supiori	Gorochov, 2004
+8PFPX	8Q2DX	synonym	species	Neophisis (Indophisis) arcuata	Jin, 1992
+BWVRK	8Q2F3	synonym	species	Neophisis (Indophisis) siamensis	Jin, 1992
+BZL54	8Q2F3	synonym	species	Neophisis siamensis	Jin, 1992
+8Q6BT	8Q2DY	accepted	subspecies	Neophisis (Platyphisis) haani haani	Jin, 1992
+8Q6BV	8Q2DY	accepted	subspecies	Neophisis (Platyphisis) haani matang	Gorochov, 2012
+8PFPY	8Q2DY	synonym	species	Neophisis (Indophisis) haani	Jin, 1992
+BT6Y2	8Q2F2	synonym	species	Neophisis (Indophisis) sabah	Gorochov, 2012
+55Y3V	46Q5Y	synonym	species	Teuthras echinatus	Redtenbacher, 1891
+76ZWQ	46Q5Y	synonym	species	Phisis echinatus	(Redtenbacher, 1891)
+76ZVG	46Q5S	synonym	species	Phisis philippinarum	Karny, 1920
+73VRH	46Q5K	synonym	species	Neophisis (Indiophisis) gracilipes	(Stål, 1877)
+76ZWR	46Q5K	synonym	species	Phisis gracilipes	(Stål, 1877)
+55Y3W	46Q5K	synonym	species	Teuthras gracilipes	Stål, 1877
+34DVX	46Q5N	synonym	species	Decolya kotoshoensis	Shiraki, 1930
+76ZWH	46Q5G	ambiguous synonym	species	Phisis brevipennis	Kästner, 1933
+46Q6N	46Q5M	synonym	species	Neophisis iriomotensis	Jin, Kevan & Yamasaki, 1990
+76ZVN	46Q5V	synonym	species	Phisis sarasini	Karny, 1931
+5JVBW	7483H	accepted	subspecies	Neophisis (Neophisis) megaurita megaurita	Jin, 1992
+5JVBV	7483H	accepted	subspecies	Neophisis (Neophisis) megaurita kasonaweja	Gorochov, 2012
+76ZWY	46Q6G	synonym	species	Phisis obiensis	Hebard, 1922
+76ZWJ	46Q6G	synonym	species	Phisis buruana	Karny, 1931
+8PZV2	46Q6J	synonym	species	Locusta pogonopoda	Montrouzier, 1855
+76ZVH	46Q6J	synonym	species	Phisis pogonopoda	(Montrouzier, 1855)
+6QLHS	46Q6J	synonym	species	Locusta pogonopada	Montrouzier, 1855
+76ZWF	46Q62	synonym	species	Phisis arachnoides	(Bolívar, 1905)
+55Y3R	46Q62	synonym	species	Teuthras arachnoides	Bolívar, 1905
+46Q6M	46Q62	synonym	species	Neophisis arachnoides	(Bolívar, 1905)
+8Q2F4	46Q63	synonym	species	Neophisis brachyptera	Kevan, 1992
+76ZWM	46Q65	synonym	species	Phisis crassipes	(Bolívar, 1905)
+55Y3T	46Q65	synonym	species	Teuthras crassipes	Bolívar, 1905
+G3Q7	G3PZ	synonym	species	Arachnoscelis feroxnotha	Bowen-Jones, 1994
+5W2JM	G3Q3	synonym	species	Arachnoscelis rehni	Randell, 1964
+G3Q8	G3Q2	synonym	species	Arachnoscelis magnifica	Hebard, 1927
+G3Q9	G3Q4	synonym	species	Arachnoscelis meriti	Nickle, 2002
+G3QB	G3Q5	synonym	species	Arachnoscelis tanasijtshuki	Gorochov, 2012
+3VH89	G3PY	synonym	species	Listroscelis arachnoides	Redtenbacher, 1891
+G3Q6	G3PY	synonym	species	Arachnoscelis arachnoides	(Redtenbacher, 1891)
+9GPNM	34DVQ	synonym	species	Decolya (Srilankana) roseopicta	Uvarov, 1927
+34DW3	34DVQ	synonym	species	Decolya roseopicta	Uvarov, 1927
+9GPNL	34DVP	synonym	species	Decolya (Srilankana) phillipsi	Henry, 1934
+34DW2	34DVP	synonym	species	Decolya phillipsi	Henry, 1934
+34DW4	34DVR	synonym	species	Decolya splendens	Henry, 1932
+9GPNN	34DVR	synonym	species	Decolya (Srilankana) splendens	Henry, 1932
+9GPNK	34DVN	synonym	species	Decolya (Srilankana) petiyagallae	Henry, 1932
+34DVZ	34DVN	synonym	species	Decolya petiyagallae	Henry, 1932
+9GPNF	34DVH	synonym	species	Decolya (Srilankana) confusa	Henry, 1934
+6CFQJ	34DVH	synonym	species	Decolya confusa	Henry, 1934
+9GPNG	34DVJ	synonym	species	Decolya (Srilankana) elegans	Henry, 1934
+34DVV	34DVJ	synonym	species	Decolya elegans	Henry, 1934
+34DW5	34DVS	synonym	species	Decolya uvarovi	Henry, 1932
+9GPNP	34DVS	synonym	species	Decolya (Srilankana) uvarovi	Henry, 1932
+76ZX5	34DVL	synonym	species	Phisis kelletti	Henry, 1932
+9GPNH	34DVL	synonym	species	Decolya (Srilankana) kelletti	(Henry, 1932)
+34DVT	34DVK	synonym	species	Decolya (Srilankana) kalugallae	Kevan, 1992
+9GPNJ	34DVM	synonym	species	Decolya (Srilankana) mousakandae	Henry, 1934
+34DVY	34DVM	synonym	species	Decolya mousakandae	Henry, 1934
+34DW6	34DVG	synonym	species	Decolya visenda	Bolívar, 1900
+65GH5	65GGV	synonym	species	Afrophisis leptopennis	Jin & Kevan, 1991
+65GGT	65GH2	synonym	species	Afrophisis kisarawe	Hemp, 2013
+65GGW	65GGP	synonym	species	Afrophisis tanzanica	Jin & Kevan, 1991
+65GGS	65GFK	synonym	species	Afrophisis dumosa	(Karsch, 1896)
+76ZWP	65GFK	synonym	species	Phisis dumosus	(Karsch, 1896)
+7BTT5	65GFK	synonym	species	Teuthras dumosus	Karsch, 1896
+76ZWD	65GFJ	synonym	species	Phisis africana	Karny, 1907
+8PWPW	65GFJ	synonym	species	Afrophisis carminator	(Bolívar, 1906)
+55Y3S	65GFJ	synonym	species	Teuthras carminator	Bolívar, 1906
+76ZWK	65GFJ	synonym	species	Phisis carminator	(Bolívar, 1906)
+65GGZ	65GH3	synonym	species	Afrophisis pseudoflagellata	Hemp, 2013
+65GH4	65GGQ	synonym	species	Afrophisis flagellata	Hemp, 2013
+65GGY	65GGR	synonym	species	Afrophisis mazumbaiensis	Hemp, 2013
+65GH8	65GH6	synonym	species	Afrophisis undosa	Hemp, 2017
+BTL2X	5LT4H	synonym	subspecies	Xiphidiola aliquantula schoutedeni	(Beier, 1965)
+D9RS	5LT4H	synonym	species	Amyttina schoutedeni	Beier, 1965
+BTL2W	5LT4G	synonym	subspecies	Xiphidiola aliquantula nigrospinosa	Bolívar, 1906
+7FXDN	5LT4G	synonym	species	Xiphidiola nigrospinosa	Bolívar, 1906
+D9RM	5LT4F	synonym	species	Amyttina aliquantula	(Karsch, 1893)
+8Q64Z	5LT4F	synonym	subspecies	Xiphidiola aliquantula aliquantula	(Karsch, 1893)
+7G9DY	5LT4F	synonym	species	Xiphidiola aliquantula	(Karsch, 1893)
+BV6VK	5LT4F	synonym	species	Xyphidiola aliquantula	(Karsch, 1893)
+D9Q8	5LT4F	synonym	species	Amytta aliquantula	(Karsch, 1893)
+BTKCK	8Q6BT	synonym	subspecies	Neophisis (Indophisis) haani haani	Jin, 1992
+8PM4P	8Q6BV	synonym	subspecies	Neophisis (Indophisis) haani matang	Gorochov, 2012
