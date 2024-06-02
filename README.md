@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1namU2dXozaDE3cHFrYjY5YWp1NndkaGMwbWNzMGVrOWR1ZmpsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LkSmv0KEK9H3nmNm0c/giphy.webp" />
 </p>
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
