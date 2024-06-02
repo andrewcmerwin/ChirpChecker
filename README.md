@@ -8,8 +8,7 @@
 2. [Data Collection & Exploratory Data Analysis](#data-collection--exploratory-data-analysis)
 3. [Modeling Approach](#modeling-approach)
 4. [Conclusion and Future Directions](#conclusion-and-future-directions)
-5. [Description of Repository](#description-of-repository)
-6. [Credits for FauxRecordings](#credits-for-fauxrecordings)
+5. [Credits for FauxRecordings](#credits-for-fauxrecordings)
 
 ## Introduction
 Welcome to the Insect Sound Classification Models repository! This project aims to build several classification models that differentiate between the three dominant groups of insect sounds: crickets, katydids, and cicadas. By analyzing sound files, our models coarsely categorize these recordings into their respective groups, providing an efficient way to identify the source of various insect sounds.
@@ -72,8 +71,6 @@ Accuracy results and more details can be found in the notebooks.
 
 ### Looking Ahead
 In our future work, we would like to expand our dataset by collecting additional cicada samples and increasing the number of samples across all insect groups. It would be beneficial to compare model performance with clean, high-quality samples to assess the impact of background noise. We aim to develop and integrate noise reduction techniques and analyze their effectiveness. Implementing real-time sound classification capabilities and testing model performance in live conditions would also be valuable. Additionally, we hope to broaden our scope to include more insect groups and other environmental sounds, and create a user-friendly interface with visualization tools for easy model deployment and result interpretation.
-
-## Description of Repository
 
 
 ## Credits for FauxRecordings
