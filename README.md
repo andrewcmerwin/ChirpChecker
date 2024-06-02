@@ -1,7 +1,7 @@
 # ChirpChecker: Predicting Criters Names Based On Insect Sounds
-
+<p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1namU2dXozaDE3cHFrYjY5YWp1NndkaGMwbWNzMGVrOWR1ZmpsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LkSmv0KEK9H3nmNm0c/giphy.webp" />
-
+</p>
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -58,6 +58,19 @@ Accuracy results and more details can be found in the notebooks.
 - [Convolutional_Neural_Network](https://github.com/andrewcmerwin/ChirpChecker/blob/main/Convolutional_Neural_Network.ipynb): Run this notebook for the model training and visualization for CNN. It loads from [FeedingData.ipynb](https://github.com/andrewcmerwin/ChirpChecker/blob/main/FeedingData.ipynb) multiple methods for feature extraction and contains a few other feature extraction methods itself. It allows for training of 1D and 2D CNN,  plotting training history and confusion matrices, and saving and loading of data at various stages.
 
 ## Conclusion and Future Directions
+
+### Model Performance
+
+| Model | Accuracy Critters Names| 
+| - | :-: | 
+| Partial Least Squares Regression | <50% | 
+| KNN | 89% | 
+| rbf SVC | 91% | 
+| CNN | 90%[^*] | 
+
+[^*]: Dataset used for CNN was a subset of the dataset used in other models
+
+### Looking Ahead
 In our future work, we would like to expand our dataset by collecting additional cicada samples and increasing the number of samples across all insect groups. It would be beneficial to compare model performance with clean, high-quality samples to assess the impact of background noise. We aim to develop and integrate noise reduction techniques and analyze their effectiveness. Implementing real-time sound classification capabilities and testing model performance in live conditions would also be valuable. Additionally, we hope to broaden our scope to include more insect groups and other environmental sounds, and create a user-friendly interface with visualization tools for easy model deployment and result interpretation.
 
 ## Description of Repository
